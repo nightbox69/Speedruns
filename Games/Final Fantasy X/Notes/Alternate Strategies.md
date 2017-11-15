@@ -88,7 +88,8 @@ Typically, I just let Yuna in the party for 4-5 monster(2 encounters) kills then
 ### Hiding behind Keepa or the Jassu Train 
   It's a bit of both actually, if you get the blitz off you almost probably want to hide behind the goalie with either Letty or Botta. While I like the Jassu train it closes off the possibility of being able to pass to other players to score or potentially get Jassu cornered if you move badly enough. Hiding with Botta also opens up Jassu to a pass incase the Goers realizes you are just hiding behind the Goalie. Look into your mini map if you see a weird Graav coming straight at you from the goal post then pass immediately to Jassu and start the train.
 
-  Choo Choo, Mothafuckas! - <a href="https://www.twitch.tv/christenarium">ChrisTenarium™</a>
+  "Choo Choo, Mothafuckas"- ChrisTenarium™
+
   ![Jassu Train](https://i.imgur.com/IbcIWvr.jpg)
 
 #### Hiding behind Keepa
