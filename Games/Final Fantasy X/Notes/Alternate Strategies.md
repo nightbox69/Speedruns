@@ -3,7 +3,7 @@
 ## General Information
 
   * These are some strategies usually done by myself during my runs and some good alternates from other Runners of the game. These don't necessarily mean that the strategies are necessarily faster, they just give you more options while moving on to the game.
-  * This isn't an Any% Guide. If you're reading this w/o reading the Any% Notes by FlobberWorm4 or has yet to speedrun the game then you're either probably lost or attempting to do something that would confuse you in the middle of the run. Do the run first before you attempt any of these so you get the idea of what is happening in the game. 
+  * This isn't an Any% Guide. If you're reading this w/o reading the Any% Notes by <a href="https://www.twitch.tv/flobberworm4">Flobberworm4</a> or has yet to speedrun the game then you're either probably lost or attempting to do something that would confuse you in the middle of the run. Do the run first before you attempt any of these so you get the idea of what is happening in the game. 
   * Some of this stuff doesn't necessarily work on a Nemesis Run.
   * Skips aren't included in this guide.
 
@@ -54,6 +54,7 @@ Typically, I just let Yuna in the party for 4-5 monster(2 encounters) kills then
 ### Why should you do it?
   
   Wakka's Rulebreaker is a strategy in order for you to be able to kill Garuda's in Mushroon Rock Road, while it is a good strategy. You don't really wanna kill Garuda's for these reasons: 
+
     * You won Blitzball, and Tidus doesn't exactly help in the Garuda killing (aside from hasting).
     * Garudas aren't exactly common in Mushroom Rock Road. Do note that there has been instances of Runners killing their run due to a massive overpopulation of Garuda encounters there but it's not exactly happening that often. You're more likely to kill your run from an ambush than from not being able to kill Garudas.
     * Garudas drop Power Spheres and you don't need more of these. Sure, you get AP but this may cause a short of Speed Spheres (or a minor issue of Mana Spheres) that you would be forced to farm in Thunder Plains and Bikanel.
