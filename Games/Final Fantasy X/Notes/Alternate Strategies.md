@@ -141,7 +141,7 @@ Typically, I just let Yuna in the party for 4-5 monster(2 encounters) kills then
   * Hide behind the goalie or Jassu Train when Wakka enters the fray. You would like to shoot with Wakka if you manage to tie the game. 
 
 ## Mushroom Rock Road
-  Mushroom Rock Road differs a lot depending if you won or lost blitzball. Heck, this is arguably the only split where blitzball actually matters in regards to actual timeloss.
+  Mushroom Rock Road differs a lot depending if you won or lost blitzball. Heck, this is arguably the only split where blitzball actually matters in regards to actual big timeloss. On a Blitzball win you just need to get 3-4 Encounters to level your party and trudge on forward. A Blitzball loss however, is a different story as you typically take around 4-6 if you happen to not overkill any monsters, and you also have to buy Ice Brand if you don't have it just so Tidus can kill. This is where you are typically heavily punished here during a blitzball loss.
 
 ### Blitzball Win
   * Pray that Tidus's Overdrive gets charged before MRR. Don't force to charge the Overdrive.
@@ -152,17 +152,17 @@ Typically, I just let Yuna in the party for 4-5 monster(2 encounters) kills then
   ![Old Road Encounter1](https://i.imgur.com/qka4Tpr.png)
   ![Old Road Encounter2](https://i.imgur.com/1LDhHSR.png)
 
-  **Be aware that you will naturally incur a timeloss on the split** 
+  **Be aware that you will naturally incur a timeloss on the split.** This fight is considered as your first fight on the MRR Encounter Fight Counter. It saves you from having to search for blue lizards. Ignore these when you actually reach MRR, you want to get away from that section as fast as possible.
 
-#### Mushroom Rock Road - Battles
+#### Mushroom Rock Road - Ravine Battles
   * Only fight the encounters that has this until you hit right on MRR Fight Section. Fight any non-garuda encounter after turning right according to Flobber's Notes if you haven't reached Yuna's Sphere Level.
   ![MRR Encounter 1](https://i.imgur.com/OgaemVk.png)
   ![MRR Encounter 2](https://i.imgur.com/7LRBu1o.png)
-  * If Tidus has Overdrive and you get this as your 2nd Fight - Overdrive the mushroom with Tidus then proceed with usual MRR Strats.
+  * If Tidus has Overdrive and you get this as your 2nd Fight - Overdrive the mushroom with Tidus then proceed with usual MRR Strats. Otherwise consider this as a normal fight and cast Fire first with Lulu then a Normal Attack from Auron.
   
   ![MRR Encounter 3](https://i.imgur.com/icLqiej.png)
 
-  **You will lose Tidus OD on Extractor. But you won blitzball, simply just whack away with Tidus and Wakka on Extractor after hasting(Tidus crits damage for 900 - 1k also, just defend with Wakka if you have Lightning Steel).**
+  **You will lose Tidus OD on Extractor if you do the 3rd encounter as specified. But you won blitzball, simply just whack away with Tidus and Wakka on Extractor after hasting(Tidus crits damage for 900 - 1k also, just defend with Wakka if you have Lightning Steel).**
 
 ### Blitzball Loss
   These are strats done by <a href="https://www.twitch.tv/ze_ak">ze_ak</a> on his WR run for the JP Any% Version. It technically is a good strat to do on a blitzball loss.
