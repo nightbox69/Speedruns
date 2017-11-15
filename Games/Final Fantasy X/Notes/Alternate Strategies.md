@@ -153,6 +153,7 @@ Typically, I just let Yuna in the party for 4-5 monster(2 encounters) kills then
   ![MRR Encounter 1](https://i.imgur.com/OgaemVk.png)
   ![MRR Encounter 2](https://i.imgur.com/7LRBu1o.png)
   * If Tidus has Overdrive and you get this as your 2nd Fight - Overdrive the mushroom with Tidus then proceed with usual MRR Strats.
+  
   ![MRR Encounter 3](https://i.imgur.com/icLqiej.png)
 
 ### Blitzball Loss
