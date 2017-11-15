@@ -148,7 +148,7 @@ Typically, I just let Yuna in the party for 4-5 monster(2 encounters) kills then
 
   *Be aware that you will naturally incur a timeloss on the split* 
 
-#### Mushroom Rock Road
+#### Mushroom Rock Road - Battles
   * Only fight the encounters that has this until you hit right on MRR Fight Section. Fight any non-garuda encounter after turning right according to Flobber's Notes if you haven't reached Yuna's Sphere Level.
   ![MRR Encounter 1](https://i.imgur.com/OgaemVk.png)
   ![MRR Encounter 2](https://i.imgur.com/7LRBu1o.png)
@@ -156,9 +156,9 @@ Typically, I just let Yuna in the party for 4-5 monster(2 encounters) kills then
   ![MRR Encounter 3](https://i.imgur.com/icLqiej.png)
 
 ### Blitzball Loss
-  * Do Old Road Normally
+  These are strats done by <a href="https://www.twitch.tv/ze_ak">ze_ak</a> on his WR run for the JP Any% Version. It technically is a good strat to do on a blitzball loss.
 
-#### Mushroom Rock Road
+#### Mushroom Rock Road - Battles
   * Get your first encounter - Defend with Kimahri, Lulu, Tidus.
   * Switch Yuna, summon Valefor and overdrive energy blast.
   * Fight as normal until you find a mushroom encounter. Kill the non-mushrooms. 
