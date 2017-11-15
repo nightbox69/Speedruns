@@ -55,12 +55,12 @@ Typically, I just let Yuna in the party for 4-5 monster(2 encounters) kills then
   
   Wakka's Rulebreaker is a strategy in order for you to be able to kill Garuda's in Mushroon Rock Road, while it is a good strategy. You don't really wanna kill Garuda's for these reasons: 
 
-    * You won Blitzball, and Tidus doesn't exactly help in the Garuda killing (aside from hasting).
-    * Garudas aren't exactly common in Mushroom Rock Road. Do note that there has been instances of Runners killing their run due to a massive overpopulation of Garuda encounters there but it's not exactly happening that often. You're more likely to kill your run from an ambush than from not being able to kill Garudas.
-    * Garudas drop Power Spheres and you don't need more of these. Sure, you get AP but this may cause a short of Speed Spheres (or a minor issue of Mana Spheres) that you would be forced to farm in Thunder Plains and Bikanel.
-    * Getting Rulebreaker requires you to talk to Oaka give out Gil before the Machina Fights in Luca to sell your items and buy Rulebreaker. This forces you to sell another lot of items on Mushroom Rock Road just to get Sentry. Skipping Rulebreaker enables you to just sell 1 Elixir, Hunter's Spear, Tough Bangle and 500gil - 1000gil worth of Weapons to get it. Practically shaving off your menu'ing by 3/4's.
-    * Garuda encounters aren't exactly fast for a one monster encounter.
-    * You ironically break the rules by not following Flobber's notes.
+  * You won Blitzball, and Tidus doesn't exactly help in the Garuda killing (aside from hasting).
+  * Garudas aren't exactly common in Mushroom Rock Road. Do note that there has been instances of Runners killing their run due to a massive overpopulation of Garuda encounters there but it's not exactly happening that often. You're more likely to kill your run from an ambush than from not being able to kill Garudas.
+  * Garudas drop Power Spheres and you don't need more of these. Sure, you get AP but this may cause a short of Speed Spheres (or a minor issue of Mana Spheres) that you would be forced to farm in Thunder Plains and Bikanel.
+  * Getting Rulebreaker requires you to talk to Oaka give out Gil before the Machina Fights in Luca to sell your items and buy Rulebreaker. This forces you to sell another lot of items on Mushroom Rock Road just to get Sentry. Skipping Rulebreaker enables you to just sell 1 Elixir, Hunter's Spear, Tough Bangle and 500gil - 1000gil worth of Weapons to get it. Practically shaving off your menu'ing by 3/4's.
+  * Garuda encounters aren't exactly fast for a one monster encounter.
+  * You ironically break the rules by not following Flobber's notes.
 
 ### How to Do it
   * Give Oaka 1100gil on the Ship going to Luca where he introduces himself first in a speedrun (Oaka is actually onboard the ship going to Kilika but this isn't relevant on a speedrun).
