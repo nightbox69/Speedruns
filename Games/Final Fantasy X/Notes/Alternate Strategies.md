@@ -108,7 +108,7 @@ Typically, I just let Yuna in the party for 4-5 monster(2 encounters) kills then
   * Buffer your movement during a pass. Rule of thumb is to just look at your minimap during movement. Your movement will be according to your minimap direction and will not change regardless of any camera changes so don't confuse yourself. 
   * Blitzball isn't that chaotic if you know what you're doing.
 
-  If you're going to speedrun this game understanding how blitzball works is kinda great as you'll be going to be salty at this minigame for long, long, long time. 
+  If you're going to speedrun this game understanding how blitzball works is great as you'll be going to be salty at this minigame for long, long, long time. There are going to be a lot of scenarios that can happen in Blitzball. You'll prolly learn the basics with around 3-4hours of playing this minigame repeatedly.
 
 ### Graav and Balgerda
   These two will make or break your Blitzball game. First, you do not want Graav passing the ball to Bickson or Abus. Frankly speaking, you don't want the ball to be in any of their hands at all. Second, Graav can level up depending on how the 1st half played out giving him access to Venom Tackle, when Graav is level 4 you don't want him to be near you. And lastly, Graav is overall the Pitboss of Blitzball. Any interactions with Graav will result in Graav winning, he can simply plow through you if he wants to.
@@ -116,17 +116,19 @@ Typically, I just let Yuna in the party for 4-5 monster(2 encounters) kills then
   Balgerda, she is a minor threat but don't take her lightly. You want to lure her out of her position with Jassu to prevent her from breaking with your shooter (Tidus or Wakka) but sometimes Balgerda just won't budge. Simply break with her and pray that she doesn't block you. Balgerda is very much known to grab the ball during key instances of scoring, it's like she can smell your fear of her.
 
 ### Hiding behind Keepa or the Jassu Train 
-  It's a bit of both actually, if you get the blitz off you almost probably want to hide behind the goalie with either Letty or Botta. While I like the Jassu train it closes off the possibility of being able to pass to other players to score or potentially get Jassu cornered if you move badly enough. Hiding with Botta also opens up Jassu to a pass incase the Goers realizes you are just hiding behind the Goalie. Look into your mini map if you see a weird Graav coming straight at you from the goal post then pass immediately to Jassu and start the train.
+  It's a bit of both actually, if you get the blitz off you almost probably want to hide behind the goalie with either Letty or Botta. While I like the Jassu Train it closes off the possibility of being able to pass to other players to score or potentially get Jassu cornered if you move badly enough. Hiding with Botta also opens up Jassu to a pass incase the Goers realizes you are just hiding behind the Goalie. Look into your mini map if you see a weird Graav coming straight at you from the goal post then pass immediately to Jassu and start the Train.
 
   "Choo Choo, Mothafuckas"- ChrisTenarium™
 
   ![Jassu Train](https://i.imgur.com/IbcIWvr.jpg)
 
 #### Hiding behind Keepa
-  I usually just pass to Botta and have him be the one to hide behind the goalie for these reasons: 
+  I usually just pass to Botta and have him be the one to hide behind the Goalie for these reasons: 
 
-    * Letty tends to drag Graav with him to the goal post especially during the very first blitzoff where you have to switch modes to gain control of the players.
-    * Botta is closer to the Goal Post.
+  * Letty tends to drag Graav with him to the goal post.
+  * Botta is closer to the Goal Post.
+
+  You can drag the Goers to you especially during the very first blitzoff where you have to switch modes to gain control of the players. With good knowledge of what you're going to do you can safely pass the ball to botta and have him swim to Keepa. There is a small chance of the Goers realizing they are being bugged out so keep a close look at your minimap and pass immediately to Jassu, have him swim to the southeast corner while checking who is chasing you. If Graav is on to you start the Jassu Train immediately, if it's only Abus break pass back to Botta if he's clear of any enemies or break dribble and swim back to the goalie, pass to Botta when the coast is clear.
 
 ### Blitzball Crits
   Basically, when an interaction occurs between players you get either get a +/-5 (rounded up or down) roll on defense. So you can sometimes see Keepa not being able to catch a 3SH shot by Graav or Balgerda tackling Wakka with 12HP on a 8atk during a break. So with this in mind, you really do not want the Goers to be near the ball at any given time. We are yet to confirm if crits occur on both sides of the interaction or which way it is rounded. But, if this is true then the scenario of Abus rolling a +5 while Jassu rolls a -5 is possible (this is the only way for Abus to get the ball from Jassu btw).
