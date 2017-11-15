@@ -78,11 +78,12 @@ Typically, I just let Yuna in the party for 4-5 monster(2 encounters) kills then
     * Interactions between players pauses the timer, so do your menuing fast. Also breaks doesn't start the timer. So don't even try to break unless you're scoring and you're not going to survive a break with multiple goers so don't even attempt it.
     * Jassu vs Abus is the only exception of the break scenario. Jassu will survive a break with Abus 1v1.
     * Buffer your movement during a pass. Rule of thumb is to just look at your minimap during movement. Your movement will be according to your minimap direction and will not change regardless of any camera changes so don't confuse yourself. 
+    * If you really want to win Blitzball, you got to practice it. 
 
 ### Graav and Balgerda
-  These two will make or break your Blitzball game. First, you do not want Graav passing the ball to Bickson or Abus. Frankly speaking, you don't want the ball to be in any of their hands at all. and Second, Graav can level up depending on how the 1st half played out giving him access to Venom Tackle, when Graav is level 4 you don't want him to be near you. Third, Graav is overall the Pitboss of Blitzball. And interactions with Graav will result in Graav winning, he can simply just plow through you if he wants to.
+  These two will make or break your Blitzball game. First, you do not want Graav passing the ball to Bickson or Abus. Frankly speaking, you don't want the ball to be in any of their hands at all. Second, Graav can level up depending on how the 1st half played out giving him access to Venom Tackle, when Graav is level 4 you don't want him to be near you. And lastly, Graav is overall the Pitboss of Blitzball. Any interactions with Graav will result in Graav winning, he can simply plow through you if he wants to.
 
-  And now Balgerda, she is a minor threat but don't take her lightly. You want to lure her out of her position to prevent her from breaking with your shooter (Tidus or Wakka) but sometimes Balgerda just won't budge. Simply break with her and pray that she doesn't block you. Balgerda is very much known to grab the ball during key instances of scoring, it's like she can smell your fear of her.
+  Balgerda, she is a minor threat but don't take her lightly. You want to lure her out of her position with Jassu to prevent her from breaking with your shooter (Tidus or Wakka) but sometimes Balgerda just won't budge. Simply break with her and pray that she doesn't block you. Balgerda is very much known to grab the ball during key instances of scoring, it's like she can smell your fear of her.
 
 ### Hiding behind Keepa or the Jassu Train
   It's a bit of both actually, if you get the blitz off you almost probably want to hide behind the goalie with either Letty or Botta. While I like the Jassu train it closes off the possibility of being able to pass to other players to score or potentially get Jassu cornered if you move badly enough. Hiding with Botta also opens up Jassu to a pass incase the Goers realizes you are just hiding behind the Goalie. Look into your mini map if you see a weird Graav coming straight at you from the goal post then pass immediately to Jassu and start the train.
@@ -147,7 +148,7 @@ Typically, I just let Yuna in the party for 4-5 monster(2 encounters) kills then
   ![Old Road Encounter1](https://i.imgur.com/qka4Tpr.png)
   ![Old Road Encounter2](https://i.imgur.com/1LDhHSR.png)
 
-  *Be aware that you will naturally incur a timeloss on the split* 
+  **Be aware that you will naturally incur a timeloss on the split** 
 
 #### Mushroom Rock Road - Battles
   * Only fight the encounters that has this until you hit right on MRR Fight Section. Fight any non-garuda encounter after turning right according to Flobber's Notes if you haven't reached Yuna's Sphere Level.
@@ -157,6 +158,8 @@ Typically, I just let Yuna in the party for 4-5 monster(2 encounters) kills then
   
   ![MRR Encounter 3](https://i.imgur.com/icLqiej.png)
 
+  **You will lose Tidus OD on Extractor. But you won blitzball, simply just whack away with Tidus and Wakka on Extractor after hasting(Tidus crits damage for 900 - 1k also, just defend with Wakka if you have Lightning Steel).**
+
 ### Blitzball Loss
   These are strats done by <a href="https://www.twitch.tv/ze_ak">ze_ak</a> on his WR run for the JP Any% Version. It technically is a good strat to do on a blitzball loss.
 
@@ -165,6 +168,7 @@ Typically, I just let Yuna in the party for 4-5 monster(2 encounters) kills then
   * Switch Yuna, summon Valefor and overdrive energy blast.
   * Fight as normal until you find a mushroom encounter. Kill the non-mushrooms. 
   * Switch Yuna, summon Valefor, Boost once and cast Fire until you kill the mushroom.
+  * Keep fighting encounters as the notes says until you reach Yuna's Sphere Level.
 
 ## Bikanel Island
   * Get this chest when you reach it.
