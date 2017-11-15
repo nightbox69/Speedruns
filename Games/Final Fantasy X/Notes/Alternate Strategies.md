@@ -99,14 +99,16 @@ Typically, I just let Yuna in the party for 4-5 monster(2 encounters) kills then
 ### General Information
   There are alot of stuff that we can go on about Blitzball and there are a lot of strategies involving it. But, here are some general stuff before we move on:
 
-    * Winning Blitzball isn't required to finish the speedrun. Yes, it is faster but only by some 2-3minutes. The only parts of the run where the Strength Sphere will matter are Mushroom Rock Road, Seymour 1, possibly Wendigo, Evrae, and Seymour 2.
-    * Crits in Blitzball exist but how they crit is still up in the air.
-    * If the Luca Goers want to score. They are going to score.
-    * If they want to troll, They are going to troll. They are also called Luca Trollers for a reason.
-    * Interactions between players pauses the timer, so do your menuing fast. Also breaks doesn't start the timer. So don't even try to break unless you're scoring and you're not going to survive a break with multiple goers so don't even attempt it.
-    * Jassu vs. Abus is the only exception of the break scenario. Jassu will survive a break with Abus 1v1.
-    * Buffer your movement during a pass. Rule of thumb is to just look at your minimap during movement. Your movement will be according to your minimap direction and will not change regardless of any camera changes so don't confuse yourself. 
-    * Blitzball isn't that chaotic if you know what you're doing.
+  * Winning Blitzball isn't required to finish the speedrun. Yes, it is faster but only by some 2-3minutes. The only parts of the run where the Strength Sphere will matter are Mushroom Rock Road, Seymour 1, possibly Wendigo, Evrae, and Seymour 2.
+  * Crits in Blitzball exist but how they crit is still up in the air.
+  * If the Luca Goers want to score. They are going to score.
+  * If they want to troll, They are going to troll. They are also called Luca Trollers for a reason.
+  * Interactions between players pauses the timer, so do your menuing fast. Also breaks doesn't start the timer. So don't even try to break unless you're scoring and you're not going to survive a break with multiple goers so don't even attempt it.
+  * Jassu vs. Abus is the only exception of the break scenario. Jassu will survive a break with Abus 1v1.
+  * Buffer your movement during a pass. Rule of thumb is to just look at your minimap during movement. Your movement will be according to your minimap direction and will not change regardless of any camera changes so don't confuse yourself. 
+  * Blitzball isn't that chaotic if you know what you're doing.
+
+  If you're going to speedrun this game understanding how blitzball works is kinda great as you'll be going to be salty at this minigame for long, long, long time. 
 
 ### Graav and Balgerda
   These two will make or break your Blitzball game. First, you do not want Graav passing the ball to Bickson or Abus. Frankly speaking, you don't want the ball to be in any of their hands at all. Second, Graav can level up depending on how the 1st half played out giving him access to Venom Tackle, when Graav is level 4 you don't want him to be near you. And lastly, Graav is overall the Pitboss of Blitzball. Any interactions with Graav will result in Graav winning, he can simply plow through you if he wants to.
