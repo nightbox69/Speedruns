@@ -66,6 +66,34 @@ Typically, I just let Yuna in the party for 4-5 monster(2 encounters) kills then
   * Give Oaka 1100gil on the Ship going to Luca where he introduces himself first in a speedrun (Oaka is actually onboard the ship going to Kilika but this isn't relevant on a speedrun).
   * Ignore Oaka in Luca and head straight to the Machina Fights.
 
+## Oblitzerator 
+
+  The Strategy revolves on how fast you can reach Sphere Level 5 on Tidus, and if you got Lightning Steel early. 
+
+### Early Haste
+  With good Kilika RNG you can leave Kilika just after two 3-monster encounters. Sometimes, you'll have the intention of overfarming Kilika. Personally, a slow Kilika and a fast Oblitz doesn't equal out. I'd rather leave Kilika as early as possible than overfarm it. But, for the folks out there who likes to overfarm Kilika here's a guideline of how many monsters you need to kill just to get to early haste, I'm just rough outlining the parts where you can reasonably use Haste (I only did up until the 14-16 one). Do note that if you get early haste you have one chance to cast it before you reach a save sphere then twice again after replenishing your mana.
+
+  * 7-8 Monster Kills - Haste After Oblitz
+  * 9-10 Monster Kills - Haste Before Oblitz
+  * 14-16 Monster Kills - Haste Before the 3 continous Machina Fight
+  * 20-22 Monster Kills - Shit Kilika and Tidus Level 5.
+
+  If you go the 20-22 Monster Kill Direction I would suggest using haste on the 2nd Machina Fight, then the 3 Continous Fight, hit save sphere then Oblitz.
+
+### Oblitz Fight
+  If you got Lightning Steel Early (You can get it by chance as early as the 1st Tutorial Battle with Wakka) then you should prolly consider Ronso Rage - Seed Cannon Oblitz as your last Attack.
+
+#### Why shouldn't I do it?
+  * You lose your 20% Chance to get Lightning Steel. So only do this if you got Lightning Steel earlier than expected.
+
+#### Why should you do it?
+  * You got Lightning Steel somewhere you shouldn't be getting it.
+  * Faster Animation than Lulu Thunder.
+  * If it crits, you'll have more elixirs to sell to Oaka.
+
+#### How to do it
+  * Kimahri - Ronso Rage - Seed Cannon after Tidus uses the crane.
+
 ## Blitzball
 
 ### General Information
@@ -147,8 +175,31 @@ Typically, I just let Yuna in the party for 4-5 monster(2 encounters) kills then
   * Proceed with Letty Strats if you get the blitz off and Graav Strats if the Graav get it. You want the ball to be in Jassu w/ only Abus chasing him by 1:40, shoot with Tidus with your skill shot around 2:40 or 2:35. 
   * Hide behind the goalie or Jassu Train when Wakka enters the fray. You would like to shoot with Wakka if you manage to tie the game. 
 
+## Early Yuna OD Charge
+
+### Why shouldn't I do it
+  * You lose out on the chance of getting Auron hit for his OD on Mi'hen Highroad.
+  * You can accidentally summon Valefor for no apparent use whatsoever.
+  * If the monsters hate Yuna you'll have to switch her on the Thunder Plains instead.
+
+### Why should I do it. 
+  * Yuna is already in the party on Mi'hen so you can skip menu'ing.
+  * If you get into a Bomb Encounter you can easily switch Kimahri and Flee with Tidus w/o problems.
+  * If you get a low HP Yuna on Mi'hen you can easily switch her now with Auron saving you the hassle of healing 1 party member.
+  * You can skip charging OD with Yuna in the Thunder Plains Iron Giant.
+  * Auron can skill charge OD naturally in the Thunder Plains and Macalania Encounters.
+
+### How to do it
+  * Mi'hen Highroad - Yuna, Wakka, Tidus, just let defend with Yuna if she goes first and have Tidus Flee
+  * Bomb Encounter - Switch Tidus or Yuna with Kimahri and Lancet the Bomb. Switch back to Tidus then Flee. You Yuna out of the Party or if it is an early encounter put her back.
+  * Old Road - Chocobo Eater - Haste Chocobo Eater then switch Wakka with Yuna and Auron with Kimahri. Pray to the Gods Chocobo Eater punches Yuna.
+  * Old Road - Proceed with Mi'hen Highroad Strats, with the Party being Auron, Tidus, and Yuna.
+
 ## Mushroom Rock Road
   Mushroom Rock Road differs a lot depending if you won or lost Blitzball. Heck, this is arguably the only split where Blitzball actually matters in regards to actual big timeloss. On a Blitzball win you just need to get 3-4 Encounters to level your party and trudge on forward. A Blitzball loss however, is a different story as you typically take around 4-6 if you happen to not overkill any monsters, and you also have to buy Ice Brand if you don't have it just so Tidus can kill. This is where you are typically heavily punished here during a Blitzball loss.
+
+### Early Remedy
+  There's a Remedy Chest in the left corner of the big right turn while walking to MRR. I would only pick this up if I'm looking for a specific encounter. This would allow you to skip getting the Remedy in Macalania and maybe prevent one extra encounter from popping up there.
 
 ### Blitzball Win
   * Pray that Tidus's Overdrive gets charged before MRR. Don't force to charge the Overdrive.
@@ -162,11 +213,11 @@ Typically, I just let Yuna in the party for 4-5 monster(2 encounters) kills then
   **Be aware that you will naturally incur a timeloss on the split.** This fight is considered as your first fight on the MRR Encounter Fight Counter. It saves you from having to search for blue lizards. Ignore these when you actually reach MRR, you want to get away from that section as fast as possible.
 
 #### Mushroom Rock Road - Ravine Battles
-  * Only fight the encounters that has this until you hit right on MRR Fight Section. Fight any non-garuda encounter after turning right according to Flobber's Notes if you haven't reached Yuna's Sphere Level.
+  * Only fight the encounters that has this until you hit the right beside the Remedy Chest. Fight any non-garuda encounter after turning right according to Flobber's Notes if you haven't reached Yuna's Sphere Level. Personally, I wait until the last left turn before I start whacking encounters.
   ![MRR Encounter 1](https://i.imgur.com/OgaemVk.png)
+  * You want to switch Tidus with Auron first and killing the Big Lizard first. This fight can be slow as the Big Lizard has an AOE that kill Lulu outright. After killing it proceed with the usual MRR Strats. If you crit this big guy then do the 3rd noted encounter with Lulu Fire - Auron Physical Attack on the funguar(Not the other way around). 
   ![MRR Encounter 2](https://i.imgur.com/7LRBu1o.png)
-  * If Tidus has Overdrive and you get this as your 2nd Fight - Overdrive the mushroom with Tidus then proceed with usual MRR Strats. Otherwise consider this as a normal fight and cast Fire first with Lulu then a Normal Attack from Auron.
-  
+  * If Tidus has Overdrive and you get this as your 2nd Fight - Overdrive the mushroom with Tidus then proceed with usual MRR Strats. Otherwise consider this as a normal fight and cast Fire first with Lulu then a Normal Attack from Auron. 
   ![MRR Encounter 3](https://i.imgur.com/icLqiej.png)
 
   **You will lose Tidus OD on Extractor if you do the 3rd encounter as specified. But you won Blitzball, simply just whack away with Tidus and Wakka on Extractor after hasting(Tidus crits damage for 900 - 1k also, just defend with Wakka if you have Lightning Steel).**
@@ -186,3 +237,6 @@ Typically, I just let Yuna in the party for 4-5 monster(2 encounters) kills then
   ![Bikanel Chest](https://i.imgur.com/trJVLUu.png)
 
   If you happen to come across a weapon like Mage Masher before Bikanel then I highly suggest you skip this. Getting this chest guarantees you 1-2 encounters that you have to run away from. This is very subjective but it saved me a couple of times where this chest saved me from being short of money by calm lands (Minimum Bribe is 35k per Flan and I would have gotten 65k if it weren't for this chest.) Also bribing amount is purely RNG so even if you got the minimum amount of money it doesn't guarantee you getting 24 Fire Gems from the Flans.
+
+## Mana Spheres
+  A minimum encounter Kilika and a MRR Encounter Count w/o the Mana Sphere monsters can lead to this kind of problem. So if you're gunning down for encounters in MRR I suggest you get the fights with the Red Elements in MRR and the Lightning Flan in Old Road. If you have an extra grenade I suggest you throw it on the encounters with Aerouge's (Flying Red Guys) at the Thunder plains, or buy 1 more after. 
