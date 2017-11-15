@@ -48,7 +48,7 @@ Typically, I just let Yuna in the party for 4-5 monster(2 encounters) kills then
 ## Skipping Wakka's Rulebreaker
 
 ### Why shouldn't I do it?
-  * You lost blitzball. Or atleast isn't confident in winning it.
+  * You lost Blitzball. Or atleast isn't confident in winning it.
   * There is a chance that you get the Only Garuda MRR. (It'll suck to be in your shoes on that instance w/o Rulebreaker, my condolences btw.)
 
 ### Why should you do it?
@@ -69,16 +69,16 @@ Typically, I just let Yuna in the party for 4-5 monster(2 encounters) kills then
 ## Blitzball
 
 ### General Information
-  There are alot of stuff that we can go on about blitzball and there are a lot of strategies involving it. But, here are some general stuff before move on:
+  There are alot of stuff that we can go on about Blitzball and there are a lot of strategies involving it. But, here are some general stuff before we move on:
 
-    * Winning Blitzball isn't required to finish the speedrun. Yes, it is faster but only by some 2-3minutes. The only parts of the run where the Strength Sphere will matter is Mushroom Rock Road, Seymour 1, possibly Wendigo, Evrae, and Seymour 2.
+    * Winning Blitzball isn't required to finish the speedrun. Yes, it is faster but only by some 2-3minutes. The only parts of the run where the Strength Sphere will matter are Mushroom Rock Road, Seymour 1, possibly Wendigo, Evrae, and Seymour 2.
     * Crits in Blitzball exist but how they crit is still up in the air.
     * If the Luca Goers want to score. They are going to score.
     * If they want to troll, They are going to troll. They are also called Luca Trollers for a reason.
     * Interactions between players pauses the timer, so do your menuing fast. Also breaks doesn't start the timer. So don't even try to break unless you're scoring and you're not going to survive a break with multiple goers so don't even attempt it.
-    * Jassu vs Abus is the only exception of the break scenario. Jassu will survive a break with Abus 1v1.
+    * Jassu vs. Abus is the only exception of the break scenario. Jassu will survive a break with Abus 1v1.
     * Buffer your movement during a pass. Rule of thumb is to just look at your minimap during movement. Your movement will be according to your minimap direction and will not change regardless of any camera changes so don't confuse yourself. 
-    * If you really want to win Blitzball, you got to practice it. 
+    * Blitzball isn't that chaotic if you know what you're doing.
 
 ### Graav and Balgerda
   These two will make or break your Blitzball game. First, you do not want Graav passing the ball to Bickson or Abus. Frankly speaking, you don't want the ball to be in any of their hands at all. Second, Graav can level up depending on how the 1st half played out giving him access to Venom Tackle, when Graav is level 4 you don't want him to be near you. And lastly, Graav is overall the Pitboss of Blitzball. Any interactions with Graav will result in Graav winning, he can simply plow through you if he wants to.
@@ -95,26 +95,33 @@ Typically, I just let Yuna in the party for 4-5 monster(2 encounters) kills then
 #### Hiding behind Keepa
   I usually just pass to Botta and have him be the one to hide behind the goalie for these reasons: 
 
-    * Letty tends to drag Graav with him to the goal post especially during the very first blitzoff where you have to switch modes to gain control of the players. You don't want the Goers to be near anyone of your players who is holding the ball.
+    * Letty tends to drag Graav with him to the goal post especially during the very first blitzoff where you have to switch modes to gain control of the players.
     * Botta is closer to the Goal Post.
 
+### Blitzball Crits
+  Basically, when an interaction occurs between players you get either get a +/-5 (rounded up or down) roll on defense. So you can sometimes see Keepa not being able to catch a 3SH shot by Graav or Balgerda tackling Wakka with 12HP on a 8atk during a break. So with this in mind, you really do not want the Goers to be near the ball at any given time. We are yet to confirm if crits occur on both sides of the interaction or which way it is rounded. But, if this is true then the scenario of Abus rolling a +5 while Jassu rolls a -5 is possible (this is the only way for Abus to get the ball from Jassu btw).
+
+### Scoring
+  Blitzball Enemy AI goes haywire and becomes more aggresive the moment you score, so keep this in mind. You want to score at the last possible moment where the Goers cannot react effectively to mount a counter-attack against you. This is where Jassu comes into play, you need atleast minute for Jassu to get to the ball, head to the other corner, lure Balgerda out of defense and pass the ball to your scorer while only breaking with Abus. Jassu does most of heavy work for Blitzball. Now with your scorer you want to move as close to the goalie as possible without entering a break scenario with Doram or Graav. Check your minimap. If they are about to break with you shoot immediately. You're usually left with around 30-20seconds after the pass to score so if the attempt fails or succeeds the possibility of the Goers counterattack succeeding is technically minimal. The AI behavior also resets after every stop of the game (1st Half, Tidus Leaving).
+
 ### Tidus Strategies
+  This is where Runners diverge on how they play the run out. We have Sphere Shot Strats, Jecht Shot Strats, Wakka Strats, and 1st Half Score Strats. 1st Half, Sphere Shot and Jecht Shot are all Tidus Strats. Wakka Strats is when Wakka comes into play. All of these strats come with their own disadvantages and runners and viewers alike have their own opinion regarding these. Personally, I've had a blitzball where I won with a score of 3-2 so I've technically used all these strats. So, pick your poison and go from there. Again, if the Goers want to score, they will score whether you like it or not. 
 
 #### Why I shouldn't do it?
   * Scoring with Tidus may open the chance get a Goer Score in the last 2 minutes and result to an overtime.
   * Tidus leaves the game after the 3rd minute of the 2nd half. If you haven't scored with Tidus after then you're left with Wakka.
   * Scoring with Tidus usually leaves game time for the Goers to score back if you're irresponsible with time management. Blitzball AI goes haywire and gets more aggresive if you score first. If you're not confident on your Blitzball I must suggest to practice Wakka strats first so you get an idea what time you should be scoring before you attempt Tidus Strats.
-  * Scores pause the timer for a bit. (Except when you get the score before the "Time's Up" message appears.)
+  * Scores pause the timer for a bit. (Except when you get the score before the "Time's Up" message or the Wakka Cutscene appears.)
   * Tidus Strategies doesn't mean you'll win Blitzball. It just gives you more leeway to score.
 
 #### Why should I do it?
   * Tidus has access to Sphere Shot(or Jecht Shot) which allows you to potentially skip breaking with Balgerda and shooting immediately.
   * Tidus has faster movespeed than Wakka which allows him to outrun the goers for a little bit without getting into a break. Having said that, the goers will catch up to Tidus soon enough so don't expect you can do a Tidus Train.
-  * If you time your scores correctly, the Goers won't have time to score. I usually get left with around 15-20secs of gametime after scoring. This to make sure I can have ample space to get the ball to Tidus and score before the timer.
-  * I hate Wakka and don't like to use him. Balgerda, or Doram just magnetizes to him and more often than not obliterate Wakka on a Break.
+  * If the Goers get the Ball in the last 2 minutes you either Lose, not get enough time to score with Wakka or the Goers troll follow Jassu, or be lucky and succeed scoring with Wakka.
+  * This gives you with 2-3 opportunities to score(Wakka Strats included). So retaliation against the Goers isn't that far out of reach.
 
 #### Should I get Jecht Shot?
-  It depends on you actually. The reason why runners opt out of Jecht Shot is because the cutscenes get longer on the ship going to Luca. You also need to note that Jecht Shot has a maximum 20seconds animation (excluding ball travel time), so time it right before you attempt to score(2:35 is the bare minimum for shooting and anything more will have you cry sayonara to your sacrifice). The advantages are that you don't need to break with Balgerda (or if the gods really don't want you to win, Graav) coz Jecht Shot with will deal with them. So if you feel like going toe to toe with the Goers with Jecht Shot then feel completely free. Just note that if you didn't score with Jecht Shot then your efforts are all in vain. Personally, I don't like to use Jecht Shot but I also see the advantages of getting it. If you're not relatively confident on luring Balgerda out then this strategy is for you
+  It depends on you actually. The reason why runners opt out of Jecht Shot is because the cutscenes get longer on the ship going to Luca. You also need to note that Jecht Shot has a maximum 20seconds animation (excluding ball travel time) vs. Sphere Shot with a 10second animation, so time it right before you attempt to score(2:35 is the bare minimum for shooting and anything more will have you cry "Sayonara" to your strategy). The advantages are that you don't need to break with Balgerda (or if the gods really don't want you to win, Graav) because Jecht Shot with will deal with them. So, if you feel like going toe to toe with the Goers with Jecht Shot then feel completely free. Just note that if you didn't score with Jecht Shot then your efforts are all in vain. Personally, I don't like to use Jecht Shot but I also see the advantages of getting it. If you're not relatively confident on luring Balgerda out then this strategy is for you.
 
 #### How to do it
   I have to explain the end goal first. You want experience with Tidus during the first half then score on the 2nd half optimally. You can do this two ways. First is that you have to pass with Tidus, Tidus has 3 PA so you have to move back a little to your receiver to prevent any fumbles (usually to Jassu). The 2nd One is to shoot with Tidus. If you manage to get into any breaks with Tidus during the first half I'll prioritize getting exp with Tidus so I would opt out of any breaks and give the goers the ball and hope for the best. The 2nd One is to shoot with Tidus in the first half, and again on the 2nd half for good measure. 
@@ -141,7 +148,7 @@ Typically, I just let Yuna in the party for 4-5 monster(2 encounters) kills then
   * Hide behind the goalie or Jassu Train when Wakka enters the fray. You would like to shoot with Wakka if you manage to tie the game. 
 
 ## Mushroom Rock Road
-  Mushroom Rock Road differs a lot depending if you won or lost blitzball. Heck, this is arguably the only split where blitzball actually matters in regards to actual big timeloss. On a Blitzball win you just need to get 3-4 Encounters to level your party and trudge on forward. A Blitzball loss however, is a different story as you typically take around 4-6 if you happen to not overkill any monsters, and you also have to buy Ice Brand if you don't have it just so Tidus can kill. This is where you are typically heavily punished here during a blitzball loss.
+  Mushroom Rock Road differs a lot depending if you won or lost Blitzball. Heck, this is arguably the only split where Blitzball actually matters in regards to actual big timeloss. On a Blitzball win you just need to get 3-4 Encounters to level your party and trudge on forward. A Blitzball loss however, is a different story as you typically take around 4-6 if you happen to not overkill any monsters, and you also have to buy Ice Brand if you don't have it just so Tidus can kill. This is where you are typically heavily punished here during a Blitzball loss.
 
 ### Blitzball Win
   * Pray that Tidus's Overdrive gets charged before MRR. Don't force to charge the Overdrive.
@@ -162,10 +169,10 @@ Typically, I just let Yuna in the party for 4-5 monster(2 encounters) kills then
   
   ![MRR Encounter 3](https://i.imgur.com/icLqiej.png)
 
-  **You will lose Tidus OD on Extractor if you do the 3rd encounter as specified. But you won blitzball, simply just whack away with Tidus and Wakka on Extractor after hasting(Tidus crits damage for 900 - 1k also, just defend with Wakka if you have Lightning Steel).**
+  **You will lose Tidus OD on Extractor if you do the 3rd encounter as specified. But you won Blitzball, simply just whack away with Tidus and Wakka on Extractor after hasting(Tidus crits damage for 900 - 1k also, just defend with Wakka if you have Lightning Steel).**
 
 ### Blitzball Loss
-  These are strats done by <a href="https://www.twitch.tv/ze_ak">ze_ak</a> on his WR run for the JP Any% Version. It technically is a good strat to do on a blitzball loss.
+  These are strats done by <a href="https://www.twitch.tv/ze_ak">ze_ak</a> on his WR run for the JP Any% Version. It technically is a good strat to do on a Blitzball loss.
 
 #### Mushroom Rock Road - Battles
   * Get your first encounter - Defend with Kimahri, Lulu, Tidus.
@@ -175,7 +182,7 @@ Typically, I just let Yuna in the party for 4-5 monster(2 encounters) kills then
   * Keep fighting encounters as the notes says until you reach Yuna's Sphere Level.
 
 ## Bikanel Island
-  * Get this chest when you reach it.
+  * Get this 10k Gil Chest when you reach it.
   ![Bikanel Chest](https://i.imgur.com/trJVLUu.png)
 
   If you happen to come across a weapon like Mage Masher before Bikanel then I highly suggest you skip this. Getting this chest guarantees you 1-2 encounters that you have to run away from. This is very subjective but it saved me a couple of times where this chest saved me from being short of money by calm lands (Minimum Bribe is 35k per Flan and I would have gotten 65k if it weren't for this chest.) Also bribing amount is purely RNG so even if you got the minimum amount of money it doesn't guarantee you getting 24 Fire Gems from the Flans.
