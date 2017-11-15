@@ -53,6 +53,7 @@
 
 ### General Information
   There are alot of stuff that we can go on about blitzball and there are a lot of strategies involving it. But, here are some general stuff before move on:
+
     * Winning Blitzball isn't required to finish the speedrun. Yes, it is faster but only by some 2-3minutes. The only parts of the run where the Strength Sphere will matter is Mushroom Rock Road, Seymour 1, possibly Wendigo
     * Crits in Blitzball exist but how they crit is still up in the air.
     * If the Luca Goers want to score. They are going to score.
@@ -71,6 +72,7 @@
 
 #### Hiding behind Keepa
   I usually just pass to Botta and have him be the one to hide behind the goalie for these reasons: 
+  
     * Letty tends to drag Graav with him to the goal post especially during the very first blitzoff where you have to switch modes to gain control of the players. You don't want the Goers to be near anyone of your players who is holding the ball.
     * Botta is closer to the Goal Post.
 

@@ -10,6 +10,7 @@ Protagonist has Dad issues and joins pretty girl that calls forth entities of gr
 ## Notes
 
   * [Any%][1]
-  * [Any% Alternate Strategies][1]
+  * [Any% Alternate Strategies][2]
 
 [1]: https://goo.gl/nFdPyN
+[2]: ./Notes/Alternate%20Strategies.md
