@@ -2,10 +2,10 @@
 
 ## General Information
 
-  * These are some strategies usually done by myself during my runs and some good alternates from other Runners of the game. These don't necessarily mean that the strategies are necessarily faster, they just give you more options while moving on to the game.
-  * This isn't an Any% Guide. If you're reading this w/o reading the Any% Notes by <a href="https://www.twitch.tv/flobberworm4">Flobberworm4</a> or has yet to speedrun the game then you're either probably lost or attempting to do something that would confuse you in the middle of the run. Do the run first before you attempt any of these so you get the idea of what is happening in the game. 
+  * These are some strategies usually done by myself during my runs and some good alternates from other Runners of the game. These don't necessarily mean that the strategies are necessarily faster, they just give you more options while moving on to the game. Some strategies are also meant to save your run incase you made a mistake.
+  * This isn't an Any% Guide. If you're reading this without reading the <a href="https://goo.gl/nFdPyN">Any% Notes</a> by <a href="https://www.twitch.tv/flobberworm4">Flobberworm4</a> then I recommend you read them first and run it accordingly, check back here if you made a mistake somewhere. 
   * Some of this stuff doesn't necessarily work on a Nemesis Run.
-  * Skips aren't included in this guide.
+  * How to do Skips aren't included in this guide.
 
 ## Early Overdrive Sinspawn Echuilles
   
@@ -46,21 +46,22 @@
 Typically, I just let Yuna in the party for 4-5 monster(2 encounters) kills then let Lulu in for the rest.
 
 ## Skipping Wakka's Rulebreaker
+  Wakka's Rulebreaker is a strategy in order for you to be able to kill Garuda's in Mushroon Rock Road. While it is a good strategy, Garuda's are typically bad encounters to fight.
 
 ### Why shouldn't I do it?
   * You lost Blitzball. Or atleast isn't confident in winning it.
   * There is a chance that you get the Only Garuda MRR. (It'll suck to be in your shoes on that instance w/o Rulebreaker, my condolences btw.)
 
 ### Why should you do it?
-  
-  Wakka's Rulebreaker is a strategy in order for you to be able to kill Garuda's in Mushroon Rock Road, while it is a good strategy. You don't really wanna kill Garuda's for these reasons: 
 
   * You won Blitzball, and Tidus doesn't exactly help in the Garuda killing (aside from hasting).
-  * Garudas aren't exactly common in Mushroom Rock Road. Do note that there has been instances of Runners killing their run due to a massive overpopulation of Garuda encounters there but it's not exactly happening that often. You're more likely to kill your run from an ambush than from not being able to kill Garudas.
+  * Garudas aren't exactly common in Mushroom Rock Road.
   * Garudas drop Power Spheres and you don't need more of these. Sure, you get AP but this may cause a short of Speed Spheres (or a minor issue of Mana Spheres) that you would be forced to farm in Thunder Plains and Bikanel.
   * Getting Rulebreaker requires you to talk to Oaka give out Gil before the Machina Fights in Luca to sell your items and buy Rulebreaker. This forces you to sell another lot of items on Mushroom Rock Road just to get Sentry. Skipping Rulebreaker enables you to just sell 1 Elixir, Hunter's Spear, Tough Bangle and 500gil - 1000gil worth of Weapons to get it. Practically shaving off your menu'ing by 3/4's.
-  * Garuda encounters aren't exactly fast for a one monster encounter.
+  * Garuda encounters aren't fast for a one monster encounter.
   * You ironically break the rules by not following Flobber's notes.
+
+  **Note: There has been instances of Runners killing their run due to a massive overpopulation of Garuda encounters but it rarely happens. You're far more likely to kill your run from an ambush or from a turn-order mistake than from not being able to kill Garudas. But, it happens and I wouldn't be surpised if it also happens consecutively**
 
 ### How to Do it
   * Give Oaka 1100gil on the Ship going to Luca where he introduces himself first in a speedrun (Oaka is actually onboard the ship going to Kilika but this isn't relevant on a speedrun).
@@ -73,10 +74,10 @@ Typically, I just let Yuna in the party for 4-5 monster(2 encounters) kills then
 ### Early Haste
   With good Kilika RNG you can leave Kilika just after two 3-monster encounters. Sometimes, you'll have the intention of overfarming Kilika. Personally, a slow Kilika and a fast Oblitz doesn't equal out. I'd rather leave Kilika as early as possible than overfarm it. But, for the folks out there who likes to overfarm Kilika here's a guideline of how many monsters you need to kill just to get to early haste, I'm just rough outlining the parts where you can reasonably use Haste (I only did up until the 14-16 one). Do note that if you get early haste you have one chance to cast it before you reach a save sphere then twice again after replenishing your mana.
 
-  * 7-8 Monster Kills - Haste After Oblitz
-  * 9-10 Monster Kills - Haste Before Oblitz
-  * 14-16 Monster Kills - Haste Before the 3 continous Machina Fight
-  * 20-22 Monster Kills - Shit Kilika and Tidus Level 5.
+  * 7-8 Monster Kills (63-72 AP) - Haste After Oblitz
+  * 9-10 Monster Kills (81-90 AP) - Haste Before Oblitz
+  * 14-16 Monster Kills (126-144 AP) - Haste Before the 3 continous Machina Fight
+  * 20-22 Monster Kills (180 - 198 AP) - Shit Kilika and Tidus Level 5.
 
   If you go the 20-22 Monster Kill Direction I would suggest using haste on the 2nd Machina Fight, then the 3 Continous Fight, hit save sphere then Oblitz.
 
@@ -191,16 +192,16 @@ Typically, I just let Yuna in the party for 4-5 monster(2 encounters) kills then
   * If you get into a Bomb Encounter you can easily switch Kimahri and Flee with Tidus w/o problems.
   * If you get a low HP Yuna on Mi'hen you can easily switch her now with Auron saving you the hassle of healing 1 party member.
   * You can skip charging OD with Yuna in the Thunder Plains Iron Giant.
-  * Auron can skill charge OD naturally in the Thunder Plains and Macalania Encounters.
+  * Auron can charge OD naturally through the Thunder Plains and Macalania Encounters.
 
 ### How to do it
-  * Mi'hen Highroad - Yuna, Wakka, Tidus, just let defend with Yuna if she goes first and have Tidus Flee
-  * Bomb Encounter - Switch Tidus or Yuna with Kimahri and Lancet the Bomb. Switch back to Tidus then Flee. You Yuna out of the Party or if it is an early encounter put her back.
-  * Old Road - Chocobo Eater - Haste Chocobo Eater then switch Wakka with Yuna and Auron with Kimahri. Pray to the Gods Chocobo Eater punches Yuna.
+  * Mi'hen Highroad - Yuna, Wakka, Tidus, just defend with Yuna if she goes first and have Tidus Flee
+  * Bomb Encounter - Switch Tidus or Yuna with Kimahri and Lancet the Bomb. Switch back to Tidus then Flee. You can opt to switch her back but unless I got the bomb encounter on the 1st and 2nd Section of Mi'hen I typically leave her in reserve.
+  * Old Road - Chocobo Eater - Haste Chocobo Eater then switch Wakka and Kimahri with Yuna and Auron (If Yuna is still in the party before this fight then just switch the other guy with Auron). Pray to the Gods Chocobo Eater punches Yuna.
   * Old Road - Proceed with Mi'hen Highroad Strats, with the Party being Auron, Tidus, and Yuna.
 
 ## Mushroom Rock Road
-  Mushroom Rock Road differs a lot depending if you won or lost Blitzball. Heck, this is arguably the only split where Blitzball actually matters in regards to actual big timeloss. On a Blitzball win you just need to get 3-4 Encounters to level your party and trudge on forward. A Blitzball loss however, is a different story as you typically take around 4-6 if you happen to not overkill any monsters, and you also have to buy Ice Brand if you don't have it just so Tidus can kill. This is where you are typically heavily punished here during a Blitzball loss.
+  Mushroom Rock Road differs a lot depending if you won or lost Blitzball. Heck, this is arguably the only split where Blitzball actually matters in regards to actual big timeloss. On a Blitzball win you just need to get 3-4 Encounters to level your party and trudge on forward. However, a Blitzball loss is a different story as you typically take around 4-6 encounters if you happen to not overkill any monsters, and you also have to buy Ice Brand if you don't have it just so Tidus can kill lizards. This is where you are typically heavily punished for a Blitzball loss.
 
 ### Early Remedy
   There's a Remedy Chest in the left corner of the big right turn while walking to MRR. I would only pick this up if I'm looking for a specific encounter. This would allow you to skip getting the Remedy in Macalania and maybe prevent one extra encounter from popping up there.
@@ -210,30 +211,30 @@ Typically, I just let Yuna in the party for 4-5 monster(2 encounters) kills then
 
 #### Old Road
   * Party by Chocobo Eater - Auron, Tidus, Yuna
-  * Fight one of these encounters MRR Style if you get it on a pre-emptive, or normal. Flee during Ambushes. Note: You don't need to farm this encounter. If you don't get it then proceed directly to MRR.
+  * Fight one of these encounters MRR Style if you get it on a pre-emptive, or normal. Flee during Ambushes. Note: You don't need to farm this encounter. Your 1st two encounters in MRR before the ravine also has a chance for these so get them even on an ambush, this may save you from looking for encounters in the actual levelling section.
   ![Old Road Encounter1](https://i.imgur.com/qka4Tpr.png)
   ![Old Road Encounter2](https://i.imgur.com/1LDhHSR.png)
 
-  **Be aware that you will naturally incur a timeloss on the split.** This fight is considered as your first fight on the MRR Encounter Fight Counter. It saves you from having to search for blue lizards. Ignore these when you actually reach MRR, you want to get away from that section as fast as possible.
+  **Be aware that you will naturally incur a timeloss on the Old Road split.** This fight is considered as your first fight on the MRR Encounter Fight Counter. It saves you from having to search for blue lizards. Ignore these when you actually reach MRR, you want to get away from that section as fast as possible.
 
 #### Mushroom Rock Road - Ravine Battles
   * Only fight the encounters that has this until you hit the right beside the Remedy Chest. Fight any non-garuda encounter after turning right according to Flobber's Notes if you haven't reached Yuna's Sphere Level. Personally, I wait until the last left turn before I start whacking encounters.
   ![MRR Encounter 1](https://i.imgur.com/OgaemVk.png)
   * You want to switch Tidus with Auron first and killing the Big Lizard first. This fight can be slow as the Big Lizard has an AOE that kill Lulu outright. After killing it proceed with the usual MRR Strats. If you crit this big guy then do the 3rd noted encounter with Lulu Fire - Auron Physical Attack on the funguar(Not the other way around). 
   ![MRR Encounter 2](https://i.imgur.com/7LRBu1o.png)
-  * If Tidus has Overdrive and you get this as your 2nd Fight - Overdrive the mushroom with Tidus then proceed with usual MRR Strats. Otherwise consider this as a normal fight and cast Fire first with Lulu then a Normal Attack from Auron. 
+  * If Tidus has Overdrive and you get this as your 2nd Fight - Overdrive the mushroom with Tidus then proceed with usual MRR Strats. Otherwise consider this as a normal fight and cast Fire first with Lulu then a Normal Attack from Auron (Or Flee, as the Funguar can Pollen counterattack). 
   ![MRR Encounter 3](https://i.imgur.com/icLqiej.png)
 
   **You will lose Tidus OD on Extractor if you do the 3rd encounter as specified. But you won Blitzball, simply just whack away with Tidus and Wakka on Extractor after hasting(Tidus crits damage for 900 - 1k also, just defend with Wakka if you have Lightning Steel).**
 
 ### Blitzball Loss
-  These are strats done by <a href="https://www.twitch.tv/ze_ak">ze_ak</a> on his WR run for the JP Any% Version. It technically is a good strat to do on a Blitzball loss.
+  These are strats done by <a href="https://www.twitch.tv/ze_ak">ze_ak</a> on his WR run for the JP Any% Version. It is a good strat to do on a Blitzball loss as it also drops the MRR Encounter Fights to 3 encounters (Two maybe possible with one more overkill). More testing is needed for this strat. I found that the Funguar as well as the Red Element can potentially kill Valefor before she can her 2nd Element.
 
-#### Mushroom Rock Road - Battles
+#### Mushroom Rock Road - Ravine Battles
   * Get your first encounter - Defend with Kimahri, Lulu, Tidus.
-  * Switch Yuna, summon Valefor and overdrive energy blast.
-  * Fight as normal until you find a mushroom encounter. Kill the non-mushrooms. 
-  * Switch Yuna, summon Valefor, Boost once and cast Fire until you kill the mushroom.
+  * Switch Yuna, summon Valefor and overdrive energy blast. 
+  * Find an encounter with 1 Funguar or a Red Element, Kill monters that aren't specified as normal. Only fight one more encounter that doesn't have these monsters. Then start searching.
+  * Switch Yuna, summon Valefor, Boost once and cast Fire(Funguar) or Blizzard(Red Element) until you kill it.
   * Keep fighting encounters as the notes says until you reach Yuna's Sphere Level.
 
 ## Bikanel Island
@@ -242,5 +243,38 @@ Typically, I just let Yuna in the party for 4-5 monster(2 encounters) kills then
 
   If you happen to come across a weapon like Mage Masher before Bikanel then I highly suggest you skip this. Getting this chest guarantees you 1-2 encounters that you have to run away from. This is very subjective but it saved me a couple of times where this chest saved me from being short of money by calm lands (Minimum Bribe is 35k per Flan and I would have gotten 65k if it weren't for this chest.) Also bribing amount is purely RNG so even if you got the minimum amount of money it doesn't guarantee you getting 24 Fire Gems from the Flans.
 
+## Evrae
+  Sometimes you would forget to switch Auron out of the Party for Tidus at Home. This wastes time, and as such unless you're like 20minutes++ ahead of your PB I would rather opt out of it and just kill my run. This works great to keep marathons or races alive tho.
+
+### How to do it
+  * Rikku - Pull back
+  * Kimahri - Defend or Heal Self when Attacked
+  * Once Pulled back - Revive party members and / or Switch Auron with Tidus, Haste Tidus
+  * Rikku - Mix Map and Luck Sphere
+  * Kimahri - Mega Potion
+  * Tidus - Go Back to Evrae
+  * Continue to usual Evrae Strats
+
+## Isaaru
+  Due to problems during the Spherimorph, forgetting to give a turn to Yuna, or you completely forgot to Charge Yuna's OD then you'll have to do some of these Strats here. Also, this wastes time so unless you're massively ahead of your PB I would rather opt out of these strats. This also keeps marathons and races alive for the masochists out there who doesn't want to kill this kind of a run. 
+
+### Summon Ixion or Charge Yuna OD
+  **Definitely, charge Yuna OD.** The only instance you would want to use Ixion is when you forgot to give Yuna a turn at Crawler or Seymour 1 (If you forgot both I presume you did Special Sphere Strats or else I'd be wondering how you're even here) because levelling Yuna to the appropriate Sphere Level is longer than 2 Full Aeon Overdrive and Summon animations.
+
+### Charge Yuna OD
+  * 1st Larva Fight (Unescapable) - Charge Valefor OD, dismiss, kill with Thundaga then Save Sphere.
+  * 2nd Larva Fight - Defend with Yuna, escape with Auron, keep using Hi-Potions(or defend on High HP, X-Potion or Elixir on crit HP) until Yuna's OD is Full, kill with Thundaga
+  * Proceed with the usual Isaaru Strats
+
+### Summon Ixion
+  * 1st Larva Fight (Unescapable) - Boost Valefor OD, dismiss, kill with Thundaga then Save Sphere.
+  * 2nd Larva Fight - Shield once with Shiva then Blizzard once, then keep hitting yourself with Blizzara until she fills OD.
+  * Proceed with usual Isaaru Strats until his Valefor.
+  * Isaaru Valefor - Summon Ixion - Thundara twice, then boost to fill OD, then Overdrive - Thor's Hammer.
+  * Isaaru Bahamut - Summon Shiva - Blizzara five times, and if he's still not below 10k then attacking before he OD's, then OD - Diamond Dust.
+  * Before Seymour 2 - Get everything you have to get on Yuna's Grid that you can.
+  * Seymour 2 - Yuna - Change Weapon - Switch with Rikku. Let Rikku die.
+  * After Seymour 2 - Get everything you have to get on Yuna's Grid that you can.
+
 ## Mana Spheres
-  You need 14 Mana Spheres. You can naturally farm a lot but a minimum encounter Kilika and a MRR Encounter Count w/o the Mana Sphere monsters can lead to this kind of shortage problem. So if you're gunning down for encounters in MRR I suggest you get the fights with the Red Elements in MRR and the Lightning Flan in Old Road. If you have an extra grenade I suggest you throw it on the encounters with Aerouge's (Flying Red Guys) at the Thunder plains, or buy 1 extra grenade to use when you see them on the 2nd part of the Thunder Plains. 
+  You also need 14 Mana Spheres for the entire run. You can naturally farm a lot but a minimum encounter Kilika and a MRR Encounter Count w/o the Mana Sphere monsters can lead to this kind of shortage problem. So if you're gunning down for encounters in MRR I suggest you get the fights with the Red Elements in MRR and the Lightning Flan in Old Road. If you have an extra grenade then throw it on the encounters with Aerouges (Flying Red Guys) at the Thunder plains, or buy 1 extra grenade to use when you see them on the 2nd part of the Thunder Plains. 
