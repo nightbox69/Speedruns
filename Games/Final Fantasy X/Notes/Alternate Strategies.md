@@ -36,7 +36,7 @@
 
 ### Why should I do it?
   * It lessens one encounter in Mushroom Rock Road in order for Yuna to level up to Sphere Level 11. Typically in a Blitzball Win scenario Yuna will Level after 3-4 Encounters.
-  * Yuna has a 12% chance to go first before Tidus so it's technically free AP for her.
+  * Yuna has a 12% chance to go first before Tidus and is faster than Wakka so it's free AP for her.
 
 ### How do I do it?
   * Switch Kimahri with Wakka on or after the Ragora Fight.
@@ -61,7 +61,7 @@ Typically, I just let Yuna in the party for 4-5 monster(2 encounters) kills then
   * Garuda encounters aren't fast for a one monster encounter.
   * You ironically break the rules by not following Flobber's notes.
 
-  **Note: There has been instances of Runners killing their run due to a massive overpopulation of Garuda encounters but it rarely happens. You're far more likely to kill your run from an ambush or from a turn-order mistake than from not being able to kill Garudas. But, it happens and I wouldn't be surpised if it also happens consecutively**
+  **Note: There has been instances of Runners killing their run due to a massive overpopulation of Garuda encounters but it rarely happens. You're far more likely to kill your run from an ambush or from a turn-order mistake than from not being able to kill Garudas. But, it happens and I wouldn't be surpised if it also happens consecutively.**
 
 ### How to Do it
   * Give Oaka 1100gil on the Ship going to Luca where he introduces himself first in a speedrun (Oaka is actually onboard the ship going to Kilika but this isn't relevant on a speedrun).
@@ -72,14 +72,14 @@ Typically, I just let Yuna in the party for 4-5 monster(2 encounters) kills then
   The Strategy revolves on how fast you can reach Sphere Level 5 on Tidus, and if you got Lightning Steel early. 
 
 ### Early Haste
-  With good Kilika RNG you can leave Kilika just after two 3-monster encounters. Sometimes, you'll have the intention of overfarming Kilika. Personally, a slow Kilika and a fast Oblitz doesn't equal out. I'd rather leave Kilika as early as possible than overfarm it. But, for the folks out there who likes to overfarm Kilika here's a guideline of how many monsters you need to kill just to get to early haste, I'm just rough outlining the parts where you can reasonably use Haste (I only did up until the 14-16 one). Do note that if you get early haste you have one chance to cast it before you reach a save sphere then twice again after replenishing your mana.
+  With good Kilika RNG you can leave Kilika just after two 3-monster encounters. Sometimes, you'll have the intention of overfarming Kilika. Personally, I found that you'd waste more time overfarming in Kilika just so you can get a fast Oblizerator. Also, the Machina and Oblitz fights aren't really fights you should even prepare haste for. But, for the folks out there who likes to overfarm Kilika here's a guideline of how many monsters you need to kill just to get to early haste, I'm just rough outlining the parts where you can reasonably use Haste (I only did up until the 14-16 one). Do note that if you get early haste you have one chance to cast it before you reach a save sphere and if Tidus has full MP with Haste, 3 times.
 
   * 7-8 Monster Kills (63-72 AP) - Haste After Oblitz
   * 9-10 Monster Kills (81-90 AP) - Haste Before Oblitz
   * 14-16 Monster Kills (126-144 AP) - Haste Before the 3 continous Machina Fight
   * 20-22 Monster Kills (180 - 198 AP) - Shit Kilika and Tidus Level 5.
 
-  If you go the 20-22 Monster Kill Direction I would suggest using haste on the 2nd Machina Fight, then the 3 Continous Fight, hit save sphere then Oblitz.
+  If you go the 20-22 Monster Kill Direction then start hasting Lulu on the 2nd machina fight onwards, and then top her HP if she's low before Oblitz.
 
 ### Oblitz Fight
   If you got Lightning Steel Early (You can get it by chance as early as the 1st Tutorial Battle with Wakka) then you should prolly consider Ronso Rage - Seed Cannon Oblitz as your last Attack.
@@ -90,7 +90,7 @@ Typically, I just let Yuna in the party for 4-5 monster(2 encounters) kills then
 #### Why should you do it?
   * You got Lightning Steel somewhere you shouldn't be getting it.
   * Faster Animation than Lulu Thunder.
-  * If it crits, you'll have more elixirs to sell to Oaka.
+  * If it crits, you'll have more elixirs to sell to Oaka. Double chances of getting Thunder Ball too (2.5% for two weapons).
 
 #### How to do it
   * Kimahri - Ronso Rage - Seed Cannon after Tidus uses the crane.
@@ -237,11 +237,33 @@ Typically, I just let Yuna in the party for 4-5 monster(2 encounters) kills then
   * Switch Yuna, summon Valefor, Boost once and cast Fire(Funguar) or Blizzard(Red Element) until you kill it.
   * Keep fighting encounters as the notes says until you reach Yuna's Sphere Level.
 
+## Thunder Plains
+
+### Shop Skip
+  You can skip buying phoenix down's and grenades at the shop and buy Phoenix Downs instead at Oaka, saving you some seconds. Bribing Sand Wolves may potentially net you 15 Sleeping Powders for 3 extra for BFA and you can steal some Grenades from the machina fight anyway. Personally, I buy 4 grenades at the shop to use on the Buers, Iron Giant Encounter just so I don't to find one more to charge OD on. Shop Skip is only faster if you get 15 Sleeping Powders and at a trivial amount at that.
+
 ## Bikanel Island
+  Sometimes in you'll be in a pinch in Bikanel Island, either you don't get Lulu's Sphere Level to the appropriate levels or you don't have Silence Grenades for Home. Some of these strats are meant to save you and one is arguably faster than the usual strat(but hella riskier too). But they are situational, so if this happens to you look here.
+
+### Levelling Lulu
+  If you forgot to give Lulu a turn on Seymour, Crawler, Spherimorph then you'll have to level her here on Bikanel to get Bribe.
+
+  * You can level Lulu either with Tidus killing the Big Green Lizard or Mix - Grenade with Rikku on a Cactuar (Make sure Lulu gets a turn before you kill either).
+  * Proceed to the usual Home Strats.
+
+### Farplane Shadow
+  Sometimes Anima will give you a rare Farplane Shadow (or two. You (un)lucky bastard) and refuse to give out Silence Grenades. You can use them on the Sandragora Fights to easily kill them, saving Kimahri his OD for use on the Bombs. **Farplane Shadow can miss so yes, this is risky to do.**
+
+  * 1st Sandragora Fight - Tidus, Defend - Rikku - Use Farplane Shadow
+  * 2nd Sandragora Fight - Repeat if you have an extra Farplane Shadow, otherwise normal Auron Strats.
+  * Bomb Fight - Switch Kimahri - OD - Stone Breath. 
+  * Proceed on normal strats.
+
+### 10,000 Gil Chest
+  If you happen to come across a weapon like Mage Masher before Bikanel then I highly suggest you skip this. Getting this chest guarantees you 1-2 encounters that you have to run away from. This is very subjective but it saved me a couple of times where this chest saved me from being short of money by calm lands (Minimum Bribe is 35k per Flan and I would have gotten 65k if it weren't for this chest.) Also Bribe Reward amount is purely RNG so even if you got the minimum amount of money(or even 100k Gil) it doesn't guarantee you getting 24 Fire Gems from the Flans.
+
   * Get this 10k Gil Chest when you reach it.
   ![Bikanel Chest](https://i.imgur.com/trJVLUu.png)
-
-  If you happen to come across a weapon like Mage Masher before Bikanel then I highly suggest you skip this. Getting this chest guarantees you 1-2 encounters that you have to run away from. This is very subjective but it saved me a couple of times where this chest saved me from being short of money by calm lands (Minimum Bribe is 35k per Flan and I would have gotten 65k if it weren't for this chest.) Also bribing amount is purely RNG so even if you got the minimum amount of money it doesn't guarantee you getting 24 Fire Gems from the Flans.
 
 ## Evrae
   Sometimes you would forget to switch Auron out of the Party for Tidus at Home. This wastes time, and as such unless you're like 20minutes++ ahead of your PB I would rather opt out of it and just kill my run. This works great to keep marathons or races alive tho.
@@ -273,8 +295,8 @@ Typically, I just let Yuna in the party for 4-5 monster(2 encounters) kills then
   * Isaaru Valefor - Summon Ixion - Thundara twice, then boost to fill OD, then Overdrive - Thor's Hammer.
   * Isaaru Bahamut - Summon Shiva - Blizzara five times, and if he's still not below 10k then attacking before he OD's, then OD - Diamond Dust.
   * Before Seymour 2 - Get everything you have to get on Yuna's Grid that you can.
-  * Seymour 2 - Yuna - Change Weapon - Switch with Rikku. Let Rikku die.
-  * After Seymour 2 - Get everything you have to get on Yuna's Grid that you can.
+  * Seymour 2 - Yuna - Change Weapon - Switch Yuna with Rikku. Let Rikku die. (**Ignore this is Yuna is already good to go, the only case of you needing Yuna to live is when she's still short of AP**)
+  * After Seymour 2 - Get everything you have to get on Yuna's Grid that you can. 
 
 ## Mana Spheres
   You also need 14 Mana Spheres for the entire run. You can naturally farm a lot but a minimum encounter Kilika and a MRR Encounter Count w/o the Mana Sphere monsters can lead to this kind of shortage problem. So if you're gunning down for encounters in MRR I suggest you get the fights with the Red Elements in MRR and the Lightning Flan in Old Road. If you have an extra grenade then throw it on the encounters with Aerouges (Flying Red Guys) at the Thunder plains, or buy 1 extra grenade to use when you see them on the 2nd part of the Thunder Plains. 
