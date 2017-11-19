@@ -10,7 +10,7 @@ of his notes.) and [here][3], as well as the speedrun from [RPG Limit Break][4].
 You can find general knowledge that will be useful with any route you take
 [here][2]. This includes things like Stamina Pushing, Attack Queueing, etc...
 
-## Killing Animals for a Necklace (Split 1)
+## Mama Komodo
 
   * Skip Cutscene
   * Avoid all encounters, bridges to help avoid bats.
@@ -30,8 +30,9 @@ You can find general knowledge that will be useful with any route you take
   * [**Momma Komodo (76)**][5] 
     * 2/2/2/Fireball (49 or above HP fireball for single pass). 2/2 your way to
       victory if any issues.
+  * **SPLIT AFTER THE WIN MENU**
 
-## Kid (Split 2)
+## Solt / Peppor / Karsh
 
   * Choose 2nd option on 2nd Choice box when talking to Leena to save a little
     bit of text.
@@ -53,10 +54,11 @@ You can find general knowledge that will be useful with any route you take
     * Serge - 1/2/2 Fireball
     * _Ivory Helmet/Ivory Vest/Bone Axe_ (Common)
     * _Copper/Copper/Power Glove_ (Rare)
+    * **SPLIT AFTER THE WIN MENU**
+
+## Solt / Peppor
+  
   * Rename Kid to K
-
-## Little Bit of Solt and Peppor (Split 3)
-
   * Say no to Kid 3 times. 2nd option all 3 times.
   * Get Magma Bomb after Leena and Poshul join.
   * Menu
@@ -75,8 +77,9 @@ You can find general knowledge that will be useful with any route you take
     * Serge - 1/2/2/Fireball+2 Peppor
     * _Copper/Uplift_ (Common)
     * _ElectroJolt/Copper_ (Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## Gate Crashers (Split 4)
+## Ketchop
 
   * Talk to the statue polisher.
   * Pick up the Profiteer Purse under the stair case of the mansion past the
@@ -97,9 +100,6 @@ You can find general knowledge that will be useful with any route you take
     * Kid - 2/2/3
     * _Tablet/Copper_ (Common)
     * _PhotonRay/Meteor_ (Rare)
-
-## Ketchop (Split 5)
-
   * Switch to Pierre being in front so he takes the Ketchop hit.
   * [**Solt/Peppor/Ketchop (273/9)**][9]
     * NOTE: Always hit Ketchop as he will kill Solt and Peppor for you.
@@ -108,8 +108,9 @@ You can find general knowledge that will be useful with any route you take
     * Serge - 2/2/3
     * _Silver Earring/Brace_ (Common)
     * _Silver Earring/Magic Ring_ (Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## Luccia (Split 6)
+## Luccia
 
   * Get the Turn Yellow behind the gate.
   * Menu
@@ -139,8 +140,9 @@ You can find general knowledge that will be useful with any route you take
     * Serge - 2/2/2/Dash & Slash
     * _Eagle Eye_ (Common)
     * _AeroSaucer_ (Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## Marcy (Split 7)
+## Marcy
 
   * Go to Karsh's Room (2nd door up the stairs) and try to take chest 20 times
     for Dragoon's Gauntlet.
@@ -159,8 +161,9 @@ You can find general knowledge that will be useful with any route you take
     * Kid - Fireball+2
     * _IceBlast_ (Common)
     * _Iron_ (Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## It's simple... You kill the Catman (Split 8)
+## Lynx
 
   * Head back to the main hall and talk to Harle.
   * Hit button behind 2nd pillar on left.
@@ -184,8 +187,9 @@ You can find general knowledge that will be useful with any route you take
     * Kid - 2/3/2
     * _Pendragon Sigil C_ (Common)
     * _Gravitonne_ (Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## Yeah... we aren't that close (Split 9)
+## Fargo
 
   * Menu (after fall)
     * Kid (Equip) - Remove Iron Dagger
@@ -241,9 +245,6 @@ You can find general knowledge that will be useful with any route you take
     * Serge - 2/2/3
     * Attack until dead repeating above.
     * _MagmaBurst_ (Common/Rare)
-
-## Fargo (Split 10)
-
   * [**Fargo (693/8)**][14]
     * Glenn - 1/Strengthen on Serge
     * Leena - 1/TurnRed on Serge
@@ -254,8 +255,9 @@ You can find general knowledge that will be useful with any route you take
     * Serge - X-Strike
     * _Meteorite_ (Common)
     * _PhotonBeam_ (Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## The Fuck is this Thing? (Split 11)
+## Dead Head
 
   * Run away from the fight in the cabin.
   * Check the door just outside of the cabin.
@@ -299,8 +301,9 @@ You can find general knowledge that will be useful with any route you take
     * Serge - 3/3/Dash & Slash
     * _Hell Soul_ (Common)
     * _HellBound_ (Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## Solt and Pepper Once Again (Split 12)
+## Fire Dragon
 
   * Head to Marbule
   * Shop (Straight Ahead)
@@ -329,9 +332,6 @@ You can find general knowledge that will be useful with any route you take
     * Glenn - 3/3
     * _Iron Vest/Iron Mail_ (Common)
     * _Sky Djinn Ring/Dragoon Gauntlet_ (Rare)
-
-## Fire Dragon (Split 13)
-
   * Straight through the lava to the top. Menu before entering the cave.
   * Menu
     * Leena (Equip) - Iron Vest or Sky Djinn Ring
@@ -364,8 +364,9 @@ You can find general knowledge that will be useful with any route you take
     * Heal with Consumables
     * _Weaken_ (Common)
     * _Magic Ring_ (Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## Karsh, Marcy, TankHead (Split 14)
+## Three Divas
 
   * Move Serge to first in the party. Saves cutscene time.
   * [**Karsh/Zoah/Marcy (388/8 457/11 285/6)**][18]
@@ -381,8 +382,9 @@ You can find general knowledge that will be useful with any route you take
     * Glenn - 3/3
     * _Eagle Eye/Gold Earring/Iron Vest_ (Common)
     * _Silver Earring/Gold Earring/Dancing Shoes_ (Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## Knight Rider (Split 15)
+## Giant Gloop
 
   * Keep going into Fort Dragonia and you will run into the next boss.
   * [**Dragoon (735/9)**][21]
@@ -394,9 +396,6 @@ You can find general knowledge that will be useful with any route you take
     * Leena - Aquaball-2
     * Glenn - 2/2/Aquaball-2
     * _Frog Prince_ (Common/Rare)
-
-## The Blob (Split 16)
-
   * Menu
     * Leena (Elements) - Lvl 5 FrogPrince
     * Glenn (Equip) - Iron Vest
@@ -406,8 +405,8 @@ You can find general knowledge that will be useful with any route you take
   * Go to the left, and follow maze into room where your party stands on the
     glowing yellow pads and shifts the room. Serge should be at the front of the
     party.
-  * Step outside to the blue shifter pad. Hit select until order is Leena,
-    Glenn, Serge (Tail/Body/Head)
+  * Step outside to the blue shifter pad. Hit Select until order is Glenn,
+    Leena, Serge (Tail/Body/Head)
   * Step on blue switch.
   * Back to maze pads and step on them again.
   * Go to the other side, up the stairs you pulled down with the switch, and go
@@ -428,8 +427,9 @@ You can find general knowledge that will be useful with any route you take
     * Heal with Consumables
     * _AquaBall_ (Common)
     * _IceBlast_ (Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## Become the Bull (Split 17)
+## Taurusoid
 
   * Hit the Altar
   * Back to the main room, and room on the upper right. Head through the left
@@ -451,8 +451,9 @@ You can find general knowledge that will be useful with any route you take
     * Leena - 1/1 until Level 5/FrogPrince
     * _Carapace_ (Common)
     * _Iron Vest_ (Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## Gun of a Sun (Split 18)
+## Sun of a Gun
 
   * Run back out, hit the switch, take the stairs and go back to the main room
     farthest room on the right.
@@ -470,8 +471,9 @@ You can find general knowledge that will be useful with any route you take
     * Leena - FrogPrince or 1s until Level 5, then FrogPrince
     * Heal with Consumables
     * _Iron_ (Common/Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## I feel like I've been here before... (Split 19)
+## Bunyip
 
   * Hit the altar, and go up the elevator.
   * Remember your training from split 1, and head to the same area. Best of luck
@@ -494,7 +496,7 @@ You can find general knowledge that will be useful with any route you take
     * _Gravitonne_ (Common)
     * _HellBound_ (Rare)
 
-## General Viper (Split 20)
+## Lynx
 
   * Try and dodge everything to get back to the center platform.
   * [**General (861/7)**][26]
@@ -507,9 +509,6 @@ You can find general knowledge that will be useful with any route you take
     * Heal with Consumables
     * _Dragoon Gauntlet_ (Common)
     * _Mythril Mail_ (Rare)
-
-## Lynx (Split 21)
-
   * [**Lynx (1050/7)**][27]
     * Serge - 2/3/WeakMinded
     * Glenn - 1/2/2
@@ -526,10 +525,10 @@ You can find general knowledge that will be useful with any route you take
     * Don't heal as we are done with these characters for now.
     * _Pendragon Sigil B_ (Common)
     * _Sky Djinn Ring_ (Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## Radius (Split 22)
+## Radius
 
-  * Multiple cut scenes here, so possibly bathroom break/food time?
   * Cut Scene 1 - 0:32
   * Cut Scene 2 - 0:45
   * **Party**
@@ -563,8 +562,9 @@ You can find general knowledge that will be useful with any route you take
     * Heal with Consumables
     * _Heal_ (Common)
     * _Magnify_ (Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## Dear lord this split lasts for ever... (Split 23)
+## Sage of Marbule
 
   * Rename Radius to R
   * Put Lynx in front then swap to Harle as the leader to have Lynx in back.
@@ -601,14 +601,14 @@ You can find general knowledge that will be useful with any route you take
     * Sprigg (Elements) - Level 6 PhotonBeam
   * To the Zelbess. Head downstairs and down the ladder to the last room before
     the guard to talk to the sage. Try to follow him through the door, then go
-    talk to Fargo. Play him at ... Roulette? and try and get the cursor between
+    talk to Fargo. Play Roulette and try and get the cursor between
     North and East using paused to make sure it lands there. Hold X and unpause
     and you should hit South. Also if Fargo lands on East just hold X.
-  * Go downstairs and notice the cat coming down the stairs. Go watch the magic
+  * **Go downstairs and notice the cat coming down the stairs.** Go watch the magic
     show in the first door past the ladder. Re-enter to get turned into cats and
     go unrig the game. Go back and talk to Fargo again. After you get access go
     to the grand slam and talk to the sage. When he asks what you want, first
-    choose nothing. Then mash.
+    choose nothing(2). Then mash.
   * [**Sage (1575/7)**][29]
     * Sprig - 2/2/1/Lagoonate
     * Lynx - 1/Strengthen Lagoonate
@@ -619,8 +619,9 @@ You can find general knowledge that will be useful with any route you take
     * Lynx - 1/2/2
     * Lagoon - 2/3
     * _Mythril Helmet_ (Common/Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## Garai (Split 24)
+## Garai
 
   * Move Lynx to First
   * To Dead Sea (use Fiddler Crab)
@@ -670,8 +671,9 @@ You can find general knowledge that will be useful with any route you take
     * WKnight - 1/3
     * Heal with Consumables
     * _Dragoon's Honor_ (Common/Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## Highwayman (Split 25)
+## Highwayman
 
   * Move Lynx to first.
   * To the Dead Sea. Go through, and enter the first city to the right.
@@ -689,8 +691,9 @@ You can find general knowledge that will be useful with any route you take
     * WKnight - 3/3
     * _Nimble_ (Common)
     * _Mythril_ (Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## Best music of the game (Split 26)
+## Miguel
 
   * Move Lynx to first.
   * Head to the center of the Dead Sea. Keep on the path to the right. Avoid the
@@ -713,8 +716,9 @@ You can find general knowledge that will be useful with any route you take
     * Lynx - 1/1/2/Glidehook
     * WKnight - 2/3
     * _Dreamer's Scarf_ (Common/Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## The Sewers (Split 27)
+## Roachester
 
   * Cut Scene (1:30). Bathroom Break!
   * To Guldove
@@ -749,8 +753,9 @@ You can find general knowledge that will be useful with any route you take
     * Harle - Defend
     * WKnight - 3/3
     * _Elbow Pad_ (Common/Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## Hell's Kitchen (Split 28)
+## Hell's Cook
 
   * Take the door to the right.
   * [**Hell's Cook (2940/8)**][34]
@@ -766,8 +771,9 @@ You can find general knowledge that will be useful with any route you take
     * Heal with Consumables
     * _Gold Pendant_ (Common)
     * _Mythril_ (Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## Definitely not a Cyborg (Split 29)
+## Grobyc
 
   * Move Lynx to first, and head up.
   * Soldier fight - Harle 1s until Level 7 then Lunairetic. Finish with Lynx if
@@ -788,8 +794,9 @@ You can find general knowledge that will be useful with any route you take
     * WKnight - 3/3
     * _Defender_ (Common)
     * _FreeFall_ (Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## Fucking Dario... (Split 30)
+## Dario
 
   * **Guillot (1051/9)**
     * Harle - EagleEye Lynx
@@ -867,8 +874,9 @@ You can find general knowledge that will be useful with any route you take
     * Marcy - 1/1/1 until maxed/IceBlast
     * Marcy repeat since you have Dario in a loop.
     * _Dreamer's Scarf_ (Common/Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## Earth Dragon (Split 31)
+## Earth Dragon
 
   * Switch Riddel for Fargo
   * Menu
@@ -917,8 +925,9 @@ You can find general knowledge that will be useful with any route you take
     * Fargo - 3/3
     * Lynx - 3/3 GlideHook
     * _ThundaSnake_ (Common/Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## Water Dragon (Split 32)
+## Water Dragon
 
   * To Water Dragon Isle
   * Lily pad ordering - Up, Up, Up, Up (This is here for sanity just in case you
@@ -946,8 +955,9 @@ You can find general knowledge that will be useful with any route you take
     * Fargo - 2/3
     * Lynx - 2/2/Glidehook
     * _BlueWhale_ (Common/Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## Tyrano (Split 33)
+## Tyrano
 
   * Head back out to the lily pad isle.
   * Lily pad ordering - Down, Left, Right, Left
@@ -1000,8 +1010,9 @@ You can find general knowledge that will be useful with any route you take
     * Marcy - FrogPrince
     * Lynx/Fargo - 2/2/2 for the win.
     * _Resistance Ring_ (Common/Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## Green Dragon (Split 34)
+## Green Dragon
   
   * Menu
     * Lynx (Equip) - Dragoon Gauntlet/Power Seal/Pendragon Sigil B or C
@@ -1026,8 +1037,9 @@ You can find general knowledge that will be useful with any route you take
     * Marcy - 3/3 (or 1/1/1 until Panacea for Lynx if needed)
     * Lynx - 2/2/3 (3/3/Glidehook if <34 STR)
     * _Genie_ (Common/Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## Fire Dragon (Split 35)
+## Fire Dragon
 
   * To Opassa Beach (Another World)
   * Head to Mount Pyre. First go up through the first screen, then go right. Be
@@ -1058,8 +1070,9 @@ You can find general knowledge that will be useful with any route you take
     * Marcy - Defend
     * Lynx - Glidehook
     * _Salamander_ (Common/Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## Sky Dragon (Split 36)
+## Sky Dragon
 
   * Exit Mount Pyre, and head to Sky Dragon Isle.
   * Menu
@@ -1072,8 +1085,9 @@ You can find general knowledge that will be useful with any route you take
     * Fargo - 3/3
     * Lynx - 3/3/Glidehook
     * _Saints_ (Common/Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## Dark Serge (Split 37)
+## Dark Serge
 
   * To Guldove
   * **Orlha (1710/6)**
@@ -1109,8 +1123,9 @@ You can find general knowledge that will be useful with any route you take
     * otherwise Repeat
     * _Pendragon Sigil A_ (Common)
     * _Stamina Belt_ (Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## Vita Unus (Split 38)
+## Vita Unus
 
   * Up the elevator, and head to the top of the fort.
   * Cutscene 1:45 (have to mash until it starts)
@@ -1135,8 +1150,9 @@ You can find general knowledge that will be useful with any route you take
     * Fargo - 3/3
     * Serge - 3/3/Dash&Slash
     * _Vigora_ (Common/Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## PolisPolice (Split 39)
+## PolisPolice
 
   * Menu
     * Serge (Elements) - Level 1 HealAll/HealAll/HealAll/Strengthen/TurnYellow/TurnWhite,
@@ -1157,8 +1173,9 @@ You can find general knowledge that will be useful with any route you take
     * Serge - 1/Dash&Slash (Strenghten, 1 Dash&Slash if Marcy died) (trigger break)
     * Serge - 3/x
     * _PhysNegate_ (Common/Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## Fate (Split 40)
+## Fate
 
   * Head up to the next area. Then go right and down the hatch. Take control of
     the robot and cross the area to extend the bridge. Head up the ladder and
@@ -1189,8 +1206,9 @@ You can find general knowledge that will be useful with any route you take
     * Fargo - 2/3 (Revive Serge if needed)
     * Serge - 2/2/Dash&Slash
     * _Magic Seal_ (Common/Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## Royal Jelly (Split 41)
+## Royal Jelly
 
   * Cutscene SkyDragon 1:10
   * Cutscene 1:40
@@ -1209,8 +1227,9 @@ You can find general knowledge that will be useful with any route you take
     * Glenn - 1/1/1/1 (Get to Lvl 4) Strengthen Serge
     * Serge - 1/1/1/1/X-Strike
     * _Resistance Belt_ (Common/Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## Terrator (Split 42)
+## Terrator
 
   * Go into the ship to start some mashing.
   * Cutscene 1:25
@@ -1227,8 +1246,9 @@ You can find general knowledge that will be useful with any route you take
     * Fargo - Strengthen
     * Serge - 1/X-Strike (skip 1 if 41)
     * _YellowField_ (Common/Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## Pryotor (Split 43)
+## Pryotor
 
   * Go through the entrance, and knock over the totem to the left. Cross and
     enter the door. Go down the stairs and take the water fall down.
@@ -1259,8 +1279,9 @@ You can find general knowledge that will be useful with any route you take
     * Fargo - 1/Strengthen Serge
     * Serge - 3/3/Dash&Slash
     * _RedField_ (Common/Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## Anemotor (Split 44)
+## Anemotor
 
   * Go through to the next room. Up the ladders to the very top. Now go right,
     then left in the middle, then right again and up to Belthasar's tower.
@@ -1281,8 +1302,9 @@ You can find general knowledge that will be useful with any route you take
     * Fargo - Strengthen Serge
     * Serge - X-Strike
     * _GreenField_ (Common/Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## Gravitor (Split 45)
+## Gravitor
 
   * Head through the teleporter, and to the left exit for the next screen. Cross
     the bridge and get shot across to go fight Gravitor.
@@ -1294,8 +1316,9 @@ You can find general knowledge that will be useful with any route you take
     * Fargo - Strengthen Serge
     * Serge - 3/3/Dash&Slash
     * _BlackHole_ (Common/Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## Luxator (Split 46)
+## Luxator
 
   * Head back across the canyon and bridge back to the teleporter screen. Head
     all the way to the right and cross the wind bridge. Cross the canyon and on
@@ -1313,8 +1336,9 @@ You can find general knowledge that will be useful with any route you take
     * Glenn - 1/2/3 (Get to Lvl 3, plus max Serge)
     * Serge - 3/3/X-Strike (first 3 should trigger Heal)
     * _UltraNova_ (Common/Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## Aquator (Split 47)
+## Aquator
 
   * Head back to the teleporter screen and head through the top door.
   * [**Aquator (2940/6)**][54]
@@ -1332,8 +1356,9 @@ You can find general knowledge that will be useful with any route you take
     * Glenn - 1/1/1 (Get to Lvl 4) Strengthen Serge
     * Serge - 3/3/X-Strike
     * _BlueField_ (Common/Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## Dragon God (Split 48)
+## Dragon God
 
   * Head up the teleporter over the defeated boss.
   * [**Dragon God (1900/10 Each Phase)**][55]
@@ -1373,8 +1398,9 @@ You can find general knowledge that will be useful with any route you take
                 STR + 150 Fargo Damage or 47 STR + 100 Fargo Damage)
       * Serge - 1 then 3/3
     * _Earring of Hope_ (Common/Rare)
+  * **SPLIT AFTER THE WIN MENU**
 
-## Time Devourer (Split 49)
+## Time Devourer
 
   * Head to Divine Dragon Falls. Altars to get Chrono Cross.
   * Menu
@@ -1393,7 +1419,7 @@ You can find general knowledge that will be useful with any route you take
     * Fargo - Genius
     * Serge - TurnWhite
     * Serge - ChronoCross
-  * Hit that split button and you are done!
+  * **SPLIT AFTER CHRONO CROSS**
 
 [1]: https://docs.google.com/document/d/1ZciCKOh_N4B72tVN1JpZqmzniRTtcfrBXuAjzNWJeyE
 [2]: ./General_Knowledge.md
