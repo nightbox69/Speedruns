@@ -10,7 +10,7 @@
   * Any% means that you will follow strategies stated on the <a href="https://goo.gl/nFdPyN">Any% Notes</a> by <a href="https://www.twitch.tv/flobberworm4">Flobberworm4</a> while following these other rules (Don't forget to split on the bosses).
     * **Never** pick up HP Nodes on Tidus. Leave him at **520 Health**.
     * Pick up all **Accuracy Nodes** scattered in Tidus's Any% Sphere Grid Menu.
-  * Use Tidus to Cap
+  * Use Tidus to Capture most of the Monsters. The Kill Count stacks to the Karma and will increase damage dealt to Tidus.
 
 ## Sinspawn Ammes - Guadosalam
 
