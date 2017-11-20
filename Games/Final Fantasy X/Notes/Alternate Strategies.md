@@ -96,20 +96,21 @@ Typically, I just let Yuna in the party for 4-5 monster(2 encounters) kills then
   * Kimahri - Ronso Rage - Seed Cannon after Tidus uses the crane.
 
 ## Blitzball
+  Blitzball is typically a Runner Nightmare. It's one of those things that you just want to be over with as fast as possible. 
 
 ### General Information
-  There are alot of stuff that we can go on about Blitzball and there are a lot of strategies involving it. But, here are some general stuff before we move on:
+  There are alot of stuff that we can go on about Blitzball with a whole lot of strategies involving it. here are some general stuff before we move on:
 
-  * Winning Blitzball isn't required to finish the speedrun. Yes, it is faster but only by some 2-3minutes. The only parts of the run where the Strength Sphere will matter are Mushroom Rock Road, Seymour 1, possibly Wendigo, Evrae, and Seymour 2.
+  * Winning Blitzball isn't required to finish the speedrun. Yes, it is faster but only by some 2-3minutes. The only parts of the run where the Strength Sphere will matter are Mushroom Rock Road, Seymour 1, Wendigo, Evrae, and Seymour 2 (Around 40% of the Midg Game part of the speedrun).
   * Crits in Blitzball exist but how they crit is still up in the air.
   * If the Luca Goers want to score. They are going to score.
   * If they want to troll, They are going to troll. They are also called Luca Trollers for a reason.
   * Interactions between players pauses the timer, so do your menuing fast. Also breaks doesn't start the timer. So don't even try to break unless you're scoring and you're not going to survive a break with multiple goers so don't even attempt it.
   * Jassu vs. Abus is the only exception of the break scenario. Jassu will survive a break with Abus 1v1.
-  * Buffer your movement during a pass. Rule of thumb is to just look at your minimap during movement. Your movement will be according to your minimap direction and will not change regardless of any camera changes so don't confuse yourself. 
+  * Buffer your movement during a pass. Rule of thumb is to just look at your minimap during movement. Your movement will be according to your minimap direction and will not change regardless of any camera changes so don't confuse yourself.
   * Blitzball isn't that chaotic if you know what you're doing.
 
-  If you're going to speedrun this game understanding how blitzball works is great as you'll be going to be salty at this minigame for long, long, long time. There are going to be a lot of scenarios that can happen in Blitzball. You'll prolly learn the basics with around 3-4hours of playing this minigame repeatedly.
+  **Note:** There are lots of stuff that can happen in Blitzball. It's hard to tackle them all. It's much better for you to practice and be familiar playing it than to let yourself read and check if X-Scenario is viable for X-Solution. You'll prolly learn the basics with around 3-4hours of playing this minigame repeatedly.
 
 ### Graav and Balgerda
   These two will make or break your Blitzball game. First, you do not want Graav passing the ball to Bickson or Abus. Frankly speaking, you don't want the ball to be in any of their hands at all. Second, Graav can level up depending on how the 1st half played out giving him access to Venom Tackle, when Graav is level 4 you don't want him to be near you. And lastly, Graav is overall the Pitboss of Blitzball. Any interactions with Graav will result in Graav winning, he can simply plow through you if he wants to.
@@ -117,49 +118,62 @@ Typically, I just let Yuna in the party for 4-5 monster(2 encounters) kills then
   Balgerda, she is a minor threat but don't take her lightly. You want to lure her out of her position with Jassu to prevent her from breaking with your shooter (Tidus or Wakka) but sometimes Balgerda just won't budge. Simply break with her and pray that she doesn't block you. Balgerda is very much known to grab the ball during key instances of scoring, it's like she can smell your fear of her.
 
 ### Hiding behind Keepa or the Jassu Train 
-  It's a bit of both actually, if you get the blitz off you almost probably want to hide behind the goalie with either Letty or Botta. While I like the Jassu Train it closes off the possibility of being able to pass to other players to score or potentially get Jassu cornered if you move badly enough. Hiding with Botta also opens up Jassu to a pass incase the Goers realizes you are just hiding behind the Goalie. Look into your mini map if you see a weird Graav coming straight at you from the goal post then pass immediately to Jassu and start the Train.
-
   "Choo Choo, Mothafuckas"- ChrisTenarium™
 
   ![Jassu Train](https://i.imgur.com/IbcIWvr.jpg)
 
 #### Hiding behind Keepa
-  I usually just pass to Botta and have him be the one to hide behind the Goalie for these reasons: 
+  Hiding behind the Goalie is a Blitzball Bug wherein you hide behind your Goalie (Keepa) as the ball handler and the AI doesn't zoom to you. The AI has some kind aggression zones per team member they have and for some reason all 5 of them doesn't reach the Goal post. But from time to time the AI does manage to extend their aggression zone to you and practically start swimming wildly straight at you. This is dangerous because as soon as they reach you and break you have little to no chance at all to retaliate. Graav and Bickson in particular, are dangerous because they can survive a break with their corresponding defender. Always look at the minimap and check if they are about to come for you. Also, if you moved slowly you might be caught by their zone and automatically zoom in to you (Once, you are in their zone you forfeit your relief window behind Keepa).
+
+  You can use Letty, Jassu, and Botta for this as they are the only players in the Aurochs that can reach the goalie before the Goers reach them. I usually just pass to Botta and have him be the one to hide behind the Goalie for these reasons: 
 
   * Letty tends to drag Graav with him to the goal post.
   * Botta is closer to the Goal Post.
+  * You leave Jassu open for a possible Emergency Train.
 
   You can drag the Goers to you especially during the very first blitzoff where you have to switch modes to gain control of the players. With good knowledge of what you're going to do you can safely pass the ball to botta and have him swim to Keepa. There is a small chance of the Goers realizing they are being bugged out so keep a close look at your minimap and pass immediately to Jassu, have him swim to the southeast corner while checking who is chasing you. If Graav is on to you start the Jassu Train immediately, if it's only Abus break pass back to Botta if he's clear of any enemies or break dribble and swim back to the goalie, pass to Botta when the coast is clear.
+
+#### Jassu Train
+  Jassu does most of heavy work for Blitzball, he is the shining light of the Aurochs. He has insane movespeed and would be able to swim around the map without getting caught by the Luca Goers. You just need to swim around while preventing getting bumped by the Goers.
+
+#### What to Use
+  It's a bit of both actually, if you get the blitz off you almost probably want to hide behind the goalie with either Letty or Botta. While I like the Jassu Train it closes off the possibility of being able to pass to other players to score or potentially get Jassu cornered if you move badly enough. Hiding with Botta also opens up Jassu to a pass incase the Goers realizes you are just hiding behind the Goalie. Look into your mini map if you see a weird Graav coming straight at you from the goal post then pass immediately to Jassu and start the Train.
 
 ### Blitzball Crits
   Basically, when an interaction occurs between players you get either get a +/-5 (rounded up or down) roll on defense. So you can sometimes see Keepa not being able to catch a 3SH shot by Graav or Balgerda tackling Wakka with 12HP on a 8atk during a break. So with this in mind, you really do not want the Goers to be near the ball at any given time. We are yet to confirm if crits occur on both sides of the interaction or which way it is rounded. But, if this is true then the scenario of Abus rolling a +5 while Jassu rolls a -5 is possible (this is the only way for Abus to get the ball from Jassu btw).
 
 ### Scoring
-  Blitzball Enemy AI goes haywire and becomes more aggresive the moment you score, so keep this in mind. You want to score at the last possible moment where the Goers cannot react effectively to mount a counter-attack against you. This is where Jassu comes into play, you need atleast minute for Jassu to get to the ball, head to the other corner, lure Balgerda out of defense and pass the ball to your scorer while only breaking with Abus. Jassu does most of heavy work for Blitzball. Now with your scorer you want to move as close to the goalie as possible without entering a break scenario with Doram or Graav. Check your minimap. If they are about to break with you shoot immediately. You're usually left with around 30-20seconds after the pass to score so if the attempt fails or succeeds the possibility of the Goers counterattack succeeding is technically minimal. The AI behavior also resets after every stop of the game (1st Half, Tidus Leaving).
+  Blitzball Enemy AI goes haywire and becomes more aggresive the moment you score, so keep this in mind. You want to score at the last possible moment where the Goers cannot react effectively to mount a counter-attack against you. This is where Jassu comes into play, you need atleast minute for Jassu to get to the ball, head to the other corner, lure Balgerda out of defense and pass the ball to your scorer while only breaking with Abus. Now with your scorer you want to move as close to the goalie as possible without entering a break scenario with Doram or Graav. Check your minimap. If they are about to break with you shoot immediately. You're usually left with around 30-20seconds after the pass to score so if the attempt fails or succeeds the possibility of the Goers counterattack succeeding is technically minimal. The AI behavior also resets after every stop of the game (1st Half, Tidus Leaving).
 
-### Tidus Strategies
-  This is where Runners diverge on how they play the run out. We have Sphere Shot Strats, Jecht Shot Strats, Wakka Strats, and 1st Half Score Strats. 1st Half, Sphere Shot and Jecht Shot are all Tidus Strats. Wakka Strats is when Wakka comes into play. All of these strats come with their own disadvantages and runners and viewers alike have their own opinion regarding these. Personally, I've had a blitzball where I won with a score of 3-2 so I've technically used all these strats. So, pick your poison and go from there. Again, if the Goers want to score, they will score whether you like it or not. 
+### Blitzball Strategies
+  This is where Runners most often diverge on how they play the game out. All of these strats are meant for scoring and come with their own advantages and disadvantages with runners and viewers alike having their own opinions regarding which to use. Personally, I've had a blitzball where I won with a score of 3-2 so I've technically used all these strats. So, pick your poison and go from there. Again, if the Goers want to score, they will score whether you like it or not. 
 
-#### Why I shouldn't do it?
+#### Slow Win or Fast Lose
+  Do whatever as long as it's not overtime. Strength Sphere only makes the run easier, especially on the Special Sphere Wendigo Fight. Overtime means you either got trolled really hard, or you did something wrong. A good rule of thumb is that a good Blitzball Split is where you have minimal to no interaction with the Luca Goers. 
+
+#### Tidus Strategies
+  To break this down, we have three Tidus Strats. 1st Half Score, Jecht Shot and Sphere Shot Strats. 1st Half Score is basically just a normal shot with Tidus on the last few seconds of the 1st Half, with its whole intention being to get exp for Sphere and Jecht Shot. 
+
+##### Why I shouldn't do it?
   * Scoring with Tidus may open the chance get a Goer Score in the last 2 minutes and result to an overtime.
-  * Tidus leaves the game after the 3rd minute of the 2nd half. If you haven't scored with Tidus after then you're left with Wakka.
+  * Tidus leaves the game after the 3rd minute of the 2nd half. If you haven't scored with Tidus before that then you're left with Wakka.
   * Scoring with Tidus usually leaves game time for the Goers to score back if you're irresponsible with time management. Blitzball AI goes haywire and gets more aggresive if you score first. If you're not confident on your Blitzball I must suggest to practice Wakka strats first so you get an idea what time you should be scoring before you attempt Tidus Strats.
   * Scores pause the timer for a bit. (Except when you get the score before the "Time's Up" message or the Wakka Cutscene appears.)
   * Tidus Strategies doesn't mean you'll win Blitzball. It just gives you more leeway to score.
 
-#### Why should I do it?
+##### Why should I do it?
   * Tidus has access to Sphere Shot(or Jecht Shot) which allows you to potentially skip breaking with Balgerda and shooting immediately.
   * Tidus has faster movespeed than Wakka which allows him to outrun the goers for a little bit without getting into a break. Having said that, the goers will catch up to Tidus soon enough so don't expect you can do a Tidus Train.
   * If the Goers get the Ball in the last 2 minutes you either Lose, not get enough time to score with Wakka or the Goers troll follow Jassu, or be lucky and succeed scoring with Wakka.
   * This gives you with 2-3 opportunities to score(Wakka Strats included). So retaliation against the Goers isn't that far out of reach.
 
-#### Should I get Jecht Shot?
+##### Should I get Jecht Shot?
   It depends on you actually. The reason why runners opt out of Jecht Shot is because the cutscenes get longer on the ship going to Luca. You also need to note that Jecht Shot has a maximum 20seconds animation (excluding ball travel time) vs. Sphere Shot with a 10second animation, so time it right before you attempt to score(2:35 is the bare minimum for shooting and anything more will have you cry "Sayonara" to your strategy). The advantages are that you don't need to break with Balgerda (or if the gods really don't want you to win, Graav) because Jecht Shot with will deal with them. So, if you feel like going toe to toe with the Goers with Jecht Shot then feel completely free. Just note that if you didn't score with Jecht Shot then your efforts are all in vain. Personally, I don't like to use Jecht Shot but I also see the advantages of getting it. If you're not relatively confident on luring Balgerda out then this strategy is for you.
 
-#### How to do it
-  I have to explain the end goal first. You want experience with Tidus during the first half then score on the 2nd half optimally. You can do this two ways. First is that you have to pass with Tidus, Tidus has 3 PA so you have to move back a little to your receiver to prevent any fumbles (usually to Jassu). The 2nd One is to shoot with Tidus. If you manage to get into any breaks with Tidus during the first half I'll prioritize getting exp with Tidus so I would opt out of any breaks and give the goers the ball and hope for the best. The 2nd One is to shoot with Tidus in the first half, and again on the 2nd half for good measure. 
+##### How to do it
+  You want experience with Tidus during the first half then score on the 2nd half optimally. You can do this two ways. First is that you have to pass with Tidus. Tidus has 3 PA so you have to move back a little to your receiver to prevent any fumbles (usually to Jassu). The 2nd One is to shoot with Tidus. If you manage to get into any breaks with Tidus during the first half I'll prioritize getting exp with Tidus so I would opt out of any breaks and give the goers the ball and hope for the best. The 2nd One is to shoot with Tidus in the first half, and again on the 2nd half for good measure. 
 
-##### If Letty gets the ball
+###### If Letty gets the ball
   * Letty - Directions(Triangle) - Manual A, Normal
   * Letty - Pass - Botta
   * Botta - Move behind Keepa and look into your HP, if your HP is above 6 and the goers are far away pass to Jassu and have him swim to Keepa, otherwise move to the southeast corner near Jassu and pass to him. You want want the ball to be in Jassu's hands around 3:40 - 3:55
@@ -167,7 +181,7 @@ Typically, I just let Yuna in the party for 4-5 monster(2 encounters) kills then
   * Tidus - Move as close as close to the Goalie as you can w/o getting breaks and shoot. Just shoot if you get any breaks.
   * Change directions to right side after shooting (regardless if you scored, got blocked by a defender or a goalie)
 
-##### If Graav gets the Ball
+###### If Graav gets the Ball
   * Directions - Mark wait until Letty is near Graav then Change back to Normal
   * Graav - Will either dribble break, shoot break or pass break with Letty.
   * On Shoot Break - Pray to the Lords Keepa Catches it and he will pass to some member of the team have pass the ball to Botta (be mindful of your PA). 
@@ -175,10 +189,24 @@ Typically, I just let Yuna in the party for 4-5 monster(2 encounters) kills then
   * On Pass Break - Directions - Right Side and be ready to bleed seconds.
   * Proceed with Letty gets the ball strats.
 
-##### 2nd Half
+###### 2nd Half
   * Equip Tidus with Jecht Shot if you have it.
   * Proceed with Letty Strats if you get the blitz off and Graav Strats if the Graav get it. You want the ball to be in Jassu w/ only Abus chasing him by 1:40, shoot with Tidus with your skill shot around 2:40 or 2:35. 
   * Hide behind the goalie or Jassu Train when Wakka enters the fray. You would like to shoot with Wakka if you manage to tie the game. 
+
+#### Wakka Strategies
+  After scoring 3 minutes in the 2nd half of Blitzball the crowd will go wild and Tidus will switch himself out with Wakka. This is where your window of scoring begin normally. You just need to score once to win anyway.
+
+##### Why I shouldn't do it? 
+  * Wakka currently has terrible stats aside from shooting (Casual Blitzball Wakka tends to be a monster in the mid game levels)
+  * You're left with 2minutes to score, a very small window of opportunity that can be fucked by RNG.
+
+##### Why I should do it?
+  * This is handsdown, the fastest blitzball strategy minimal interaction wise.
+  * Wakka has access to Venom Shot. Making him a really decent shooter (w/o breaks).
+
+##### How to do it
+  * Follow Any% Blitzball Strats.
 
 ## Early Yuna OD Charge
 
