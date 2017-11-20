@@ -1,6 +1,6 @@
 # Chrono Cross
 
-Great PSX RPG, with probably the 2nd best soundtrack ever made for a video game behind Kingdom Hearts. Plot gets a little convoluted, and I wouldn't say there are really any memorable characters, but definitely some memorable moments.
+17-Year old sets off on a journey to build his ultimate harem featuring Really, Really, Really Good Music.
 
 ## Runners to Watch
 
