@@ -15,4 +15,4 @@ Protagonist has Dad issues and joins pretty girl that calls forth entities of gr
 
 [1]: https://goo.gl/nFdPyN
 [2]: ./Notes/Alternate%20Strategies.md
-[3]: .Notes/Nemesis.md
+[3]: ./Notes/Nemesis.md
