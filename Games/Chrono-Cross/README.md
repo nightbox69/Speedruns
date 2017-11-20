@@ -28,4 +28,4 @@
 [6]: https://discordapp.com/invite/0XU29pWZvyu0YCVH
 [7]: ./Notes/General-Knowledge.md
 [8]: ./Notes/Any%25_Good_Ending.md
-[9]: ./Star-Fights/
+[9]: ./Notes/Star-Fights/
