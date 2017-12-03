@@ -491,8 +491,7 @@ You can find general knowledge that will be useful with any route you take
     * Leena - 1/FrogPrince
     * Serge - 1/Luminaire
     * Leena - 1/Aquaball
-    * Pray you don't get here, but if so 2/2 your way to victory with Glenn and
-      Serge.
+    * Glenn and Serge - 2/2
     * _Gravitonne_ (Common)
     * _HellBound_ (Rare)
 
@@ -587,30 +586,29 @@ You can find general knowledge that will be useful with any route you take
     on the bridge, ask about the dead sea and run away. You don't have to sit
     there and listen to him.
   * Menu
-    * Lynx (Elements) - Remove All,
-                        Level 2 HealAll/HealAll/Blackout,
-                        Level 1 (B)/TurnBlue/Strengthen/TurnWhite/WeakMinded/AeroBlaster/Cure,
-                        Level 4 Magnify,
-                        Level 6 IceBlast
-    * Harle (Elements) - Remove All,
-                         Level 2 HealAll/HealAll/Revive,
-                         Level 1 TurnBlue/EagleEye/TurnRed/TurnWhite/TurnBlack,
-                         Level 4 Panacea/Diminish,
-                         Level 5 Meteorite/AeroBlaster,
-                         Level 6 IceBlast
+    * Lynx (Elements)
+      * Remove All
+      * Level 1 TurnBlue/Strengthen/TurnWhite/WeakMinded/AeroBlaster/Cure
+      * Level 2 HealAll/HealAll/Blackout
+      * Level 4 Magnify
+      * Level 6 IceBlast
+    * Harle (Elements)
+      * Remove All
+      * Level 1 TurnBlue/EagleEye/TurnRed/TurnWhite/TurnBlack
+      * Level 2 HealAll/HealAll/Revive
+      * Level 4 Panacea/Diminish
+      * Level 5 Meteorite/AeroBlaster
+      * Level 6 IceBlast
     * Sprigg (Elements) - Level 6 PhotonBeam
   * To the Zelbess. Head downstairs and down the ladder to the last room before
     the guard to talk to the sage. Try to follow him through the door, then go
     talk to Fargo. Play Roulette and try and get the cursor between
     North and East using paused to make sure it lands there. Hold X and unpause
     and you should hit South. Also if Fargo lands on East just hold X.
-  * **Go downstairs and notice the cat coming down the stairs.** Go watch the magic
-    show in the first door past the ladder. Re-enter to get turned into cats and
-    go unrig the game. Go back and talk to Fargo again. After you get access go
-    to the grand slam and talk to the sage. When he asks what you want, first
-    choose nothing(2). Then mash.
+  * **Go downstairs and go to the inn (below the casino)** 
+  * Go watch the magic show in the first door past the ladder. Re-enter to get turned into cats and go unrig the game. Go back and talk to Fargo again. After you get access go to the grand slam and talk to the sage. When he asks what you want, first choose nothing(2). Then mash.
   * [**Sage (1575/7)**][29]
-    * Sprig - 2/2/1/Lagoonate
+    * Sprigg - 2/2/1/Lagoonate
     * Lynx - 1/Strengthen Lagoonate
     * Harle - 1/Turnblack Lagoonate
     * Lagoonate - 1/3

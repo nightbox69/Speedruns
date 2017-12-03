@@ -9,8 +9,9 @@
   * PC HD Remaster - You can use the Any% Auto Splitter for this run. Just remember to manually split on the splits that are not included on the Any% List.
   * Any% means that you will follow strategies stated on the <a href="https://goo.gl/nFdPyN">Any% Notes</a> by <a href="https://www.twitch.tv/flobberworm4">Flobberworm4</a> while following these other rules (Don't forget to split on the bosses).
     * **Never** pick up HP Nodes on Tidus. Leave him at **520 Health**.
-    * Pick up all **Accuracy Nodes** scattered in Tidus's Any% Sphere Grid Menu.
+    * Pick up all **Accuracy Nodes** scattered in the way of Tidus's Any% Sphere Grid Menu.
   * Use Tidus to Capture most of the Monsters. The Kill Count stacks to the Karma and will increase damage dealt to Tidus.
+  * Quick Hit nerfed to Tier 2 from Tier 1 + more mana from the Original version on the International and HD Remaster versions. 
 
 ## Sinspawn Ammes - Guadosalam
 
