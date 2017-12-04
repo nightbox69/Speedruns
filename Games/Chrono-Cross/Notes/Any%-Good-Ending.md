@@ -1,14 +1,8 @@
 # Chrono Cross
 
-Any % run on PSN currently. I based a lot of my notes off the guides found
-[here][1] (Can't overstate the use of EvilAsh's notes and run from RPG Limit
-Break I filled in some new runner gaps, but this is basically just an extension
-of his notes.) and [here][3], as well as the speedrun from [RPG Limit Break][4].
-
 ## Useful General Knowledge
 
-You can find general knowledge that will be useful with any route you take
-[here][2]. This includes things like Stamina Pushing, Attack Queueing, etc...
+  * To be added.
 
 ## Mama Komodo
 
@@ -19,55 +13,105 @@ You can find general knowledge that will be useful with any route you take
   * Shop
     * 2 Fireballs
   * Menu
-    * Serge (Elements) - Fireball lvl 1, Fill Blanks
-    * Options - Accuracy Selection: Manual, O Button Pressed: Walk
-  * Ideally specific drops of feather/2 humours/fang. Backup strats later if you
-    don't get them.
-  * Top Path Komodo - 2/2/Fireball
-  * Jump Komodo - 2/2/Fireball
-  * Can accept beach bum blocking path to cliff for extra humour try.
-  * Race Komodo - 2/2/Weak Fireball
-  * [**Momma Komodo (76)**][5] 
-    * 2/2/2/Fireball (49 or above HP fireball for single pass). 2/2 your way to
-      victory if any issues.
+    * Serge - Allocate Elements
+      * Fireball level 1
+      * Fill Blanks
+    * Options
+      * Accuracy Selection: Manual
+      * O Button Pressed: Walk
+  * Go to Beach
+
+**Note:** Look for one Feather, one Fang, and 2 Humours as drops from all the Komodo Fights. There are backup strats later if you don't get them.
+
+### Komodo Fights
+
+  Komodo fights you will do are Rock Komodo, Jump Komodo and Chase Komodo in that order. You can take the Beach Bum F
+  
+#### Rock Komodo, Jump Komodo
+  
+  * Spam 2
+  * Fireball (Level 1 or 3)
+  * Spam 2
+
+#### Chase Komodo and Mama Komodo
+
+  * 2/2
+  * Level 1 Fireball, Mama Komodo will appear.
+
+#### **Momma Komodo (76)**
+  
+  * 2 / 2 or 1 / 2 if Stamina Refresh is at 4.
+  * Fireball + 2
+  * Spam 2
   * **SPLIT AFTER THE WIN MENU**
 
 ## Solt / Peppor / Karsh
 
-  * Choose 2nd option on 2nd Choice box when talking to Leena to save a little
-    bit of text.
-  * Feather backup - Go to island in middle or race circle.
-  * Take path on upper and to the left side to jump back to entrance.
-  * Talk to Leena
-  * Head to Cape Howl.
-  * **Option for Full Play through, and probably useful in a marathon**
-    * Fight 2 beach bum fights to pick up 2 humours (fight both fights
-      regardless of if you already have humours) to get [stat boosts][20].
-      These boosts are duplicated in the next fight, so now is a good time to
-      reset if bad stats.
-  * [**Karsh/Solt/Peppor (120/9 54/9 63/9)**][6]
-    * Defend until all text is finished since damage before text is nullified.
-      Text moves when Solt hits Serge.
-    * Kid - 1/2/Magma Bomb on Solt
-    * Serge - 1/1/2/2 Solt Fireball (Normal) Peppor
-    * Kid - 1/2/3 Fireball
-    * Serge - 1/2/2 Fireball
-    * _Ivory Helmet/Ivory Vest/Bone Axe_ (Common)
-    * _Copper/Copper/Power Glove_ (Rare)
-    * **SPLIT AFTER THE WIN MENU**
+  * Head to Opaasa Beach and walk to the Shore.
+  * Choose 2nd option on 2nd Choice box when talking to Leena to save a little bit of text, a cutscene will occur.
+  * Feather backup
+    * Enter the hole on the southwest path before the fishest to go to island in middle or race circle.
+  * Take path on upper and to the left side to jump back to entrance, go to Arni Village and straight to Leena.
+  * Talk to Leena and Head to Cape Howl.
+
+### Cape Howl
+
+  * Take the Beach Bum fights or just head straight to the Karsh Battle.
+
+#### Beach Bum Fights
+
+**Note:** These are optional if you lack Humours, you can opt for these for a Strength up or with Leena after. The stats you get are duplicated here so you can reset here if you got bad stats. 
+
+  * 2 / 2
+  * Fireball + 2
+  * Spam 2
+  * Head up to your Grave to trigger the next fight.
+
+#### **Karsh/Solt/Peppor (120/9 54/9 63/9)**
+  
+  * Defend until Solt hits Serge (damage is nullified until after the battle cutscene end.)
+  * Kid - Target Solt
+    * 1 / 2
+    * Magma Bomb to Solt
+  * Serge - Target Solt
+    * 1 / 1 / 2 / 2
+    * Fireball Level 1 to Peppor
+  * Kid - Target Peppor 
+    * 1 / 2 / 3 
+    * Fireball Level 1 to Peppor
+  * Serge and Kid - Target Karsh
+    * 2 / 2 / 2 Fireball + 2 to Karsh
+    * Kid and Serge - Spam 2 to Karsh until Dead
+  * **SPLIT AFTER THE WIN MENU**
+
+Drops: 
+  * Ivory Helmet/Ivory Vest/Bone Axe (Common)
+  * Copper/Copper/Power Glove (Rare)
+    
 
 ## Solt / Peppor
-  
-  * Rename Kid to K
-  * Say no to Kid 3 times. 2nd option all 3 times.
-  * Get Magma Bomb after Leena and Poshul join.
+
+  * Don't let Kid join the party. Choose the 2nd option 3 times (be careful).
+
+### Arni Village
+
+  * Get Magma Bomb hidden in the left corner of your room after Leena and Poshul join.
   * Menu
-    * Leena (Elements) - Magma Bomb Lvl 3
-    * Poshul (Equip) - Ivory Vest if need a backup humour.
-    * Serge (Equip) - Power Glove if you got it.
-  * Backup Humour - Cape Howl Beach Bum fight. Leena 1/1/1/Magma Bomb.
-  * Fossil Valley
-  * Switch to Leena in front.
+    * Leena - Allocate Element
+      * Magma Bomb Level 3
+    * Poshul - Equip
+      * Ivory Vest if need a backup humour.
+    * Serge - Equip 
+      * Power Glove (if you got it)
+  * Put Leena infront while running out (press select).
+  * Head to Fossil Valley, if short on Humours then head to Cape Howl for a Beach Bum fight for the extra Humour
+    * Leena
+      * Get to Level 3
+      * Magma Bomb
+
+### Fossil Valley
+
+  * Avoid encounters, head straight to the path.
   * [**Solt and Peppor (84/7 94/8)**][7]
     * Go for Solt first.
     * Leena - 3/3 (You only get 2 actions) Magma Bomb if you get it.
