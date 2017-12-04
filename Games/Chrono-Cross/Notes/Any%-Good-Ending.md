@@ -6,10 +6,14 @@
 
 ## Mama Komodo
 
-  * Skip Cutscene
+### Fort Dragonia Dream Sequence
+
+  * Skip Cutscene (Press Select), remember to hold O to run.
   * Avoid all encounters, bridges to help avoid bats.
   * Run past elevator to pull characters in.
-  * Talk to Leena.
+
+### Arni Village
+  * Talk to Leena, then head to the Shop
   * Shop
     * 2 Fireballs
   * Menu
@@ -21,11 +25,11 @@
       * O Button Pressed: Walk
   * Go to Beach
 
-**Note:** Look for one Feather, one Fang, and 2 Humours as drops from all the Komodo Fights. There are backup strats later if you don't get them.
+**Note:** Look for one Feather, and 2 Humours as drops from all the Komodo Fights. There are backup strats later if you don't get them.
 
 ### Komodo Fights
 
-  Komodo fights you will do are Rock Komodo, Jump Komodo and Chase Komodo in that order. You can take the Beach Bum F
+  Komodo fights you will do are the Rock Komodo, Jump Komodo and Chase Komodo in that order. You can take the Beach Bum before Jump Komodo for a Humour drop.
   
 #### Rock Komodo, Jump Komodo
   
@@ -38,7 +42,7 @@
   * 2/2
   * Level 1 Fireball, Mama Komodo will appear.
 
-#### **Momma Komodo (76)**
+#### Momma Komodo (76)
   
   * 2 / 2 or 1 / 2 if Stamina Refresh is at 4.
   * Fireball + 2
@@ -56,18 +60,18 @@
 
 ### Cape Howl
 
-  * Take the Beach Bum fights or just head straight to the Karsh Battle.
+  * You can take the Beach Bum fights or just head straight to the Karsh Battle.
 
 #### Beach Bum Fights
 
-**Note:** These are optional if you lack Humours, you can opt for these for a Strength up or with Leena after. The stats you get are duplicated here so you can reset here if you got bad stats. 
+**Note:** These are optional if you lack Humours, you can opt for these for a Strength up or with Leena after. The stats you get are duplicated on the Karsh battle so you can reset here if you got bad stats. 
 
   * 2 / 2
   * Fireball + 2
   * Spam 2
-  * Head up to your Grave to trigger the next fight.
+  * Head up and talk to your Grave to trigger the next fight.
 
-#### **Karsh/Solt/Peppor (120/9 54/9 63/9)**
+#### Karsh/Solt/Peppor (120/9 54/9 63/9)
   
   * Defend until Solt hits Serge (damage is nullified until after the battle cutscene end.)
   * Kid - Target Solt
@@ -81,14 +85,14 @@
     * Fireball Level 1 to Peppor
   * Serge and Kid - Target Karsh
     * 2 / 2 / 2 Fireball + 2 to Karsh
-    * Kid and Serge - Spam 2 to Karsh until Dead
+    * Spam 2 to Karsh until Dead
   * **SPLIT AFTER THE WIN MENU**
 
 Drops: 
+
   * Ivory Helmet/Ivory Vest/Bone Axe (Common)
   * Copper/Copper/Power Glove (Rare)
     
-
 ## Solt / Peppor
 
   * Don't let Kid join the party. Choose the 2nd option 3 times (be careful).
@@ -112,129 +116,242 @@ Drops:
 ### Fossil Valley
 
   * Avoid encounters, head straight to the path.
-  * [**Solt and Peppor (84/7 94/8)**][7]
-    * Go for Solt first.
-    * Leena - 3/3 (You only get 2 actions) Magma Bomb if you get it.
-    * Serge - 1/Fireball
-    * Leena - Magma bomb if not above/1
-    * Poshul - 1/2/3 to finish Solt
-    * Serge - 1/2/2/Fireball+2 Peppor
-    * _Copper/Uplift_ (Common)
-    * _ElectroJolt/Copper_ (Rare)
+
+#### Solt and Peppor (84/7 94/8)
+
+**Note:** Leena only has 2 actions available to her before the Battle Cutscene.
+
+  * Leena - Target Solt
+    * 3 (Check if you got the hit and if not do a 3 again to get to Level 3)
+    * Magma Bomb if you have it available.
+  * Serge - Target Solt
+    * 1
+    * Fireball
+  * Leena - Target Solt
+    * Magma Bomb (if not yet done) or do a 1
+  * Poshul Target Solt
+    * 1 / 2 / 3
+  * Serge - Target Peppor
+    * 1 / 2 / 2
+    * Fireball
   * **SPLIT AFTER THE WIN MENU**
+
+Drops: 
+
+  * Copper / Uplift (Common)
+  * ElectroJolt / Copper (Rare)
 
 ## Ketchop
 
-  * Talk to the statue polisher.
-  * Pick up the Profiteer Purse under the stair case of the mansion past the
-    Smithy shop.
-  * Talk to the Smithy, and disassemble the Profiteer Purse and Ivory Mail. Now
-    build the Steel Swallow and Iron Dagger.
-  * Menu
-    * Serge (Equip) - Steel Swallow/Ivory Helmet
-    * Kid (Equip) - Iron Dagger
+### Termina
+
+  * Put Serge infront of the party while running to Termina.
+  * Talk to the statue polisher, allow Kid to join you in your party.
+  * Replace Leena with Kid.
+  * Pick up the Profiteer Purse under the stair case of the mansion past the Smithy shop, head to the Smithy.
+  * Blacksmith
+      * Disassemble
+        * Profiteer Purse
+        * Ivory Mail (If you need extra Humour)
+      * Forge
+        * Steel Swallow
+        * Iron Dagger
   * Talk to Pierre.
   * Get Medal of Honor from running child.
-  * Talk to Pierre again.
-  * Head to Viper Manor, but Tele-Porter Pierre into Poshul's spot.
-  * [**Guards (70 84)**][8]
-    * Serge - 2/2/3
-    * Kid - 2/2/3
-    * Serge - 2/2/3
-    * Kid - 2/2/3
-    * _Tablet/Copper_ (Common)
-    * _PhotonRay/Meteor_ (Rare)
-  * Switch to Pierre being in front so he takes the Ketchop hit.
-  * [**Solt/Peppor/Ketchop (273/9)**][9]
-    * NOTE: Always hit Ketchop as he will kill Solt and Peppor for you.
-    * Serge - 1/2/3/Dash & Slash
-    * Kid - 2/2/3
-    * Serge - 2/2/3
-    * _Silver Earring/Brace_ (Common)
-    * _Silver Earring/Magic Ring_ (Rare)
+  * Show the Medal of Honor to Pierre (press Square and use Medal of Honor), talk to Pierre to get him to join the Party.
+  * Head to Viper Manor, optionally you can purchase 3 Antidotes from Lisa's Shop before you leave.
+
+**Note:** You don't need the Antidotes, but the Bulbs from Luccia can poison you.
+
+### Before Viper Manor
+
+  * Menu
+    * Serge - Equip
+      * Steel Swallow
+      * Ivory Helmet
+    * Kid - Equip
+      * Iron Dagger
+  * Tele-porter
+    * Replace Poshul with Pierre
+  * Put Pierre infront of the Party.
+
+### Viper Manor
+
+  * Pierre will talk to the guards, just mash until they fight you.
+
+#### Guard Fights (70 84)
+
+  * If there are more than 3 Guards
+    * Kid - Attack guard
+      * 2 / 2 / 2
+      * Magmabomb
+    * Pierre / Serge / Kid - Attack Guard
+      * 2 / 2 / 3
+  * If there are 3 or less Guards
+    * Serge and Kid - Attack Guards
+      * 2 / 2 / 3
+
+Drops:
+  * Tablet / Copper (Common)
+  * PhotonRay / Meteor (Rare)
+
+#### Solt/Peppor/Ketchop (273/9)
+
+**Note:** Switch Pierre to being infront if you still haven't done it yet. Also, don't bother hitting Solt and Peppor.
+
+  * Serge - Target Ketchop
+    * 1 / 2 / 3 
+    * Dash & Slash
+  * Kid and Serge - Target Ketchop
+    * 2/2/3
   * **SPLIT AFTER THE WIN MENU**
+
+Drops: 
+  * Silver Earring / Brace (Common)
+  * Silver Earring / Magic Ring (Rare)
 
 ## Luccia
 
+### Outside Viper Manor
+
   * Get the Turn Yellow behind the gate.
+  * Switch Serge back to front.
   * Menu
-    * Heal characters
-  * Guard Fight - 2/2/3 your way to victory.
-  * Head to the stables, choose the option to feed 10, then get the Manor Key.
-  * Turn the statue 0/0 as you can't get this right first try.
+    * Heal everyone with Tablets.
+  * Guard Fight
+    * See Guard Fight Strats above.
+  * Head to the stables, avoid moving guards and the lights.
+
+### Stables
+
+  * Talk to the Stable Master.
+  * Choose the option to feed 10, you'll get a Knee Pad for your trouble.
+  * Get the Manor Key on the cabinet.
+  * Head to the Manor Entrance, avoid moving guards and the lights.
+
+### Viper Manor
+  * Turn the statue 0/0, you'll never get it first try no matter what you try.
   * Cell Guards
-    * Serge - 2/2/3
-    * Kid - 2/2/2/Magma Bomb
-    * Serge - 2/2/3
-  * Go to dining room and talk to Glenn.
-  * Get Dragoon's Honor in corner.
-  * Let Glenn walk through door before going in.
-  * Walk into bedroom, and grab revive on left hand side, then get code from the
-    wall next to Glenn.
-  * Go to treasure room, and don't say anything when prompted.
+    * See Guard Fight Strats above.
+  * Head to the left side, avoid walking to the center or mashing x to avoid encounters from here on out. 
+  * Go to Dining Room and talk to Glenn. 
+  * Get Dragoon's Honor in the corner and get out.
+  * Follow Glenn and let him walk through door before going in.
+  * Walk into bedroom, talk to Glenn and grab revive on left hand side, then get code from the wall next to Glenn.
+  * Go to treasure room on the right side, and don't select anything on the passwords when prompted.
   * Pick up Bronze Sword and Bronze Mail from treasure room.
   * Menu
-    * Serge (Equip) - Bronze Mail/Dragoon's Honor
-    * Pierre (Elements) - Turn Yellow/Revive
-  * Grab Treasure on wall.
-  * [**Bulbs (168/10)**][10]
-    * Pierre - 1/Turn Yellow
-    * Serge - 2/3/2
-    * Kid - 2/2/3
-    * Serge - 2/2/2/Dash & Slash
-    * _Eagle Eye_ (Common)
-    * _AeroSaucer_ (Rare)
+    * Serge - Equip
+      * Bronze Mail
+      * Dragoon's Honor
+    * Pierre - Allocate Elements
+      * Level 1
+        * Turn Yellow
+        * Revive
+  * Grab the Silver Pendant on wall, just mash and don't think about it.
+
+### Bulbs (168/10)
+
+  * Pierre - Target Bulb
+    * 1
+    * Turn Yellow to Serge
+  * Serge - Target Bulb
+    * 2 / 3 then wait and then 2
+  * Kid - Target Bulb
+    * 2 / 2 / 3
+  * Serge - Target Bulb
+    * 2 / 2 / 2 
+    * Dash & Slash
   * **SPLIT AFTER THE WIN MENU**
+
+Drops: 
+  * Eagleeye (Common)
+  * AeroSaucer (Rare)
 
 ## Marcy
 
-  * Go to Karsh's Room (2nd door up the stairs) and try to take chest 20 times
-    for Dragoon's Gauntlet.
+  * Head up to Karsh's Room (2nd door up the stairs) and talk to the chest 20 times for Dragoon's Gauntlet.
   * Menu
-    * Serge (Equip) - Dragoon's Gauntlet
-  * Go enter code obtained from earlier and enter main hall.
-  * Head left to Balthasar's tower, and go talk to Marcy.
-  * [**Marcy (498/7)**][11]
-    * Cat's Cradle at 249 HP.
-    * Kid - 3/3
-    * Serge - 1/1/2/2
-    * Kid - 3/3
-    * Serge - 1/1/2/2
-    * Kid - 3/3
-    * Serge - (Post Cat's Cradle) 1/2/2/Slash & Dash
-    * Kid - Fireball+2
-    * _IceBlast_ (Common)
-    * _Iron_ (Rare)
+    * Serge - Equip
+      * Dragoon's Gauntlet
+    * Heal everyone with Tablets and use Antidotes if poisoned.
+    * Pierre - Allocate Element
+      * Eagleeye (if you got it)
+  * Go back to the statue and enter the code obtained from earlier.
+  * Head up to the Main Hall and turn left to Balthasar's Tower.
+
+### Balthasar's Tower
+
+  * Head up to Marcy and talk to her, she'll fight you after a bit of mashing.
+
+#### Marcy (498/7)
+
+**Note:** Marcy will use Cat's Cradle when she hits 249 HP, you want to kill her before she spams Iceblast.
+  * Kid - Target Marcy
+    * 3 / 3
+  * Serge - Target Marcy
+    * 1 / 1 / 2 / 2
+  * Kid - Target Marcy
+    * 3 / 3
+  * Serge - Target Marcy
+    * 1 / 1 / 2 / 2
+  * Kid - Target Marcy
+    * 3 / 3
+  * Pierre and Kid - if Marcy hasn't used Cat's Cradle
+    * 3 / 3 until she uses Cat's Cradle
+  * Serge - (Post Cat's Cradle) 1/2/2/Slash & Dash
+  * Kid - Fireball+2
   * **SPLIT AFTER THE WIN MENU**
 
+Drops: 
+  * IceBlast (Common)
+  * Iron (Rare)
+
 ## Lynx
+
+### Viper Manor
 
   * Head back to the main hall and talk to Harle.
   * Hit button behind 2nd pillar on left.
   * Guards (Heal with consumables after)
-    * Serge - 2/3
-    * Kid - 2/2/2
-    * Serge - 2/3
-  * Go up elevator, and go through door straight ahead. Wait for ghost to shut
-    his eye or else a battle will happen.
-  * [**Lynx (861/8)**][12]
-    * Count crits and misses as they cancel each other out.
-    * Serge - 3/3 (1)
-    * Kid - 2/2/2
-    * Serge - 1 then 3/3 (2)
-    * Kid - 2/2/3
-    * Serge - 3/3 (3) (Repeat if >1 miss)
-    * Kid - 1/1/2/2/Pilfer
-    * Serge - 3/3/Slash & Dash if no misses
-    * Pierre - 3
-    * Serge - 3/Slash & Dash
-    * Kid - 2/3/2
-    * _Pendragon Sigil C_ (Common)
-    * _Gravitonne_ (Rare)
+    * See Guard Fight Strats above.
+  * Go up elevator, and go through door straight ahead. Wait for ghost to shut his eye or else a battle will happen.
+
+#### Lynx (861/8)
+
+**Note:** Count crits and misses as they cancel each other out.
+  * Serge - Target Lynx
+    * 3 / 3 (1)
+  * Kid - Target Lynx
+    * 2 / 2 / 2
+  * Serge - Target Lynx
+    * 1 then 3 / 3 (2)
+  * Kid - Target Lynx
+    * 2 / 2 / 3
+  * Serge - Target Lynx
+    * 3 / 3 (3) (Repeat if >1 miss)
+  * Kid - Target Lynx
+    * 1 / 1 / 2 / 2
+    * Pilfer (Pray for a Magic Ring)
+  * Serge - Target Lynx
+    * 3 / 3
+    * Slash & Dash (if no misses)
+  * Pierre - Target Lynx
+    * 3
+  * Serge - Target Lynx
+    * 3
+    * Slash & Dash
+  * Kid - Target Lynx
+    * 2 / 3 / 2
   * **SPLIT AFTER THE WIN MENU**
+
+Drops: 
+  * Pendragon Sigil C (Common)
+  * Gravitonne (Rare)
 
 ## Fargo
 
+  * Just keep mashing, you'll get into the Menu after Serge jumps.
   * Menu (after fall)
     * Kid (Equip) - Remove Iron Dagger
     * Pierre (Elements) - Remove All
