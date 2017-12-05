@@ -351,32 +351,48 @@ Drops:
 
 ## Fargo
 
+### Viper Manor
+
   * Just keep mashing, you'll get into the Menu after Serge jumps.
-  * Menu (after fall)
-    * Kid (Equip) - Remove Iron Dagger
-    * Pierre (Elements) - Remove All
-  * Choose not to save Kid (First options, so just mash)
-  * Throw Poshul into the party to replace Kid.
-  * Go talk to Korcha and ask for the boat (First option, just mash).
-  * Once the Macha dialogue finishes, head to the shrine for your fortune.
-  * Go talk to Macha and select option 2 to get on the boat.
-  * ~15 second break during sail.
+  * Menu
+    * Kid - Equip
+      * Remove Iron Dagger
+    * Pierre - Allocate Elements
+      * Remove All
+
+### Guldove
+
+  * You'll wake up on a bed, go outside and watch Kid faint from poison then choose not to save her (It's the 1st option so don't think, just mash)
+  * Put Poshul into the Party to replace Kid.
+  * Go back to where you were sleeping (Head up the ladder then head right), talk to Korsha and ask for his boat. Macha will advise you to head to the Shrine.
+  * Head to the Shrine for your Fortune (Head straight to the left from Korsha's tent), head to the boat after.
+  * Go talk to Macha and select the 2nd option to get on the boat.
+
+### Termina
+
+  * Macha will let you roam after some cutscenes and mashing. Head to Lisa's.
   * Shop (Lisa's)
     * 21 Capsules
     * 11 Medicine
     * 11 Ointment
+    * 3 Brace
     * 1 CurePlus
     * 2 HealAll
-    * 3 Aquaball (4 if no IceBlast)
+    * 4 Aquaball (4 if no IceBlast)
     * 2 Bushbasher
-  * Smith
-    * Sell - Bone Axe/Iron Dagger/Bronze Sword
-    * Disassemble - Silver Earring/Knee Pad/Silver Pendant
-    * Forge - Ladle Fe26/Steel Sword
-  * Rename Glenn to G, and replace Pierre with Glenn
-  * Swap out Poshul for Leena
-  * Head to Marbule
-  * Shop (straight ahead)
+  * Head to the Smith after buying.
+    * Sell
+      * Bone Axe / Iron Dagger / Bronze Sword
+    * Disassemble
+      * Silver Earring / Knee Pad / Silver Pendant
+    * Forge
+      * Ladle Fe26 / Steel Sword
+  * Head to the Termina Entrance for a cutscene with Glenn, then head back to Macha to have Glenn and her join the party.
+  * Board the boat, replace Pierre and Poshul for Glenn and Leena respectively, and head to Marbule.
+
+### Marbule
+
+  * Shop (Straight ahead, talk to the guy in the swimming pool in the upper corner)
     * 2 TurnBlue
     * 1 TurnRed
     * 2 TurnWhite
@@ -384,39 +400,85 @@ Drops:
     * 1 Strengthen
     * 1 EagleEye
     * 1 WeakMinded
-  * Menu
-    * Serge (Equip) - Ivory Mail/Remove Ivory Helmet (Keep if 2 Magic Rings)
-    * Glenn (Equip) - Steel Sword
-    * Leena (Equip) - Ladle Fe26/Bronze Mail/Magic Ring/Ivory Helmet (Magic
-                      Ring if 2)
-    * Serge (Elements) - Lvl 1 - TurnBlue/WeakMinded/AquaBall,
-                         Lvl 2 - HealAll
-    * Glenn (Elements) - Lvl 1 - Strengthen/TurnBlue/AquaBall,
-                         Lvl 2 - Revive/HealAll/Medicine,
-                         Lvl 4 - Cureplus
-    * Leena (Elements) - Lvl 1 - EagleEye/TurnRed/AquaBall,
-                         Lvl 4 - Iceblast
-  * Head towards Fort Dragoon and enter the fog.
-  * Run away from first fight.
-  * [**Polly (567/18)**][13]
-    * Glenn - 1/TurnBlue on Serge
-    * Leena - 1/1/1 until Level 4/IceBlast
-    * Serge - 2/2/3
-    * Glenn - 2/2/3
-    * Serge - 2/2/3
-    * Attack until dead repeating above.
-    * _MagmaBurst_ (Common/Rare)
-  * [**Fargo (693/8)**][14]
-    * Glenn - 1/Strengthen on Serge
-    * Leena - 1/TurnRed on Serge
-    * Serge - 2/3/2
-    * Glenn - 2/2/3
-    * Serge - 2/2/3
-    * Glenn - Defend
-    * Serge - X-Strike
-    * _Meteorite_ (Common)
-    * _PhotonBeam_ (Rare)
+  * Menu - Equip
+    * Serge
+      * Ivory Mail
+      * Remove Ivory Helmet (Keep this if you have 2 Magic Rings)
+    * Glenn
+      * Steel Sword
+    * Leena
+      * Ladle Fe26
+      * Bronze Mail
+      * Magic Ring
+      * Ivory Helmet or Magic Ring
+    * Allocate Elements
+    * Serge
+      * Level 1
+        * TurnBlue
+        * WeakMinded
+        * AquaBall
+      * Level 2
+        * HealAll
+    * Glenn
+      * Level 1
+        * Strengthen
+        * TurnBlue
+        * AquaBall
+      * Level 2
+        * Revive
+        * HealAll
+        * Medicine x5
+      * Level 4
+        * Cureplus
+    * Leena
+      * Level 1
+        * EagleEye
+        * TurnRed
+        * AquaBall
+      * Level 4
+        * Iceblast
+  * Board the boat, head towards Fort Dragoon and enter the fog.
+
+### Fargo's Pirate Ship
+
+  * Just mash and run away from first fight.
+
+#### Polly (567/18)
+  * Glenn - Target Polly
+    * 1
+    * TurnBlue on Serge
+  * Leena - Target Polly
+    * Spam 1's until Level 4
+    * IceBlast
+  * Serge and Glenn - Target Polly
+    * Spam 2 / 2 / 3 until Polly dies
+
+Drops:
+  * MagmaBurst (Common / Rare)
+
+#### Fargo (693/8)
+
+  * Glenn - Target Fargo
+    * 1
+    * Strengthen on Serge
+  * Leena - Target Fargo
+    * 1
+    * TurnRed on Serge
+  * Serge - Target Fargo
+    * 2 / 3 / 2
+  * Glenn - Target Fargo
+    * 2 / 2 / 3
+  * Serge - Target Fargo
+    * 2 / 2 / 3
+  * Glenn
+    * Defend
+  * Serge - Target Fargo
+    * X-Strike
   * **SPLIT AFTER THE WIN MENU**
+
+Drops:
+  * Meteorite (Common)
+  * PhotonBeam (Rare)
 
 ## Dead Head
 
@@ -460,8 +522,8 @@ Drops:
     * Serge - 3/3
     * Glenn - 2/2/2/CurePlus+1 on DeadHead
     * Serge - 3/3/Dash & Slash
-    * _Hell Soul_ (Common)
-    * _HellBound_ (Rare)
+    * Hell Soul (Common)
+    * HellBound (Rare)
   * **SPLIT AFTER THE WIN MENU**
 
 ## Fire Dragon
@@ -475,14 +537,14 @@ Drops:
     * Serge (Equip) - Remove All
     * Glenn (Equip) - Dragoon's Guantlet (Power Glove if you have it as well)
     * Leena (Equip) - Dragoon's Honor
-    * Glenn (Elements) - Lvl 1 Remove Strengthen,
-                         Lvl 4 Panacea/Magnify,
-                         Lvl 5 Placeholder
-    * Serge (Elements) - Lvl 1 Add Strengthen,
-                         Lvl 4 Add BushBasher
-    * Leena (Elements) - Lvl 3 BushBasher,
-                         Lvl 4 Photonbeam,
-                         Lvl 5 Placeholder
+    * Glenn (Elements) - Level 1 Remove Strengthen,
+                         Level 4 Panacea/Magnify,
+                         Level 5 Placeholder
+    * Serge (Elements) - Level 1 Add Strengthen,
+                         Level 4 Add BushBasher
+    * Leena (Elements) - Level 3 BushBasher,
+                         Level 4 Photonbeam,
+                         Level 5 Placeholder
   * [**Solt/Pepper (525/6 507/8)**][16]
     * Serge - 1/Strengthen on Glenn
     * Leena - 1/EagleEye on Glenn
@@ -491,8 +553,8 @@ Drops:
     * Glenn - 3/3 Solt Dead
     * Serge - 1/2/2/BushBasher
     * Glenn - 3/3
-    * _Iron Vest/Iron Mail_ (Common)
-    * _Sky Djinn Ring/Dragoon Gauntlet_ (Rare)
+    * Iron Vest/Iron Mail (Common)
+    * Sky Djinn Ring/Dragoon Gauntlet (Rare)
   * Straight through the lava to the top. Menu before entering the cave.
   * Menu
     * Leena (Equip) - Iron Vest or Sky Djinn Ring
@@ -523,8 +585,8 @@ Drops:
     * Serge - Aquaball-2
     * Leena - IceBlast
     * Heal with Consumables
-    * _Weaken_ (Common)
-    * _Magic Ring_ (Rare)
+    * Weaken (Common)
+    * Magic Ring (Rare)
   * **SPLIT AFTER THE WIN MENU**
 
 ## Three Divas
@@ -541,8 +603,8 @@ Drops:
     * Serge - Defend
     * Leena - 1/1/1/1/IceBlast
     * Glenn - 3/3
-    * _Eagle Eye/Gold Earring/Iron Vest_ (Common)
-    * _Silver Earring/Gold Earring/Dancing Shoes_ (Rare)
+    * Eagle Eye/Gold Earring/Iron Vest (Common)
+    * Silver Earring/Gold Earring/Dancing Shoes (Rare)
   * **SPLIT AFTER THE WIN MENU**
 
 ## Giant Gloop
@@ -550,15 +612,15 @@ Drops:
   * Keep going into Fort Dragonia and you will run into the next boss.
   * [**Dragoon (735/9)**][21]
     * Gleen - 2/2/Magnify
-    * Leena - 1/2/2 (Get to Lvl 5)
+    * Leena - 1/2/2 (Get to Level 5)
     * Serge - 1/Aquaball-2 (Do 2/2/Aqauball-2 if good stamina)
     * Leena - Iceblast
     * Glenn - Defend (2/2 if good stamina)
     * Leena - Aquaball-2
     * Glenn - 2/2/Aquaball-2
-    * _Frog Prince_ (Common/Rare)
+    * Frog Prince (Common/Rare)
   * Menu
-    * Leena (Elements) - Lvl 5 FrogPrince
+    * Leena (Elements) - Level 5 FrogPrince
     * Glenn (Equip) - Iron Vest
     * Serge (Equip) - Golden Earring (Also Silver Earring if dropped)
     * Leena (Equip) - Magic Ring if dropped from Fire Dragon and didn't already
@@ -586,8 +648,8 @@ Drops:
     * Glenn - Defend for stamina/BlueField, or blue element
     * Leena - 1/2/2/FrogPrince
     * Heal with Consumables
-    * _AquaBall_ (Common)
-    * _IceBlast_ (Rare)
+    * AquaBall (Common)
+    * IceBlast (Rare)
   * **SPLIT AFTER THE WIN MENU**
 
 ## Taurusoid
@@ -610,8 +672,8 @@ Drops:
     * Glenn - Aquaball (TurnBlue if Leena 15-17 Magic)
     * Serge - Aquaball
     * Leena - 1/1 until Level 5/FrogPrince
-    * _Carapace_ (Common)
-    * _Iron Vest_ (Rare)
+    * Carapace (Common)
+    * Iron Vest (Rare)
   * **SPLIT AFTER THE WIN MENU**
 
 ## Sun of a Gun
@@ -631,7 +693,7 @@ Drops:
     * Serge - Aquaball
     * Leena - FrogPrince or 1s until Level 5, then FrogPrince
     * Heal with Consumables
-    * _Iron_ (Common/Rare)
+    * Iron (Common/Rare)
   * **SPLIT AFTER THE WIN MENU**
 
 ## Bunyip
@@ -642,7 +704,7 @@ Drops:
     away or 2.
   * [**Bunyip (420/10 then 1260/10)**][25]
     * Leena - 1/2/2 (Get to level 5)
-    * Glenn - 2/3/Magnify, replace with 1s to get to lvl 5 if attacked.
+    * Glenn - 2/3/Magnify, replace with 1s to get to Level 5 if attacked.
     * Serge - 1
     * Leena - IceBlast (should transform)
     * Serge - 2/2 (Get to Level 5)
@@ -653,8 +715,8 @@ Drops:
     * Serge - 1/Luminaire
     * Leena - 1/Aquaball
     * Glenn and Serge - 2/2
-    * _Gravitonne_ (Common)
-    * _HellBound_ (Rare)
+    * Gravitonne (Common)
+    * HellBound (Rare)
 
 ## Lynx
 
@@ -667,8 +729,8 @@ Drops:
     * Serge - 1/1
     * Glenn - 3/3/SonicSword
     * Heal with Consumables
-    * _Dragoon Gauntlet_ (Common)
-    * _Mythril Mail_ (Rare)
+    * Dragoon Gauntlet (Common)
+    * Mythril Mail (Rare)
   * [**Lynx (1050/7)**][27]
     * Serge - 2/3/WeakMinded
     * Glenn - 1/2/2
@@ -677,14 +739,14 @@ Drops:
     * Serge - 3/3
     * Glenn - Magnify
     * Leena - PhotonBeam
-    * Serge - 3 (1/2 if not Lvl 5)
+    * Serge - 3 (1/2 if not Level 5)
     * Glenn - Defend
     * Serge - Luminaire
     * Glenn - 2/3
     * Leena - Aquaball
     * Don't heal as we are done with these characters for now.
-    * _Pendragon Sigil B_ (Common)
-    * _Sky Djinn Ring_ (Rare)
+    * Pendragon Sigil B (Common)
+    * Sky Djinn Ring (Rare)
   * **SPLIT AFTER THE WIN MENU**
 
 ## Radius
@@ -720,8 +782,8 @@ Drops:
     * Lynx - 2/2/2
     * Lagoon - 3/3
     * Heal with Consumables
-    * _Heal_ (Common)
-    * _Magnify_ (Rare)
+    * Heal (Common)
+    * Magnify (Rare)
   * **SPLIT AFTER THE WIN MENU**
 
 ## Sage of Marbule
@@ -777,7 +839,7 @@ Drops:
     * Lagoon - 2/3
     * Lynx - 1/2/2
     * Lagoon - 2/3
-    * _Mythril Helmet_ (Common/Rare)
+    * Mythril Helmet (Common/Rare)
   * **SPLIT AFTER THE WIN MENU**
 
 ## Garai
@@ -803,8 +865,8 @@ Drops:
     * Harle - Meteorite+3
     * Sprigg - PhotonBeam+3
     * Must kill with Sprigg, so do whatever is left (if any) with Sprigg.
-    * _Iron_ (Common)
-    * _Rainbow Shell_ (Rare)
+    * Iron (Common)
+    * Rainbow Shell (Rare)
   * Sprigg First
   * [**Garai (2086/6)**][30]
     * **Early dopple strat**
@@ -829,7 +891,7 @@ Drops:
     * Lynx - 2/2/GlideHook
     * WKnight - 1/3
     * Heal with Consumables
-    * _Dragoon's Honor_ (Common/Rare)
+    * Dragoon's Honor (Common/Rare)
   * **SPLIT AFTER THE WIN MENU**
 
 ## Highwayman
@@ -848,8 +910,8 @@ Drops:
     * Harle - Panacea WKnight
     * Lynx - 1/2/2
     * WKnight - 3/3
-    * _Nimble_ (Common)
-    * _Mythril_ (Rare)
+    * Nimble (Common)
+    * Mythril (Rare)
   * **SPLIT AFTER THE WIN MENU**
 
 ## Miguel
@@ -874,7 +936,7 @@ Drops:
     * WKnight - 2/3
     * Lynx - 1/1/2/Glidehook
     * WKnight - 2/3
-    * _Dreamer's Scarf_ (Common/Rare)
+    * Dreamer's Scarf (Common/Rare)
   * **SPLIT AFTER THE WIN MENU**
 
 ## Roachester
@@ -911,7 +973,7 @@ Drops:
     * Lynx - 1/2/2
     * Harle - Defend
     * WKnight - 3/3
-    * _Elbow Pad_ (Common/Rare)
+    * Elbow Pad (Common/Rare)
   * **SPLIT AFTER THE WIN MENU**
 
 ## Hell's Cook
@@ -928,8 +990,8 @@ Drops:
     * Lynx - 3/3/IceBlast
     * WKnight - 3/3
     * Heal with Consumables
-    * _Gold Pendant_ (Common)
-    * _Mythril_ (Rare)
+    * Gold Pendant (Common)
+    * Mythril (Rare)
   * **SPLIT AFTER THE WIN MENU**
 
 ## Grobyc
@@ -951,8 +1013,8 @@ Drops:
     * WKnight - 3/3
     * Lynx - 1/2/3
     * WKnight - 3/3
-    * _Defender_ (Common)
-    * _FreeFall_ (Rare)
+    * Defender (Common)
+    * FreeFall (Rare)
   * **SPLIT AFTER THE WIN MENU**
 
 ## Dario
@@ -962,8 +1024,8 @@ Drops:
     * Lynx - 3/3
     * Harle - 2/2
     * Lynx - 1/3/Glidehook
-    * _Mythril_ (Common)
-    * _Screw_ (Rare)
+    * Mythril (Common)
+    * Screw (Rare)
   * Head to Balthasar's tower. Fight the Guillot again.
   * Switch Grobyc for Sprigg, then switch Karsh for Grobyc.
   * Menu
@@ -982,8 +1044,8 @@ Drops:
     * Harle - 1/2/2/AeroBlaster+1 Peppor
     * Lynx - 2/3
     * Karsh - 3
-    * _Denadorite/Denadorite_ (Common)
-    * _Stone Vest/Stone Mail_ (Rare)
+    * Denadorite/Denadorite (Common)
+    * Stone Vest/Stone Mail (Rare)
   * Head to Hermit's Hideaway
   * Go talk to Riddel and rename her to R.
   * Once you have access to Marcy, put her in the party, then add Riddel
@@ -1032,7 +1094,7 @@ Drops:
     * Lynx - 1/2/3/WeakMinded
     * Marcy - 1/1/1 until maxed/IceBlast
     * Marcy repeat since you have Dario in a loop.
-    * _Dreamer's Scarf_ (Common/Rare)
+    * Dreamer's Scarf (Common/Rare)
   * **SPLIT AFTER THE WIN MENU**
 
 ## Earth Dragon
@@ -1083,7 +1145,7 @@ Drops:
     * Lynx - 3/3
     * Fargo - 3/3
     * Lynx - 3/3 GlideHook
-    * _ThundaSnake_ (Common/Rare)
+    * ThundaSnake (Common/Rare)
   * **SPLIT AFTER THE WIN MENU**
 
 ## Water Dragon
@@ -1113,7 +1175,7 @@ Drops:
     * **Lynx 30 STR**
     * Fargo - 2/3
     * Lynx - 2/2/Glidehook
-    * _BlueWhale_ (Common/Rare)
+    * BlueWhale (Common/Rare)
   * **SPLIT AFTER THE WIN MENU**
 
 ## Tyrano
@@ -1151,7 +1213,7 @@ Drops:
   * **Pterodact (750/21)**
     * Fargo - TurnBlue Lynx
     * Lynx - 2/2/3 (2/2/2/GlideHook if 1)
-    * Marcy - 1/1/1 until Lvl 6/IceBlast+2
+    * Marcy - 1/1/1 until Level 6/IceBlast+2
     * Lynx - 2/2/2/GlideHook
   * Now in the Navel, head up to the Mantis.
   * After that, head down and to the right for that mantis.
@@ -1168,7 +1230,7 @@ Drops:
     * Fargo - 1/TurnBlue Lynx
     * Marcy - FrogPrince
     * Lynx/Fargo - 2/2/2 for the win.
-    * _Resistance Ring_ (Common/Rare)
+    * Resistance Ring (Common/Rare)
   * **SPLIT AFTER THE WIN MENU**
 
 ## Green Dragon
@@ -1195,7 +1257,7 @@ Drops:
     * Lynx - 3/3
     * Marcy - 3/3 (or 1/1/1 until Panacea for Lynx if needed)
     * Lynx - 2/2/3 (3/3/Glidehook if <34 STR)
-    * _Genie_ (Common/Rare)
+    * Genie (Common/Rare)
   * **SPLIT AFTER THE WIN MENU**
 
 ## Fire Dragon
@@ -1210,8 +1272,8 @@ Drops:
     * Heal with Consumables
   * Talk to the Fire Dragon to start the battle.
   * [**Fire Dragon (892/9 -> 3570/9)**][42]
-    * Marcy - 1/2 (Get to Lvl 4)
-    * Fargo - 1 (Get to Lvl 2)
+    * Marcy - 1/2 (Get to Level 4)
+    * Fargo - 1 (Get to Level 2)
     * Lynx - 1/1/2/3
     * Marcy - Defend
     * Fargo - Defend
@@ -1228,7 +1290,7 @@ Drops:
     * Lynx - 3/3/1
     * Marcy - Defend
     * Lynx - Glidehook
-    * _Salamander_ (Common/Rare)
+    * Salamander (Common/Rare)
   * **SPLIT AFTER THE WIN MENU**
 
 ## Sky Dragon
@@ -1243,7 +1305,7 @@ Drops:
     * Lynx - 3/3 (2/3 if 38 STR)
     * Fargo - 3/3
     * Lynx - 3/3/Glidehook
-    * _Saints_ (Common/Rare)
+    * Saints (Common/Rare)
   * **SPLIT AFTER THE WIN MENU**
 
 ## Dark Serge
@@ -1253,8 +1315,8 @@ Drops:
     * Marcy - EagleEye Lynx
     * Fargo - Strengthen Lynx (skip if 38 STR)
     * Lynx - 3/3/Glidehook
-    * _Mythril_ (Common)
-    * _Waist Pad_ (Rare)
+    * Mythril (Common)
+    * Waist Pad (Rare)
   * Head up the ladder and to the left to the Shrine. Show Tear of Hate to
     get the Dragon Eblem. Now head back to Opassa Beach and Home World.
   * Now head to the El Nido Triangle. Head down the ladder and get the chest
@@ -1268,7 +1330,7 @@ Drops:
     * Fargo - 3/3
     * Lynx - 3/3 (GlideHook if 40 STR)
     * otherwise Repeat
-    * _MagNegate_ (Common/Rare)
+    * MagNegate (Common/Rare)
   * After the fight catch Starky, then head to Guldove. Head up the ladder to
     the left and go to the shrine. Show the Dragon Emblem to enter. Head to Fort
     Dragonia. Heal at the screen before you enter the fort. Head for the
@@ -1280,8 +1342,8 @@ Drops:
     * Fargo - 3/3
     * Lynx - 3/3 (GlideHook if 40 STR)
     * otherwise Repeat
-    * _Pendragon Sigil A_ (Common)
-    * _Stamina Belt_ (Rare)
+    * Pendragon Sigil A (Common)
+    * Stamina Belt (Rare)
   * **SPLIT AFTER THE WIN MENU**
 
 ## Vita Unus
@@ -1308,7 +1370,7 @@ Drops:
     * Serge - 3/3
     * Fargo - 3/3
     * Serge - 3/3/Dash&Slash
-    * _Vigora_ (Common/Rare)
+    * Vigora (Common/Rare)
   * **SPLIT AFTER THE WIN MENU**
 
 ## PolisPolice
@@ -1331,7 +1393,7 @@ Drops:
     * Fargo - 1/1/1 until Vigora Serge
     * Serge - 1/Dash&Slash (Strenghten, 1 Dash&Slash if Marcy died) (trigger break)
     * Serge - 3/x
-    * _PhysNegate_ (Common/Rare)
+    * PhysNegate (Common/Rare)
   * **SPLIT AFTER THE WIN MENU**
 
 ## Fate
@@ -1353,9 +1415,9 @@ Drops:
     * **Serge 37 STR, 22 MAG**
     * Marcy - 1/1/Magnify
     * Serge - 2/3/2
-    * Marcy - 1/1 (Get to Lvl 2)
-    * Fargo - 1/1 (Get to Lvl 2)
-    * Serge - 2/2 (Get to Lvl 8)
+    * Marcy - 1/1 (Get to Level 2)
+    * Fargo - 1/1 (Get to Level 2)
+    * Serge - 2/2 (Get to Level 8)
     * **Gravitonne from Fate**
     * Fargo - Genius-3 Serge
     * Marcy - WeakMinded-3
@@ -1364,7 +1426,7 @@ Drops:
     * Serge - 1/2/Saints
     * Fargo - 2/3 (Revive Serge if needed)
     * Serge - 2/2/Dash&Slash
-    * _Magic Seal_ (Common/Rare)
+    * Magic Seal (Common/Rare)
   * **SPLIT AFTER THE WIN MENU**
 
 ## Royal Jelly
@@ -1383,9 +1445,9 @@ Drops:
   * Move Starky to First. And head through to where the Star Fragment chest was,
     but is this time a space ship.
   * [**RoyalJelly (1739/14)**][48]
-    * Glenn - 1/1/1/1 (Get to Lvl 4) Strengthen Serge
+    * Glenn - 1/1/1/1 (Get to Level 4) Strengthen Serge
     * Serge - 1/1/1/1/X-Strike
-    * _Resistance Belt_ (Common/Rare)
+    * Resistance Belt (Common/Rare)
   * **SPLIT AFTER THE WIN MENU**
 
 ## Terrator
@@ -1396,15 +1458,15 @@ Drops:
   * [**Terrator (2310/5)**][49]
     * **Serge 42 STR**
     * Serge - 2/2
-    * Glenn - 1/1 (Get to Lvl 3)
+    * Glenn - 1/1 (Get to Level 3)
     * Fargo - Strengthen
     * Serge - 1/X-Strike (skip 1 if 43 and Glenn 41)
     * **Serge 38 STR**
     * Serge - 2/3
-    * Glenn - 1/1 (Get to Lvl 3)
+    * Glenn - 1/1 (Get to Level 3)
     * Fargo - Strengthen
     * Serge - 1/X-Strike (skip 1 if 41)
-    * _YellowField_ (Common/Rare)
+    * YellowField (Common/Rare)
   * **SPLIT AFTER THE WIN MENU**
 
 ## Pryotor
@@ -1437,7 +1499,7 @@ Drops:
     * Serge - 2 (3 if 35-37 or after SadnessWave)
     * Fargo - 1/Strengthen Serge
     * Serge - 3/3/Dash&Slash
-    * _RedField_ (Common/Rare)
+    * RedField (Common/Rare)
   * **SPLIT AFTER THE WIN MENU**
 
 ## Anemotor
@@ -1449,18 +1511,18 @@ Drops:
     * Glenn EagleEye Serge
     * **Serge 44 STR Glenn 40 STR**
     * Serge - 2/3 (InfoScope)
-    * Glenn - 1/1/1 (Get to Lvl 3) X-Strike
+    * Glenn - 1/1/1 (Get to Level 3) X-Strike
     * **Serge 38 STR Glenn 38 STR**
     * Serge - 2/3 (InfoScope)
-    * Glenn - 1/1/1 (Get to Lvl 3)
+    * Glenn - 1/1/1 (Get to Level 3)
     * Fargo - Strengthen Serge
     * Serge - X-Strike
     * **Else**
     * Serge - 3/3 (InfoScope)
-    * Glenn - 1/1/1 (Get to Lvl 3)
+    * Glenn - 1/1/1 (Get to Level 3)
     * Fargo - Strengthen Serge
     * Serge - X-Strike
-    * _GreenField_ (Common/Rare)
+    * GreenField (Common/Rare)
   * **SPLIT AFTER THE WIN MENU**
 
 ## Gravitor
@@ -1474,7 +1536,7 @@ Drops:
     * **Else**
     * Fargo - Strengthen Serge
     * Serge - 3/3/Dash&Slash
-    * _BlackHole_ (Common/Rare)
+    * BlackHole (Common/Rare)
   * **SPLIT AFTER THE WIN MENU**
 
 ## Luxator
@@ -1486,15 +1548,15 @@ Drops:
     * Glenn - EagleEye Serge
     * **Serge 42 STR Glenn 41 STR**
     * Serge - 3/3
-    * Glenn - 1/1/1 (Get to Lvl 3)
+    * Glenn - 1/1/1 (Get to Level 3)
     * Fargo - Strengthen Serge
     * Serge - 1/2 (must buffer this) X-Strike
     * **Else**
     * Fargo - Strengthen Serge
     * Serge - 3/3
-    * Glenn - 1/2/3 (Get to Lvl 3, plus max Serge)
+    * Glenn - 1/2/3 (Get to Level 3, plus max Serge)
     * Serge - 3/3/X-Strike (first 3 should trigger Heal)
-    * _UltraNova_ (Common/Rare)
+    * UltraNova (Common/Rare)
   * **SPLIT AFTER THE WIN MENU**
 
 ## Aquator
@@ -1507,14 +1569,14 @@ Drops:
     * Glenn - 1/1/X-Strike
     * **Serge 43 STR**
     * Serge - 2/2
-    * Glenn - 1/1 (Get to Lvl 3)
+    * Glenn - 1/1 (Get to Level 3)
     * Fargo - Strengthen Serge (after Vigora)
     * Serge - 1/1 (2 if 42 or miss) X-Strike
     * **Serge 40 STR**
     * Fargo - EagleEye Serge
-    * Glenn - 1/1/1 (Get to Lvl 4) Strengthen Serge
+    * Glenn - 1/1/1 (Get to Level 4) Strengthen Serge
     * Serge - 3/3/X-Strike
-    * _BlueField_ (Common/Rare)
+    * BlueField (Common/Rare)
   * **SPLIT AFTER THE WIN MENU**
 
 ## Dragon God
@@ -1522,41 +1584,41 @@ Drops:
   * Head up the teleporter over the defeated boss.
   * [**Dragon God (1900/10 Each Phase)**][55]
     * **Serge 44 STR**
-      * **_Phase 1 (White)_**
+      * **Phase 1 (White)**
       * Serge - 2/3/2
       * Glenn - 2/2
-      * Fargo - 1/1 (Get to Lvl 3)/TurnGreen Serge
+      * Fargo - 1/1 (Get to Level 3)/TurnGreen Serge
       * Serge - 2 then 2 then 2
       * Glenn/Serge finish
-      * **_Phase 2 (Yellow)_**
+      * **Phase 2 (Yellow)**
       * Glenn - Get Serge to 5 Stamina/Strengthen Serge
       * Fargo - EagleEye Serge
       * Serge - 3 then 3
-      * **_Phase 3 (Red)_**
+      * **Phase 3 (Red)**
       * Glenn - TurnBlue Serge
       * Fargo - 1/1/1 until Serge 6 Stamina/Vigora Serge
       * Serge - 3 then 3
-      * **_Phase 4 (Green)_**
+      * **Phase 4 (Green)**
       * **Serge 46 STR**
       * Serge - 1/3/3 then 3
       * **Else**
       * Serge - 3/3
       * Glenn - Defend (1 if not LV3)
       * Serge - 2 then 3
-      * **_Phase 5 (Blue)_**
+      * **Phase 5 (Blue)**
       * Fargo - 1/Strengthen Serge (always do 1, no matter what)
       * Serge - X-Strike
-      * **_Phase 6 (Black)_**
+      * **Phase 6 (Black)**
       * Glenn - 1/1/1 until Serge 6 Stamina)/EagleEye Serge
       * Fargo - 1/1/1 until Serge's TurnBlue not active
       * Serge - 1/3 then 3
       * Glenn - Finish
-      * **_Phase 7 (White)_**
+      * **Phase 7 (White)**
       * Glenn - TurnBlack Serge
       * Fargo - 2/2/2 until Serge 6 or 7 Stamina/Genius Serge (Skip Genius if 46
                 STR + 150 Fargo Damage or 47 STR + 100 Fargo Damage)
       * Serge - 1 then 3/3
-    * _Earring of Hope_ (Common/Rare)
+    * Earring of Hope (Common/Rare)
   * **SPLIT AFTER THE WIN MENU**
 
 ## Time Devourer
@@ -1567,9 +1629,9 @@ Drops:
   * To Opassa Beach and go to another world. Go to the purple vapor, and select
     the time egg to start the fight.
   * [**Time Devourer (10)**][56]
-    * Serge - 1/1/1 (Get to Lvl 3)
-    * Glenn - 1 (Get to Lvl 2)
-    * Fargo - 1 (Get to Lvl 2)
+    * Serge - 1/1/1 (Get to Level 3)
+    * Glenn - 1 (Get to Level 2)
+    * Fargo - 1 (Get to Level 2)
     * Defend All until attack
     * Serge - TurnYellow
     * Glenn - Strengthen
@@ -1580,59 +1642,59 @@ Drops:
     * Serge - ChronoCross
   * **SPLIT AFTER CHRONO CROSS**
 
-[1]: https://docs.google.com/document/d/1ZciCKOh_N4B72tVN1JpZqmzniRTtcfrBXuAjzNWJeyE
-[2]: ./General_Knowledge.md
+[1]: https://docs.google.com/document/d/1ZciCKOhN4B72tVN1JpZqmzniRTtcfrBXuAjzNWJeyE
+[2]: ./GeneralKnowledge.md
 [3]: https://www.speedrun.com/chronocross/guide/0g6x9
 [4]: https://www.youtube.com/watch?v=5hnoU504HGo
-[5]: ./Star_Fights/Star_1_Momma_Komodo.md
-[6]: ./Star_Fights/Star_2_Karsh_Solt_Peppor.md
-[7]: ./Star_Fights/Star_3_Solt_Peppor.md
-[8]: ./Star_Fights/Star_4_Guards.md
-[9]: ./Star_Fights/Star_5_Solt_Peppor_and_Ketchop.md
-[10]: ./Star_Fights/Star_6_Bulbs.md
-[11]: ./Star_Fights/Star_7_Marcy.md
-[12]: ./Star_Fights/Star_8_Lynx.md
-[13]: ./Star_Fights/Star_9_Polly.md
-[14]: ./Star_Fights/Star_10_Fargo.md
-[15]: ./Star_Fights/Star_11_Deadhead.md
-[16]: ./Star_Fights/Star_12_Solt_and_Peppor.md
-[17]: ./Star_Fights/Star_13_Fire_Dragon.md
-[18]: ./Star_Fights/Star_14_Karsh_Marcy_Zoah.md
-[19]: ./Tested_Optimizations/Silver_Loupe.md
-[20]: ./Tested_Optimizations/Level_2_Stat_Boosts.md
-[21]: ./Star_Fights/Star_15_Dragoon.md
-[22]: ./Star_Fights/Star_16_GiantGloop.md
-[23]: ./Star_Fights/Star_17_Taurusoid.md
-[24]: ./Star_Fights/Star_18_Sun_of_a_Gun.md
-[25]: ./Star_Fights/Star_19_Bunyip.md
-[26]: ./Star_Fights/Star_20_General_Viper.md
-[27]: ./Star_Fights/Star_21_Lynx.md
-[28]: ./Star_Fights/Star_22_Radius.md
-[29]: ./Star_Fights/Star_23_Sage.md
-[30]: ./Star_Fights/Star_24_Garai.md
-[31]: ./Star_Fights/Star_25_Highwayman.md
-[32]: ./Star_Fights/Star_26_Miguel.md
-[33]: ./Star_Fights/Star_27_Roachester.md
-[34]: ./Star_Fights/Star_28_Hell's_Cook.md
-[35]: ./Star_Fights/Star_29_Grobyc.md
-[36]: ./Star_Fights/Star_30_Solt_and_Peppor.md
-[37]: ./Star_Fights/Star_30.9_Dario.md
-[38]: ./Star_Fights/Star_31_Earth_Dragon.md
-[39]: ./Star_Fights/Star_32_Water_Dragon.md
-[40]: ./Star_Fights/Star_33_Tyrano.md
-[41]: ./Star_Fights/Star_34_Green_Dragon.md
-[42]: ./Star_Fights/Star_35_Fire_Dragon.md
-[43]: ./Star_Fights/Star_36_Sky_Dragon.md
-[44]: ./Star_Fights/Star_37_Dark_Serge.md
-[45]: ./Star_Fights/Star_38_Vita_Unus.md
-[46]: ./Star_Fights/Star_39_PolisPolice.md
-[47]: ./Star_Fights/Star_40_Fate.md
-[48]: ./Star_Fights/Star_41_Royal_Jelly.md
-[49]: ./Star_Fights/Star_42_Terrator.md
-[50]: ./Star_Fights/Star_43_Pryotor.md
-[51]: ./Star_Fights/Star_44_Anemotor.md
-[52]: ./Star_Fights/Star_45_Gravitor.md
-[53]: ./Star_Fights/Star_46_Luxator.md
-[54]: ./Star_Fights/Star_47_Aquator.md
-[55]: ./Star_Fights/Star_48_Dragon_God.md
-[56]: ./Star_Fights/Star_49_Time_Devourer.md
+[5]: ./StarFights/Star1MommaKomodo.md
+[6]: ./StarFights/Star2KarshSoltPeppor.md
+[7]: ./StarFights/Star3SoltPeppor.md
+[8]: ./StarFights/Star4Guards.md
+[9]: ./StarFights/Star5SoltPepporandKetchop.md
+[10]: ./StarFights/Star6Bulbs.md
+[11]: ./StarFights/Star7Marcy.md
+[12]: ./StarFights/Star8Lynx.md
+[13]: ./StarFights/Star9Polly.md
+[14]: ./StarFights/Star10Fargo.md
+[15]: ./StarFights/Star11Deadhead.md
+[16]: ./StarFights/Star12SoltandPeppor.md
+[17]: ./StarFights/Star13FireDragon.md
+[18]: ./StarFights/Star14KarshMarcyZoah.md
+[19]: ./TestedOptimizations/SilverLoupe.md
+[20]: ./TestedOptimizations/Level2StatBoosts.md
+[21]: ./StarFights/Star15Dragoon.md
+[22]: ./StarFights/Star16GiantGloop.md
+[23]: ./StarFights/Star17Taurusoid.md
+[24]: ./StarFights/Star18SunofaGun.md
+[25]: ./StarFights/Star19Bunyip.md
+[26]: ./StarFights/Star20GeneralViper.md
+[27]: ./StarFights/Star21Lynx.md
+[28]: ./StarFights/Star22Radius.md
+[29]: ./StarFights/Star23Sage.md
+[30]: ./StarFights/Star24Garai.md
+[31]: ./StarFights/Star25Highwayman.md
+[32]: ./StarFights/Star26Miguel.md
+[33]: ./StarFights/Star27Roachester.md
+[34]: ./StarFights/Star28Hell'sCook.md
+[35]: ./StarFights/Star29Grobyc.md
+[36]: ./StarFights/Star30SoltandPeppor.md
+[37]: ./StarFights/Star30.9Dario.md
+[38]: ./StarFights/Star31EarthDragon.md
+[39]: ./StarFights/Star32WaterDragon.md
+[40]: ./StarFights/Star33Tyrano.md
+[41]: ./StarFights/Star34GreenDragon.md
+[42]: ./StarFights/Star35FireDragon.md
+[43]: ./StarFights/Star36SkyDragon.md
+[44]: ./StarFights/Star37DarkSerge.md
+[45]: ./StarFights/Star38VitaUnus.md
+[46]: ./StarFights/Star39PolisPolice.md
+[47]: ./StarFights/Star40Fate.md
+[48]: ./StarFights/Star41RoyalJelly.md
+[49]: ./StarFights/Star42Terrator.md
+[50]: ./StarFights/Star43Pryotor.md
+[51]: ./StarFights/Star44Anemotor.md
+[52]: ./StarFights/Star45Gravitor.md
+[53]: ./StarFights/Star46Luxator.md
+[54]: ./StarFights/Star47Aquator.md
+[55]: ./StarFights/Star48DragonGod.md
+[56]: ./StarFights/Star49TimeDevourer.md
