@@ -320,6 +320,7 @@ Drops:
 #### Lynx (861/8)
 
 **Note:** Count crits and misses as they cancel each other out.
+
   * Serge - Target Lynx
     * 3 / 3 (1)
   * Kid - Target Lynx
@@ -363,9 +364,9 @@ Drops:
 ### Guldove
 
   * You'll wake up on a bed, go outside and watch Kid faint from poison then choose not to save her (It's the 1st option so don't think, just mash)
-  * Put Poshul into the Party to replace Kid.
+  * Put Poshul into the party to replace Kid.
   * Go back to where you were sleeping (Head up the ladder then head right), talk to Korsha and ask for his boat. Macha will advise you to head to the Shrine.
-  * Head to the Shrine for your Fortune (Head straight to the left from Korsha's tent), head to the boat after.
+  * Head to the Shrine for your Fortune (Head straight to the left from Korsha's tent all to way to the end), head to the boat after.
   * Go talk to Macha and select the 2nd option to get on the boat.
 
 ### Termina
@@ -411,7 +412,7 @@ Drops:
       * Bronze Mail
       * Magic Ring
       * Ivory Helmet or Magic Ring
-    * Allocate Elements
+  * Allocate Elements
     * Serge
       * Level 1
         * TurnBlue
