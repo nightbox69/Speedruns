@@ -95,7 +95,7 @@ Drops:
     
 ## Solt / Peppor
 
-  * Don't let Kid join the party. Choose the 2nd option 3 times (be careful).
+  * **Don't let Kid join the party.** Choose the 2nd option for 3 times (be careful mashing).
 
 ### Arni Village
 
@@ -115,7 +115,7 @@ Drops:
 
 ### Fossil Valley
 
-  * Avoid encounters, head straight to the path.
+  * Avoid encounters, head straight following the path.
 
 #### Solt and Peppor (84/7 94/8)
 
@@ -123,7 +123,7 @@ Drops:
 
   * Leena - Target Solt
     * 3 (Check if you got the hit and if not do a 3 again to get to Level 3)
-    * Magma Bomb if you have it available.
+    * Magma Bomb if you have it available
   * Serge - Target Solt
     * 1
     * Fireball
@@ -148,7 +148,7 @@ Drops:
   * Put Serge infront of the party while running to Termina.
   * Talk to the statue polisher, allow Kid to join you in your party.
   * Replace Leena with Kid.
-  * Pick up the Profiteer Purse under the stair case of the mansion past the Smithy shop, head to the Smithy.
+  * Pick up the Profiteer Purse under the staircase of the mansion past the Smithy shop, head to the Smithy.
   * Blacksmith
       * Disassemble
         * Profiteer Purse
@@ -157,8 +157,8 @@ Drops:
         * Steel Swallow
         * Iron Dagger
   * Talk to Pierre.
-  * Get Medal of Honor from running child.
-  * Show the Medal of Honor to Pierre (press Square and use Medal of Honor), talk to Pierre to get him to join the Party.
+  * Get Medal of Honor from the running child.
+  * Show the Medal of Honor to Pierre (press Square and choose Medal of Honor), talk to Pierre to get him to join the Party.
   * Head to Viper Manor, optionally you can purchase 3 Antidotes from Lisa's Shop before you leave.
 
 **Note:** You don't need the Antidotes, but the Bulbs from Luccia can poison you.
@@ -171,7 +171,7 @@ Drops:
       * Ivory Helmet
     * Kid - Equip
       * Iron Dagger
-  * Tele-porter
+  * Tele-porter (Square while on the overworld)
     * Replace Poshul with Pierre
   * Put Pierre infront of the Party.
 
@@ -185,8 +185,10 @@ Drops:
     * Kid - Attack guard
       * 2 / 2 / 2
       * Magmabomb
-    * Pierre / Serge / Kid - Attack Guard
-      * 2 / 2 / 3
+    * Pierre
+      * 3 / 3
+    * Serge and Kid - Attack Guards
+      * 2 / 2 / 3  
   * If there are 3 or less Guards
     * Serge and Kid - Attack Guards
       * 2 / 2 / 3
@@ -286,7 +288,8 @@ Drops:
 
 #### Marcy (498/7)
 
-**Note:** Marcy will use Cat's Cradle when she hits 249 HP, you want to kill her before she spams Iceblast.
+**Note:** Marcy will use Cat's Cradle when she hits 249 HP, you want to kill her before she spams Iceblast coz it will kill Kid outright.
+
   * Kid - Target Marcy
     * 3 / 3
   * Serge - Target Marcy
@@ -726,94 +729,168 @@ Drops:
   * Eagle Eye / Gold Earring / Iron Vest (Common)
   * Silver Earring / Gold Earring / Dancing Shoes (Rare)
 
+
 ## Giant Gloop
 
-  * Keep going into Fort Dragonia and you will run into the next boss.
-  * [**Dragoon (735/9)**][21]
-    * Gleen - 2/2/Magnify
-    * Leena - 1/2/2 (Get to Level 5)
-    * Serge - 1/Aquaball-2 (Do 2/2/Aqauball-2 if good stamina)
-    * Leena - Iceblast
-    * Glenn - Defend (2/2 if good stamina)
-    * Leena - Aquaball-2
-    * Glenn - 2/2/Aquaball-2
-    * Frog Prince (Common/Rare)
-  * Menu
-    * Leena (Elements) - Level 5 FrogPrince
-    * Glenn (Equip) - Iron Vest
-    * Serge (Equip) - Golden Earring (Also Silver Earring if dropped)
-    * Leena (Equip) - Magic Ring if dropped from Fire Dragon and didn't already
-                      have 2.
-  * Go to the left, and follow maze into room where your party stands on the
-    glowing yellow pads and shifts the room. Serge should be at the front of the
-    party.
-  * Step outside to the blue shifter pad. Hit Select until order is Glenn,
-    Leena, Serge (Tail/Body/Head)
-  * Step on blue switch.
-  * Back to maze pads and step on them again.
-  * Go to the other side, up the stairs you pulled down with the switch, and go
-    hit the switch in front of the alter (2nd level). Now go hit the altar.
-  * Back to the main room and head to the upper left room.
-  * Go to the left side and hit the bottom chest, then cross to the right side
-    and hit the chest on the right. Take the upper path and hit the chest on the
-    right, then all the way to the other side. Hit the blue switch and enter the
-    room.
-  * [**GiantGloop (840/8)**][22]
-    * Leena - 1/2/2/TurnRed on Gloop
-    * Glenn - 2/2/Magnify
-    * Serge - 1/WeakMinded
-    * Leena - IceBlast
-    * Glenn (optional) - Medicine Leena
-    * Glenn - Defend for stamina/BlueField, or blue element
-    * Leena - 1/2/2/FrogPrince
-    * Heal with Consumables
-    * AquaBall (Common)
-    * IceBlast (Rare)
+**Note:** The Fights from here on out are going to get trickier, some will just need you to attack but most will prioritize on Element Spams. The notes will also adjust to this as well, advising you to get to a certain level instead of picking your attacks. Pick your attacks in priority to getting the levels as safe and as assuredly as possible instead of fast. It's highly adviseable to start counting Enemy AP here too so you'll know when the next attack will be. It'll return to attack picking should it be needed. 
+
+  * Head into Fort Dragonia and Fight your next Boss.
+
+### Fort Dragonia
+  
+#### Dragoon (735/9)
+
+  * Glenn - Target Dragoon
+    * Get to Level 4
+    * Magnify
+  * Leena - Target Dragoon
+    * Get to Level 5
+  * Serge - Target Dragoon
+    * 1
+    * Aquaball -2
+  * Leena - Target Dragoon
+    * Iceblast
+  * Glenn 
+    * Defend (2 / 2 if you have Stamina)
+  * Leena - Target Dragoon
+    * Aquaball -2
+  * Glenn - Target Dragoon
+    * 2 / 2 (if not done earlier)
+    * Aquaball-2
+
+Drops: 
+  * Frog Prince (Common/Rare)
+
+### Frog Prince Dragonia
+  
+  * Menu - Allocate Elements
+    * Leena - 
+      * Level 5
+        * FrogPrince
+  * Menu - Equip
+    * Glenn
+      * Iron Vest
+    * Serge 
+      * Golden Earring 
+    * Leena
+      * Magic Ring (If you have an accessory slot available)
+
+**Note:** You need Leena to hit and get the Element Levels so she can spam Elements, it's riskier to take the 2 Magic Rings, Sky Djinn Ring than Dragoon's Honor, and 2 Magic Rings.
+
+  * Head to the Main Hall and head to the Bottom Left Door, avoid going near the bats as they will zoom in on you once they realize you're near them. Head to the Door near the Blue Shifter Pad, and activate the Switch (Order should be Serge, Glenn, Leena)
+  * Follow the path and activate the blue switch, hit select once so the order will be Glenn, Leena, Serge
+  * Head to the Blue Shifter Pad, it'll shift your order to Leena, Glenn, Serge, and activate the Maze Switch again.
+  * Go up the stairs that you activated and talk to the tablet infront of the Altar, then talk to the Altar, avoid the Bats again.
+  * Go back to the Main Hall and head to the Upper Left Door. Be careful of the Flying Bat while moving around. 
+  * Head to the left side and hit the bottom chest
+  * Cross to the right side and hit the bottom chest then the top chest. 
+  * Take the upper path and hit the right chest then the left chest
+  * Cross the path all the way to the other side. Hit the blue switch to activate the stairs and enter the room to go to the Altar.
+
+#### Giant Gloop (840/8)
+
+  * Leena - Target Giant Gloop
+    * Get to Level 5
+    * TurnRed on Gloop
+  * Glenn - Target Giant Gloop
+    * Get to Level 4
+    * Magnify
+  * Serge - Target Giant Gloop
+    * 1
+    * WeakMinded
+  * Leena - Target Giant Gloop
+    * IceBlast
+  * Glenn (optional) 
+    * Medicine Leena if Frozen
+  * Serge
+    * Defend for Stamina / BlueField or Blue Element to fill all the Blue
+  * Leena - Target Giant Gloop
+    * Get to Level 5
+    * Frog Prince
+  * Heal with Consumables
   * **SPLIT AFTER THE WIN MENU**
+
+Drops:
+  * AquaBall (Common)
+  * IceBlast (Rare)
 
 ## Taurusoid
 
-  * Hit the Altar
-  * Back to the main room, and room on the upper right. Head through the left
-    pass after waiting for the golem to get out of the way. Impossible to trick
-    pass, so you just have to wait.
-  * Follow path, then left at the fork. Follow that, and head up the stairs
-    again following the path. Careful with enemy at bottom of next screen, as he
-    spawns late and is harder to dodge. Keep following the path until you get
-    all the way to the upper left entry.
-  * [**Taurusoid (1260/11)**][23]
-    * Leena - 1/2/2 (Get to Level 5)/TurnRed
-    * Glenn - 2/3 (Get to Level 5)
-    * Serge - 1/1/WeakMinded
-    * Leena - 1/1 until Level 5
-    * Glenn - Magnify
-    * Leena - Aquaball
-    * Glenn - Aquaball (TurnBlue if Leena 15-17 Magic)
-    * Serge - Aquaball
-    * Leena - 1/1 until Level 5/FrogPrince
-    * Carapace (Common)
-    * Iron Vest (Rare)
+### Frog Prince Dragonia
+
+  * Talk to the Altar.
+  * Go back to the Main Hall, and go to the Upper Right Door. Head through the left pass after waiting for the Golem to get out of the way for you, you simply have no choice on the matter.
+  * Follow the path, and head out to the entry
+  * Follow the path again to the entry upper left corner of the room, be careful against the (Rename: paper mache enemies).
+  * Go down and go near the stairs to lure the golem into jumping down then go up and follow the path to the entry.
+  * Head down and be careful on the bottom corner to not get an encounter. Follow the path, hit the blue switch to activate the stairs and enter the room up to go to the Altar.
+
+#### Taurusoid (1260/11)
+
+  * Leena - Target Taurusoid
+    * Get to Level 5
+    * Turn Red Taurusoid
+  * Glenn - Target Taurusoid
+    * Get to Level 5
+  * Serge - Target Taurusoid
+    * Get to Level 2
+    * WeakMinded
+  * Leena - Target Taurusoid
+    * Get to Level 5
+    * Defend
+  * **IF TAURUSOID HASN'T DONE AN ELEMENT PRIOR TO THIS HAVE EVERYONE DEFEND UNTIL HE DOES**
+  * Glenn
+    * Magnify
+  * Leena - Target Taurusoid
+    * Aquaball
+  * Glenn - Target Taurusoid
+    * Aquaball or TurnBlue if Leena 15-17 Magic
+  * Leena - Target Taurusoid
+    * Get back to Level 5
+  * Serge - Target Taurusoid
+    * Aquaball
+  * Leena - Target Taurusoid
+    * FrogPrince
   * **SPLIT AFTER THE WIN MENU**
+
+Drops:
+  * Carapace (Common)
+  * Iron Vest (Rare)
+
+**Note:** It is imperative to check your stamina during the Frog Prince Setup. If Leena doesn't have the Stamina to cast Frog Prince Tausuroid will just destroy your setup with a Choke Slam.
 
 ## Sun of a Gun
 
-  * Run back out, hit the switch, take the stairs and go back to the main room
-    farthest room on the right.
-  * Turn the statue to the South, and go hit the altar. Use the run past trick.
-  * Head out, and climb up the wall heading back towards the now available
-    elevator.
-  * [**Sun of a Gun (383/7)**][24]
-    * Serge - 1/1
-    * Leena - 3/3/1 if one of the 3s miss.
-    * BACKUP - Glenn do 1s until Level 5 if Serge/Leena frozen, panacea, defend
-               all.
-    * Serge - TurnBlue Sun of a Gun
-    * Glenn - 1/TurnBlue Sun of a Gun
-    * Serge - Aquaball
-    * Leena - FrogPrince or 1s until Level 5, then FrogPrince
-    * Heal with Consumables
-    * Iron (Common/Rare)
+### Frog Prince Dragonia
+
+  * Talk to the altar and head back out to the Main Hall. Put Serge infront of the Party.
+  * Head to the Bottom Right Door, Turn the statue to the South, and Hit the altar. 
+  * Head to out and take the Ladder up. Go back to the Main Hall and Head to the Elevator.
+
+#### Sun of a Gun (383/7)
+
+**Note:** Count Sun of a Gun AP during the fight to determine the best way to deal with him.
+
+  * Serge - Target Sun of a Gun
+    * 1 / 1
+  * Leena - Target Sun of a Gun
+    * 3 / 3
+    * 1 if one of the 3's miss.
+  * Serge - Target Sun of a Gun
+    * Turn Blue
+  * Glenn - Target Sun of a Gun
+    * 1
+    * Turn Blue
+  * Serge - Target Sun of a Gun
+    * Aquaball
+  * Leena - 
+    * Get to Level 5
+    * FrogPrince
+  * **Heal with Consumables**
   * **SPLIT AFTER THE WIN MENU**
+
+Drops:
+  * Iron (Common / Rare)
 
 ## Bunyip
 
