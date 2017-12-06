@@ -412,7 +412,7 @@ Drops:
       * Bronze Mail
       * Magic Ring
       * Ivory Helmet or Magic Ring
-  * Allocate Elements
+  * Menu - Allocate Elements
     * Serge
       * Level 1
         * TurnBlue
@@ -483,130 +483,248 @@ Drops:
 
 ## Dead Head
 
-  * Run away from the fight in the cabin.
-  * Check the door just outside of the cabin.
-  * Up the ladder, first door on the left and enter the vent.
-  * Ghost dance!! Talk to the guy at the door, and spin around the ghost while
-    the text displays. When he lets you past, then talk to the guy past the
-    door.
-  * This guy could have the key, so ask him twice.
-  * Go back through the vent and grab the chest (Panacea). You will fight the
-    ghosts here as well. If it's 4 ghosts run away.
-    * Serge - 2/2/3
-    * Glenn - 2/2/3
-    * Serge - X-Strike
-  * Talk to the guy in this room, and hopefully he has the key, if not back
-    through the vent. If he does have the key skip the next 2 bullet points.
-  * Fight the skeleton fighting the next key holder, and ask him for the key
-    after the fight.
-    * Serge - 2/2/3
-    * Glenn - 2/2/3
-    * Serge - X-Strike
-  * If you have the key go to the next point. If still don't have the key, then
-    go back through the vent, down the ladder, through the 2nd door on the
-    right. Fight, then ask for the key. This guy will have the key.
-    * Serge - 2/2/3
-    * Glenn - 2/2/3
-    * Serge - 2/2/X-Strike
-  * Now that you have the key, go through the door at the right end of the first
-    floor hallway.
-  * Through the door, and forward past 1 cannon, hard right to dodge, then to
-    the end.
-  * Dodge Everything!
-  * At the top of the last stairs, pick up PhotonBeam. Can skip if dropped after
-    Fargo.
-  * [**DeadHead (735/6)**][15]
-    * Glenn - 1/Strengthen on Serge
-    * Leena - 1/EagleEye on Serge
-    * Serge - 3/3
-    * Glenn - 3/2
-    * Serge - 3/3
-    * Glenn - 2/2/2/CurePlus+1 on DeadHead
-    * Serge - 3/3/Dash & Slash
-    * Hell Soul (Common)
-    * HellBound (Rare)
+### Fargo's former Pirate Ship now promoted to Ghost Ship
+
+  * Run away from the fight in the cabin and get out.
+  * Check the door infront of the injured guy, it'll say that you'll need a key.
+
+### Finding the Key
+
+The key can be found in 1 of the 4 People in this section but you'll have to start from the farthest person from the door to the nearest one. Obviously, you will head to the door once you find the key from one person. Don't bother fighting / talking your way to everybody if you got the key early. 
+
+  * Avoid the Ghosts popping about, head left and go up the ladder, enter the first door on the right and enter the vent.
+  * Get out of the room and talk to the guy on the blockade.
+    * Ghost Dance:  Spin around the Ghost while mashing text. Either that or fight the ghost. 
+  * When he lets you pass, then talk to the guy past the door. This guy could have the key, so talk to him twice.
+  * Go back to the room and fight the skeleton on your right, if it's 4 Monsters run away and try again.
+    * Check Ghost / Skeleton Fights Strats below.
+  * Talk to the guy after the fight, and hopefully he has the key, if not go through the vent and pick up the chest and fight the ghost.
+    * Check Ghost / Skeleton Fight Strats below
+  * To the the guy for the key if you still don't have it proceed down to the 2nd door on the right. Fight the Skeleton fighting the guy.
+    * Check Ghost / Skeleton Fight Strats below
+  * Talk to the guy after, and finally get the freaking stupid key. (You're so screwed by RNG at this point if you had to do this btw, I'm so sorry for you)
+
+#### Ghost / Skeleton Fights
+
+  * Serge & Glenn- Target 1st Monster
+      * 2 / 2 / 3
+    * Serge - Target Next Monster 
+      * X-Strike
+    * Serge & Glenn - Target Leftovers.
+      * 2 / 2 / 3
+
+### Getting up to the Deck
+
+  * Go through the door, and move forward past 1 cannon, take hard right to dodge, then head out to the end.
+  * Dodge the ghosts, go down the ladder, dodge the balls, go up enter the room, dodge the ghosts and balls again, and head up to the stairs.
+  * At the top of the last stairs, pick up PhotonBeam. Can skip if it was dropped after Fargo.
+
+#### DeadHead (735/6)
+
+  * Glenn - Target DeadHead
+    * 1
+    * Strengthen on Serge
+  * Leena - Target DeadHead
+    * 1
+    * EagleEye on Serge
+  * Serge - Target DeadHead
+    * 3 / 3
+  * Glenn - Target DeadHead
+    * 3 / 2
+  * Serge - Target DeadHead
+    * 3 / 3
+  * Glenn - Target DeadHead
+    * 2 / 2 / 2
+    * CurePlus + 1 on DeadHead
+  * Serge - Target DeadHead
+    * 3 / 3
+    * Dash & Slash
   * **SPLIT AFTER THE WIN MENU**
+
+Drops:
+  * Hell Soul (Common)
+  * HellBound (Rare)
 
 ## Fire Dragon
 
-  * Head to Marbule
-  * Shop (Straight Ahead)
-    * 1 Diminish (Can skip if Cat%)
+  * Mash and head to Marbule
+
+### Marbule
+
+  * Talk to the guy beside the swimming pool dude and start shopping
+    * 1 Diminish
     * 1 Magnify (Sell Panacea if necessary)
-  * To Mount Pyre
+  * Menu - Equip
+    * Serge
+      * Remove All Accessories
+    * Glenn
+      * Dragoon's Guantlet and Power Glove (if you have it)
+    * Leena
+      * Dragoon's Honor
+  * Menu - Allocate Elements
+    * Glenn
+      * Level 1
+        * Remove Strengthen
+      * Level 4
+        * Magnify
+        * Panacea x 5
+    * Serge
+      * Level 1
+        * Strengthen
+      * Level 4
+        * BushBasher
+    * Leena
+      * Level 3
+        * BushBasher
+      * Level 4
+        * Photonbeam
+  * Head to Mt. Pyre
+
+### Mt. Pyre
+
+  * Head up to the ladder and heal everyone there, then move up to the next screen.
+
+#### Solt/Pepper (525/6 507/8)
+
+  * Serge - Target Solt
+    * 1
+    * Strengthen on Glenn
+  * Leena - Target Solt
+    * 1
+    * EagleEye on Glenn
+  * Glenn - Target Solt
+    * 3 / 3
+  * Leena - Target Solt
+    * 1 / 1 / 1 (or 1 / 2 but don't 3)
+    * BushBasher Peppor
+  * Glenn - Target Solt
+    * 3 / 3 and Solt dies
+  * Serge - Target Peppor
+    * 1 / 2 / 2
+    * BushBasher
+  * Glenn - Target Peppor
+    * 3 / 3
+
+Drops: 
+  * Iron Vest/Iron Mail (Common)
+  * Sky Djinn Ring/Dragoon Gauntlet (Rare)
+
+### Continuing Mt. Pyre
+
+  * Head straight through the lava and to the top. Put Leena on first while running.
+  * Menu on the Save Sphere.
   * Menu
-    * Serge (Equip) - Remove All
-    * Glenn (Equip) - Dragoon's Guantlet (Power Glove if you have it as well)
-    * Leena (Equip) - Dragoon's Honor
-    * Glenn (Elements) - Level 1 Remove Strengthen,
-                         Level 4 Panacea/Magnify,
-                         Level 5 Placeholder
-    * Serge (Elements) - Level 1 Add Strengthen,
-                         Level 4 Add BushBasher
-    * Leena (Elements) - Level 3 BushBasher,
-                         Level 4 Photonbeam,
-                         Level 5 Placeholder
-  * [**Solt/Pepper (525/6 507/8)**][16]
-    * Serge - 1/Strengthen on Glenn
-    * Leena - 1/EagleEye on Glenn
-    * Glenn - 3/3
-    * Leena - 1/1/1/1/BushBasher Peppor
-    * Glenn - 3/3 Solt Dead
-    * Serge - 1/2/2/BushBasher
-    * Glenn - 3/3
-    * Iron Vest/Iron Mail (Common)
-    * Sky Djinn Ring/Dragoon Gauntlet (Rare)
-  * Straight through the lava to the top. Menu before entering the cave.
-  * Menu
-    * Leena (Equip) - Iron Vest or Sky Djinn Ring
-    * Serge (Equip) - Iron Mail or Dragoon Gauntlet
-    * Heal with capsules
-  * Good Safety Save Point. If you run you just go back into the fight.
-  * [**Fire Dragon (892/6)**][17]
-    * **Optimal Fight Assuming Leena Doesn't Die**
-    * Leena - 1/Eagle Eye on Glenn
-    * Glenn - 3
-    * Serge - 1/1/2/TurnBlue Glenn (Skip 1/2 if bad start)
-    * Glenn - 3/3 (Pray Leena doesn't die)
-    * Leena - 1/1/1/1/1
-    * Glenn - 3/3/Magnify
-    * Leena - Aquaball-2
-    * Serge - Aquaball-2
-    * Leena - IceBlast
-    * **SubOptimal Fight Leena Dies**
-    * Leena - 1/Eagle Eye
-    * Glenn - 3
-    * Serge - 1/1/2/TurnBlue Glenn (Skip 1/2 if bad start)
-    * Glenn - 3/3/Revive
-    * Leena - 1/1/1/1
-    * Serge - 3/3
-    * Leena - 1/1/1/1/1
-    * Glenn - 3/3/Magnify
-    * Leena - Aquaball-2
-    * Serge - Aquaball-2
-    * Leena - IceBlast
-    * Heal with Consumables
-    * Weaken (Common)
-    * Magic Ring (Rare)
+    * Heal everyone with Capsules.
+    * Leena - Equip
+      * Iron Vest or Sky Djinn Ring
+    * Serge - Equip
+      * Iron Mail (if you have it)
+    * Glenn - Equip
+      * Dragoon Gauntlet (if you have it)
+    * **SAVE THE GAME** You can't run from the next boss, he'll just be like "oh no you don't" and fight you immediately.
+  * Head into the cave and start praying to the gods.
+
+#### Fire Dragon (892/6)
+
+**Note:** Fire Dragon is a bitch, he can kill Leena or Glenn if you ain't careful. Be prepared to adhoc the fight on this one. Remember that only Glenn has Revive and Magnify so determine for yourself if the Fight is worth continuing if Glenn was the person to die. Reset the game instead of running away.
+
+##### Fight Strats Presuming Leena dies early
+  
+  * Leena
+    * 1
+    * Eagle Eye on Glenn
+  * Glenn
+    * 3
+  * Serge
+    * 1 / 1 / 2 (or just one if Fire Dragon attacked you before this)
+    * Turn Blue on Glenn
+  * Glenn
+    * 3 / 3
+    * Revive Leena
+  * Leena
+    * 1 / 1 / 1 / 1
+  * Serge
+    * 3 / 3
+  * Leena
+    * 1 / 1 / 1 / 1 / 1
+  * Glenn
+    * 3 / 3
+    * Magnify
+  * Leena
+    * Aquaball -2
+  * Serge
+    * Aquaball -2
+  * Leena
+    * IceBlast
+  * **Heal with Consumables**
+  * **SPLIT AFTER THE WIN MENU**   
+
+##### Fight Strats Presuming Leena doesn't die
+
+  * Leena
+    * 1
+    * Eagle Eye on Glenn
+  * Glenn
+    * 3
+  * Serge
+    * 1 / 1 / 2 (or just one if Fire Dragon attacked you before this)
+    * Turn Blue on Glenn
+  * Glenn
+    * 3 / 3
+  * Leena
+    * 1 / 1 / 1 / 1 / 1
+  * Glenn
+    * 3 / 3
+    * Magnify
+  * Leena
+    * Aquaball -2
+  * Serge
+    * Aquaball -2
+  * Leena
+    * IceBlast
+  * **Heal with Consumables**
+  * **SPLIT AFTER THE WIN MENU**    
+  
+Drops:
+  * Weaken (Common)
+  * Magic Ring (Rare)
+
+## Three Devas
+
+  * Move Serge back infront to save cutscene time.
+  * **Heal everyone with Capsules if you forgot**
+  * Head up and fight the Three Devas
+
+### Karsh/Zoah/Marcy (388/8 457/11 285/6)
+  * Glenn - Target Zoah
+    * 1 / 2
+  * Serge - Target Marcy
+    * 1 / 2
+    * X-Strike, Marcy dies before doing anything relevant.
+  * Leena - Target Zoah
+    * 1 / 1 / 2 / 2
+    * EagleEye on Glenn
+  * Glenn - Target Zoah
+    * 3 / 3 
+    * Magnify
+  * Leena - Target Zoah
+    * BushBasher
+  * Serge - Target Karsh
+    * 2 / 2 / 3
+  * Glenn
+    * Defend
+  * Serge
+    * Defend
+  * Leena - Target Karsh
+    * 1 / 1 / 1 / 1
+    * IceBlast
+  * Glenn - Target Karsh
+    * 3 / 3
   * **SPLIT AFTER THE WIN MENU**
 
-## Three Divas
-
-  * Move Serge to first in the party. Saves cutscene time.
-  * [**Karsh/Zoah/Marcy (388/8 457/11 285/6)**][18]
-    * Glenn - 1/2 Zoah
-    * Serge - 1/2/X-Strike Marcy
-    * Leena - 1/1/2/2/EagleEye Zoah/Glenn
-    * Glenn - 3/3/Magnify
-    * Leena - BushBasher
-    * Serge - 2/2/3
-    * Glenn - Defend
-    * Serge - Defend
-    * Leena - 1/1/1/1/IceBlast
-    * Glenn - 3/3
-    * Eagle Eye/Gold Earring/Iron Vest (Common)
-    * Silver Earring/Gold Earring/Dancing Shoes (Rare)
-  * **SPLIT AFTER THE WIN MENU**
+Drops: 
+  * Eagle Eye / Gold Earring / Iron Vest (Common)
+  * Silver Earring / Gold Earring / Dancing Shoes (Rare)
 
 ## Giant Gloop
 
