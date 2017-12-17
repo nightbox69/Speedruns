@@ -894,1003 +894,1832 @@ Drops:
 
 ## Bunyip
 
-  * Hit the altar, and go up the elevator.
-  * Remember your training from split 1, and head to the same area. Best of luck
-    with your dodging here, but you are likely going to have to accept a run
-    away or 2.
-  * [**Bunyip (420/10 then 1260/10)**][25]
-    * Leena - 1/2/2 (Get to level 5)
-    * Glenn - 2/3/Magnify, replace with 1s to get to Level 5 if attacked.
-    * Serge - 1
-    * Leena - IceBlast (should transform)
-    * Serge - 2/2 (Get to Level 5)
-    * Leena - 2/2 (Get to Level 5)
-    * Glenn - 1/1/... until attack/Aquaball
-    * Serge - Aquaball
-    * Leena - 1/FrogPrince
-    * Serge - 1/Luminaire
-    * Leena - 1/Aquaball
-    * Glenn and Serge - 2/2
-    * Gravitonne (Common)
-    * HellBound (Rare)
+### Frog Prince Dragonia
+
+  * Hit the altar, and go up the elevator to the 2nd Floor
+  * Do the Dream Sequence Route only with harder things to dodge + bats.
+
+#### Bunyip (420/10 then 1260/10)
+
+  * Leena - Target Bunyip
+    * Get to Level 5
+  * Glenn - Target Bunyip
+    * Get to Level 5
+    * Magnify
+  * Serge - Target Bunyip
+    * 1
+  * Leena - Target Bunyip
+    * IceBlast (Note: Bunyip should transform here, if not do a 2/2 with Glenn)
+  * Serge - Target Bunyip
+    * Get to Level 5
+  * Leena - Target Bunyip
+    * Get to Level 5
+  * Glenn - Target Bunyip
+    * 1 until Bunyip attacks
+    * Aquaball
+  * Serge - Target Bunyip
+    * Aquaball
+  * Leena - Target Bunyip
+    * 1
+    * FrogPrince
+  * Serge - Target Bunyip
+    * 1
+    * Luminaire
+  * Leena - Target Bunyip
+    * 1
+    * Aquaball
+  * Glenn and Serge - Target Bunyip
+    * 2 / 2 Until he dies
+  * **SPLIT AFTER THE WIN MENU**
+
+Drops: 
+  * Gravitonne (Common)
+  * HellBound (Rare)
 
 ## Lynx
 
-  * Try and dodge everything to get back to the center platform.
-  * [**General (861/7)**][26]
-    * Serge - 1/Strengthen on Glenn
-    * Leena - 1/EagleEye on Glenn
-    * Glenn - 3/3
-    * Leena - 1/1/1/BushBasher
-    * Serge - 1/1
-    * Glenn - 3/3/SonicSword
-    * Heal with Consumables
-    * Dragoon Gauntlet (Common)
-    * Mythril Mail (Rare)
-  * [**Lynx (1050/7)**][27]
-    * Serge - 2/3/WeakMinded
-    * Glenn - 1/2/2
-    * Leena - 3/3
-    * Glenn - 1/2/3
-    * Serge - 3/3
-    * Glenn - Magnify
-    * Leena - PhotonBeam
-    * Serge - 3 (1/2 if not Level 5)
-    * Glenn - Defend
-    * Serge - Luminaire
-    * Glenn - 2/3
-    * Leena - Aquaball
-    * Don't heal as we are done with these characters for now.
-    * Pendragon Sigil B (Common)
-    * Sky Djinn Ring (Rare)
+### Frog Prince Dragonia 2nd Floor
+
+  * Dodge everything to get back to the center platform.
+
+#### General Viper (861/7)
+
+  * Serge - Target Viper
+    * 1
+    * Strengthen Glenn
+  * Leena - Target Viper
+    * 1
+    * EagleEye Glenn
+  * Glenn - Target Viper
+    * 3 / 3
+  * Leena - Target Viper
+    * 1 / 1 / 1 
+    * BushBasher
+  * Serge - Target Viper
+    * 1 / 1
+  * Glenn - Target Viper
+    * 3 / 3 / SonicSword
+  * **Heal with Consumables and pray for a Gauntlet Drop**
+
+Drops:
+  * Dragoon Gauntlet (Common)
+  * Mythril Mail (Rare)
+
+#### Lynx (1050/7)
+  * Leena - Target Lynx
+    * 1
+    * EagleEye Serge
+  * Serge - Target Lynx 
+    * 2 / 3
+    * WeakMinded Lynx
+  * Glenn - Target Lynx
+    * 1 / 2 / 2
+  * Leena - Target Lynx
+    * 3 / 3
+  * Glenn - Target Lynx
+    * 1/2/3
+  * Serge - Target Lynx
+    * 3 / 3
+  * Glenn - Target Lynx
+    * Magnify
+  * Leena - Target Lynx 
+    * PhotonBeam
+  * Serge - Target Lynx
+    * 3 (1/2 if not Level 5)
+  * Glenn
+    * Defend
+  * Serge -Target Lynx
+    * Luminaire
+  * Glenn - Target Lynx
+    * 2 / 3
+  * Leena - Target Lynx
+   * Aquaball
+  * **DON'T HEAL**
   * **SPLIT AFTER THE WIN MENU**
+
+Drops: 
+  * Pendragon Sigil B (Common)
+  * Sky Djinn Ring (Rare)
 
 ## Radius
 
+### Body Shift Dragonia 
+
   * Cut Scene 1 - 0:32
-  * Cut Scene 2 - 0:45
-  * **Party**
-    * Defend and let them finish you.
+  * Cut Scene 2 - 0:45 (**Hold Down while Mashing**)
+  * Defend against your Party and let them finish you.
   * Cut Scene 3 - 0:51
   * Cut Scene 4 - 1:00
-  * Now that you have lynx, climb the ladder and go knock down an orange. When
-    Sprigg leaves enter the house.
-  * Rename Sprigg to S.
-  * Enter the lighthouse at the top of the hill.
-  * Enter door to the left, and then follow the Serge on the bottom to figure
-    out which door to open.
-  * Rename Harle to H
-  * Head all the way down, and enter the pit at the bottom. No switches need to
-    be hit.
-  * Head out of the marsh, and back to Opassa Beach and use the Astral Amulet.
-  * Menu
-    * Harle (Equip) - Remove Mythril Mail (Skip if dropped by Viper)
-    * Lynx (Equip) - Mythril Mail/Dragoon Gauntlet/Dragoon Gauntlet/Ivory Helmet
-    * Sprigg (Equip) - Gold Earring/Dragoon's Honor
-    * Harle (Equip) - Iron Mail/Magic Ring (Add Magic Rings or Sky Djinn Rings
-                      as collected)
-  * Arni Village, Harle First and select out to move Lynx when you hit ramp.
-  * Go talk to Serge's Mom
-  * [**Radius (787/7)**][28]
-    * Sprig - 1/1/... until Lagoonate
-    * Lynx - 2/3
-    * Lagoon - 2/3
-    * Lynx - 2/2/2
-    * Lagoon - 3/3
-    * Heal with Consumables
-    * Heal (Common)
-    * Magnify (Rare)
+
+### Sprigg's Crayola World
+
+  * Climb the ladder and go knock down an orange from the leaf. 
+  * Run to the house when Sprigg leaves to enter the house.
+  * Sprigg joins the Party
+  * Head up to the lighthouse at the top of the hill.
+  * Enter door to the left, and then follow the Serge on the bottom to figure out which door to open.
+
+### Getting out to the World
+
+  * Harle joins the Party.
+  * Head all the way down, and enter the pit at the bottom. No switches need to be hit.
+  * Head out of the Marsh while putting Lynx to 2nd.
+  * Go to Opassa Beach and use the Astral Amulet.
+  * Menu - Equip
+    * Harle
+      * Remove Mythril Mail (Skip if dropped by Viper)
+    * Lynx
+      * Mythril Mail
+      * Dragoon Gauntlet
+      * Dragoon Gauntlet
+      * Ivory Helmet
+    * Sprigg
+      * Gold Earring
+      * Dragoon's Honor
+    * Harle
+      * Iron Mail
+      * All the Magic Rings and Sky Djinn Rings you can possibly put on her
+
+### Arni Village
+  * Select out to move Lynx when you hit ramp.
+  * Go to your house and talk to Serge's Mom
+
+#### Radius (787/7)
+
+  * Sprig - Target Radius
+    * Get to Level 5
+    * Doppelganger Lagoonate
+  * Lynx - Target Radius
+    * 2 / 3
+  * Lagoonate - Target Radius
+    * 2 / 3
+  * Lynx - Target Radius
+    * 2 / 2 / 2
+  * Lagoon - Target Radius
+    * 3 / 3
+  * Heal with Consumables
   * **SPLIT AFTER THE WIN MENU**
+
+Drops: 
+  * Heal (Common)
+  * Magnify (Rare)
 
 ## Sage of Marbule
 
-  * Rename Radius to R
-  * Put Lynx in front then swap to Harle as the leader to have Lynx in back.
-  * Head to Termina, then go to the left just up the stairs and talk to the
-    guard.
-  * Shop
+### Arni Village
+
+  * Radius joins your party. Don't put him on the main party.
+  * Head out and put Lynx in the back. Put him back infront after you Leave Arni.
+  * Head to Termina. 
+
+### Termina
+  * Head to Termina, then go to the left just up the stairs and talk to the guard.
+  * Go to Lisa's Shop and Start Shopping
     * Max Capsules
     * 11 Antidote
     * 11 Brace
     * 11 Blackout
-    * 5 HealAll
+    * 11 HealAll
     * 2 AeroBlaster
     * 21 IceBlast
-  * To Viper Manor, and straight to the entrance (now ruins). Go to the right,
-    and enter the hut which leads to an underground cavern. Up and to the left.
-    Now that you are in the sewers, make your way up the ladder and head up to
-    meet Norris.
-  * Norris renamed to N.
-  * Go to the port and board the boat. Now head to Marbule. Go talk to the guy
-    on the bridge, ask about the dead sea and run away. You don't have to sit
-    there and listen to him.
-  * Menu
-    * Lynx (Elements)
+  * Head to Viper Manor
+
+### Viper Manor
+
+  * Head straight to the entrance . Go to the right and enter the hut which leads to an underground cavern. 
+  * Head down and then up the side on the mini waterfall and to the left.
+  * Now that you are in the sewers, make your way up the ladder and head up to meet Norris.
+  * Norris joins your party. Don't put him on the main party.
+  * Go to the port and board the boat. Now head to Marbule. 
+
+
+### Marbule 
+  * Go talk to the guy on or after the bridge, ask about the dead sea and run away. You don't have to sit there and listen to him.
+  * Menu - Allocate Elements
+    * Lynx
       * Remove All
-      * Level 1 TurnBlue/Strengthen/TurnWhite/WeakMinded/AeroBlaster/Cure
-      * Level 2 HealAll/HealAll/Blackout
-      * Level 4 Magnify
-      * Level 6 IceBlast
-    * Harle (Elements)
+      * Level 1 
+        * TurnBlue
+        * Strengthen
+        * TurnWhite
+        * WeakMinded
+        * AeroBlaster
+        * Cure
+      * Level 2 
+        * HealAll
+        * HealAll
+        * HealAll
+        * Blackout
+      * Level 4 
+        * Magnify
+      * Level 6 
+        * IceBlast
+    * Harle
       * Remove All
-      * Level 1 TurnBlue/EagleEye/TurnRed/TurnWhite/TurnBlack
-      * Level 2 HealAll/HealAll/Revive
-      * Level 4 Panacea/Diminish
-      * Level 5 Meteorite/AeroBlaster
-      * Level 6 IceBlast
-    * Sprigg (Elements) - Level 6 PhotonBeam
-  * To the Zelbess. Head downstairs and down the ladder to the last room before
-    the guard to talk to the sage. Try to follow him through the door, then go
-    talk to Fargo. Play Roulette and try and get the cursor between
-    North and East using paused to make sure it lands there. Hold X and unpause
-    and you should hit South. Also if Fargo lands on East just hold X.
+      * Level 1 
+        * TurnBlue
+        * EagleEye
+        * TurnRed
+        * TurnWhite
+        * TurnBlack
+      * Level 2 
+        * HealAll
+        * HealAll
+        * HealAll
+        * Revive
+      * Level 4 
+        * Diminish
+        * Panacea
+      * Level 5 
+        * Meteorite
+        * AeroBlaster
+      * Level 6 
+        * IceBlast
+    * Sprigg
+      * Level 6 
+        * PhotonBeam
+  * Head to the Zelbess
+
+### Zelbess
+
+  * Head downstairs and down the ladder to the last room before the guard to talk to the sage. Try to follow him through the door.
+  * Go talk to Fargo. Play Roulette with him and try and get the cursor between North and East using paused to make sure it lands there. Hold X and unpause and you should hit South. Also if Fargo lands on East just hold X.
   * **Go downstairs and go to the inn (below the casino)** 
-  * Go watch the magic show in the first door past the ladder. Re-enter to get turned into cats and go unrig the game. Go back and talk to Fargo again. After you get access go to the grand slam and talk to the sage. When he asks what you want, first choose nothing(2). Then mash.
-  * [**Sage (1575/7)**][29]
-    * Sprigg - 2/2/1/Lagoonate
-    * Lynx - 1/Strengthen Lagoonate
-    * Harle - 1/Turnblack Lagoonate
-    * Lagoonate - 1/3
-    * Lynx - 1/2/2
-    * Lagoon - 2/3
-    * Lynx - 1/2/2
-    * Lagoon - 2/3
-    * Mythril Helmet (Common/Rare)
+  * Go watch the magic show in the first door past the ladder. Re-enter to get turned into cats and go unrig the game. Go back and talk to Fargo again, beat him this time.
+  * After you get access go to the grand slam and talk to the sage. When he asks what you want, first choose nothing(2). Then mash.
+
+#### Sage (1575/7)
+  * Sprigg - Target Sage
+    * 2 / 2 / 1
+    * Doppelganger Lagoonate
+  * Lynx - Target Sage
+    * 1
+    * Strengthen Lagoonate
+  * Harle - Target Sage
+    * 1
+    * Turnblack Lagoonate
+  * Lagoonate - Target Sage
+    * 1 / 3
+  * Lynx - Target Sage
+    * 1 / 2 / 2
+  * Lagoon - Target Sage
+    * 2 / 3
+  * Lynx - Target Sage
+    * 1 / 2 / 2
+  * Lagoon - Target Sage
+    * 2 / 3
   * **SPLIT AFTER THE WIN MENU**
+
+Drops: 
+* Mythril Helmet (Common/Rare)
 
 ## Garai
 
-  * Move Lynx to First
-  * To Dead Sea (use Fiddler Crab)
-  * To Hermit's Hideaway. Wait at the top of the ladder until Radius comes out.
-  * Head to Isle of the Damned.
+### Zelbess
+
+  * Go back to your boat and move Lynx to first. Head to the Dead Sea and use the Fiddlers Crab.
+  * Radius will tell you go to Hermit's Hideaway, so head there.
+
+### Hermit's Hideaway
+
+  * Wait at the top of the ladder until Radius comes out and get Garai's Keepsake from him. (He's an old man so he moves waaay too slow), head to Isle of the Damned.
+
+### Isle of the Damned
   * Move Harle to first, then go fight the Willow Wisps before the next part.
-  * **Willow Wisp**
-    * Harle - 3/3/Iceblast (Moonbeams if you miss or have 3 wisps.
-    * Lynx - 1/2/2/Glidehook if necessary
-  * Drag the next willow wisp to the white knight and kill him there. Then move
-    Lynx to first.
-  * **WightKnight**
-    * Lynx - 2/3/2
-    * Sprigg - 1/x (LV 6)
-    * Lynx - 2/2
-    * Harle - 1/2/2 (LV 5)
-    * Lynx - WeakMinded-3
-    * Harle - Defend
-    * Lynx - Magnify-2
-    * Harle - Meteorite+3
-    * Sprigg - PhotonBeam+3
-    * Must kill with Sprigg, so do whatever is left (if any) with Sprigg.
-    * Iron (Common)
-    * Rainbow Shell (Rare)
-  * Sprigg First
-  * [**Garai (2086/6)**][30]
-    * **Early dopple strat**
-    * Sprigg - 1/2/2/WKnight
-    * Harle - 1/1/1/1/Diminish
-    * WKnight - 2/3
-    * Lynx - 1/1/Strengthen WKnight
-    * Harle - 1/TurnBlack
-    * WKnight - 2/3
-    * Lynx - 1/1/2/GlideHook
-    * WKnight - 2/3
-    * Heal with Consumables
-    * **Late dopple strat**
-    * Sprigg - 1/x (until Garai attack)
-    * Harle - 1/1/1/1/Diminish
-    * Sprigg - 1/x/WKnight
-    * Lynx - 1/1/2/Strengthen WKnight
-    * WKnight - 3/3
-    * Harle - 1/TurnBlack (HealAll-2 if needed)
-    * Lynx - 2
-    * WKnight - 1/3
-    * Lynx - 2/2/GlideHook
-    * WKnight - 1/3
-    * Heal with Consumables
-    * Dragoon's Honor (Common/Rare)
+
+#### Willow Wisp
+    * Harle - Target 1st Will-O-Wisp
+      * 3 / 3
+      * Iceblast (Moonbeams if you miss or have 3 wisps)
+    * Lynx - Target 1st Surviving Will-O-Wisp
+      * 1 / 2 / 2
+      * Glidehook (If Needed)
+
+### Isle of the Damned
+
+  * Head up and left while dodging the first skeleton, then down the path below the ribs. Then go up and use Garai's Keepsake on the Mirror.
+  * Pull the Will-O-Wisp down to WightKnight and Fight him there. Switch Lynx to front after.
+
+#### WightKnight
+
+**NOTE:** Sprigg has to be the last one to kill WightKnight no matter what.
+
+  * Lynx - Target WightKnight
+    * 2 / 3 / 2
+  * Sprigg - Target WightKnight
+    * Get to Level 6
+  * Lynx - Target WightKnight 
+    * 2 / 2
+  * Harle - Target WightKnight
+    * Get to Level 5
+  * Lynx - Target WightKnight
+    * WeakMinded-3
+  * Harle
+    * Defend
+  * Lynx
+    * Magnify-2
+  * Harle - Target WightKnight
+    * Meteorite+3
+  * Sprigg
+    * PhotonBeam+3
+
+### Isle of the Damned
+
+  * Switch Sprigg to first and enter the Black Entry Way in the middle
+  * Pray to the Gods
+
+#### Garai (2086/6)
+
+**Note:** Strats here varies if you can get Dopple Early or Not
+
+##### Early DoppleGanger
+  * Sprigg - Target Garai
+    * 1 / 2 /2
+    * WightKnight
+  * Harle - Target Garai
+    * Get to Level 4 
+    * Diminish
+  * WightKnight - Target Garai
+    * 2 / 3
+  * Lynx - Target Garai
+    * 1 / 1
+    * Strengthen WightKnight
+  * Harle - Target Garai
+    * 1
+    * TurnBlack herself
+  * WightKnight - Target Garai
+    * 2 / 3
+  * Lynx - Target Garai
+    * 1 / 1 / 2
+    * GlideHook
+  * WightKnight - Target Garai
+    * 2 / 3
+  * Heal with Consumables
+
+#### Late DoppleGanger
+  * Sprigg - Target Garai
+    * 1 / x (until Garai attack)
+  * Harle - Target Garai
+    * Get to Level 4 
+    * Diminish
+  * Sprigg - Target Garai
+    * Get to Level 5
+    * WightKnight
+  * Lynx - Target Garai
+    * 1 / 1 / 2
+    * Strengthen WightKnight
+  * WightKnight - Target Garai 
+    * 3 / 3
+  * Harle - Target Garai 
+    * 1
+    * TurnBlack (HealAll if needed)
+  * Lynx - Target Garai 
+    * 2
+  * WightKnight - Target Garai 
+    * 1 / 3
+  * Lynx - Target Garai
+    * 2 / 2 / GlideHook
+  * WightKnight - Target Garai
+    * 1 / 3
+  * Heal with Consumables
   * **SPLIT AFTER THE WIN MENU**
+
+Drops:
+  * Dragoon's Honor (Common/Rare)
 
 ## Highwayman
 
-  * Move Lynx to first.
-  * To the Dead Sea. Go through, and enter the first city to the right.
-  * Move Sprigg to first.
-  * [**Highwayman (2100/7)**][31]
-    * Sprigg - 2/2/1/WightKnight
-    * Lynx - 1/Strengthen
-    * Harle - 1/TurnWhite WightKnight
-    * WKnight - 1/3
-    * Lynx - 1/TurnWhite Lynx
-    * Harle - 1/1/1 up to Level 4
-    * WKnight - 3/3
-    * Harle - Panacea WKnight
-    * Lynx - 1/2/2
-    * WKnight - 3/3
-    * Nimble (Common)
-    * Mythril (Rare)
+### Isle of the Damned
+  * Move Lynx to first and head to the Dead Sea.
+  * Heal Everyone if you haven't.
+
+### Dead Sea
+
+  * Mash through, and enter the first city to the right, move Sprigg to first.
+
+#### Highwayman (2100/7)
+  * Sprigg - Target Highwayman
+    * 2 / 2 / 1
+    * DoppelGanger WightKnight
+  * Lynx - Target Highwayman
+    * 1
+    * Strengthen WightKnight
+  * Harle - Target Highwayman 
+    * 1
+    * TurnWhite WightKnight
+  * WightKnight - Target Highwayman
+    * 1 / 3
+  * Lynx - Target Highwayman
+    * 1
+    * TurnWhite Lynx
+  * Harle - Target Highwayman
+    * Get to Level 4
+  * WightKnight - Target Highwayman
+    * 3 / 3
+  * Harle - Panacea WightKnight (if hit by exhaust gas)
+  * Lynx - 1 / 2 / 2
+  * WightKnight - 3 / 3
   * **SPLIT AFTER THE WIN MENU**
+
+Drops: 
+  * Nimble (Common)
+  * Mythril (Rare)
 
 ## Miguel
 
+### Dead Sea
+
   * Move Lynx to first.
-  * Head to the center of the Dead Sea. Keep on the path to the right. Avoid the
-    ghosts and head out the screen to the left. Keep going up and take the exit
-    on the top right of the screen. Keep going forward until you get to the best
-    music in the game.
-  * Safety Save is not a terrible idea. Also go grab the screwy dress on the
-    right side of the plaza.
-  * [**Miguel (2047/6)**][32]
-    * Sprigg - 1/1/1 until WKnight
-    * Lynx - 1 (get to Level 3 if AntiBlack on Harle)
-    * Harle - 1/1/1 until Level 4
+  * Head to the center of the Dead Sea. 
+  * Head straight up to the stairs and turn left on the top and enter the Blue Passage way. 
+  * Avoid battling the ghosts and head out the screen to the left. Keep going up and take the exit on the top right of the screen. Keep going forward until you reach the save sphere. 
+  * Grab the Screwy Dress on the right of the Plaza, go back to the save sphere for a safety save.
+
+#### Miguel (2047/6)
+
+  * Sprigg - Target Miguel
+    * Get to Level 5
+    * DoppelGanger WightKnight
+  * Lynx - Target Miguel
+    * 1 (get to Level 3 if AntiBlack on Harle)
+  * Harle - Target Miguel
+    * Get to Level 4
+  * Everyone
     * Defend until StrongMinded
-    * Lynx - Strengthen WKnight
-    * Defend all, then Lynx Blackout Harle if necessary
-    * Harle 1/1/1 until Diminish
-    * WKnight - 3/3
-    * Lynx - 1/2/2
-    * WKnight - 2/3
-    * Lynx - 1/1/2/Glidehook
-    * WKnight - 2/3
-    * Dreamer's Scarf (Common/Rare)
+  * Lynx
+    * Strengthen WightKnight
+  * Everyone
+    * Defend
+    * Optional: Lynx BlackOut Harle if needed
+  * Harle - Target Miguel
+    * Get to Level 4
+    * Diminish
+  * WightKnight - Target Miguel
+    * 3 / 3
+  * Lynx - Target Miguel
+    * 1 / 2 / 2
+  * Harle - Target Miguel
+    * 1
+    * EagleEye WightKnight
+  * WightKnight - Target Miguel
+    * 2 / 3 
+  * Lynx - Target Miguel
+    * 1 / 1 / 2
+    * Glidehook
+  * WightKnight - Target Miguel
+    * 2 / 3
+  * Dreamer's Scarf (Common/Rare)
   * **SPLIT AFTER THE WIN MENU**
 
 ## Roachester
 
-  * Cut Scene (1:30). Bathroom Break!
-  * To Guldove
-  * Smith
-    * Sell - Golden Tiara
-    * Disassemble - Screwy Dress/Armour/Armour (Armours are for Humour)
-    * Forge - Stone Swallow
-  * To Opassa Beach and go to Another World.
-  * Menu
-    * Lynx (Equip) - Stone Swallow
-    * Harle (Equip) - Dreamer Scarf
-  * Head into Termina and go to the Bar. Have to go through Fossil Valley, and
-    watch out, because a Shadow Cat can pop out at the end. Go into the back and
-    find the dragoons. Change Karsh to K.
-  * Head to Viper Manor, take a left at the entrance, and enter the door on the
-    left to talk to Norris. Go down the stairs to the left and enter the sewers.
-  * Go knock the barrel off on the right side. Then go knock the other barrel
-    off and pick up the humour. Up the stairs and tighten the wheel. back out
-    and circle around to go up the ladder.
-  * Go back to the sewer entrance you first came down and go down again. Head
-    across the bridge, then head up and to the left to turn the wheel. Then go
-    to the right and turn the other wheel. Now back to the other screen, and
-    through the water to open the valve on the next screen. Then go up the
-    ladder.
-  * Move Sprigg to first.
-  * [**Roachester (1307/7)**][33]
-    * Sprigg - 1/2/2/WKnight
-    * Lynx - 1/Strengthen
-    * Harle - Defend/TurnRed WKnight
-    * WKnight - 1/3
-    * Lynx - 1/2/2
-    * Harle - Defend
-    * WKnight - 3/3
-    * Elbow Pad (Common/Rare)
+### Dead Sea
+
+  * Cutscene (1:30) Head to Guldove after Mashing
+
+### Guldove
+
+  * Head to the Smith on the bottom left corner under the red umbrella.
+    * Sell
+      * Golden Tiara
+    * Disassemble
+      * Screwy Dress
+      * 2 Mails or Vests for Humour
+    * Forge
+      * Stone Swallow
+  * Head to Opassa Beach and go to Another World.
+  
+### Opassa Beach
+
+  * Menu - Equip
+    * Lynx
+      * Stone Swallow
+    * Harle
+      * Dreamer Scarf
+  * Get out of there and head to Termina. You'll have to go through Fossil Valley, watch our for the Shadow Cats.
+
+### Termina
+
+  * Head into Termina and go to the Bar. Go into the back and find the dragoons. Karsh will join the Party.
+  * Head to Viper Manor.
+
+### Viper Manor
+
+  * Take a left at the entrance, and enter the last door to talk to Norris. Go down the stairs to the left and enter the sewers.
+  * Go knock the barrel off on the right side. Then go back knock the other barrel off and pick up the humour. Up the stairs and tighten the wheel, go back out and circle around to go up the ladder to the prison basement.
+  * Go back to the sewer entrance you first came down and go down again. Head across the bridge, then head up and to the uppermost blue passage to tighten the wheel. 
+  * Go back and head down and go through the water passage. Follow the path and head up to the ladder to open the wheel.
+  * Move Sprigg to first and follow the path.
+
+#### Roachester (1307/7)
+  * Sprigg - Target Roachester
+    * 1 / 2 / 2
+    * DoppelGanger WightKnight
+  * Lynx - Target Roachester
+    * 1
+    * Strengthen WightKnight
+  * Harle & WightKnight
+    * Defend
+  * Harle
+    * TurnRed WightKnight
+  * WightKnight - Target Roachester
+    * 1 / 3
+  * Lynx - Target Roachester
+    * 1 / 2 / 2
+  * Harle
+    * Defend
+  * WightKnight - Target Roachester
+    * 3 / 3
   * **SPLIT AFTER THE WIN MENU**
+
+Drops:
+  * Elbow Pad (Common/Rare)
 
 ## Hell's Cook
 
+### Viper's Manor Prison
+
   * Take the door to the right.
-  * [**Hell's Cook (2940/8)**][34]
-    * Sprigg - 1/2/2/WKnight
-    * Lynx - 1/1/Strengthen WKnight
-    * Harle - 1/1/TurnBlue WKnight
-    * WKnight - 3/3
-    * Harle - EagleEye Lynx
-    * Lynx - 3/3
-    * WKnight - 3/3
-    * Lynx - 3/3/IceBlast
-    * WKnight - 3/3
-    * Heal with Consumables
-    * Gold Pendant (Common)
-    * Mythril (Rare)
+
+#### Orcha (2940/8)
+
+  * Sprigg - Target Orcha
+    * 1 / 2 / 2
+    * WightKnight
+  * Lynx - Target Orcha
+    * 1 / 1
+    * Strengthen WightKnight
+  * Harle - Target Orcha
+    * 1 / 1
+    * TurnBlue WightKnight
+  * WightKnight - Target Orcha
+    * 3 / 3
+  * Harle
+    * EagleEye Lynx
+  * Lynx - Target Orcha
+    * 3 / 3
+  * WightKnight - Target Orcha
+    * 3 / 3
+  * Lynx - Target Orcha
+    * 3 / 3
+    * IceBlast
+  * WightKnight - Target Orcha
+    * 3 / 3
+  * Heal with Consumables
   * **SPLIT AFTER THE WIN MENU**
+
+Drops:
+  * Gold Pendant (Common)
+  * Mythril (Rare)
 
 ## Grobyc
 
+### Viper Manor
+
   * Move Lynx to first, and head up.
-  * Soldier fight - Harle 1s until Level 7 then Lunairetic. Finish with Lynx if
-    needed.
-  * [**Grobyc (2940/7)**][35]
-    * Definitely not Cyborg backwards
-    * Sprigg - 1/2/2/WKnight
-    * Lynx - 2/3/Strengthen-3 WKnight
-    * WKnight - 2
-    * Harle - 1 (LV 2) TurnWhite WKnight
-    * WKnight - 3/3
-    * Lynx - TurnWhite Lynx
-    * Harle - 1/1/1 until Meteorite+3
-    * WKnight - 3/3
-    * Lynx - 1/2/3
-    * WKnight - 3/3
-    * Lynx - 1/2/3
-    * WKnight - 3/3
-    * Defender (Common)
-    * FreeFall (Rare)
+
+#### Soldier Fight
+  * Harle 
+    * Get to Level 7 (Use 1's)
+    * Lunairetic. 
+  * Finish with Lynx if needed.
+  * **HEAL WITH CONSUMABLES IF NOT YET DONE**
+
+#### Grobyc (2940/7)
+  * Sprigg - Target Grobyc
+    * Get to Level 5
+    * DoppelGanger WightKnight
+  * Lynx - Target Grobyc
+    * 2 / 3
+    * Strengthen WightKnight
+  * WightKnight - Target Grobyc
+    * 2
+  * Harle - Target Grobyc
+    * Get to Level 2
+    * TurnWhite WightKnight
+  * WightKnight - Target Grobyc
+    * 3 / 3
+  * Lynx
+    * TurnWhite Lynx
+  * Harle - Target Grobyc
+    * Get to Level 5
+    * Meteorite
+  * WightKnight - Target Grobyc
+    * 3 / 3
+  * Lynx - Target Grobyc
+    * 1 / 2 / 3
+  * WightKnight - Target Grobyc
+    * 3 / 3
+  * Lynx - Target Grobyc
+    * 1 / 2 /3
+  * WightKnight - Target Grobyc
+    * 3 / 3
   * **SPLIT AFTER THE WIN MENU**
+
+Drops: 
+  * Defender (Common)
+  * FreeFall (Rare)
 
 ## Dario
 
-  * **Guillot (1051/9)**
-    * Harle - EagleEye Lynx
-    * Lynx - 3/3
-    * Harle - 2/2
-    * Lynx - 1/3/Glidehook
-    * Mythril (Common)
-    * Screw (Rare)
-  * Head to Balthasar's tower. Fight the Guillot again.
-  * Switch Grobyc for Sprigg, then switch Karsh for Grobyc.
-  * Menu
-    * Lynx Remove All Accessories
-    * Harle Remove All Equipment
-    * Sprigg Remove All Equipment
-    * Karsh (Equip) - Dragoon Gauntlet/Dragoon Gauntlet/Dragoon's Honor
-    * Lynx (Equip) - Dreamer's Scarf
-  * To the isle of the damned, and head to the back with Solt and Peppor. Will
-    need Garai Amulet to enter.
-  * [**Solt and Peppor (945/8 1050/10)**][36]
-    * Lynx - 1/Strengthen Karsh
-    * Harle - 1/EagleEyle Karsh
-    * Lynx - AeroBlaster-3 Peppor
-    * Karsh - 3/3/AxialAxe (Solt dead)
-    * Harle - 1/2/2/AeroBlaster+1 Peppor
-    * Lynx - 2/3
-    * Karsh - 3
-    * Denadorite/Denadorite (Common)
-    * Stone Vest/Stone Mail (Rare)
-  * Head to Hermit's Hideaway
-  * Go talk to Riddel and rename her to R.
-  * Once you have access to Marcy, put her in the party, then add Riddel
-  * Head to Marbule and Pickup the relic from the Black Dragon.
+  * The Porre Army will start a machine for you to fight.
+
+#### Guillot (1051/9)**
+
+  * Harle - Target Guillot
+    * EagleEye Lynx
+  * Lynx - Target Guillot
+    * 3 / 3
+  * Harle - Target Guillot
+    * 2 / 2
+  * Lynx - Target Guillot
+    * 1 / 3
+    * Glidehook
+
+Drops: 
+  * Mythril (Common)
+  * Screw (Rare)    
+  
+### Viper's Manor
+
+  * Bathroom break until the next the Guillot Fight. Grobyc will join you after all the mess. Replace Sprigg with Grobyc to avoid the text boxes.
+  * Switch Grobyc for Karsh once you get out of Viper Manor
+  * Menu - Equip
+    * Lynx 
+      * Remove All Accessories
+    * Harle
+      * Remove All Accessories
+    * Sprigg
+      * Remove All Accessories
+    * Karsh
+      * Dragoon Gauntlet
+      * Dragoon Gauntlet
+      * Dragoon's Honor
+    * Lynx
+      * Dreamer's Scarf
+  * Head To the Isle of the Damned
+
+### Isle of the Damned
+  
+  * Head to where you fought Garai, put Karsh to First.
+
+####Solt and Peppor (945/8 1050/10)
+
+  * Lynx - Target Solt
+    * Get to Level 2
+    * Strengthen Karsh
+  * Harle - Target Solt
+    * 1
+    * EagleEyle Karsh
+  * Lynx
+    * AeroBlaster Peppor
+  * Karsh - Target Solt
+    * 3 / 3
+    * AxialAxe (Solt dead)
+  * Harle - Target Peppor
+    * 1 / 2 / 2
+    * AeroBlaster+1
+  * Lynx - Target Peppor
+    * 2 / 3
+  * Karsh - Target Peppor
+    * 3
+  * **SPLIT AFTER THE WIN MENU** Head to Hermit's Hideaway after the fight.
+
+Drops: 
+  * Denadorite/Denadorite (Common)
+  * Stone Vest/Stone Mail (Rare)
+
+### Hermit's Hideaway
+
+  * Go talk to Riddel and rename her to R (or LITROD).
+  * Kid will annoy you and you'll be flown into Fargo's Pirate Ship.
+
+### Fargo's Pirate Ship
+
+  * This is the part of the run where you get a cutscene about a girl that means nothing to this speedrun. Head down to the inner deck after.
+  * Once you have access to Marcy, put her in the party, then add Riddel. Head to Marbule
+
+### Marbule
+
+  * Head to the cave on the Upper left corner and Pickup the relic from the Black Dragon.
   * Shop
-    * Note for all the 10s, you have plenty of money so just get 11 or 300 or
-      whatever the hell is fastest for you.
-    * 1 TurnRed
-    * 1 TurnGreen
-    * 1 TrunYellow
-    * 10 Strengthen
-    * 10 EagleEye
-    * 2 Genius
-    * 10 WeakMinded
-  * To Opassa Beach (Home World)
-  * Head to Guldove
+    * 11 TurnRed
+    * 11 TurnGreen
+    * 11 TurnYellow
+    * 11 Strengthen
+    * 11 EagleEye
+    * 11 Genius
+    * 11 WeakMinded
+  * Head to Opassa Beach and go to Home World, then head to Guldove.
+
+### Guldove
+
   * Smith
-    * Disassemble - Ivory Helmet
-    * Forge - Stone Sword/Stone Vest
-  * To Forbidden Island
-  * Safety Save isn't a terrible idea. If you over mash you will die.
-  * Menu
-    * Karsh (Equip) - Remove All
-    * Lynx (Equip) - Stone Vest/Dragoon Gauntlet/Dragoon Gauntlet
-    * Marcy (Equip) - Magic Ring/Dragoon's Honor
-    * Lynx (Elements) - Level 1 replace TurnWhite with Revive/TurnRed (add)
-    * Marcy (Elements) - Level 1 TurnRed/Strengthen/EagleEye/WeakMinded/WeakMinded/Genius,
-                         Level 4 IceBlast/IceBlast/IceBlast/IceBlast/IceBlast
-                         (both last IceBlasts are optional if Mag > 20),
-                         Level 5 - IceBlast/IceBlast,
-                         Level 6 - IceBlast/IceBlast/IceBlast,
-                         Level 7 - FrogPrince
-    * Riddel (Elements) - WeakMinded
-  * [**This Fucking Guy (AKA Dario) (3675/7)**][37]
-    * Riddel - 1/Defend (skip if attacked)
-    * Lynx - 1/1/1 Until level 6/Magnify
-    * Riddel - WeakMinded
-    * Marcy - 1/1/1/1/1/Genius on Marcy
-    * Lynx - TurnRed Dario
-    * Pray to whoever you pray to for a stamina refresh
-    * Lynx - TurnBlue self
-    * Marcy - 1/1
-    * Lynx - 1/Cure
-    * Marcy - 1/FrogPrince
-    * 1 more prayer
-    * Lynx - 1/2/3/WeakMinded
-    * Marcy - 1/1/1 until maxed/IceBlast
-    * Marcy repeat since you have Dario in a loop.
-    * Dreamer's Scarf (Common/Rare)
+    * Disassemble
+      * Ivory Helmet
+    * Forge
+      * Stone Sword
+      * Stone Vest
+  * Head to the Forbidden Island. The small island on the Upper Right of the main island and below the Zelbess.
+  * Menu before you Enter - Equip
+    * Karsh
+      * Remove All Equipment
+    * Lynx
+      * Stone Vest
+      * Dragoon Gauntlet
+      * Dragoon Gauntlet
+    * Marcy (Don't worry if you only have 1 Ring)
+      * Magic Ring or Sky Djinn Ring
+      * Magic Ring or Sky Djinn Ring
+      * Dragoon's Honor
+  * Menu - Allocate Elements
+    * Lynx
+      * Level 1
+        * Replace TurnWhite with Revive
+        * TurnRed
+    * Marcy
+      * Level 1
+        * TurnRed
+        * Strengthen
+        * EagleEye
+        * WeakMinded
+        * WeakMinded
+        * Genius
+      * Level 2
+        * Heal All
+        * Heal All
+      * Level 4
+        * IceBlast
+        * IceBlast
+        * IceBlast
+        * IceBlast
+        * IceBlast
+      * Level 5
+        * IceBlast
+      * Level 6
+        * IceBlast
+        * IceBlast
+        * IceBlast
+      * Level 7
+        * FrogPrince
+    * Riddel
+      * Level 1 
+        * WeakMinded
+  * **Safety Save Outside**
+
+#### Dario
+
+**Note:** You'll die if you overmash. Consider running if you didn't get the turn order right, or a good stamina refresh.
+
+  * Riddel - Target Dario 
+    * 1
+    * Defend (skip if attacked)
+  * Lynx - Target Dario 
+    * 1's until Level 6
+    * Magnify
+  * Riddel - Target Dario 
+    * WeakMinded
+  * Marcy - Target Dario 
+    * 5 1's
+    * Genius Marcy
+  * Lynx - Target Dario 
+    * Turn Red
+  * Hope for a Good Stamina Refresh
+  * Lynx
+    * TurnBlue self
+  * Marcy - Target Dario
+    * 1's to Level 6
+  * Lynx - Target Dario 
+    * 1 
+    * TurnBlue Self
+  * Marcy - Target Dario
+    * 1
+    * FrogPrince
+  * Hope for a Good Stamina Refresh
+  * Lynx - Target Dario
+    * 2/2/2
+    * WeakMinded
+  * Marcy - Target Dario
+    * 6 1's
+    * IceBlast
+  * Repeat Marcy
   * **SPLIT AFTER THE WIN MENU**
+
+Drops: 
+  * Dreamer's Scarf (Common/Rare)
 
 ## Earth Dragon
 
+  * The Star Fights from here on out will vary according to Serge's Strength values. So be aware of them as having a certain value will change the fight entirely.
+
+### Overworld
+
   * Switch Riddel for Fargo
-  * Menu
-    * Lynx (Equip) - Mastermune/Remove Dreamer's Scarf
-    * Marcy (Equip) - Dreamer's Scarf/Remove Dragoon's Honor
-    * Fargo (Equip) - Stone Sword/Dreamer's Scarf/Mythril Helmet
-    * Lynx (Equip) - Dragoon's Honor
-    * Lynx (Elements) - Level 4 remove Magnify,
-                        Level 6 remove IceBlast
-    * Marcy (Elements) - Level 4 Panacea/Magnify
-    * Fargo (Elements) - Level 2 HealAll/HealAll
-                         Level 1 TurnBlue/EagleEye/Strengthen/TurnGreen/TurnYellow/TurnWhite/Genius
-    * Heal with Consumables
-  * To Earth Dragon Isle
-  * Go down the pit, and head to the right side of the screen down the first
-    hole. This will pop you back up to the surface, where you will exit, and
-    then come right back to the quicksand. Go down again. This time go to the
-    left, and go down to the bottom to talk to the guy with explosives. Next
-    room and explode the RockRoach on the right, and fight the one on the left
-    when it gets in position to be exploded.
-  * **RockRoach**
-    * Marcy - EagleEye Lynx
-    * Fargo - TurnGreen Lynx
-    * Lynx - 3/3
-    * Fargo - 2/2/2
-    * Lynx - 3/3
-  * Push the RockRoach over. Head down, and fight the next RockRoach as well.
-  * Repeat above fight.
-  * Go jump down the hole in the middle and head towards the Earth Dragon. Make
-    sure you select option 2.
-  * [**Earth Dragon (2945/9)**][38]
-    * **Lynx > 29 STR**
-    * Marcy - EagleEye Lynx
-    * Fargo - TurnGreen Lynx
-    * Lynx - 3/3
-    * Fargo - 3/3
-    * Lynx - 3/3
-    * Fargo - 3/3
-    * Lynx - 3/3
-    * **Lynx < 29 STR**
-    * Marcy - Strengthen Lynx
-    * Fargo - TurnGreen Lynx
-    * Lynx - Defend
-    * Marcy - 1/EagleEye Lynx
-    * Lynx - 3/3
-    * Fargo - 3/3
-    * Lynx - 3/3 GlideHook
-    * ThundaSnake (Common/Rare)
-  * **SPLIT AFTER THE WIN MENU**
+  * Menu - Equip
+    * Lynx
+      * Mastermune
+      * Remove Dreamer's Scarf
+    * Marcy
+      * Replace Dragoons Honor for Dreamer's Scarf
+    * Fargo 
+      * Stone Sword
+      * Dreamer's Scarf
+      * Mythril Helmet
+    * Lynx
+      * Dragoon's Honor
+  * Menu - Allocate Elements
+    * Lynx
+      * Level 4
+        * Remove Magnify
+      * Level 6
+        * Remove IceBlast
+    * Marcy
+      * Level 4
+        * Magnify
+        * Panacea
+    * Fargo
+      * Level 1 
+        * TurnBlue
+        * EagleEye
+        * Strengthen
+        * TurnGreen
+        * TurnYellow
+        * TurnWhite
+        * Genius
+      * Level 2
+        * HealAll
+        * HealAll
+        * HealAll
+  * Heal with Consumables and head to Earth Dragon Isle
+
+### Earth Dragon Isle
+
+  * You will be fighting RockRoaches here so here are the strats for em.
+
+#### RockRoach Fights
+
+  * Marcy
+    * EagleEye Lynx
+  * Fargo
+    * TurnGreen Lynx
+  * Lynx - Target RockRoach
+    * 3 / 3
+  * Fargo - Target RockRoach
+    * 2 / 2 / 2
+  * Lynx - Target RockRoach
+    * 3 / 3
+
+### Actual Earth Dragon Isle
+
+  * Go down the pit, and head to the right side of the screen down the first hole. This will pop you back up to the surface, where you will exit, get out of map come back again right back to the quicksand. 
+  * Go down again. This time go to the left, and go down to the bottom to talk to the guy with explosives. 
+  * Head to the next room and explode the RockRoach on the right with explosives, and fight the one on the left when it gets in position to be exploded.
+  * Push the RockRoach over. Head down, and fight the next RockRoach on the right as well.
+  * Go jump down the hole in the middle and head towards the Earth Dragon. Make sure you select option 2 to fight it.
+
+#### Earth Dragon (2945/9)
+  * **Lynx >= 29 STR**
+    * Marcy
+      * EagleEye Lynx
+    * Fargo
+      * TurnGreen Lynx
+    * Lynx - Target Earth Dragon
+      * 3/3
+    * Fargo - Target Earth Dragon
+      * 3/3
+    * Lynx - Target Earth Dragon
+      * 3/3
+    * Fargo - Target Earth Dragon
+      * 3/3
+    * Lynx - Target Earth Dragon
+      * 3/3
+
+  * **Lynx < 29 STR**
+    * Marcy 
+      * Strengthen Lynx
+    * Fargo
+      * TurnGreen Lynx
+    * Lynx
+      * Defend
+    * Marcy - Target Earth Dragon
+      * 1
+      * EagleEye Lynx
+    * Lynx - Target Earth Dragon
+      * 3 / 3
+    * Fargo - Target Earth Dragon
+      * 3 / 3
+    * Lynx - Target Earth Dragon
+      * 3 / 3 GlideHook
+  * **SPLIT AFTER THE WIN MENU** Head to the Water Dragon Isle
+
+Drops:
+  * ThundaSnake (Common/Rare)
 
 ## Water Dragon
 
-  * To Water Dragon Isle
-  * Lily pad ordering - Up, Up, Up, Up (This is here for sanity just in case you
-                        are starting to lose some focus 5 hours into the run)
-  * Head up the ladder in the middle, head left and down the ladder keeping in
-    mind the best music in the game. Now head down all the ladders to the
-    SideSteppa. Note that runners have started running away a couple of times if
-    you don't get a single SideSteppa since the multi-enemies take forever.
-  * **SideSteppa**
-    * **Lynx 32 STR**
-    * Marcy - TurnRed Lynx
-    * Lynx - 2/2/2/Glidehook
-    * **Lynx <32 STR**
-    * Marcy - TurnRed Lynx
-    * Fargo - Strengthen Lynx
-    * Lynx - 1/1/2/2/Glidehook
-  * [**WaterDragon (2660/10)**][39]
-    * Marcy - TurnRed Lynx
-    * Fargo - Strengthen Lynx
-    * Lynx - 2/3/2 (2/2/3 if already attacked)
-    * **Lynx 33 STR**
-    * Fargo - 3
-    * Lynx - 2/Glidehook
-    * **Lynx 30 STR**
-    * Fargo - 2/3
-    * Lynx - 2/2/Glidehook
-    * BlueWhale (Common/Rare)
+### Water Dragon Isle
+
+  * Head to the Lily pads. The order is - Up, Up, Up, Up
+  * Head up the ladder in the middle, head left and down the ladder Now head down all the ladders to the SideSteppa. Note that runners have started running away a couple of times if you don't get a single SideSteppa since the multi-enemies take forever.
+
+#### SideSteppa
+
+  * **Lynx >= 32 STR**
+    * Marcy
+      * TurnRed Lynx
+    * Lynx - Target SideSteppa
+      * 2 / 2 / 2
+      * Glidehook
+
+  * **Lynx < 32 STR**
+    * Marcy
+      * TurnRed Lynx
+    * Fargo
+      * Strengthen Lynx
+    * Lynx - Target SideSteppa
+      * 1 / 1 / 2 / 2
+      * Glidehook
+
+#### Water Dragon (2660/10)
+
+  * **Lynx 33 STR**
+    * Marcy
+      * TurnRed Lynx
+    * Fargo
+      * Strengthen Lynx
+    * Lynx - Target Water Dragon
+      * 2/3/2 (2/2/3 if already attacked)
+    * Fargo - Target Water Dragon
+      * 3
+    * Lynx - Target Water Dragon
+      * 2
+      * Glidehook
+
+  * **Lynx 30 STR**
+    * Marcy
+      * TurnRed Lynx
+    * Fargo
+      * Strengthen Lynx
+    * Lynx - Target Water Dragon
+      * 2/3/2 (2/2/3 if already attacked)
+    * Fargo - Target Water Dragon
+      * 2 / 3
+    * Lynx - Target Water Dragon
+      * 2 / 2
+      * Glidehook
   * **SPLIT AFTER THE WIN MENU**
+
+Drops:
+  * BlueWhale (Common/Rare)
 
 ## Tyrano
 
-  * Head back out to the lily pad isle.
-  * Lily pad ordering - Down, Left, Right, Left
-  * Head to Hydra's Marsh. Take the path on the left side of the screen up to
+### Water Dragon Isle
+
+  * Head back out to the Lilypad isle, the ordering is Down, Left, Right, Left.
+  * Head to Hydra's Marsh.
+  
+### Hydra Marsh
+
+  * Take the path on the left side of the screen up to
     the ... branches? Head left and go fight Beeba.
-  * **Beeba**
-    * Lynx - 2/2
   * Avoid middle of chest area after picking up item to skip text. Take route
     up and to the right.
-  * **Wingapede**
-    * Lynx - 3/3
-    * If necessary - Fargo 2, then Lynx 3
   * Go back to the area before the chest you picked up, and then re-enter to
     fight BubbaBeeba.
-  * **BubbaBeeba**
-    * Lynx - 2/2/2/Glidehook (hopefully after the second 2 none of this is
-             needed)
   * Enter the next screen, and go next to the beeba and call the Wingapede.
-  * Listing Battle Strats up here since these battles are dupes. Fight 1 or 2,
-    run from 3 or Prehysteric
-  * **PreyMantis (610/21)**
-    * **Only 1**
-    * Marcy - Strengthen Lynx (skip if 36 STR)
-    * Fargo - TurnYellow Lynx
-    * Lynx - 2 then 2/3
-    * **2**
-    * Marcy - Strengthen Lynx
-    * Fargo - TurnYellow Lynx
+
+#### Beeba / BubbaBeeba
+
+  * Lynx
+    * 2 / 2 / 2
+    * GlideHook
+
+#### Wingapede
+
+  * Lynx
+    * 3 / 3
+  * Fargo 
+    * 2
+  * Lynx 3
+
+### Gaea's Navel
+
+  * You'll be clearing the Map here so the strats are lined up now. Fight 1 or 2, run from 3 or Prehysteric
+
+#### PreyMantis (610/21)
+
+  * **One Monster**
+    * Marcy
+      * Strengthen Lynx (skip if 36 STR)
+    * Fargo
+      * TurnYellow Lynx
+    * Lynx - Target PreyMantis
+      * 2 then 2/3
+
+  * **Two Monsters**
+    * Marcy
+      * Strengthen Lynx (skip if 36 STR)
+    * Fargo
+      * TurnYellow Lynx
     * Lynx - 1/2/3
     * Fargo - 3/3
     * Lynx - 2/2/2/GlideHook
-  * **Pterodact (750/21)**
-    * Fargo - TurnBlue Lynx
-    * Lynx - 2/2/3 (2/2/2/GlideHook if 1)
-    * Marcy - 1/1/1 until Level 6/IceBlast+2
-    * Lynx - 2/2/2/GlideHook
-  * Now in the Navel, head up to the Mantis.
-  * After that, head down and to the right for that mantis.
-  * Head to the next screen to the right and get the first mantis there.
-  * Now head back to the original screen and up the ladder and get the item to
-    bait the Pterodact.
-  * Afterwards head down the ladder to the screen to the left to fight the first
-    mantis. Then head down the ladder to the lower mantis to fight that one.
+
+#### Pterodact (750/21)
+  * Fargo
+    * TurnBlue Lynx
+  * Lynx - Target Pterodact
+    * 2 / 2 / 3
+    * 2 / 2 / 2 - GlideHook if 1
+  * Marcy - Target Pterodact
+    * Get to Level 6
+    * IceBlast
+  * Lynx - Target Pterodact
+    * 2 / 2 / 2
+    * GlideHook
+
+### Clearing Gaea's Navel
+
+  * Head up to the right to fight the Mantis.
+  * Head down and to the right for the other Mantis.
+  * Head to the next screen to the right and get the first Mantis there.
+  * Get up the Ladder on the original screen, get the chest and go down to Fight the Pterodact.
+  * Afterwards head down the ladder to the screen to the left to fight the First Mantis. Then head down the ladder to the lower mantis to fight the running Mantis.
   * Now head back to the main screen to fight the Tyrano.
-  * [**Tyrano (1680/6)**][40]
-    * **You must steal the Power Seal or Run Away.**
-    * Fargo - 1/1/Pillage
-    * Marcy - 1/1/1 until Level 7
-    * Fargo - 1/TurnBlue Lynx
-    * Marcy - FrogPrince
-    * Lynx/Fargo - 2/2/2 for the win.
-    * Resistance Ring (Common/Rare)
+  
+#### Tyrano (1680/6)
+
+**Note:** You must steal the Power Seal or Run Away.
+
+  * Fargo - Target Tyrano
+    * 1 / 1
+    * Pillage (Run Away if you didn't Power Seal)
+  * Marcy - Target Tyrano
+    * Get to Level 7
+  * Fargo - Target Tyrano
+    * 1
+    * TurnBlue Lynx
+  * Marcy - Target Tyrano
+    * FrogPrince
+  * Lynx / Fargo - Target Tyrano
+    * 2 / 2 / 3 for the win.
   * **SPLIT AFTER THE WIN MENU**
+
+Drops:
+  * Resistance Ring (Common/Rare)
 
 ## Green Dragon
   
-  * Menu
-    * Lynx (Equip) - Dragoon Gauntlet/Power Seal/Pendragon Sigil B or C
-    * Fargo (Equip) - Dragoon's Honor
-  * [**Green Dragon (3885/5)**][41]
-    * **Late Carnivore and 31 STR**
-    * Fargo - EagleEye Lynx
-    * Lynx - 2/2
-    * Carnivore expected here
-    * Marcy - Strengthen Lynx
-    * Fargo - 1/1/TurnYellow Lynx
-    * Lynx - 3/3 (Glidehook if 38STR)
-    * Marcy - 2/2 (or 1/1/1 until Panacea for Lynx if needed)
-    * Lynx - 2/3
-    * **Early Carnivore**
-    * Fargo - EagleEye Lynx
-    * Carnivore expected here
-    * Lynx - Defend
-    * Marcy - Strengthen Lynx
-    * Fargo - 1/TurnYellow Lynx
-    * Lynx - 3/3
-    * Marcy - 3/3 (or 1/1/1 until Panacea for Lynx if needed)
-    * Lynx - 2/2/3 (3/3/Glidehook if <34 STR)
-    * Genie (Common/Rare)
+### Gaea's Navel
+
+  * Menu - Equip
+    * Lynx
+      * Dragoon Gauntlet
+      * Power Seal
+      * Pendragon Sigil B or C
+    * Fargo
+      * Dragoon's Honor
+
+#### Green Dragon (3885/5)
+
+  * **Late Carnivore and 31 STR**
+    * Fargo
+      * EagleEye Lynx
+    * Lynx - Target Green Dragon
+      * 2 / 2
+    * Green Dragon
+      * Carnivore
+    * Marcy
+      * Strengthen Lynx
+    * Fargo
+      * TurnYellow Lynx
+    * Lynx - Target Green Dragon
+      * 3/3 (Glidehook if 38STR)
+    * Marcy - Target Green Dragon
+      * 2 / 2
+      * Optional: 1's to Level 4 -> Panacea Lynx
+    * Lynx - Target Green Dragon
+      * 2 / 3
   * **SPLIT AFTER THE WIN MENU**
+
+  * **Early Carnivore**
+    * Fargo - 
+      * EagleEye Lynx
+    * Green Dragon
+      * Carnivore
+    * Lynx
+      * Defend
+    * Marcy
+      * Strengthen Lynx
+    * Fargo
+      * TurnYellow Lynx
+    * Lynx - Target Green Dragon
+      * 3 / 3
+    * Marcy - Target Green Dragon
+      * 3 / 3
+      * Optional: 1's to Level 4 -> Panacea Lynx
+    * Lynx - Target Green Dragon
+      * 2 / 2 / 3 ( or 3 / 3 / Glidehook if < 34 STR)
+  * **SPLIT AFTER THE WIN MENU**
+
+Drops:
+  * Genie (Common/Rare)
 
 ## Fire Dragon
 
-  * To Opassa Beach (Another World)
-  * Head to Mount Pyre. First go up through the first screen, then go right. Be
-    careful because the dogs will chase you here. Head down the lavafall, then
-    through the mini cave to the exit at the top of the screen. Now head up one
-    more screen to the room with the fire dragon.
+  * Head to Opassa Beach to Another World and go to Mt. Pyre.
+
+### Mt. Pyre (Another World)
+
+  * First go up through the first screen, then go right. Be careful because the dogs will chase you here. Head down the lavafall, then through the mini cave to the exit at the top of the screen. Now head up one more screen to the room with the fire dragon.
+
   * Menu
-    * Lynx (Equip) - Dragoon Gauntlet (replace Pendragon's Sigil)
-    * Heal with Consumables
+    * Lynx
+      * Replace Pendragon's Sigil with Dragoon Gauntlet
+    * Heal and Remove Status Effects with Consumables
   * Talk to the Fire Dragon to start the battle.
-  * [**Fire Dragon (892/9 -> 3570/9)**][42]
-    * Marcy - 1/2 (Get to Level 4)
-    * Fargo - 1 (Get to Level 2)
-    * Lynx - 1/1/2/3
-    * Marcy - Defend
-    * Fargo - Defend
-    * Marcy - Strengthen Lynx
-    * Fargo - EagleEye Lynx
-    * Lynx - Defend
-    * Fargo - TurnBlue Lynx
-    * Marcy - Cat's Cradle
-    * **If no Transform**
-    * Lynx - 1/1/1 until Transform
-    * **Back on Script**
-    * Lynx - 3/3
-    * Defend All
-    * Lynx - 3/3/1
-    * Marcy - Defend
-    * Lynx - Glidehook
-    * Salamander (Common/Rare)
+
+#### Fire Dragon (892/9 -> 3570/9)
+  * Marcy - Target Fire Dragon
+    * Get to Level 4
+  * Fargo - Target Fire Dragon
+    * Get to Level 2
+  * Lynx - Target Fire Dragon
+    * 1 / 1 / 2 / 3
+  * Marcy
+    * Defend
+  * Fargo
+    * Defend
+  * Marcy
+    * Strengthen Lynx
+  * Fargo - Target Fire Dragon
+    * EagleEye Lynx
+  * Lynx
+    * Defend
+  * Fargo
+    * TurnBlue Lynx
+  * Marcy - Target Fire Dragon
+    * Cat's Cradle
+  * **If Fire Dragon doesn't Transform**
+    * Lynx - Target Fire Dragon 
+      * 1/1/1 until Transform
+  * Lynx - Target Fire Dragon
+    * 3 / 3
+  * Defend All
+  * Lynx - Target Fire Dragon
+    * 3 / 3 / 1
+  * Marcy
+    * Defend
+  * Lynx - Target Fire Dragon
+    * Glidehook
   * **SPLIT AFTER THE WIN MENU**
+
+Drops:
+* Salamander (Common/Rare)
 
 ## Sky Dragon
 
+### Mt. Pyre
+
   * Exit Mount Pyre, and head to Sky Dragon Isle.
+
+### Overworld
+
   * Menu
     * Heal with Consumables
+
+### Sky Dragon Isle
+
   * Run up the stairs and talk to the Sky Dragon to fight.
-  * [**Sky Dragon (3610/7)**][43]
-    * Marcy - EagleEye Lynx
-    * Fargo - Strengthen Lynx
-    * Lynx - 3/3 (2/3 if 38 STR)
-    * Fargo - 3/3
-    * Lynx - 3/3/Glidehook
-    * Saints (Common/Rare)
+
+#### Sky Dragon (3610/7)
+  * Marcy
+    * EagleEye Lynx
+  * Fargo
+    * Strengthen Lynx
+  * Lynx - Target Sky Dragon
+    * 3 / 3 (or 2 / 3 if 38 STR)
+  * Fargo - Target Sky Dragon
+    * 3 / 3
+  * Lynx - Target Sky Dragon
+    * 3 / 3
+    * Glidehook
   * **SPLIT AFTER THE WIN MENU**
+
+Drops:
+  * Saints (Common/Rare)
 
 ## Dark Serge
 
-  * To Guldove
-  * **Orlha (1710/6)**
-    * Marcy - EagleEye Lynx
-    * Fargo - Strengthen Lynx (skip if 38 STR)
-    * Lynx - 3/3/Glidehook
-    * Mythril (Common)
-    * Waist Pad (Rare)
-  * Head up the ladder and to the left to the Shrine. Show Tear of Hate to
-    get the Dragon Eblem. Now head back to Opassa Beach and Home World.
-  * Now head to the El Nido Triangle. Head down the ladder and get the chest
-    (Star Fragment) surrounded by several fish. Those will chase you if you get
-    in the circle. Head back out of the El Nido Triangle and to Sky Dragon Isle.
-    Open the chest to start a fight.
-  * **Mega Starky (2940/8)**
-    * Marcy - EagleEye Lynx
-    * Fargo - Strengthen Lynx
-    * Lynx - 3/3
-    * Fargo - 3/3
-    * Lynx - 3/3 (GlideHook if 40 STR)
-    * otherwise Repeat
-    * MagNegate (Common/Rare)
-  * After the fight catch Starky, then head to Guldove. Head up the ladder to
-    the left and go to the shrine. Show the Dragon Emblem to enter. Head to Fort
-    Dragonia. Heal at the screen before you enter the fort. Head for the
-    elevator.
-  * [**Dark Serge (3150/9)**][44]
-    * Marcy - EagleEye Lynx
-    * Fargo - TurnWhite Lynx
-    * Lynx - 3/3
-    * Fargo - 3/3
-    * Lynx - 3/3 (GlideHook if 40 STR)
-    * otherwise Repeat
-    * Pendragon Sigil A (Common)
-    * Stamina Belt (Rare)
+  * Head to Guldove and fight Orlha
+
+#### Orlha (1710/6)
+  * Marcy
+    * EagleEye Lynx
+  * Fargo
+    * Strengthen Lynx (skip if 38 STR)
+  * Lynx - Target Orlha
+    * 3 / 3
+    * Glidehook
+
+Drops:
+  * Mythril (Common)
+  * Waist Pad (Rare)
+
+### Guldove
+
+  * Head up the ladder and to the left to the Shrine. Show Tear of Hate to get the Dragon Eblem. Now head back to Opassa Beach and Home World. Head to the El Nido Triangle.
+
+### El Nido Triangle
+
+  * Head down the ladder heading to the right and down. Go to the right path again dodging everything and head down. 
+  * Get the chest (Star Fragment) surrounded by several fish. Those will chase you if you get in the circle. Head back out of the El Nido Triangle and to Sky Dragon Isle.
+
+### Sky Dragon Isle
+
+  * Open the chest to start a fight.
+
+#### Mega Starky (2940/8)
+
+  * Marcy
+    * EagleEye Lynx
+  * Fargo
+    * Strengthen Lynx
+  * Lynx - Target Mega Starky
+    * 3 / 3
+  * Fargo - Target Mega Starky
+    * 3 / 3
+  * Lynx - Target
+    * 3 / 3 (GlideHook if 40 STR)
+  * Fargo and Lynx
+    * Repeat until dead
+
+Drops: 
+  * MagNegate (Common/Rare)
+
+### Sky Dragon Isle
+
+  * After the fight catch Starky, then head to Guldove.
+
+### Guldove 
+  
+  * Head up the ladder to the left and go to the shrine. Show the Dragon Emblem to enter. Head to Fort
+    Dragonia. 
+
+### Fort Dragonia
+
+  * Heal at the screen before you enter the fort. Head for the elevator.
+
+#### Dark Serge (3150/9)
+
+  * Marcy
+    * EagleEye Lynx
+  * Fargo
+    * TurnWhite Lynx
+  * Lynx - Target Dark Serge
+    * 3 / 3
+  * Fargo - Target Dark Serge
+    * 3 / 3
+  * Lynx - Target Dark Serge
+    * 3 / 3 (GlideHook if 40 STR)
+  * Fargo and Lynx
+    * Repeat until dead
   * **SPLIT AFTER THE WIN MENU**
+
+Drops:
+  * Pendragon Sigil A (Common)
+  * Stamina Belt (Rare)
 
 ## Vita Unus
 
-  * Up the elevator, and head to the top of the fort.
-  * Cutscene 1:45 (have to mash until it starts)
-  * Menu
-    * Serge (Equip) - Dragoon's Gauntlet/Dragoon's Gauntlet/Power Seal
-    * Fargo (Equip) - Elbow Pad (Remove Dreamer's Scarf)
-    * Marcy (Equip) - Dreamer's Scarf (Remove Magic Ring)
-  * Head to the Dead Sea Ruins, and enter the Fate Distortion.
-  * Disk Swap
-  * Do the islands in the order Upper Right, Lower Left, back to where we
-    started. (Counter Clockwise)
-  * [**Vita Unus (2375/7)**][45]
-    * Serge - 1/2/2
-    * Fargo - 1/TurnBlue Serge
-    * Marcy - 3
-    * **Expect CurePlus**
-    * If no cureplus, then 1 with Marcy.
-    * Marcy - EagleEye Serge
-    * Serge - 1 then 3
-    * Fargo - 1 then 3 (GreenField)
-    * Serge - 3/3
-    * Fargo - 3/3
-    * Serge - 3/3/Dash&Slash
-    * Vigora (Common/Rare)
+### Fort Dragonia
+
+  * Head up the elevator, and head to the top of the fort. There's a small path going to the last teleporter go through that path.
+  * Cutscene 1:45 (You'll get Serge back here, but you'll have to mash before he starts)
+  * Menu - Equip
+    * Serge
+      * Dragoon's Gauntlet
+      * Dragoon's Gauntlet
+      * Power Seal
+    * Fargo
+      * Remove Dreamer's Scarf for Elbow Pad 
+    * Marcy
+      * Remove Magic Ring for Dreamer's Scarf
+
+### Overworld
+
+  * Head to the Dead Sea Ruins, and enter the Fate Distortion. Do a disc swap after some mashing
+
+### Fate Distortion 
+
+  * Do the islands in the order Upper Right, Lower Left, back to where we started. (Counter Clockwise)
+
+#### Vita Unus (2375/7)
+
+  * Serge - Target Vita Unus
+    * 1 / 2 / 2
+  * Fargo - Target Vita Unus
+    * 1
+    * TurnBlue Serge
+  * Marcy - Target Vita Unus
+    * 3
+  * Vita Unus
+    * CurePlus (Do 1's with Marcy if this is not done yet)
+  * Marcy
+    * EagleEye Serge
+  * Serge - Target Vita Unus
+    * 1 then 3
+  * Fargo - Target Vita Unus
+    * 1 then 3 (GreenField)
+  * Serge - Target Vita Unus
+    * 3 / 3
+  * Fargo - Target Vita Unus
+    * 3 / 3
+  * Serge - Target Vita Unus
+    * 3 / 3
+    * Dash&Slash
   * **SPLIT AFTER THE WIN MENU**
+
+Drops:
+  * Vigora (Common/Rare)
 
 ## PolisPolice
 
-  * Menu
-    * Serge (Elements) - Level 1 HealAll/HealAll/HealAll/Strengthen/TurnYellow/TurnWhite,
-                         Level 8 Saints
-    * Fargo (Elements) - Level 1 Revive (Replace TurnBlue),
-                         Level 4 Vigora
+### Fate Distortion
+
+  * Menu - Allocate Elements
+    * Serge
+      * Level 1
+        * Strengthen
+        * TurnYellow
+        * TurnWhite
+      * Level 2
+        * HealAll
+        * HealAll
+        * HealAll
+      * Level 8
+        * Saints
+    * Fargo
+      * Level 1
+        * Revive (Replace TurnBlue)
+      * Level 4 
+        * Vigora
   * Enter Chronopolis.
-  * [**PolisPolice (3360/8)**][46]
-    * Marcy - EagleEye Serge
-    * Serge - 3/3
-    * **42 STR**
-    * Fargo - 1/1/1 until Vigora Serge
-    * Serge - 2/Dash&Slash (trigger break)
-    * Serge - 3/3/3 until Vigora runs out
-    * **38 STR**
-    * Marcy - Strengthen Serge (skip if dead)
-    * Fargo - 1/1/1 until Vigora Serge
-    * Serge - 1/Dash&Slash (Strenghten, 1 Dash&Slash if Marcy died) (trigger break)
-    * Serge - 3/x
-    * PhysNegate (Common/Rare)
+
+### Chronopolis
+
+#### PolisPolice (3360/8)
+
+  * Marcy
+    * EagleEye Serge
+  * Serge - Target PolisPolice
+    * 3 / 3
+  * **42 STR**
+    * Fargo - Target PolisPolice
+      * Get to Level 4
+      * Vigora Serge
+    * Serge - Target PolisPolice
+      * 2 / Dash&Slash (trigger break)
+    * Serge - Target PolisPolice
+      * Do 3's until he dies.
+
+  * **38 STR**
+    * Marcy 
+      * Strengthen Serge (skip if dead)
+    * Fargo - Target PolisPolice
+      * Get to Level 4
+      * Vigora Serge
+    * Serge
+      * 1 / Dash&Slash (Strenghten, 1 Dash&Slash if Marcy died) (trigger break)
+    * Serge - Target PolisPolice
+      * Do 3's until he dies.
   * **SPLIT AFTER THE WIN MENU**
+
+Drops:
+  * PhysNegate (Common/Rare)
 
 ## Fate
 
-  * Head up to the next area. Then go right and down the hatch. Take control of
-    the robot and cross the area to extend the bridge. Head up the ladder and
-    through the door at the top. Go Right, then up the stairs to floor 2. Head
-    to the room with the map and enable security lock 2. Now take the elevator
-    to floor 4. To the right, and start the scientist conversation.
-  * Head down the elevator back to the first floor. Take the entrance to the
-    left, and talk to the scientist on the dock.
-  * Back to floor 4, and enter the room to the left. Now move the mech fully to
-    the left and run. Now move forward some and run again. Now walk forward and
-    grab the chest, then run away. Now head to B1.
-  * Follow the mech on the right to the end and get in a fight. Run away, then
-    move around and go through the door.
-  * [**Fate (5250/9)**][47]
-    * **Magnify must happen before Diminish, else Run Away**
-    * **Serge 37 STR, 22 MAG**
-    * Marcy - 1/1/Magnify
-    * Serge - 2/3/2
-    * Marcy - 1/1 (Get to Level 2)
-    * Fargo - 1/1 (Get to Level 2)
-    * Serge - 2/2 (Get to Level 8)
-    * **Gravitonne from Fate**
-    * Fargo - Genius-3 Serge
-    * Marcy - WeakMinded-3
-    * Fargo - TurnWhite Fargo
-    * Marcy - WeakMinded-3
-    * Serge - 1/2/Saints
-    * Fargo - 2/3 (Revive Serge if needed)
-    * Serge - 2/2/Dash&Slash
-    * Magic Seal (Common/Rare)
+### Chronopolis
+
+  * Head up to the next area. Then go right and down the hatch at the bottom. Take control of the robot and cross the area to extend the bridge. Then move up and take talk to the computer on the side to extend the bridge to your end.
+  * Head up the ladder and through the door at the top.
+  * Go to the Right Door, then up the stairs to floor 2. Head down and run pass the hallway along the elevator to the room with the map and enable security lock 2. 
+  * Take the elevator to Floor 4. Go to the Right Door, and talk to the center console to start the scientist conversation.
+  * Head down the elevator back to the first floor. Take the wide entrance to the left down the stairs, and talk to the scientist on the dock.
+  * Head back to floor 4, and enter the room to the Left. Now move the mech fully to the left and run. Now move forward some and run again. Now walk forward and grab the chest, then run away. Now head to B1.
+  * Follow the mech on the right to the end and get in a fight. Run away, then move around and go through the door. 
+
+#### Fate (5250/9)
+
+**Note:** Magnify must happen before Diminish, else Run Away
+
+  * **Serge 37 STR, 22 MAG**
+    * Marcy - Target Fate
+      * 1 / 1
+      * Magnify
+    * Serge - Target Fate
+      * 2 / 3 / 2
+    * Marcy - Target Fate
+      * Get to Level 2
+    * Fargo - Target Fate
+      * Get to Level 2
+    * Serge - Target Fate
+      * Get to Level 8
+  * Fate
+    * Gravitonne
+  * Fargo
+    * Genius-3 Serge
+  * Marcy - Target Fate
+    * WeakMinded-3
+  * Fargo
+    * TurnWhite Fargo
+  * Marcy - Target Fate
+    * WeakMinded-3
+  * Serge - Target Fate
+    * 1 / 2
+    * Saints
+  * Fargo - Target Fate
+    * 2 / 3
+    * Revive Serge if needed
+  * Serge - Target Fate
+    * 2 / 2
+    * Dash&Slash
   * **SPLIT AFTER THE WIN MENU**
+
+Drops:
+  * Magic Seal (Common/Rare)
 
 ## Royal Jelly
 
-  * Cutscene SkyDragon 1:10
+### Chronopolis
+
+  * Cutscene SkyDragon 1:10, mash after
   * Cutscene 1:40
   * Replace Marcy with Glenn, and Fargo with Starky.
-  * Head to El Nido Triangle.
-  * Menu
-    * Marcy (Equip) - Remove All
-    * Fargo (Equip) - Dreamer's Scarf (Remove Dragoon's Honor)
-    * Glenn (Equip) - Einlazer/Mythril Mail/Dragoon's Honor/Dragoon's Honor/
-                      Dreamer's Scarf
-    * Glenn (Elements) - Level 2 HealAll/HealAll/HealAll,
-                         Level 1 TurnBlue/EagleEye/Strengthen/TurnBlack
-  * Move Starky to First. And head through to where the Star Fragment chest was,
-    but is this time a space ship.
-  * [**RoyalJelly (1739/14)**][48]
-    * Glenn - 1/1/1/1 (Get to Level 4) Strengthen Serge
-    * Serge - 1/1/1/1/X-Strike
-    * Resistance Belt (Common/Rare)
+  * Menu - Equip
+    * Marcy
+      * Remove All Equipment
+    * Fargo
+      * Replace Dragoon's Honor with Dreamer's Scarf
+    * Glenn 
+      * Einlazer
+      * Mythril Mail
+      * Dragoon's Honor
+      * Dragoon's Honor
+      * Dreamer's Scarf
+  * Menu - Allocate Elements
+    * Glenn
+      * Level 2
+        * HealAll
+        * HealAll
+        * HealAll
+      * Level 1 
+        * TurnBlue
+        * EagleEye
+        * Strengthen
+        * TurnBlack
+  * Head to El Nido Triangle. or to Hermit's Hideaway to Save Kid
+
+### El Nido Triangle
+
+  * Move Starky to First. And head through to where the Star Fragment chest was, but is this time a space ship.
+
+#### Royal Jelly (1739/14)
+  * Glenn - Royal Jelly
+    * Get to Level 4
+    * Strengthen Serge
+  * Serge - Royal Jelly
+    * Get to Level 3
+    * X-Strike
   * **SPLIT AFTER THE WIN MENU**
+
+Drops: 
+* Resistance Belt (Common/Rare)
 
 ## Terrator
 
   * Go into the ship to start some mashing.
   * Cutscene 1:25
-  * Replace Starky with Fargo
-  * [**Terrator (2310/5)**][49]
-    * **Serge 42 STR**
-    * Serge - 2/2
-    * Glenn - 1/1 (Get to Level 3)
-    * Fargo - Strengthen
-    * Serge - 1/X-Strike (skip 1 if 43 and Glenn 41)
-    * **Serge 38 STR**
-    * Serge - 2/3
-    * Glenn - 1/1 (Get to Level 3)
-    * Fargo - Strengthen
-    * Serge - 1/X-Strike (skip 1 if 41)
-    * YellowField (Common/Rare)
+  * Replace Starky with Fargo, and head forward.
+
+#### Terrator (2310/5)
+
+  * Serge 42 STR
+    * Serge - Target Terrator
+      * 2 / 2
+    * Glenn - Target Terrator
+      * Get to Level 3
+    * Fargo
+      * Strengthen Serge
+    * Serge - Target Terrator
+      * 1
+      * X-Strike
+    
+  * Serge 38 STR
+    * Serge - Target Terrator
+      * 2 / 3
+    * Glenn - Target Terrator
+      * Get to Level 3
+    * Fargo
+      * Strengthen Serge
+    * Serge
+      * 1
+      * X-Strike
   * **SPLIT AFTER THE WIN MENU**
+
+Drops: 
+  * YellowField (Common/Rare)
 
 ## Pryotor
 
-  * Go through the entrance, and knock over the totem to the left. Cross and
-    enter the door. Go down the stairs and take the water fall down.
-  * Go all the way down and then run up the ... (coral?) and exit to the the
-    left. Now climb down the coral ladder, then back up until you hit the
-    collapsing bridge on the upper left. Now go through and talk to the creepy
-    talking head thing.
-  * Continue up and take the coral ladder up. And circle to the right then head
-    down, then all the way up again and take the exit on the right.
-  * Careful on this screen as these enemies chase you. Head up the ladder, then
-    to the next ladder, then left to the next one. Keep heading up to the top.
-  * Knock down both totems, then cross them to the next room. Head up and to the
-    right for the next fight.
-  * [**Pryotor (2280/7)**][50]
-    * Serge - 1/2
-    * Glenn - EagleEye Serge
-    * **Serge 43 STR**
-    * Defend to (SadnessWave)
-    * Fargo - Strengthen Serge
-    * Serge - 2/2 Dash&Slash
-    * **Serge 40 STR**
-    * Fargo - Strengthen Serge (must be after SadnessWave)
-    * Serge - 2/3/Dash&Slash
-    * **None of the above if Serge <40 STR**
-    * Fargo - EagleEye Serge
-    * Glenn - TurnBlue Serge
-    * Serge - 2 (3 if 35-37 or after SadnessWave)
-    * Fargo - 1/Strengthen Serge
-    * Serge - 3/3/Dash&Slash
-    * RedField (Common/Rare)
+  * Go through the entrance, and knock over the totem to the left. Cross and enter the door. Go down the stairs and take the water fall down.
+  * Go all the way down and then run up the coral and exit to the the bottom left entrance. Now climb down the coral ladder, then back up until you hit the collapsing bridge on the upper left. Now go through and talk to the creepy talking head thing.
+  * Continue up and take the coral ladder up. And circle to the right then head down, then all the way up again to the Top Right Entrance
+  * The Enemies here will chase after you Head up the ladder, then to the right ladder, then left to the next ladder. Keep heading up to the top.
+  * Knock down both totems, then cross them to the next room. Head up and to the right for the next fight.
+
+#### Pryotor (2280/7)
+
+  * Serge
+    * 1 / 2
+  * Glenn
+    * EagleEye Serge
+  * Serge 43 STR
+    * Defend to SadnessWave
+    * Fargo
+      * Strengthen Serge
+    * Serge - Target Pryotor
+      * 2/2
+      * Dash&Slash
+  * Serge 40 STR
+    * Defend to SadnessWave
+    * Fargo
+      * Strengthen Serge
+    * Serge - Target
+      * 2 / 3
+      * Dash&Slash
+
+  * Serge < 40 STR
+    * Fargo
+      * EagleEye Serge
+    * Glenn
+      * TurnBlue Serge
+    * Serge - Target Pryotor
+      * 2 (3 if 35-37 or after SadnessWave)
+    * Fargo - Target Pryotor
+      * 1/Strengthen Serge
+    * Serge - Target Pryotor
+      * 3 / 3
+      * Dash&Slash
   * **SPLIT AFTER THE WIN MENU**
+
+Drop:
+  * RedField (Common/Rare)
 
 ## Anemotor
 
-  * Go through to the next room. Up the ladders to the very top. Now go right,
-    then left in the middle, then right again and up to Belthasar's tower.
+  * Go through to the next room. Take the ladders up to the top
+  * Go up the stairs to Belthasar's tower on the Left Entrance, order is Right, Right, Left, Center.
   * After the chat head back, then up and keep going up to the next fight.
-  * [**Anemotor (2375/6)**][51]
-    * Glenn EagleEye Serge
-    * **Serge 44 STR Glenn 40 STR**
-    * Serge - 2/3 (InfoScope)
-    * Glenn - 1/1/1 (Get to Level 3) X-Strike
-    * **Serge 38 STR Glenn 38 STR**
-    * Serge - 2/3 (InfoScope)
-    * Glenn - 1/1/1 (Get to Level 3)
+
+#### Anemotor (2375/6)
+
+  * Glenn EagleEye Serge
+  * Serge 44 STR Glenn 40 STR
+    * Serge - Target Anemotor
+      * 2 / 3
+    * Anemotor
+      * InfoScope
+    * Glenn - Target Anemotor
+      * Get to Level 3
+      * X-Strike
+  * Serge 38 STR
+    * Serge - Target Anemotor
+      * 2 / 3
+    * Anemotor
+      * InfoScope
+    * Glenn - Target Anemotor
+      * Get to Level 3
     * Fargo - Strengthen Serge
     * Serge - X-Strike
-    * **Else**
-    * Serge - 3/3 (InfoScope)
-    * Glenn - 1/1/1 (Get to Level 3)
-    * Fargo - Strengthen Serge
-    * Serge - X-Strike
-    * GreenField (Common/Rare)
+  * Serge < 38 STR
+    * Serge - Target Anemotor
+      * 3/3
+    * Anemotor
+      * InfoScope
+    * Glenn - Target Anemotor
+      * 1 / 1 / 1
+      * Get to Level 3
+    * Fargo
+      * Strengthen Serge
+    * Serge
+      * X-Strike
   * **SPLIT AFTER THE WIN MENU**
+
+Drops:
+  * GreenField (Common/Rare)
 
 ## Gravitor
 
   * Head through the teleporter, and to the left exit for the next screen. Cross
     the bridge and get shot across to go fight Gravitor.
-  * [**Gravitor (2850/8)**][52]
-    * Glenn - EagleEye Serge
-    * **Serge 44 STR**
-    * Serge - 3/3/Dash&Slash
-    * **Else**
-    * Fargo - Strengthen Serge
-    * Serge - 3/3/Dash&Slash
-    * BlackHole (Common/Rare)
+
+#### Gravitor (2850/8)
+  * Glenn - EagleEye Serge
+  * Serge 44 STR
+    * Serge - Target Gravitor
+      * 3 / 3
+      * Dash&Slash
+  * Else
+  * Fargo
+    * Strengthen Serge
+  * Serge
+    * 3 / 3
+    * Dash&Slash
   * **SPLIT AFTER THE WIN MENU**
+
+Drop:
+  * BlackHole (Common/Rare)
 
 ## Luxator
 
-  * Head back across the canyon and bridge back to the teleporter screen. Head
-    all the way to the right and cross the wind bridge. Cross the canyon and on
-    to the next fight.
-  * [**Luxator (3150/8)**][53]
-    * Glenn - EagleEye Serge
-    * **Serge 42 STR Glenn 41 STR**
-    * Serge - 3/3
-    * Glenn - 1/1/1 (Get to Level 3)
-    * Fargo - Strengthen Serge
-    * Serge - 1/2 (must buffer this) X-Strike
-    * **Else**
-    * Fargo - Strengthen Serge
-    * Serge - 3/3
-    * Glenn - 1/2/3 (Get to Level 3, plus max Serge)
-    * Serge - 3/3/X-Strike (first 3 should trigger Heal)
-    * UltraNova (Common/Rare)
+  * Head back across the canyon and bridge back to the teleporter screen. Head all the way to the right and cross the wind bridge. Cross the canyon and on to the next fight.
+
+#### Luxator (3150/8)
+  * Glenn - EagleEye Serge
+  * Serge 42 STR, Glenn 41 STR
+    * Serge - Target Luxator
+      * 3 / 3
+    * Glenn
+      * Get to Level 3
+    * Fargo - Target Luxator
+      * Strengthen Serge
+    * Serge - Target Luxator
+      * 1 / 2 (must buffer this)
+      * X-Strike
+  * Else
+    * Fargo - Target Luxator
+      * Strengthen Serge
+    * Serge - Target Luxator
+      * 3 / 3
+    * Glenn - Target Luxator
+      * 1 / 2 / 3
+      * Get to Level 3, plus max Serge
+    * Serge - Target Luxator
+      * 3 / 3
+      * X-Strike (first 3 should trigger Heal)
   * **SPLIT AFTER THE WIN MENU**
+
+Drops:
+  * UltraNova (Common/Rare)
 
 ## Aquator
 
   * Head back to the teleporter screen and head through the top door.
-  * [**Aquator (2940/6)**][54]
-    * **Serge 48 STR**
-    * Serge - 2/2
-    * Fargo - Strengthen Serge (after Vigora)
-    * Glenn - 1/1/X-Strike
-    * **Serge 43 STR**
-    * Serge - 2/2
-    * Glenn - 1/1 (Get to Level 3)
-    * Fargo - Strengthen Serge (after Vigora)
-    * Serge - 1/1 (2 if 42 or miss) X-Strike
-    * **Serge 40 STR**
-    * Fargo - EagleEye Serge
-    * Glenn - 1/1/1 (Get to Level 4) Strengthen Serge
-    * Serge - 3/3/X-Strike
-    * BlueField (Common/Rare)
+
+#### Aquator (2940/6)
+    
+  * Serge 48 STR
+    * Serge - Target Aquator
+      * 2 / 2
+    * Fargo - Wait for Aquator Vigora
+      * Strengthen Serge
+    * Glenn - Target Aquator
+      * 1 / 1
+      * X-Strike
+  * Serge 43 STR
+    * Serge - Target Aquator
+      * 2 / 2
+    * Glenn - Target Aquator
+      * Get to Level 3
+    * Fargo - Wait for Aquator Vigora
+      * Strengthen Serge
+    * Serge - Target Aquator
+      * 1/1 (2 if 42 or miss)
+      * X-Strike
+  * Serge 40 STR
+    * Fargo
+      * EagleEye Serge
+    * Glenn - Target Aquator
+      * Get to Level 4
+      * Strengthen Serge
+    * Serge - Target Aquator
+      * 3 / 3
+      * X-Strike
   * **SPLIT AFTER THE WIN MENU**
 
 ## Dragon God
 
-  * Head up the teleporter over the defeated boss.
-  * [**Dragon God (1900/10 Each Phase)**][55]
-    * **Serge 44 STR**
-      * **Phase 1 (White)**
-      * Serge - 2/3/2
-      * Glenn - 2/2
-      * Fargo - 1/1 (Get to Level 3)/TurnGreen Serge
-      * Serge - 2 then 2 then 2
-      * Glenn/Serge finish
-      * **Phase 2 (Yellow)**
-      * Glenn - Get Serge to 5 Stamina/Strengthen Serge
-      * Fargo - EagleEye Serge
-      * Serge - 3 then 3
-      * **Phase 3 (Red)**
-      * Glenn - TurnBlue Serge
-      * Fargo - 1/1/1 until Serge 6 Stamina/Vigora Serge
-      * Serge - 3 then 3
-      * **Phase 4 (Green)**
-      * **Serge 46 STR**
-      * Serge - 1/3/3 then 3
-      * **Else**
-      * Serge - 3/3
-      * Glenn - Defend (1 if not LV3)
-      * Serge - 2 then 3
-      * **Phase 5 (Blue)**
-      * Fargo - 1/Strengthen Serge (always do 1, no matter what)
-      * Serge - X-Strike
-      * **Phase 6 (Black)**
-      * Glenn - 1/1/1 until Serge 6 Stamina)/EagleEye Serge
-      * Fargo - 1/1/1 until Serge's TurnBlue not active
-      * Serge - 1/3 then 3
-      * Glenn - Finish
-      * **Phase 7 (White)**
-      * Glenn - TurnBlack Serge
-      * Fargo - 2/2/2 until Serge 6 or 7 Stamina/Genius Serge (Skip Genius if 46
-                STR + 150 Fargo Damage or 47 STR + 100 Fargo Damage)
-      * Serge - 1 then 3/3
-    * Earring of Hope (Common/Rare)
+  * Head back to the save point and save.
+  * Head up the teleporter on top of the floor of the defeated boss.
+
+### Dragon God (1900/10 Each Phase)
+  * Phase 1 (White)
+    * Serge - Target Dragon God
+      * 2 / 3 / 2
+    * Glenn - 2 / 2
+    * Fargo - Target Dragon God
+      * Get to Level 3
+      * TurnGreen Serge
+  * Serge - Target Dragon God
+    * 2 then 2 then 2 (don't mash)
+  * Glenn/Serge - Target Dragon God
+    * 2 / 2 / 2
+  * Phase 2 (Yellow)
+    * Glenn - Target Dragon God
+      * Get Serge to 5 Stamina
+      * Strengthen Serge
+    * Fargo
+      * EagleEye Serge
+    * Serge - Target Dragon God
+      * 3 then 3
+  * Phase 3 (Red)
+    * Glenn
+      * TurnBlue Serge
+    * Fargo - Target Dragon God
+      * Get Serge to 6 Stamina
+      * Vigora Serge
+    * Serge - Target Dragon God
+      * 3 then 3
+  * Phase 4 (Green)
+    * Serge 46 STR
+      * Serge - Target Dragon God
+        * 1/3/3 then 3
+    * Else
+      * Serge - Target Dragon God
+        * 3/3
+    * Glenn
+      * Defend ( or 1 if not Level 3)
+    * Serge - Target Dragon God
+      * 2 then 3
+  * Phase 5 (Blue)
+    * Fargo - Target Dragon God
+      * 1 (Always do one)
+      * Strengthen Serge
+    * Serge - Target Dragon God
+      * X-Strike
+  * Phase 6 (Black)
+    * Glenn - Target Dragon God
+      * Get Serge to 6 Stamina
+      * EagleEye Serge
+    * Fargo
+      * 1's until Serge's TurnBlue not active
+    * Serge - Target Dragon God
+      * 1/3 then 3
+    * Glenn - Target Dragon God
+      * Finish
+  * Phase 7 (White)
+    * Glenn
+      * TurnBlack Serge
+    * Fargo - Target Dragon God
+      * Get Serge to 6 Stamina
+      * Genius Serge 
+    * Serge - Target Dragon God
+      * 1 then 3/3
   * **SPLIT AFTER THE WIN MENU**
+
+Drops:
+  * Earring of Hope (Common/Rare)
 
 ## Time Devourer
 
-  * Head to Divine Dragon Falls. Altars to get Chrono Cross.
-  * Menu
-    * Serge (Elements) - Level 1 Chrono Cross
-  * To Opassa Beach and go to another world. Go to the purple vapor, and select
-    the time egg to start the fight.
-  * [**Time Devourer (10)**][56]
-    * Serge - 1/1/1 (Get to Level 3)
-    * Glenn - 1 (Get to Level 2)
-    * Fargo - 1 (Get to Level 2)
-    * Defend All until attack
-    * Serge - TurnYellow
-    * Glenn - Strengthen
-    * Fargo - TurnGreen
-    * Glenn - TurnBlue
-    * Fargo - Genius
-    * Serge - TurnWhite
-    * Serge - ChronoCross
-  * **SPLIT AFTER CHRONO CROSS**
+  * Head to Divine Dragon Falls in the Mainland.
 
-[1]: https://docs.google.com/document/d/1ZciCKOhN4B72tVN1JpZqmzniRTtcfrBXuAjzNWJeyE
-[2]: ./GeneralKnowledge.md
-[3]: https://www.speedrun.com/chronocross/guide/0g6x9
-[4]: https://www.youtube.com/watch?v=5hnoU504HGo
-[5]: ./StarFights/Star1MommaKomodo.md
-[6]: ./StarFights/Star2KarshSoltPeppor.md
-[7]: ./StarFights/Star3SoltPeppor.md
-[8]: ./StarFights/Star4Guards.md
-[9]: ./StarFights/Star5SoltPepporandKetchop.md
-[10]: ./StarFights/Star6Bulbs.md
-[11]: ./StarFights/Star7Marcy.md
-[12]: ./StarFights/Star8Lynx.md
-[13]: ./StarFights/Star9Polly.md
-[14]: ./StarFights/Star10Fargo.md
-[15]: ./StarFights/Star11Deadhead.md
-[16]: ./StarFights/Star12SoltandPeppor.md
-[17]: ./StarFights/Star13FireDragon.md
-[18]: ./StarFights/Star14KarshMarcyZoah.md
-[19]: ./TestedOptimizations/SilverLoupe.md
-[20]: ./TestedOptimizations/Level2StatBoosts.md
-[21]: ./StarFights/Star15Dragoon.md
-[22]: ./StarFights/Star16GiantGloop.md
-[23]: ./StarFights/Star17Taurusoid.md
-[24]: ./StarFights/Star18SunofaGun.md
-[25]: ./StarFights/Star19Bunyip.md
-[26]: ./StarFights/Star20GeneralViper.md
-[27]: ./StarFights/Star21Lynx.md
-[28]: ./StarFights/Star22Radius.md
-[29]: ./StarFights/Star23Sage.md
-[30]: ./StarFights/Star24Garai.md
-[31]: ./StarFights/Star25Highwayman.md
-[32]: ./StarFights/Star26Miguel.md
-[33]: ./StarFights/Star27Roachester.md
-[34]: ./StarFights/Star28Hell'sCook.md
-[35]: ./StarFights/Star29Grobyc.md
-[36]: ./StarFights/Star30SoltandPeppor.md
-[37]: ./StarFights/Star30.9Dario.md
-[38]: ./StarFights/Star31EarthDragon.md
-[39]: ./StarFights/Star32WaterDragon.md
-[40]: ./StarFights/Star33Tyrano.md
-[41]: ./StarFights/Star34GreenDragon.md
-[42]: ./StarFights/Star35FireDragon.md
-[43]: ./StarFights/Star36SkyDragon.md
-[44]: ./StarFights/Star37DarkSerge.md
-[45]: ./StarFights/Star38VitaUnus.md
-[46]: ./StarFights/Star39PolisPolice.md
-[47]: ./StarFights/Star40Fate.md
-[48]: ./StarFights/Star41RoyalJelly.md
-[49]: ./StarFights/Star42Terrator.md
-[50]: ./StarFights/Star43Pryotor.md
-[51]: ./StarFights/Star44Anemotor.md
-[52]: ./StarFights/Star45Gravitor.md
-[53]: ./StarFights/Star46Luxator.md
-[54]: ./StarFights/Star47Aquator.md
-[55]: ./StarFights/Star48DragonGod.md
-[56]: ./StarFights/Star49TimeDevourer.md
+### Divine Dragon Falls
+
+  * Put the Tears in the Altars to get Chrono Cross.
+  * Menu - Allocate Elements 
+    * Serge
+      * Level 1
+        * Chrono Cross
+  * To Opassa Beach and go to another world. 
+
+### Opassa Beach (Another World) 
+
+  * Go to the purple vapor, and select the time egg to start the fight.
+
+#### Time Devourer (10)
+  * Serge - Target Time Devourer
+    * Get to Level 3
+  * Glenn - Target Time Devourer
+    * Get to Level 2
+  * Fargo - Target Time Devourer 
+    * Get to Level 2
+  * Defend All until attack
+  * Serge
+    * TurnYellow
+  * Glenn
+    * Strengthen
+  * Fargo
+    * TurnGreen
+  * Glenn
+    * TurnBlue
+  * Fargo
+    * Genius
+  * Serge
+    * TurnWhite
+  * Serge
+    * ChronoCross
+  * **SPLIT AFTER CHRONO CROSS**
