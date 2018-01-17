@@ -18,14 +18,12 @@
     * 2 Fireballs
   * Menu
     * Serge - Allocate Elements
-      * Fireball level 1
-      * Fill Blanks
+      * Level 1 - Fireball / Fill Blanks
     * Options
-      * Accuracy Selection: Manual
-      * O Button Pressed: Walk
+      * Accuracy Selection: Manual / O Button Pressed: Walk
   * Go to Beach
 
-**Note:** Look for one Feather, and 2 Humours as drops from all the Komodo Fights. There are backup strats later if you don't get them.
+**Note:** Look for one Feather, one Fang and two Humours as drops from all the Komodo Fights. There are backups later if you don't get them.
 
 ### Komodo Fights
 
@@ -114,12 +112,11 @@ Drops:
 
 **Note:** Leena only has 2 actions available to her before the Battle Cutscene.
 
-  * Leena (Target Solt) - 3 / 3 (Pray one hits) - Magma Bomb
+  * Leena (Target Solt) - 3 / 3
   * Solt and Peppor will die their comedy skit (Do a one with Leena after if the 3's don't hit)
-  * Poshul (Target Solt) - 1 / 2 / 3 
-  * Optional Turn: Leena (Target Solt) - 2 / 2 - Magma Bomb
-  * Serge - (Target Solt) - 2 / 2 / 2 (Solt should die) - Fireball Peppor
-  * Leena and Poshul - empty their Stamina to refill Serge's Stamina
+  * Serge (Target Solt) - 1 - Fireball Solt
+  * Leena (Target Solt) - MagmaBomb
+  * Poshul (Target Solt) - 1 / 1 / 2 / 3
   * Serge (Target Peppor) - 2 / 2 / 2 - Fireball if he refuses to die
   * **SPLIT AFTER THE WIN MENU**
 
@@ -521,8 +518,6 @@ Drops:
 #### Fire Dragon (892/6)
 
 **Note:** Fire Dragon is a bitch, he can kill Leena or Glenn if you ain't careful. Be prepared to adhoc the fight on this one. Remember that only Glenn has Revive and Magnify so determine for yourself if the Fight is worth continuing if Glenn was the person to die. Reset the game instead of running away.
-
-##### Fight Strats Presuming Leena dies early
   
   * Leena - 1 - Eagle Eye Glenn
   * Glenn - 3
@@ -1291,6 +1286,8 @@ Drops:
 
 ## Water Dragon
 
+**STR Backup:** Go to El Nido Triangle and fight the fishes near the Star Fragment with EagleEye and 3's from Lynx.
+
 ### Water Dragon Isle
 
   * Head to the Lily pads. The order is - Up, Up, Up, Up
@@ -1519,7 +1516,7 @@ Drops:
 
 ### Guldove
 
-  * Head up the ladder and to the left to the Shrine. Show Tear of Hate to get the Dragon Eblem. Now head back to Opassa Beach and Home World. Head to the El Nido Triangle.
+  * Head up the ladder and to the left to the Shrine. Show Tear of Hate to get the Dragon Emblem. Now head back to Opassa Beach and Home World. Head to the El Nido Triangle.
 
 ### El Nido Triangle
 
