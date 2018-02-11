@@ -247,6 +247,7 @@ Drops:
 ## Marcy
 
   * **Optional:** If you don't have a Brace then kill the guy with the Sprain yourself  on a monster encounter and run away.
+  * **Optional:** If you didn't get the Ivory Helmet drop get the Bronze Helmet on the next room after Luccia (The room with the eye)
   * Head up to Karsh's Room (2nd door up the stairs) and talk to the chest 20 times for Dragoon's Gauntlet.
   * Menu
     * Serge - Equip
@@ -464,6 +465,12 @@ Drops:
   * Talk to the guy beside the swimming pool dude and start shopping
     * 1 Diminish
     * 1 Magnify (Sell Panacea if necessary)
+  * Put Glenn in first while running out.
+  * Head to Mt. Pyre
+
+### Mt. Pyre
+
+  * Put Glenn in first while running if you haven't done so. Do a Menu **after** you crossed the Menu.
   * Menu - Equip
     * Serge - Remove All Accessories (Press Left and Triangle)
     * Glenn - Dragoon's Gauntlet - Power Glove (if you have it)
@@ -474,19 +481,16 @@ Drops:
       * Level 1 - Remove Strengthen
       * Level 4 - Magnify / **Panacea x5**
       * Level 5 - Anything (You just need a placeholder, this has no particular use aside from this)
-    * Serge
-      * Level 1 - Strengthen
-      * Level 4 - BushBasher
     * Leena
       * Level 3 - BushBasher
       * Level 4 - Photonbeam
       * Level 5 - Anything (You just need a placeholder, this has no particular use aside from this)
-  * Head to Mt. Pyre
-
-### Mt. Pyre
-
-  * Put Glenn in first while running
-  * Head up to the ladder and heal everyone before you go up, then move up to the next screen.
+    * Serge
+      * Level 1 - Strengthen
+      * Level 4 - BushBasher
+  * Menu - Use Elements
+    * Capsule Everyone.
+  * Head up to the ladder.
 
 #### Solt/Pepper (525/6 507/8)
 
@@ -505,7 +509,7 @@ Drops:
 
 ### Continuing Mt. Pyre
 
-  * Head straight through the lava and to the top. Put Leena on first while running.
+  * Head straight through the lava and to the top. Glenn is still at first.
   * Menu on the Save Sphere.
   * Menu
     * Leena - Equip - Iron Vest or Sky Djinn Ring
@@ -724,6 +728,8 @@ Drops:
   * Glenn - 3 / 3 / SonicSword
   * **Heal with Consumables and pray for a Gauntlet Drop**
 
+**Note:** Consider killing the run when you don't get a Gauntlet Drop or reduce your STR count by 3 so you know what you're lacking.
+
 Drops:
   * Dragoon Gauntlet (Common)
   * Mythril Mail (Rare)
@@ -741,7 +747,8 @@ Drops:
   * Glenn - Defend
   * Serge - Luminaire
   * Glenn - 2 / 3
-  * Leena - 2 / 2 Serge - Aquaball Lynx
+  * Leena - 2 / 2 
+  * Serge - 1 - Aquaball Lynx
   * **DON'T HEAL**
   * **SPLIT AFTER THE WIN MENU**
 
@@ -784,6 +791,7 @@ Drops:
 ### Opassa Beach
 
   * Use the Astral Amulet.
+  * Put Harle in First.
 
 ### Arni Village
   * Select out to move Lynx when you hit ramp.
@@ -791,8 +799,8 @@ Drops:
 
 #### Radius (787/7)
 
-  * Sprig - Get to Level 5 - Doppelganger Lagoonate
-  * Harle - 2 / 2 / 2 - EagleEye Lynx
+  * Sprigg - Get to Level 5 - Doppelganger Lagoonate
+  * Harle - 1 - EagleEye Lynx
   * Lynx & Lagoonate - 3 / 3 until Radius dies
   * Heal with Consumables
   * **SPLIT AFTER THE WIN MENU**
@@ -822,16 +830,7 @@ Drops:
   * Head to Viper Manor
 
 ### Viper Manor
-
-  * Head straight to the entrance . Go to the right and enter the hut which leads to an underground cavern. 
-  * Head down and then up the side on the mini waterfall and to the left.
-  * Now that you are in the sewers, make your way up the ladder and head up to meet Norris.
-  * Norris joins your party. Don't put him on the main party.
-  * Go to the port and board the boat. Now head to Marbule. 
-
-
-### Marbule 
-  * Go talk to the guy on or after the bridge, ask about the dead sea and run away. You don't have to sit there and listen to him.
+  
   * Menu - Allocate Elements
     * Lynx
       * **Press Triangle and select Healing and Supplemental first**
@@ -848,6 +847,15 @@ Drops:
       * Level 6 - IceBlast
     * Sprigg
       * Level 6 - PhotonBeam
+  * Head straight to the entrance . Go to the right and enter the hut which leads to an underground cavern. 
+  * Head down and then up the side on the mini waterfall and to the left.
+  * Now that you are in the sewers, make your way up the ladder and head up to meet Norris.
+  * Norris joins your party. Don't put him on the main party.
+  * Go to the port and board the boat. Now head to Marbule. 
+
+
+### Marbule 
+  * Go talk to the guy on or after the bridge, ask about the dead sea and run away. You don't have to sit there and listen to him.
   * Head to the Zelbess
 
 ### Zelbess
@@ -866,7 +874,7 @@ Drops:
   * Lynx - 1 / 2 / 2
   * Lagoon - 2 / 3
   * Lynx - 1 / 2 / 2
-  * Lagoon - 2 / 3
+  * Lagoonate - 2 / 3
   * **SPLIT AFTER THE WIN MENU**
 
 Drops: 
@@ -950,8 +958,9 @@ Drops:
 
   * Sprigg - Get to Level 5 - DoppelGanger WightKnight
   * Lynx - 1 - Strengthen WightKnight
-  * Harle - Get to Level 5 - TurnWhite WightKnight
+  * Harle - 1 - TurnWhite WightKnight
   * WightKnight - 3 / 3
+  * Harle - Get to Level 4
   * Lynx - Get to Level 3 - TurnWhite Lynx
   * Harle - Panacea WightKnight (if hit by exhaust gas)
   * WightKnight - 3 / 3
@@ -982,7 +991,7 @@ Drops:
   * Miguel will do StrongMinded
   * Lynx - Strengthen WightKnight
   * Optional(if Harle Blackout) Anyone Defend and Lynx - BlackOut Harle
-  * Harle - Get to Level 4 - Diminish
+  * Harle - Diminish (if you haven't done it yet)
   * WightKnight - 3 / 3
   * Lynx - 1 / 2 / 2
   * WightKnight - 2 / 3 
@@ -1010,7 +1019,7 @@ Drops:
     * Harle - Dreamer Scarf
   * Head to Opassa Beach and go to Another World.
   
-### Opassa Beach 
+### Opassa Beach (Another World)
 
   * Get out of there and head to Termina. You'll have to go through Fossil Valley, watch our for the Shadow Cats.
 
@@ -1518,10 +1527,12 @@ Drops:
 
   * Head up the ladder and to the left to the Shrine. Show Tear of Hate to get the Dragon Emblem. Now head back to Opassa Beach and Home World. Head to the El Nido Triangle.
 
-### El Nido Triangle
+### El Nido Triangle (Home World)
 
   * Head down the ladder heading to the right and down. Go to the right path again dodging everything and head down. 
-  * Get the chest (Star Fragment) surrounded by several fish. Those will chase you if you get in the circle. Head back out of the El Nido Triangle and to Sky Dragon Isle.
+  * Get the chest (Star Fragment) surrounded by several fish. Those will chase you if you get in the circle. 
+  * Go to the Right Side of the Cirle and wait for the Fish to circle to the left before attempting to get the Chest.
+  * Head back out of the El Nido Triangle and to Sky Dragon Isle.
 
 ### Sky Dragon Isle
 
