@@ -36,7 +36,7 @@
 #### Evening
 
   * Go to bed and sleep.
-  * Follow the road and head to Shido, just mash.
+  * Follow the road and head to Shido, Skip All dialogues and FMV's (Press Start)
 
 ### 4/10 Sunday
 
@@ -115,10 +115,19 @@
 
 #### After School
 
-  * Pick Option 2 Sneak Attack when ryuji asks
+  * Pick Option 2 Sneak Attack when Ryuji asks
   * Quick Travel to Leblanc
   * Follow Ann
 
 #### Evening
 
   * Go to Sleep
+
+### 4/14 Thursday
+
+#### Morning
+
+  * Skip everything
+  * Get to Ann
+  * Follow Ryuji to Kamoshida
+

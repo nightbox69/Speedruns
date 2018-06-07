@@ -71,6 +71,7 @@
 
 #### Karsh/Solt/Peppor (120/9 54/9 63/9)
   
+  * **Optional Marathon Strat:** Fight 2 Beach Bums for a Mini Star.
   * Defend until Solt hits Serge (damage is nullified until after the battle cutscene ends)
   * Kid (Target Solt) - 1 / 2 / 3 - Magma Bomb
   * Serge (Target Solt) - 1 / 1 / 2 / 2 (second one will prolly miss, and Solt will die) - Fireball (Level 1) Peppor
@@ -116,8 +117,8 @@ Drops:
   * Solt and Peppor will die their comedy skit (Do a one with Leena after if the 3's don't hit)
   * Serge (Target Solt) - 1 - Fireball Solt
   * Leena (Target Solt) - MagmaBomb
-  * Poshul (Target Solt) - 1 / 1 / 2 / 3
-  * Serge (Target Peppor) - 2 / 2 / 2 - Fireball if he refuses to die
+  * Poshul (Target Solt) - 1 / 2 / 3
+  * Serge (Target Peppor) - 1 / 2 / 2 - Fireball if he refuses to die
   * **SPLIT AFTER THE WIN MENU**
 
 Drops: 
@@ -183,6 +184,7 @@ Drops:
 
 **Note:** Switch Pierre to being infront if you still haven't done it yet. Also, don't bother hitting Solt and Peppor.
 
+  * Defend until Solt revives Pierre
   * Serge (Target Ketchop) - 1 / 2 / 3 - Dash & Slash
   * Kid and Serge (Target Ketchop) - 2 / 2 / 3
   * **SPLIT AFTER THE WIN MENU**
@@ -347,11 +349,12 @@ Drops:
     * Sell - Bone Axe / Iron Dagger / Bronze Sword
     * Disassemble - Silver Earring / Knee Pad / Silver Pendant
     * Forge - Ladle Fe26 / Steel Sword
-  * Head to the Termina Entrance for a cutscene with Glenn, then head back to Macha to have Glenn and her join the party.
-  * Board the boat, replace Pierre and Poshul for Glenn and Leena respectively, and head to Marbule.
+  * Head to the Termina Entrance for a cutscene with Glenn, then head back to Macha to have Glenn and her join the party. (Rename Glenn to G)
+  * Board the boat, replace Pierre and Poshul for Glenn and Macha respectively, and head to Marbule.
 
 ### Marbule
 
+  * Replace Macha with Leena while heading to Marbule.
   * Shop (Straight ahead, talk to the guy in the swimming pool in the upper corner)
     * 2 TurnBlue
     * 1 TurnRed
@@ -368,7 +371,7 @@ Drops:
     * **Press Triangle and select Healing and Supplemental first**
     * Serge
       * Level 2 - HealAll
-      * Level 1 - TurnBlue / WeakMinded / AquaBall
+      * Level 1 - <Blank Element Slot> / TurnBlue / WeakMinded / AquaBall
     * Glenn
       * Level 2 - Revive / HealAll / **Medicine x5**
       * Level 4 - CurePlus
@@ -465,6 +468,7 @@ Drops:
   * Talk to the guy beside the swimming pool dude and start shopping
     * 1 Diminish
     * 1 Magnify (Sell Panacea if necessary)
+  * Talk to the Swimming Pool Guy and buy all the Capsules you can afford.
   * Put Glenn in first while running out.
   * Head to Mt. Pyre
 
@@ -473,8 +477,8 @@ Drops:
   * Put Glenn in first while running if you haven't done so. Do a Menu **after** you crossed the Menu.
   * Menu - Equip
     * Serge - Remove All Accessories (Press Left and Triangle)
-    * Glenn - Dragoon's Gauntlet - Power Glove (if you have it)
-    * Leena - Dragoon's Honor
+    * Glenn - Dragoon's Honor - Dragoon's Gauntlet - Power Glove (if you have it)
+    * **Optional:** Leena can have Dragoon's Honor if low on Magic.
   * Menu - Allocate Elements
     * **Press Triangle and select Healing and Supplemental first**
     * Glenn
@@ -516,7 +520,7 @@ Drops:
     * Serge - Equip - Iron Mail (if you have it)
     * Glenn - Equip - Dragoon Gauntlet (if you have it)
     * **Heal everyone with Capsules.**
-    * **SAVE THE GAME** You can't run from the next boss, he'll just be like "oh no you don't" and fight you immediately.
+    * **Optional: SAVE THE GAME** You can't run from the next boss, he'll just be like "oh no you don't" and fight you immediately.
   * Head into the cave and start praying to the gods.
 
 #### Fire Dragon (892/6)
@@ -528,7 +532,7 @@ Drops:
   * Serge - 1 / 1 / 2 or just a 1 if Fire Dragon attacked you before this - Turn Blue on Glenn
   * Glenn - 3 / 3 - Revive Leena if she died earlier
   * Leena - 1 / 1 / 1 / 1 / 1
-  * Serge - 3 / 3
+  * Serge - 3 / 3 - Skip if Leena didn't die
   * Glenn - 3 / 3 - Magnify
   * Leena - Aquaball -2
   * Serge - Aquaball -2
@@ -553,9 +557,9 @@ Drops:
   * Glenn (Target Zoah) - 3 / 3 - Magnify
   * Leena (Target Zoah) - BushBasher Zoah
   * Serge (Target Karsh) - 2 / 2 / 3
-  * Glenn - 3 / 3 if you have stamina, otherwise defend
-  * Serge - Defend to refill Leena Stamina
-  * Leena (Target Karsh) - 1 / 1 / 1 / 1 - IceBlast
+  * Glenn - Defend
+  * Serge - Defend
+  * Leena (Target Karsh) - Get to Level 4 - IceBlast
   * Glenn (Target Karsh) - 3 / 3
   * **SPLIT AFTER THE WIN MENU**
 
@@ -591,9 +595,10 @@ Drops:
     * Leena
       * Level 5 - FrogPrince
   * Menu - Equip
-    * Glenn - Iron Vest
-    * Serge - Golden Earring 
+    * Glenn - Iron Vest - Remove Dragoon's Honor
+    * Serge - Golden Earring - Magic Ring (If Leena's Accessory Slot ull) 
     * Leena
+      * Dragoon's Honor
       * Magic Ring (If you have an accessory slot available)
 
 **Note:** You need Leena to hit and get the Element Levels so she can spam Elements, it's riskier to take the 2 Magic Rings, Sky Djinn Ring than Dragoon's Honor, and 2 Magic Rings.
@@ -612,7 +617,7 @@ Drops:
 
   * Leena - Get to Level 5 - TurnRed on Gloop
   * Glenn - Get to Level 4 - Magnify
-  * Serge - Target Giant Gloop - 1 - WeakMinded
+  * Serge - Target Giant Gloop - 1 - WeakMinded (Aquaball if Leena has 16 Mag)
   * Leena - Target Giant Gloop - IceBlast
   * Glenn - Medicine Leena if Frozen or AquaBall
   * Serge - Defend for BlueField or Blue Element to fill all the Blue (whichever is more appropriate)
@@ -643,7 +648,7 @@ Drops:
   * Glenn - Get to Level 5
   * Serge - Get to Level 2 - WeakMinded
   * Leena - Get to Level 5 - Defend
-  * **IF TAURUSOID HASN'T DONE AN ELEMENT PRIOR TO THIS HAVE EVERYONE DEFEND UNTIL HE DOES**
+  * **IF TAURUSOID HASN'T DONE BACKDROP PRIOR TO THIS HAVE EVERYONE DEFEND UNTIL HE DOES DO NOT MAGNIFY UNTIL HE DOES**
   * Glenn - Magnify
   * Leena - Aquaball
   * Glenn - Aquaball
@@ -671,13 +676,16 @@ Drops:
 
 **Note:** Two TurnBlues will cancel each other out so just target Sun of a Gun with it.
 
-  * Serge - 1 / 1
+  * Serge - Get to Level 2
   * Leena - 3 / 3 - 1 if one of the 3's miss.
   * Sun of a Gun should do a Mode Change here, poke 2's with Glenn if he hasn't
   * Serge - Turn Blue
   * Glenn - 1 (if you don't have Level 1) - Turn Blue
   * Serge - Aquaball
   * Leena - Get to Level 5 - FrogPrince
+  * If Frozen by KissyWissy
+    * Glenn - Get to Level 5 - Panacea frozen Target
+    * Defend All to Refresh Stamina
   * **Heal with Consumables**
   * **SPLIT AFTER THE WIN MENU**
 
@@ -784,9 +792,6 @@ Drops:
     * Lynx - Mythril Mail - Dragoon Gauntlet - Dragoon Gauntlet
     * Sprigg - Gold Earring - Dragoon's Honor
     * Harle - Iron Mail - All the Magic Rings and Sky Djinn Rings you can possibly put on her
-  * Menu - Allocate Elements
-    * Harle
-      * Level 1 - EagleEye
 
 ### Opassa Beach
 
@@ -800,7 +805,8 @@ Drops:
 #### Radius (787/7)
 
   * Sprigg - Get to Level 5 - Doppelganger Lagoonate
-  * Harle - 1 - EagleEye Lynx
+  * Lynx - 2 / 3
+  * Lagoonate - 2 / 3
   * Lynx & Lagoonate - 3 / 3 until Radius dies
   * Heal with Consumables
   * **SPLIT AFTER THE WIN MENU**
@@ -813,8 +819,9 @@ Drops:
 
 ### Arni Village
 
-  * Radius joins your party. Don't put him on the main party.
-  * Head out and put Lynx in the back. Put him back infront after you Leave Arni.
+  * Radius joins your party. Rename him to R, don't put him on the main party.
+  * Mash X to put Lynx to First.
+  * Head out and put Harle at First. Put Lynx back infront after you Leave Arni.
   * Head to Termina. 
 
 ### Termina
@@ -827,15 +834,11 @@ Drops:
     * 11 HealAll
     * 2 AeroBlaster
     * 21 IceBlast
-  * Head to Viper Manor
-
-### Viper Manor
-  
   * Menu - Allocate Elements
     * Lynx
       * **Press Triangle and select Healing and Supplemental first**
       * Level 2 - HealAll / HealAll / **Blackout x5**
-      * Level 1 - TurnBlue / Strengthen / TurnWhite / WeakMinded / AeroBlaster / Cure
+      * Level 1 - <Empty Element Slot> / Cure / TurnBlue / Strengthen / TurnWhite / WeakMinded / AeroBlaster / IceBlast
       * Level 4 - Magnify
       * Level 6 - IceBlast
     * Harle
@@ -847,15 +850,19 @@ Drops:
       * Level 6 - IceBlast
     * Sprigg
       * Level 6 - PhotonBeam
+  * Head to Viper Manor
+
+### Viper Manor
+  
   * Head straight to the entrance . Go to the right and enter the hut which leads to an underground cavern. 
   * Head down and then up the side on the mini waterfall and to the left.
   * Now that you are in the sewers, make your way up the ladder and head up to meet Norris.
-  * Norris joins your party. Don't put him on the main party.
+  * Norris joins your party. Rename him to N, don't put him on the main party.
   * Go to the port and board the boat. Now head to Marbule. 
 
 
 ### Marbule 
-  * Go talk to the guy on or after the bridge, ask about the dead sea and run away. You don't have to sit there and listen to him.
+  * Go talk to the guy on or after the bridge, ask about the dead sea(2nd Option) and run away. You don't have to sit there and listen to him.
   * Head to the Zelbess
 
 ### Zelbess
@@ -871,10 +878,10 @@ Drops:
   * Lynx - 1 - Strengthen Lagoonate
   * Harle - 1 - Turnblack Lagoonate
   * Lagoonate - 1 / 3
-  * Lynx - 1 / 2 / 2
-  * Lagoon - 2 / 3
-  * Lynx - 1 / 2 / 2
-  * Lagoonate - 2 / 3
+  * Lynx - 2 / 2 / 2
+  * Lagoon - 3 / 3
+  * Lynx - 2 / 2 / 2
+  * Lagoonate - 3 / 3
   * **SPLIT AFTER THE WIN MENU**
 
 Drops: 
@@ -931,13 +938,14 @@ Drops:
     * Get to Level 5 (Stop if Garai attacks)
     * DoppelGanger WightKnight (Do this later if Garai attacked)
   * Harle - Get to Level 4 - Diminish
-  * Sprigg (if Garai attacked earlier) - Get to Level 5 - DoppelGanger WightKnight
-  * Lynx - 1 / 1 / 2 - Strengthen WightKnight
-  * WightKnight - 2 / 3 (or 3 / 3, whichever is approriate)
+  * Sprigg - 
+    * (if Garai attacked earlier) - Get to Level 5 - DoppelGanger WightKnight
+    * 2 / 3
+  * Lynx - 1 / 1 - Strengthen WightKnight
   * Harle - 1 - TurnBlack anyone that is not Garai (or Heal All)
-  * WightKnight - 3 / 3
+  * WightKnight - 2 / 3
   * Lynx - 1 / 1 / 2 - GlideHook
-  * WightKnight - 3 / 3
+  * WightKnight - 2 / 3
   * Heal with Consumables
   * **SPLIT AFTER THE WIN MENU**
 
@@ -956,15 +964,17 @@ Drops:
 
 #### Highwayman (2100/7)
 
+**Note:** ExhaustGas after 2 Highwayman Attacks prioritize getting Harle to level 4 after the 2nd Attack
+
   * Sprigg - Get to Level 5 - DoppelGanger WightKnight
   * Lynx - 1 - Strengthen WightKnight
   * Harle - 1 - TurnWhite WightKnight
-  * WightKnight - 3 / 3
+  * WightKnight - (1 or 2 or 3) / 3
+  * Lynx - Get to Level 1 - TurnWhite Lynx
   * Harle - Get to Level 4
-  * Lynx - Get to Level 3 - TurnWhite Lynx
   * Harle - Panacea WightKnight (if hit by exhaust gas)
   * WightKnight - 3 / 3
-  * Lynx - 1 / 2 / 2 (or Blackout Self)
+  * Lynx - 2 / 2 / 2 (or Blackout Self)
   * WightKnight - 3 / 3
   * **SPLIT AFTER THE WIN MENU**
 
@@ -984,13 +994,16 @@ Drops:
 
 #### Miguel (2047/6)
 
+**Note:** Count 1500 damage or else MeteorShower will ensue. 
+
   * Sprigg - Get to Level 5 - DoppelGanger WightKnight
   * Lynx - Get to Level 1 or Get to Level 3 if AntiBlack on Harle
   * Harle - Get to Level 4
   * Everyone - Defend
   * Miguel will do StrongMinded
-  * Lynx - Strengthen WightKnight
-  * Optional(if Harle Blackout) Anyone Defend and Lynx - BlackOut Harle
+  * Lynx
+    * (If Anti Black on Harle) - Defend - BlackOut
+    * Strengthen WightKnight
   * Harle - Diminish (if you haven't done it yet)
   * WightKnight - 3 / 3
   * Lynx - 1 / 2 / 2
@@ -1040,8 +1053,7 @@ Drops:
 
   * Sprigg -  Get to Level 5 - DoppelGanger WightKnight
   * Lynx - 1 - Strengthen WightKnight
-  * Harle - Defend
-  * Harle - TurnRed WightKnight
+  * Harle - Defend - TurnRed WightKnight
   * WightKnight - 1 / 3
   * Lynx - 1 / 2 / 2
   * Harle - Defend
@@ -1288,14 +1300,19 @@ Drops:
     * Fargo - 3 / 3
     * Lynx - 3 / 3 - GlideHook
   * **SPLIT AFTER THE WIN MENU** 
-  * Head to the Water Dragon Isle
+  * Head to the El Nido Triangle
 
 Drops:
   * ThundaSnake (Common/Rare)
 
 ## Water Dragon
 
-**STR Backup:** Go to El Nido Triangle and fight the fishes near the Star Fragment with EagleEye and 3's from Lynx.
+### El Nido Triangle
+
+  * Head down the ladder heading to the right and down. Go to the right path again dodging everything and head down. 
+  * Get the chest (Star Fragment) surrounded by several fish. Those will chase you if you get in the circle. 
+  * Go to the Right Side of the Cirle and wait for the Fish to circle to the left before attempting to get the Chest.
+  * Head back out of the El Nido Triangle and to Sky Dragon Isle.
 
 ### Water Dragon Isle
 
@@ -1525,16 +1542,9 @@ Drops:
 
 ### Guldove
 
-  * Head up the ladder and to the left to the Shrine. Show Tear of Hate to get the Dragon Emblem. Now head back to Opassa Beach and Home World. Head to the El Nido Triangle.
+  * Head up the ladder and to the left to the Shrine. Show Tear of Hate to get the Dragon Emblem. Now head back to Opassa Beach and Home World. Head to the Sky Dragon Isle.
 
-### El Nido Triangle (Home World)
-
-  * Head down the ladder heading to the right and down. Go to the right path again dodging everything and head down. 
-  * Get the chest (Star Fragment) surrounded by several fish. Those will chase you if you get in the circle. 
-  * Go to the Right Side of the Cirle and wait for the Fish to circle to the left before attempting to get the Chest.
-  * Head back out of the El Nido Triangle and to Sky Dragon Isle.
-
-### Sky Dragon Isle
+### Sky Dragon Isle (Home World)
 
   * Open the chest to start a fight.
 
@@ -1641,7 +1651,7 @@ Drops:
     * Fargo -  Get to Level 4 Vigora Serge
     * Serge - 2 / Dash & Slash (trigger break)
     * Serge - Do 3's until PolisPolice dies.
-  * **Serge has 38 STR**
+  * **Serge has 40 and below STR**
     * Marcy - Strengthen Serge (skip if dead)
     * Fargo - Vigora Serge
     * Serge - 1 / Dash & Slash ( , 1 Dash & Slash if Marcy died) (trigger break)
@@ -1725,7 +1735,17 @@ Drops:
 
   * Go into the ship to start some mashing.
   * Cutscene 1:25
-  * Replace Starky with Fargo, and head forward.
+  * Replace Starky with Fargo (or Kid), and head forward.
+
+**Marathon Kid Menu**
+  * Equip
+    * Karsh - Remove Mythril Mail
+    * Fargo - Remove Dreamer's Scarf
+    * Kid - Mythril Mail / Dreamer's Scarf
+  * Allocate Elements
+    * **Press Triangle and select Healing and Supplemental first**
+    * Fargo - Remove Revive
+    * Kid - <Empty Element Slot> / Revive / EagleEye / Strengthen / Genius
 
 #### Terrator (2310/5)
 
