@@ -13,4 +13,4 @@ Protagonist has Dad issues and joins pretty girl that calls forth entities of gr
   [Any%][2] 
 
   [1]: https://github.com/MrTyton/Final-Fantasy-Speedruns
-  [2]: ./FFX_Any_ - Single Column.pdf
+  [2]: https://github.com/nightbox69/Speedruns/blob/master/Games/Final%20Fantasy%20X/FFX_Any_%20-%20Single%20Column.pdf
