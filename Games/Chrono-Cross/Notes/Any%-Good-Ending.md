@@ -2,7 +2,7 @@
 
 ## Useful General Knowledge
 
-  * General Knowledge[1]
+  * [General Knowledge][1]
 
 ## Mama Komodo
 
@@ -584,7 +584,7 @@ Drops:
 
 ## Giant Gloop
 
-**Note:** The Fights from here on out are going to get trickier, some will just need you to attack but most will prioritize on Element Spams. The notes will also adjust to this as well, advising you to get to a certain level instead of picking your attacks. Pick your attacks in priority to getting the levels as safe and as assuredly as possible instead of fast. It's highly adviseable to start counting Enemy AP here too (Bosses are labelled as Boss HP Value / AP Value, check General Information for more information.) so you'll know when the next attack will be. It'll return to attack picking should it be needed. 
+**Note:** The Fights from here on out are going to get trickier, some will just need you to attack but most will prioritize on Element Spams. The notes will also adjust to this as well, advising you to get to a certain level instead of picking your attacks. Pick your attacks in priority to getting the levels as safe and as assuredly as possible instead of fast. It's highly adviseable to start counting Enemy AP here too (Bosses are labelled as Boss HP Value / AP Value, check [General Information][1] for more information.) so you'll know when the next attack will be. It'll return to attack picking should it be needed. 
 
   * Head into Fort Dragonia and Fight your next Boss.
 
@@ -1308,7 +1308,7 @@ Drops:
 
   * Go down the pit, and head to the right side of the screen down the first hole. This will pop you back up to the surface, get out of map come back again right back to the quicksand. 
   * Go down again. This time go to the left, and go down to the bottom to talk to the guy with explosives. 
-  * Head to the next room and explode the RockRoach on the right with explosives(Square, Explosives), and fight the one on the left when it gets in position to be exploded.
+  * Head to the next room and explode the RockRoach on the right with explosives(Square, Explosives1), and fight the one on the left when it gets in position to be exploded.
   * Push the RockRoach over. Head down, and fight the next RockRoach on the right as well.
   * Go jump down the hole in the middle and head towards the Earth Dragon. Make sure you select option 2 to fight it.
 
@@ -2030,4 +2030,4 @@ Drops:
   * Serge - ChronoCross
   * **SPLIT AFTER CHRONO CROSS**
 
-  [1]: ./Notes/General-Knowledge.md
+  [1]: ./General-Knowledge.md
