@@ -2,7 +2,7 @@
 
 ## Useful General Knowledge
 
-  * To be added.
+  * General Knowledge[1]
 
 ## Mama Komodo
 
@@ -45,6 +45,7 @@
   * 2 / 2 or 1 / 2 if Stamina Refresh is at 4.
   * Fireball + 2
   * Spam 2
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 ## Solt / Peppor / Karsh
@@ -78,6 +79,7 @@
   * Kid - (Target Peppor) - 1 - (Level 1) Peppor
   * Serge and Kid (Target Karsh) -  2 / 2 / 2 Fireball (Level 3) to Karsh
   * Serge and Kid (Target Karsh) - Spam 2 to Karsh until he dies
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops: 
@@ -119,6 +121,7 @@ Drops:
   * Leena (Target Solt) - MagmaBomb
   * Poshul (Target Solt) - 1 / 2 / 3
   * Serge (Target Peppor) - 1 / 2 / 2 - Fireball if he refuses to die
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops: 
@@ -174,6 +177,7 @@ Drops:
   * If there are 3 or less Guards
     * Serge and Kid (Attack Guards) - 2 / 2 / 3
 
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops:
@@ -187,6 +191,7 @@ Drops:
   * Defend until Solt revives Pierre
   * Serge (Target Ketchop) - 1 / 2 / 3 - Dash & Slash
   * Kid and Serge (Target Ketchop) - 2 / 2 / 3
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops: 
@@ -240,6 +245,7 @@ Drops:
   * Kid (Target Bulb) - 2 / 2 /3
   * Serge (Target Remaining Bulbs) - 2 / 2 / 2 - Dash & Slash 2nd Bulb
   * Kid, Pierre and Serge (Target Remaining Bulbs) - 2 / 2 / 3
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops: 
@@ -276,6 +282,7 @@ Drops:
   * Pierre and Kid (if Marcy hasn't used Cat's Cradle) - 1 / 2 / 2 / 2 until Marcy uses Cat's Cradle
   * Serge - (Post Cat's Cradle) 1/2/2/Slash & Dash
   * Kid - Fireball +2
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops: 
@@ -307,6 +314,7 @@ Drops:
   * Serge  (Target Lynx) - 3 / 3 - Slash & Dash
   * Lynx will do an Anti-White in his next turn
   * Kid (Target Lynx) - 2 / 2 / 3
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops: 
@@ -371,7 +379,7 @@ Drops:
     * **Press Triangle and select Healing and Supplemental first**
     * Serge
       * Level 2 - HealAll
-      * Level 1 - <Blank Element Slot> / TurnBlue / WeakMinded / AquaBall
+      * Level 1 - Blank Element Slot / TurnBlue / WeakMinded / AquaBall
     * Glenn
       * Level 2 - Revive / HealAll / **Medicine x5**
       * Level 4 - CurePlus
@@ -389,6 +397,7 @@ Drops:
   * Glenn - 1 - TurnBlue Serge
   * Leena - Spam 1's until Level 4 - IceBlast
   * Serge and Glenn - 2 / 2 / 3 until Polly dies
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops:
@@ -403,6 +412,7 @@ Drops:
   * Serge - 2 / 2 / 3
   * Glenn - Defend
   * Serge - X-Strike
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops:
@@ -453,6 +463,7 @@ The key can be found in 1 of the 4 People in this section but you'll have to sta
   * Serge - 3 / 3
   * Glenn - 2 / 2 / 2 - CurePlus + 1 on DeadHead
   * Serge - 3 / 3 - Dash & Slash
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops:
@@ -462,6 +473,7 @@ Drops:
 ## Fire Dragon
 
   * Mash and head to Marbule
+  * **OPTIONAL:** Head to Guldove to save Kid then head to Marbule.
 
 ### Marbule
 
@@ -505,6 +517,7 @@ Drops:
   * Glenn (Target Solt) - 3 / 3 and Solt dies
   * Serge (Target Peppor) - 1 / 2 / 2 - BushBasher
   * Glenn (Target Peppor) - 3 / 3
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops: 
@@ -538,6 +551,7 @@ Drops:
   * Serge - Aquaball -2
   * Leena - IceBlast
   * **Heal with Consumables**
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**  
   
 Drops:
@@ -561,6 +575,7 @@ Drops:
   * Serge - Defend
   * Leena (Target Karsh) - Get to Level 4 - IceBlast
   * Glenn (Target Karsh) - 3 / 3
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops: 
@@ -569,7 +584,7 @@ Drops:
 
 ## Giant Gloop
 
-**Note:** The Fights from here on out are going to get trickier, some will just need you to attack but most will prioritize on Element Spams. The notes will also adjust to this as well, advising you to get to a certain level instead of picking your attacks. Pick your attacks in priority to getting the levels as safe and as assuredly as possible instead of fast. It's highly adviseable to start counting Enemy AP here too so you'll know when the next attack will be. It'll return to attack picking should it be needed. 
+**Note:** The Fights from here on out are going to get trickier, some will just need you to attack but most will prioritize on Element Spams. The notes will also adjust to this as well, advising you to get to a certain level instead of picking your attacks. Pick your attacks in priority to getting the levels as safe and as assuredly as possible instead of fast. It's highly adviseable to start counting Enemy AP here too (Bosses are labelled as Boss HP Value / AP Value, check General Information for more information.) so you'll know when the next attack will be. It'll return to attack picking should it be needed. 
 
   * Head into Fort Dragonia and Fight your next Boss.
 
@@ -584,6 +599,7 @@ Drops:
   * Glenn - Defend (2 / 2 if you have Stamina)
   * Leena - Aquaball
   * Glenn - 2 / 2 (if not done earlier) - Aquaball
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops: 
@@ -623,6 +639,7 @@ Drops:
   * Serge - Defend for BlueField or Blue Element to fill all the Blue (whichever is more appropriate)
   * Leena - Target Giant Gloop - Get to Level 5 - Frog Prince
   * Heal with Consumables
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops:
@@ -636,8 +653,8 @@ Drops:
   * Talk to the Altar.
   * Go back to the Main Hall, and go to the Upper Right Door. Head through the left pass after waiting for the Golem to get out of the way for you, you simply have no choice on the matter.
   * Follow the path, and head out to the entry
-  * Follow the path again to the entry upper left corner of the room, be careful against the (Rename: paper mache enemies).
-  * Go down and go near the stairs to lure the golem into jumping down then go up and follow the path to the entry.
+  * Follow the path again to the entry upper left corner of the room, be careful against the Invisible Enemies.
+  * Go down, smash your face down the cliff to lure the golem into jumping down then go up the stairs  and follow the path to the entry.
   * Head down and be careful on the bottom corner to not get an encounter. Follow the path, hit the blue switch to activate the stairs and enter the room up to go to the Altar.
 
 #### Taurusoid (1260/11)
@@ -648,7 +665,7 @@ Drops:
   * Glenn - Get to Level 5
   * Serge - Get to Level 2 - WeakMinded
   * Leena - Get to Level 5 - Defend
-  * **IF TAURUSOID HASN'T DONE BACKDROP PRIOR TO THIS HAVE EVERYONE DEFEND UNTIL HE DOES DO NOT MAGNIFY UNTIL HE DOES**
+  * **IF TAURUSOID HASN'T DONE BACKDROP PRIOR TO THIS HAVE EVERYONE DEFEND UNTIL HE DOES HIS BACKDROP. DO NOT MAGNIFY UNTIL HE DOES. YOU WILL DIE IF YOU DO NOT FOLLOW THIS**
   * Glenn - Magnify
   * Leena - Aquaball
   * Glenn - Aquaball
@@ -656,6 +673,7 @@ Drops:
   * Leena - Get back to Level 5 (repeat with serge if you miss and lose stamina)
   * Serge - Aquaball
   * Leena - FrogPrince
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops:
@@ -714,6 +732,7 @@ Drops:
   * Serge - 1 - Luminaire
   * Leena - 1 - Aquaball
   * Glenn and Serge - 2 / 2 / 3 until Bunyip dies (Revive Serge if he dies)
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops: 
@@ -758,6 +777,7 @@ Drops:
   * Leena - 2 / 2 
   * Serge - 1 - Aquaball Lynx
   * **DON'T HEAL**
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops: 
@@ -808,7 +828,7 @@ Drops:
   * Lynx - 2 / 3
   * Lagoonate - 2 / 3
   * Lynx & Lagoonate - 3 / 3 until Radius dies
-  * Heal with Consumables
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops: 
@@ -838,7 +858,7 @@ Drops:
     * Lynx
       * **Press Triangle and select Healing and Supplemental first**
       * Level 2 - HealAll / HealAll / **Blackout x5**
-      * Level 1 - <Empty Element Slot> / Cure / TurnBlue / Strengthen / TurnWhite / WeakMinded / AeroBlaster / IceBlast
+      * Level 1 - Element Slot / Cure / TurnBlue / Strengthen / TurnWhite / WeakMinded / AeroBlaster / IceBlast
       * Level 4 - Magnify
       * Level 6 - IceBlast
     * Harle
@@ -882,6 +902,7 @@ Drops:
   * Lagoon - 3 / 3
   * Lynx - 2 / 2 / 2
   * Lagoonate - 3 / 3
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops: 
@@ -946,7 +967,7 @@ Drops:
   * WightKnight - 2 / 3
   * Lynx - 1 / 1 / 2 - GlideHook
   * WightKnight - 2 / 3
-  * Heal with Consumables
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops:
@@ -976,6 +997,7 @@ Drops:
   * WightKnight - 3 / 3
   * Lynx - 2 / 2 / 2 (or Blackout Self)
   * WightKnight - 3 / 3
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops: 
@@ -1010,6 +1032,7 @@ Drops:
   * WightKnight - 2 / 3 
   * Lynx - 1 / 1 / 2 - GlideHook
   * WightKnight - 3 / 3
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops:
@@ -1058,6 +1081,7 @@ Drops:
   * Lynx - 1 / 2 / 2
   * Harle - Defend
   * WightKnight - 3 / 3
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops:
@@ -1080,7 +1104,7 @@ Drops:
   * WightKnight - 3 / 3
   * Lynx - 3 / 3 - IceBlast
   * WightKnight - 3 / 3
-  * Heal with Consumables
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops:
@@ -1113,6 +1137,7 @@ Drops:
   * WightKnight - 3 / 3
   * Lynx - 2 / 3
   * WightKnight - 3 / 3
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops: 
@@ -1159,6 +1184,7 @@ Drops:
   * Harle (Target Peppor) - 1 / 2 / 2 - AeroBlaster
   * Lynx (Target Peppor) - 2 / 3
   * Karsh (Target Peppor) - 3
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU** Head to Hermit's Hideaway after the fight.
 
 Drops: 
@@ -1234,6 +1260,7 @@ Drops:
     * Lynx - 2/2/2 - WeakMinded
     * Marcy - Do six 1's (**Don't over mash this**, do 2 / 2 / 2 after Level 6) - IceBlast
     * Repeat with Marcy until Dario Dies
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops: 
@@ -1279,9 +1306,9 @@ Drops:
 
 ### Actual Earth Dragon Isle
 
-  * Go down the pit, and head to the right side of the screen down the first hole. This will pop you back up to the surface, where you will exit, get out of map come back again right back to the quicksand. 
+  * Go down the pit, and head to the right side of the screen down the first hole. This will pop you back up to the surface, get out of map come back again right back to the quicksand. 
   * Go down again. This time go to the left, and go down to the bottom to talk to the guy with explosives. 
-  * Head to the next room and explode the RockRoach on the right with explosives, and fight the one on the left when it gets in position to be exploded.
+  * Head to the next room and explode the RockRoach on the right with explosives(Square, Explosives), and fight the one on the left when it gets in position to be exploded.
   * Push the RockRoach over. Head down, and fight the next RockRoach on the right as well.
   * Go jump down the hole in the middle and head towards the Earth Dragon. Make sure you select option 2 to fight it.
 
@@ -1299,6 +1326,7 @@ Drops:
     * Lynx - 3 / 3
     * Fargo - 3 / 3
     * Lynx - 3 / 3 - GlideHook
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU** 
   * Head to the El Nido Triangle
 
@@ -1351,6 +1379,7 @@ Drops:
     * Lynx - 2/3/2 (2/2/3 if already attacked)
     * Fargo - 2 / 3
     * Lynx - 2 / 2 - GlideHook
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops:
@@ -1425,6 +1454,7 @@ Drops:
   * Fargo - 1 - TurnBlue Lynx
   * Marcy - FrogPrince
   * Lynx & Fargo - 2 / 2 / 3 until Tyrano Dies
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops:
@@ -1450,6 +1480,7 @@ Drops:
     * Marcy - 2 / 2 or 1's to Level 4 -> Panacea Lynx (Optional, only do if sprained)
     * Lynx - 2 / 3
     * Fargo & Lynx - Repeat (now with GlideHook)
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
   * **Early Carnivore Strategy**
@@ -1462,6 +1493,7 @@ Drops:
     * Marcy - 2 / 2 or 1's to Level 4 -> Panacea Lynx (Optional, only do if sprained)
     * Lynx - 2 / 3
     * Fargo & Lynx - Repeat (now with GlideHook)
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops:
@@ -1496,6 +1528,7 @@ Drops:
   * Lynx - 3 / 3 / 1
   * Marcy - Defend
   * Lynx - GlideHook
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops:
@@ -1522,6 +1555,7 @@ Drops:
   * Lynx - 3 / 3 (or 2 / 3 if you're 38 STR or more)
   * Fargo - 3 / 3
   * Lynx - 3 / 3 - GlideHook
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops:
@@ -1556,6 +1590,7 @@ Drops:
   * Fargo - 3 / 3
   * Lynx - 3 / 3 (GlideHook if 40 STR)
   * Fargo and Lynx - Repeat (now with GlideHook)
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops: 
@@ -1582,6 +1617,7 @@ Drops:
   * Fargo - 3 / 3 - Strengthen Lynx
   * Lynx - 3 / 3  - GlideHook if Serge has 40 STR
   * Lynx & Fargo - Repeat (this time, with GlideHook)
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops:
@@ -1622,6 +1658,7 @@ Drops:
   * Serge - 3 / 3
   * Fargo - 3 / 3
   * Serge - 3 / 3 - Dash & Slash
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops:
@@ -1656,6 +1693,7 @@ Drops:
     * Fargo - Vigora Serge
     * Serge - 1 / Dash & Slash ( , 1 Dash & Slash if Marcy died) (trigger break)
     * Serge - Do 3's until he dies.
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops:
@@ -1690,6 +1728,7 @@ Drops:
   * Serge - 1 / 2 - Saints
   * Fargo - 2 / 3 - Revive Serge if needed
   * Serge - 2 / 2 - Dash & Slash
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops:
@@ -1716,6 +1755,11 @@ Drops:
       * Level 1 - TurnBlue / EagleEye / Strengthen / TurnBlack
   * Head to El Nido Triangle. or to Hermit's Hideaway to Save Kid
 
+### OPTIONAL: Hermit's Hideaway
+  * Talk to Kid
+  * Fuck you, you casual bitch I ain't gonna tell you how to save a girl. Do that yourself.
+  * Enjoy Exploring and the Music.
+
 ### El Nido Triangle
 
   * Move Starky to First. And head through to where the Star Fragment chest was, but is this time a space ship.
@@ -1724,6 +1768,7 @@ Drops:
 
   * Glenn - Get to Level 4 - Strengthen Serge
   * Serge - Get to Level 3 - X-Strike
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops: 
@@ -1736,8 +1781,9 @@ Drops:
   * Go into the ship to start some mashing.
   * Cutscene 1:25
   * Replace Starky with Fargo (or Kid), and head forward.
+  * **Optional:** If you replaced Fargo for Kid remember that all of Fargo Attacks are what Kid will be doing from now on.
 
-**Marathon Kid Menu**
+**Optional Kid Menu**
   * Equip
     * Karsh - Remove Mythril Mail
     * Fargo - Remove Dreamer's Scarf
@@ -1745,7 +1791,7 @@ Drops:
   * Allocate Elements
     * **Press Triangle and select Healing and Supplemental first**
     * Fargo - Remove Revive
-    * Kid - <Empty Element Slot> / Revive / EagleEye / Strengthen / Genius
+    * Kid - Empty Element Slot / Revive / EagleEye / Strengthen / Genius
 
 #### Terrator (2310/5)
 
@@ -1760,6 +1806,7 @@ Drops:
     * Glenn - Get to Level 3
     * Fargo - Strengthen Serge
     * Serge - 1 - X-Strike
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops: 
@@ -1789,6 +1836,7 @@ Drops:
     * Serge - 2 (3 if 35-37 or after SadnessWave)
     * Fargo - 1 - Strengthen Serge
     * Serge - 3 / 3 - Dash & Slash
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drop:
@@ -1813,6 +1861,7 @@ Drop:
     * Glenn - Get to Level 3
     * Fargo - Strengthen Serge
     * Serge - X-Strike
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops:
@@ -1832,6 +1881,7 @@ Drops:
   * Serge has less than 44 STR
     * Fargo - Strengthen Serge
     * Serge - 3 / 3 - Dash & Slash
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drop:
@@ -1857,6 +1907,7 @@ Drop:
     * Glenn - 3 / 3 to charge Serge's Stamina
     * Serge - 3 / 3
       * X-Strike (first 3 should trigger Heal)
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops:
@@ -1883,6 +1934,7 @@ Drops:
     * Fargo - EagleEye Serge
     * Glenn - Get to Level 4 - Strengthen Serge
     * Serge - 3 / 3 - X-Strike
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 ## Dragon God
@@ -1902,7 +1954,7 @@ Drops:
     * Glenn & Serge - 2 / 2 / 2 to trigger the next phase
 
   * Phase 2 (Yellow)
-    * Glenn - Get Serge to 5 Stamina [Do 150 aside from Stamina Pushing] - Strengthen Serge
+    * Glenn - Get Serge to 5 Stamina [Deal 150 damage aside from Stamina Pushing] - Strengthen Serge
     * Fargo - EagleEye Serge
     * Serge - 3 then 3
     * Glenn & Serge - 2 / 2 / 2 to trigger the next phase
@@ -1942,6 +1994,7 @@ Drops:
     * Glenn - TurnBlack Serge
     * Fargo - Get Serge to 6 Stamina - Genius Serge 
     * Serge - 1 then 3/3
+  * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
 Drops:
@@ -1976,3 +2029,5 @@ Drops:
   * Serge - TurnWhite
   * Serge - ChronoCross
   * **SPLIT AFTER CHRONO CROSS**
+
+  [1]: ./Notes/General-Knowledge.md

@@ -6,11 +6,11 @@ applied to most any route/run type.
 ## Avoiding Fights
 
 Always do this at all costs unless specified!!!! Even if you have to take an
-extra few seconds to avoid a fight, it costs about 20 to run away.
+extra few seconds to avoid a fight, it costs about 20seconds to run away.
 
 ## Switching Characters
 
-Do this to rotate who you would like to attack first in a fight.
+Press Select to switch Characters. Do this to rotate who you would like to attack first in a fight.
 
 ## How Stamina Works
 
