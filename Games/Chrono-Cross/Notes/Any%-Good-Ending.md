@@ -1940,6 +1940,7 @@ Drops:
 ## Dragon God
 
   * Head back to the save point and save.
+  * If you have Kid in the Party, Remove her revive and put it on Fargo. Switch Kid with Fargo as you will need Fargo's Vigora. Just add Revive to level 1 wherever you want on Fargo
   * Head up the teleporter on top of the floor of the defeated boss.
 
 ### Dragon God (1900/10 Each Phase)
