@@ -6,7 +6,7 @@ applied to most any route/run type.
 ## Avoiding Fights
 
 Always do this at all costs unless specified!!!! Even if you have to take an
-extra few seconds to avoid a fight, it costs about 20seconds to run away.
+extra few seconds to avoid a fight, as it costs about 20seconds to run away.
 
 ## Switching Characters
 
@@ -17,8 +17,7 @@ Press Select to switch Characters. Do this to rotate who you would like to attac
 Stolen Directly from EvilAsh who knows this game better than I ever will.
 
   * **Stamina Pushing or Attack Queueing**
-    * When attacking in this game, you can queue attacks up to whatever stamina
-      you have left to spend. 
+    * When attacking in this game, you can queue attacks up to whatever stamina you have left to spend. 
     * If the enemy is due to attack after the next stamina point is spent (see
       the next Enemy AP section) the game will allow you to queue (and execute)
       up to 2 attacks before the enemy does his attack. It doesn’t matter if the
@@ -71,6 +70,26 @@ Stolen Directly from EvilAsh who knows this game better than I ever will.
       as how close to you are to the enemy's next turn.
     * This is most heavily used in the Dario fight, with death abuse, and
       automatic Dario counters, 3 total stamina refreshes are used.
+  * **Other Misc Tips**
+    * You can just hold the X button to enter most areas from the world map. This doesn’t work for landing or entering the boat. 
+    * Doors, the true boss of this game.  To open doors quickly what I do is hold the walk button while mashing the open button. So either hold L1, mash X or Hold Circle, mash R1. This seems to make doors much more manageable.  Practice these in the Ghost Ship. 
+    * In the first battle, press Triangle while selecting a target to change the camera to ‘dynamic’ mode.  When in dynamic mode, the button inputs for selecting targets are 100% consistent and the same every time.  In normal mode, the direction that you have to press will depend on the camera angle, which can be different between battles. 
+    * In battle, if a character is attacking and is interrupted by an enemy attacking another character, and you are planning on casting an element next, you can hold the Circle button and then cast the element.  This prevents the full jumping forward (and then back) animation the character does to attack again. 
+    * In battles with text, you can just hold the Circle button to auto-advance through the text. It is a little weird how it works, but if you hold the button before the dialog box pops up it usually works fine.
+    * Buffs like Strengthen and EagleEye automatically target the lead character, so use this to your advantage to cast elements quickly.  
+    * Also when casting Elements the cursor will always start at a specific location, this is why we equip Elements like Strengthen and EagleEye in specific locations. 
+  * **Battles that a new player should focus on:**
+    * Dario
+      * Counting stamina is very important for this fight. This is so you know how much AP you have to work with before forcing Dario to counter-attack. 
+      * Getting the first Stamina refresh is required for this strat. If the 2nd refresh doesn’t happen, you should be able to recover from it by either defending with Lynx over and over to regen Marcy Stamina, or defending + use Revive on Marcy if Dario targets her. 
+    * Miguel
+    * Garai
+    * Dragon God
+    * Taurusoid
+    * Bunyip
+  * Ghost Ship Key
+    * One of 3 people will have this key, you can check the notes to see where they are specifically. 
+    * To make sure that one of them has the key you MUST NOT walk away when talking to the pirate after the ‘ghost dance’.  You must clear his last textbox before you walk away from him.  If you didn’t trigger this properly, this guy will have the key AFTER you check the other 3. 
 
 ## Stat Ups
 
