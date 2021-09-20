@@ -462,7 +462,7 @@ The key can be found in 1 of the 4 People in this section but you'll have to sta
 
   * Avoid the Ghosts popping about, head left and go up the ladder, enter the first door on the right and enter the vent.
   * Get out of the room and talk to the guy on the blockade.
-    * Ghost Dance:  Spin around the Ghost while mashing text. Either that or fight the ghost. 
+    * Ghost Dance: ![Credits to EvilAsh25 for the image](./images/ghostdance.png)
   * When he lets you pass, then talk to the guy past the door. **Make sure that the textbox conversation ends before you walk away from him or else he will have the key after all the fighting you have done. I cannot stress this enough, END HIS TEXTBOX BEFORE YOU LEAVE YOU MORON**
   * Head through the vent, pick up the chest(Panacea, this is important) and fight the ghost, if it's 4 Monsters run away and try again.
     * Check Ghost / Skeleton Fight Strats below
@@ -471,8 +471,6 @@ The key can be found in 1 of the 4 People in this section but you'll have to sta
   * To the the guy for the key if you still don't have it then proceed to the ladder down and to the 2nd door on the right. Fight the Skeleton fighting the guy.
     * Check Ghost / Skeleton Fight Strats below
   * Talk to the guy after, and finally get the freaking stupid key. (You're so screwed by RNG at this point if you had to do this btw, I'm so sorry for you)
-
-![Credits to EvilAsh25 for the image](./images/ghostdance.png)
 
 #### Ghost / Skeleton Fights
 
