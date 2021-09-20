@@ -90,7 +90,7 @@
   * Defend until Solt hits Serge (damage is nullified until after the battle cutscene ends)
   * Kid (Target Solt) - 1 / 2 / 3 - Magma Bomb
   * Serge (Target Solt) - 1 / 1 / 2 / 2 (second one will prolly miss, and Solt will die) - Fireball (Level 1) Peppor
-  * Kid - (Target Peppor) - 1 - (Level 1) Peppor
+  * Kid - (Target Peppor) - 1 - Fireball (Level 1) Peppor
   * Serge and Kid (Target Karsh) -  2 / 2 / 2 Fireball (Level 3) to Karsh
   * Serge and Kid (Target Karsh) - Spam 2 to Karsh until he dies
   * Use the Heal with Consumables Option
@@ -377,6 +377,7 @@ Drops:
   * Macha will let you roam after some cutscenes and mashing. Head to Lisa's.
   * Shop (Lisa's)
     * 51 Tablets
+    * Optional (if you're not doing Ghost Dance): 2 HealAll
     * 11 Medicine
     * 2 Ointment
     * 2 CurePlus
@@ -410,6 +411,7 @@ Drops:
     * **Press Triangle and select Healing and Supplemental first**
     * Glenn
       * Level 1 - Strengthen / TurnBlue / Revive
+      * Optional Level 2 - Heal All
     * Leena
       * Level 2 - CurePlus / CurePlus
       * Level 1 - EagleEye / TurnRed / TurnWhite / AquaBall
@@ -462,7 +464,7 @@ The key can be found in 1 of the 4 People in this section but you'll have to sta
   * Get out of the room and talk to the guy on the blockade.
     * Ghost Dance:  Spin around the Ghost while mashing text. Either that or fight the ghost. 
   * When he lets you pass, then talk to the guy past the door. **Make sure that the textbox conversation ends before you walk away from him or else he will have the key after all the fighting you have done. I cannot stress this enough, END HIS TEXTBOX BEFORE YOU LEAVE YOU MORON**
-  * Head through the vent and pick up the chest(Panacea) and fight the ghost, if it's 4 Monsters run away and try again.
+  * Head through the vent, pick up the chest(Panacea, this is important) and fight the ghost, if it's 4 Monsters run away and try again.
     * Check Ghost / Skeleton Fight Strats below
   * Talk to the guy after the fight, and hopefully he has the key, if not go  back to the room and fight the skeleton on your right, if it's 4 Monsters run away and try again.
     * Check Ghost / Skeleton Fights Strats below.
@@ -536,7 +538,7 @@ Drops:
     * Leena
       * Level 5 - Anything (You just need a placeholder, this has no particular use aside from this)
     * Serge
-      * Leve 2 - Revive, Cure, [ Leave Element Slot Blank ], Medicine
+      * Leve 2 - Revive, Cure, (Optional: HealAll), Medicine
       * Level 1 - Strengthen, TurnBlue, Genius, AquaBeam
       * Level 4 - AquaBall, BushBasher
   * Menu - Use Elements
@@ -956,21 +958,21 @@ Drops:
     * 11 Blackout
     * 11 HealAll
     * 2 AeroBlaster
-    * 11 IceBlast
+    * Max IceBlast you can afford
   * Menu - Allocate Elements
     * Lynx
       * **Press Triangle and select Healing and Supplemental first**
       * Level 2 - HealAll / HealAll / **Blackout x5**
-      * Level 1 - Cure Plus / Cure Plus / TurnBlue / Strengthen / TurnWhite / WeakMinded / AeroBlaster / IceBlast
       * Level 4 - Magnify
       * Level 6 - IceBlast
+      * Level 1 - Cure Plus / Cure Plus / TurnBlue / Strengthen / TurnWhite / WeakMinded / AeroBlaster / IceBlast
     * Harle
       * Remove All
       * Level 2 - **Revive** / HealAll / HealAll
-      * Level 1 - TurnBlue / EagleEye / TurnRed / TurnWhite / TurnBlack
       * Level 4 - Panacea x5 / Diminish
       * Level 5 - Meteorite / AeroBlaster
       * Level 6 - IceBlast
+      * Level 1 - TurnBlue / EagleEye / TurnRed / TurnWhite / TurnBlack
     * Sprigg
       * Level 6 - PhotonBeam
   * Head to Viper Manor
@@ -1064,8 +1066,8 @@ Drops:
 
   * Sprigg - Get to Level 5 (Immediately stop if attacked)
     * Sprigg got to Level 5 w/o interruptions
-      * Sprigg - Doppelganger WightKnight
       * Harle - Get to Level 4 - Diminish
+      * Sprigg - Doppelganger WightKnight
       * Lynx - 1 - Strengthen WightKnight
       * WightKnight - 3 / 3
       * Lynx - 3 - Defend
@@ -1075,6 +1077,7 @@ Drops:
       * WightKnight - 2 / 3
     * Sprigg got interrupted getting to Level 5
       * Harle - Get to Level 4 - Diminish
+      * Sprigg - Get to Level 5 - Doppelganger WightKnight
       * Lynx - 1 - Strengthen WightKnight
       * Harle - Defend
       * Wightknight - 1 / 3
@@ -1796,7 +1799,7 @@ Drops:
   * Lynx & Fargo - Repeat (this time, with GlideHook)
   * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
-  * **Note:** All strategies below presume you are at 33 strength and above. Run is officially dead at Serge 32 Strength.
+  * **Note:** All strategies below presume you are at 33 strength and above. Be prepared to do a lot of adhoc at Serge 32 Strength
 
 Drops:
   * Pendragon Sigil A (Common)
@@ -1821,7 +1824,8 @@ Drops:
 
 ### Fate Distortion 
 
-  * Do the islands in the order Upper Right, Lower Left, back to where we started. (Counter Clockwise)
+  **Note:** Strategies below are if you do the correct order of Islands. If you don't do the correct order you're screwed. (Vita Duos's starting element is Volcano instead of CurePlus)
+  * Do the islands in the order: Upper Right, Lower Left, back to where we started. (Counter Clockwise)
 
 #### Vita Unus (2375/7)
 
@@ -1969,7 +1973,7 @@ Drops:
   * Allocate Elements
     * **Press Triangle and select Healing and Supplemental first**
     * Fargo - Remove Revive
-    * Kid - Empty Element Slot / Revive / EagleEye / Strengthen / Genius
+    * Kid - [Empty Element Slot] / Revive / EagleEye / Strengthen / Genius
 
 #### Terrator (2310/5)
 
