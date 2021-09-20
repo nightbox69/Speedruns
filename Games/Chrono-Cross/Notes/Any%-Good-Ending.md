@@ -460,6 +460,8 @@ Drops:
 
 The key can be found in 1 of the 4 People in this section but you'll have to start from the farthest person from the door to the nearest one. Obviously, you will head to the door once you find the key from one person. Don't bother fighting / talking your way to everybody if you got the key early. 
 
+![Credits to EvilAsh25 for the image](./images/ghostdance.png)
+
   * Avoid the Ghosts popping about, head left and go up the ladder, enter the first door on the right and enter the vent.
   * Get out of the room and talk to the guy on the blockade.
     * Ghost Dance:  Spin around the Ghost while mashing text. Either that or fight the ghost. 
