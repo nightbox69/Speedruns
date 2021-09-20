@@ -1492,20 +1492,34 @@ Drops:
   * Go jump down the hole in the middle and head towards the Earth Dragon. Make sure you select option 2 to fight it.
 
 #### Earth Dragon (2945/9)
-  * **Lynx has more than 29 STR**
+
+  * Setup Phase
     * Marcy - EagleEye Lynx
     * Fargo - TurnGreen Lynx
-    * Marcy - 1 - EagleEye Lynx
-    * Lynx & Fargo - 3 / 3 until Earth Dragon dies
-
+  * **Lynx has more than 29 STR**
+    * If Attacked
+      * Lynx - 2 / 2 (Do 3 / 3 if 37 Strength)
+      * Fargo - 1 / 1 - Strengthen Lynx (Do 2 / 3 - Strengthen instead if 37 Strength)
+      * Lynx - 3 / 3
+      * Marcy - 1(wait a second) / 3 / 3
+      * Lynx - 1 / 3 / 3 
+    * If Not Attacked
+      * Lynx - 3 / 3
+      * Fargo - 2 / 2 / 2
+      * Lynx and Fargo - Repeat until dead
   * **Lynx has less than 29 STR**
-    * Marcy - Strengthen Lynx
-    * Fargo - TurnGreen Lynx
-    * Lynx - Defend
-    * Marcy - 1 - EagleEye Lynx
-    * Lynx - 3 / 3
-    * Fargo - 3 / 3
-    * Lynx - 3 / 3 - GlideHook
+    * If Attacked
+      * Lynx - 2 / 2
+      * Fargo - 1 / 1 - Strengthen Lynx
+      * Lynx - 3 / 3
+      * Marcy - 1(wait a second) / 3 / 3
+      * Lynx - 1 / 3 / 3 
+    * If Not Attacked
+      * Lynx - 2 / 2
+      * Fargo - 1 / 2 / 2 - Strengthen Lynx
+      * Lynx - 3 / 3
+      * Marcy - 3 / 3
+      * Lynx - 1 / 3 / 3 
   * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU** 
   * Head to the El Nido Triangle
@@ -1549,16 +1563,16 @@ Drops:
   * **Lynx has 33 STR**
     * Marcy - TurnRed Lynx
     * Fargo - Strengthen Lynx
-    * Lynx - 2/3/2 (2/2/3 if already attacked)
+    * Lynx - 2 / 3 / 2 (2 / 2 / 3 if already attacked)
     * Fargo - 3
-    * Lynx - 2 - GlideHook
+    * Lynx - 2 - 3 - GlideHook
 
   * **Lynx has 30 STR**
     * Marcy - TurnRed Lynx
     * Fargo - Strengthen Lynx
-    * Lynx - 2/3/2 (2/2/3 if already attacked)
+    * Lynx - 2 / 3 / 2 (2 / 2 / 3 if already attacked)
     * Fargo - 2 / 3
-    * Lynx - 2 / 2 - GlideHook
+    * Lynx - 3 / 3 - GlideHook
   * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
