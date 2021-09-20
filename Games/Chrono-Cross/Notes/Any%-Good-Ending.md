@@ -963,16 +963,16 @@ Drops:
     * Lynx
       * **Press Triangle and select Healing and Supplemental first**
       * Level 2 - HealAll / HealAll / **Blackout x5**
-      * Level 4 - Magnify
-      * Level 6 - IceBlast
       * Level 1 - Cure Plus / Cure Plus / TurnBlue / Strengthen / TurnWhite / WeakMinded / AeroBlaster / IceBlast
+      * Level 6 - IceBlast
+      * Level 4 - Magnify
     * Harle
       * Remove All
       * Level 2 - **Revive** / HealAll / HealAll
+      * Level 1 - TurnBlue / EagleEye / TurnRed / TurnWhite / TurnBlack
       * Level 4 - Panacea x5 / Diminish
       * Level 5 - Meteorite / AeroBlaster
       * Level 6 - IceBlast
-      * Level 1 - TurnBlue / EagleEye / TurnRed / TurnWhite / TurnBlack
     * Sprigg
       * Level 6 - PhotonBeam
   * Head to Viper Manor
