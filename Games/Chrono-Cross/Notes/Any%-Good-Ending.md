@@ -456,11 +456,9 @@ Drops:
   * Run away from the fight in the cabin and get out.
   * Check the door infront of the injured guy, it'll say that you'll need a key.
 
-### Finding the Key
+### Finding the Key (Images Credits: EvilAsh25)
 
 The key can be found in 1 of the 4 People in this section but you'll have to start from the farthest person from the door to the nearest one. Obviously, you will head to the door once you find the key from one person. Don't bother fighting / talking your way to everybody if you got the key early. 
-
-![Credits to EvilAsh25 for the image](./images/ghostdance.png)
 
   * Avoid the Ghosts popping about, head left and go up the ladder, enter the first door on the right and enter the vent.
   * Get out of the room and talk to the guy on the blockade.
@@ -473,6 +471,8 @@ The key can be found in 1 of the 4 People in this section but you'll have to sta
   * To the the guy for the key if you still don't have it then proceed to the ladder down and to the 2nd door on the right. Fight the Skeleton fighting the guy.
     * Check Ghost / Skeleton Fight Strats below
   * Talk to the guy after, and finally get the freaking stupid key. (You're so screwed by RNG at this point if you had to do this btw, I'm so sorry for you)
+
+![Credits to EvilAsh25 for the image](./images/ghostdance.png)
 
 #### Ghost / Skeleton Fights
 
