@@ -953,6 +953,8 @@ Drops:
   * Head to Termina. 
 
 ### Termina
+Reminder to make a Savestate here for Menu-ing Purposes
+
   * Head to Termina, then go to the left just up the stairs and talk to the guard.
   * Go to Lisa's Shop and Start Shopping
     * Max Capsules
@@ -1063,6 +1065,7 @@ Drops:
   * Pray to the Gods
 
 #### Garai (2086/6)
+Reminder to make a Savestate here for Practice Purposes
 
 **Note:** Act accordingly and get diminish and doppelganger ASAP.
 
@@ -1141,6 +1144,7 @@ Drops:
   * Grab the Screwy Dress on the right of the Plaza, go back to the save sphere for a safety save.
 
 #### Miguel (2047/6)
+Reminder to make a Savestate here for Practice Purposes
 
 **Note:** Count 1500 damage or else MeteorShower will ensue. Get Diminish out before HolyDragonSword.
 
@@ -1370,6 +1374,7 @@ Drops:
   * Once you have access to Marcy, put her in the party, then add Riddel. Head to Marbule
 
 ### Marbule
+Reminder to make a Savestate here for Menu-ing Purposes.
 
   * Head to the cave on the Upper left corner and Pickup the relic from the Black Dragon.
   * Shop
@@ -1408,6 +1413,7 @@ Drops:
   * Put Marcy in Front.
 
 #### Dario (3675/7)
+Reminder to make a Savestate here for Practice Purposes
 
 **Note:** You'll die if you overmash. Consider running if you didn't get the turn order right, or a good stamina refresh. Pray you don't miss. It's critical to empty Marcy's Stamina on Phase 4 before IceBlast for a full Stamina Refresh (Idiot Explanation: Do six 1's and then IceBlast)
 
@@ -1845,7 +1851,7 @@ Drops:
 ### Fate Distortion 
 
   **Note:** Strategies below are if you do the correct order of Islands. If you don't do the correct order you're screwed. (Vita Duos's starting element is Volcano instead of CurePlus)
-  * Do the islands in the order: Upper Right, Lower Left, back to where we started. (Counter Clockwise)
+  * Do the islands in the order: Rightmost island, Leftmost island, Initial island. (Counter Clockwise)
 
 #### Vita Unus (2375/7)
 
