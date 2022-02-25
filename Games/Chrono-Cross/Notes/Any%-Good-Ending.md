@@ -278,7 +278,7 @@ Drops:
 ## Marcy
 
   * **Optional:** If you don't have a Brace then kill the guy with the Sprain yourself  on a monster encounter and run away.
-  * **Optional:** If you didn't get the Ivory Helmet drop get the Bronze Helmet on the next room after Luccia (The room with the eye)
+  * **Optional:** If you didn't get the Ivory Helmet drop get the Bronze Helmet on the next room after Luccia (The room with the eye, chest nearest to you)
   * Head up to Karsh's Room (2nd door up the stairs) and talk to the chest 20 times for Dragoon's Gauntlet.
   * Menu
     * Serge - Equip
@@ -373,11 +373,12 @@ Drops:
   * Go talk to Macha and select the 2nd option to get on the boat.
 
 ### Termina
+  Reminder to make a Savestate here for Menu-ing Purposes
 
   * Macha will let you roam after some cutscenes and mashing. Head to Lisa's.
   * Shop (Lisa's)
-    * 51 Tablets
-    * Optional (if you're not doing Ghost Dance): 2 HealAll
+    * 21 Tablets
+    * 2 HealAll
     * 11 Medicine
     * 2 Ointment
     * 2 CurePlus
@@ -409,9 +410,11 @@ Drops:
     * Leena - Ladle Fe26 - Bronze Mail - Magic Ring - Ivory Helmet or Magic Ring
   * Menu - Allocate Elements
     * **Press Triangle and select Healing and Supplemental first**
+    * Serge
+      * Level 2 - Heal All
     * Glenn
+      * Level 2 - Heal All
       * Level 1 - Strengthen / TurnBlue / Revive
-      * Optional Level 2 - Heal All
     * Leena
       * Level 2 - CurePlus / CurePlus
       * Level 1 - EagleEye / TurnRed / TurnWhite / AquaBall
@@ -456,7 +459,7 @@ Drops:
   * Run away from the fight in the cabin and get out.
   * Check the door infront of the injured guy, it'll say that you'll need a key.
 
-### Finding the Key (Images Credits: EvilAsh25)
+### Finding the Key (Image Credits: EvilAsh25)
 
 The key can be found in 1 of the 4 People in this section but you'll have to start from the farthest person from the door to the nearest one. Obviously, you will head to the door once you find the key from one person. Don't bother fighting / talking your way to everybody if you got the key early. 
 
@@ -960,8 +963,8 @@ Drops:
     * 2 AeroBlaster
     * Max IceBlast you can afford
   * Menu - Allocate Elements
+    * **Press Triangle and select Healing and Supplemental first**
     * Lynx
-      * **Press Triangle and select Healing and Supplemental first**
       * Level 2 - HealAll / HealAll / **Blackout x5**
       * Level 1 - Cure Plus / Cure Plus / TurnBlue / Strengthen / TurnWhite / WeakMinded / AeroBlaster / IceBlast
       * Level 6 - IceBlast
@@ -1043,11 +1046,11 @@ Drops:
 
 **NOTE:** Sprigg has to be the last one to kill WightKnight no matter what.
 
-  * Phase 1
+  * Setup Phase
     * Harle - 1 / 1 / 2 / 2 - Turn Black WightKnight
     * Lynx - Get to Level 5
     * Sprigg - Get to Level 6
-  * Phase 2 
+  * Attack Phase
     * Lynx - WeakMinded
     * Harle - Defend
     * Lynx - Magnify
@@ -1061,7 +1064,8 @@ Drops:
 
 #### Garai (2086/6)
 
-**Note:** Act accordingly and get diminish and doppelganger ASAP
+**Note:** Act accordingly and get diminish and doppelganger ASAP.
+
 **Garai Pattern:** Attack x1, TripleCut, Attack x2, Attack x3, WillBreaker
 
   * Sprigg - Get to Level 5 (Immediately stop if attacked)
@@ -1105,8 +1109,9 @@ Drops:
 
 #### Highwayman (2100/7)
 
-**Note:** ExhaustGas after 2 Highwayman Attacks Phases prioritize getting Harle to level 4 after the 2nd Attack
-**Highwayman Pattern:** Attack x2, Attack x1, ExhaustGas, Rampage, Attack x3
+**Note:** ExhaustGas after 2 Highwayman Attacks Phases prioritize getting Harle to level 4 after the 2nd Attack.
+
+**Highwayman Pattern:** Attack x2, ExhaustGas, Rampage, Attack x3
 
   * Sprigg - Get to Level 5 - DoppelGanger WightKnight
   * Lynx - 1 - Strengthen WightKnight
@@ -1137,8 +1142,9 @@ Drops:
 
 #### Miguel (2047/6)
 
-**Note:** Count 1500 damage or else MeteorShower will ensue. Get Diminish out before HolyDragonSword
-**Miguel Attack Pattern:** AntiBlack, StrongMinded, WeakMinded+HolyDragonSword, Attack x1, TurnBlack+PhotonBeam
+**Note:** Count 1500 damage or else MeteorShower will ensue. Get Diminish out before HolyDragonSword.
+
+**Miguel Attack Pattern:** AntiBlack, StrongMinded, WeakMinded+HolyDragonSword, Attack x1, TurnBlack+PhotonBeam.
 
   * Sprigg - Get to Level 5 - DoppelGanger WightKnight
   * **Normal Start**
