@@ -378,11 +378,11 @@ Drops:
   * Macha will let you roam after some cutscenes and mashing. Head to Lisa's.
   * Shop (Lisa's)
     * 21 Tablets
-    * 2 HealAll
     * 11 Medicine
     * 2 Ointment
     * 2 CurePlus
     * 2 AquaBeam
+    * 2 HealAll
     * 2 Aquaball (3 if no IceBlast)
     * 2 Bushbasher
   * Head to the Smith after buying.
@@ -402,8 +402,8 @@ Drops:
     * 1 TurnBlack
     * 1 Strengthen
     * 1 EagleEye
-    * 1 WeakMinded
     * 1 Genius
+    * 1 WeakMinded
   * Menu - Equip
     * Serge - Ivory Mail - Remove Ivory Helmet (Keep this if you have 2 Magic Rings)
     * Glenn - Steel Sword
@@ -875,10 +875,10 @@ Drops:
       * Glenn - 2
     * If Attacked
       * Serge - 1 / 2 (if Serge is hit just do 1)
-      * Leena - EagleEye Glenn
-      * Serge - Strengthen Glenn
-      * Leena - TurnWhite Glenn
-      * **Only if Serge is hit** Serge - Defend
+    * Leena - EagleEye Glenn
+    * Serge - Strengthen Glenn
+    * Leena - TurnWhite Glenn
+    * **Only if Serge is hit** Serge - Defend
   * Attack Phase
     * Glenn - 3 / 3
     * Serge - 1 / 2 / 2
@@ -1418,7 +1418,6 @@ Reminder to make a Savestate here for Practice Purposes
 **Note:** You'll die if you overmash. Consider running if you didn't get the turn order right, or a good stamina refresh. Pray you don't miss. It's critical to empty Marcy's Stamina on Phase 4 before IceBlast for a full Stamina Refresh (Idiot Explanation: Do six 1's and then IceBlast)
 
   * Dario Phase 1
-    * Riddel - Defend (skip if attacked)
     * If Not Attacked 
       * Lynx - Get to Level 6
       * Marcy - 1's (until Dario Attacks or Level 4)
@@ -1510,8 +1509,8 @@ Drops:
     * Fargo - TurnGreen Lynx
   * **Lynx has more than 29 STR**
     * If Attacked
-      * Lynx - 2 / 2 (Do 3 / 3 if 37 Strength)
-      * Fargo - 1 / 1 - Strengthen Lynx (Do 2 / 3 - Strengthen instead if 37 Strength)
+      * Lynx - 3 / 3
+      * Fargo - 2 / 3 - Strengthen
       * Lynx - 3 / 3
       * Marcy - 1(wait a second) / 3 / 3
       * Lynx - 1 / 3 / 3 
@@ -1539,7 +1538,7 @@ Drops:
 Drops:
   * ThundaSnake (Common/Rare)
 
-## Water Dragon
+## Star Fragment
 
 ### El Nido Triangle
 
@@ -1547,6 +1546,8 @@ Drops:
   * Get the chest (Star Fragment) surrounded by several fish. Those will chase you if you get in the circle. 
   * Go to the Right Side of the Cirle and wait for the Fish to circle to the left before attempting to get the Chest.
   * Head back out of the El Nido Triangle and to Sky Dragon Isle.
+
+## Water Dragon
 
 ### Water Dragon Isle
 
@@ -1676,7 +1677,7 @@ Drops:
 
 #### Green Dragon (3885/5)
 
-  * **Late Carnivore Strategy**
+  * **Late Carnivore Strategy:**
     * Fargo - EagleEye Lynx
     * Lynx - 2 / 2
     * Green Dragon should do a Carnivore
@@ -1686,10 +1687,7 @@ Drops:
     * Marcy - 2 / 2 or 1's to Level 4 -> Panacea Lynx (Optional, only do if sprained, darkness, or fatigued)
     * Lynx - 2 / 3
     * Fargo & Lynx - Repeat (now with GlideHook)
-  * Use the Heal with Consumables Option
-  * **SPLIT AFTER THE WIN MENU**
-
-  * **Early Carnivore Strategy**
+  * **Early Carnivore Strategy:**
     * Fargo - EagleEye Lynx
     * Green Dragon should do a Carnivore
     * Lynx - 1
@@ -1719,21 +1717,23 @@ Drops:
   * Talk to the Fire Dragon to start the battle.
 
 #### Fire Dragon (892/9 -> 3570/9)
-  * Marcy - Get to Level 4
-  * Fargo - Get to Level 2
-  * Lynx - 1 / 1 / 2 / 3
-  * Marcy & Fargo - Defend (Attack to replace Lynx Stamina if he misses)
-  * Marcy - Strengthen Lynx
-  * Fargo - EagleEye Lynx
-  * Lynx - Defend
-  * Fargo - TurnBlue Lynx
-  * Marcy - Cat's Cradle
-  * Fargo (Optional) - Poke with 1's until Fire Dragon transforms
-  * Lynx - 3 / 3
-  * Everyone Defend for Fire Dragon's Breath Element
-  * Lynx - 3 / 3 / 1
-  * Marcy - Defend
-  * Lynx - GlideHook
+  * Phase 1:
+    * Marcy - Get to Level 4
+    * Fargo - Get to Level 2
+    * Lynx - 1 / 1 / 2 / 3
+    * Marcy & Fargo - Defend (Attack to replace Lynx Stamina if he misses)
+    * Marcy - Strengthen Lynx
+    * Fargo - EagleEye Lynx
+    * Lynx - Defend
+    * Fargo - TurnBlue Lynx
+    * Marcy - Cat's Cradle
+  * Phase 2:
+    * Fargo (Optional) - Poke with 1's until Fire Dragon transforms
+    * Lynx - 3 / 3
+    * Everyone Defend for Fire Dragon's Breath Element
+    * Lynx - 3 / 3 / 1
+    * Marcy - Defend
+    * Lynx - GlideHook
   * Use the Heal with Consumables Option
   * **SPLIT AFTER THE WIN MENU**
 
@@ -1836,7 +1836,8 @@ Drops:
 ### Fort Dragonia
 
   * Head up the elevator, and head to the top of the fort. There's a small path going to the last teleporter go through that path.
-  * Cutscene 1:45 (You'll get Serge back here, but you'll have to mash before he starts)
+  * Once inside the temple, head to the center and start mashing
+  * Cutscene 1:45
   * Menu - Equip
     * Serge
       * Dragoon's Gauntlet - Dragoon's Gauntlet - Power Seal
@@ -1851,7 +1852,7 @@ Drops:
 ### Fate Distortion 
 
   **Note:** Strategies below are if you do the correct order of Islands. If you don't do the correct order you're screwed. (Vita Duos's starting element is Volcano instead of CurePlus)
-  * Do the islands in the order: Rightmost island, Leftmost island, Initial island. (Counter Clockwise)
+  * Do the islands in the order: Upper Right Island (Past), Leftmost island (Future), Lower Right Island (Present). (Counter Clockwise if you chose the closest portal)
 
 #### Vita Unus (2375/7)
 
