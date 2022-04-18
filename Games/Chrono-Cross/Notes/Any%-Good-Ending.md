@@ -1840,8 +1840,9 @@ Drops:
 #### Orlha (1710/6)
 
 - Marcy - EagleEye Lynx
-- Fargo - Strengthen Lynx (skip if 38 STR)
-- Lynx - 3 / 3 - GlideHook
+- Lynx - 3 / 3 (GlideHook if 38 Strength)
+- Fargo - 2 / 3
+- Lynx - 3 / 3
 
 Drops:
 
@@ -2035,7 +2036,7 @@ Drops:
   - **Press Triangle and select Healing and Supplemental first**
   - Glenn
     - Level 2 - HealAll / HealAll
-    - Level 1 - TurnBlue / EagleEye / Strengthen / TurnBlack
+    - Level 1 - TurnBlue / EagleEye / Strengthen / Turn Green / TurnBlack
 - Head to El Nido Triangle. or to Hermit's Hideaway to Save Kid
 
 ### OPTIONAL: Hermit's Hideaway
@@ -2243,40 +2244,39 @@ Drops:
 
 - Phase 1 (White)
 
-  - Serge - 2 / 3 / 2
-  - Glenn - 2 / 2
-  - Fargo - Get to Level 3 - TurnGreen Serge
-  - Serge - 3 then 3 [2 then 2 then 2] (don't mash)
-  - Glenn & Serge - 2 / 2 / 2 to trigger the next phase
+  - Fargo - TurnBlack Serge
+  - Serge - 2 / 2 (Must Hit)
+  - Glenn - Get to Level 3
+  - Fargo - Get to Level 4
+  - Serge - Defend (Should be around 5/6 Stamina)
+  - Serge - 1 then 2 [1 / 1 then 2]
 
 - Phase 2 (Yellow)
 
-  - Glenn - Get Serge to 5 Stamina [Deal 150 damage aside from Stamina Pushing] - Strengthen Serge
+  - Glenn - Turn Green Serge Strengthen Serge
+  - Serge - Defend [Defend again]
+  - Glenn - Strengthen Serge
   - Fargo - EagleEye Serge
-  - Serge - 3 then 3
-  - Glenn & Serge - 2 / 2 / 2 to trigger the next phase
+  - Serge - 1/3 then 3
+  - Glenn or Fargo - 2 then 2 then 2 to trigger the next phase
 
 - Phase 3 (Red)
 
   - Glenn - TurnBlue Serge
-  - Fargo - Target Dragon God
-    - Get Serge to 6 Stamina
-    - Vigora Serge
-  - Serge - Target Dragon God
-    - 3 then 3 [3 then 3 then 1]
+  - Fargo - Attack until Serge is at 6 Stamina - Vigora Serge
+  - Serge - 3 then 3
 
 - Phase 4 (Green)
 
   - Serge has 46 STR
     - Serge - 1 / 3 / 3 then 3
   - Serge has 44 - 45 STR
-    - Serge - 3 / 3
-    - Glenn - Defend (or 1 if not Level 3)
-    - Serge - 2 then 3
+    - Glenn - Defend
+    - Serge - 2 / 3 / 3 then 3
   - Serge is below 44 STR
     - Serge - Turn Yellow Serge (yes, TurnYellow yourself you're under Vigora btw)
     - Serge - 3/3 then 3
-  - Serge & Glenn - 2 / 2 / 2 to trigger the next phase
+  - Glenn or Fargo - 2 then 2 then 2 to trigger the next phase
 
 - Phase 5 (Blue)
 
@@ -2289,7 +2289,7 @@ Drops:
   - Glenn - Get Serge to 6 Stamina [5 Stamina] - EagleEye Serge
   - Fargo - 1's until Serge's TurnBlue not active [1 - TurnWhite Serge]
   - Serge - 3 then 3
-  - Glenn & Serge - 2 / 2 / 2 to trigger the next phase
+  - Glenn or Fargo - 2 then 2 then 2 to trigger the next phase
 
 - Phase 7 (White)
   - Glenn - TurnBlack Serge
