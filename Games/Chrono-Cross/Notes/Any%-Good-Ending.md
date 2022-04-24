@@ -691,14 +691,18 @@ Drops:
 ### Frog Prince Dragonia
 
 - Menu - Allocate Elements
-  - Serge - **Sort by Innate**
-    - Level 1 - Weakminded
+  - Glenn (Only if you're doing Alternate Strats)
+    - Level 1 - Remove Strengthen
+    - Level 2 - Remove Revive
+  - Serge
+    - Level 1 - WeakMinded (if already then move to top) / Strengthen
+    - Level 2 - Revive
   - Leena - **Sort by Innate**
     - Level 1 - Cure
     - Level 5 - FrogPrince
 - Menu - Equip
-  - Glenn - Iron Vest - Remove Dragoon's Honor
   - Serge - Golden Earring - Magic Ring (If Leena's Accessory Slot is full)
+  - Glenn - Iron Vest - Remove Dragoon's Honor
   - Leena
     - Dragoon's Honor
     - Magic Ring (If you have an accessory slot available)
