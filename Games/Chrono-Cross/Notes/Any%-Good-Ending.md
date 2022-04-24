@@ -231,7 +231,7 @@ Drops:
 
 ### Outside Viper Manor
 
-- Get the Turn Yellow behind the gate.
+- Get the TurnYellow behind the gate.
 - Switch Serge back to front.
 - Menu
   - Heal everyone with Tablets, if not yet done.
@@ -264,13 +264,13 @@ Drops:
     - **Dragoon's Honor**
   - Pierre - Allocate Elements
     - Level 1
-      - Turn Yellow
+      - TurnYellow
       - Revive
 - Grab the Silver Pendant on wall, just mash and don't think about it.
 
 ### Bulbs (168/10)
 
-- Pierre (Target Bulb) - Get to Level 1 - Turn Yellow Serge
+- Pierre (Target Bulb) - Get to Level 1 - TurnYellow Serge
 - Serge (Target Bulb) - 2 / 3 / 2 (if the bulbs haven't attacked yet) or 2 / 2 / 3
 - Kid (Target Bulb) - 1 / 1 / 2 / 3
 - Serge and Kid (Target Remaining Bulbs) - 2 / 2 / 3
@@ -408,6 +408,7 @@ Reminder to make a Savestate here for Menu-ing Purposes
 - Shop (Straight ahead, talk to the guy in the swimming pool in the upper corner)
   - 2 TurnBlue
   - 1 TurnRed
+  - 1 TurnGreen
   - 2 TurnWhite
   - 2 TurnBlack
   - 1 Strengthen
@@ -550,14 +551,23 @@ Drops:
 - Menu - Allocate Elements
   - **Press Triangle and select Healing and Supplemental first**
   - Glenn
-    - Level 1 - Remove Strengthen, TurnBlue Stays, Replace Revive with AquaBeam
+    - Level 1 - Remove Strengthen / TurnBlue Stays / Replace Revive with AquaBeam
     - Level 4 - Magnify / **Panacea x5**
   - Leena
-    - Level 5 - Meteorite
+    - Level 5 - Meteorite (or PhotonBeam)
   - Serge
-    - Leve 2 - Replace Cure with Revive, Medicine
-    - Level 1 - Strengthen, TurnBlue, Genius, AquaBeam
-    - Level 4 - AquaBall, BushBasher
+    - Leve 2 - Replace Cure with Revive / Medicine
+    - Level 1 - Strengthen / TurnBlue / Genius / AquaBeam
+    - Level 4 - AquaBall / BushBasher
+  - **Alternate Menu for Low Strength Glenn and High Strength Serge**
+  - Glenn
+    - Level 1 - Strengthen / TurnBlue / AquaBeam / TurnGreen
+    - Level 2 - Revive
+    - Level 4 - Magnify - Panacea x5
+  - Leena - Same as Above
+  - Serge
+    - Level 1 - WeakMinded - TurnBlue - Genius - AquaBeam
+    - Level 4 - AquaBall / BushBasher
 - Menu - Use Elements
   - Capsule Everyone.
 - Head up to the ladder.
@@ -602,7 +612,7 @@ Drops:
     - Serge - 1 / 1 - TurnBlue Glenn
   - If Not Attacked
     - Glenn - 3 / 3
-    - Serge - 1 (Or 1/1 if you can push it) - Turn Blue on Glenn
+    - Serge - 1 (Or 1/1 if you can push it) - TurnBlue on Glenn
   - Glenn - 3 / 3 - Revive Leena if she died earlier
   - Leena - 1 / 1 / 1 / 1 / 1
   - Serge - Genius Leena
@@ -637,8 +647,8 @@ Drops:
 
 ### Karsh/Zoah/Marcy (388/8 457/11 285/6)
 
-- If below 17 Strength
-  - Leena - 1 - Turn Red (Karsh)
+- If Serge / Glenn Strength average is 17 Strength
+  - Leena - 1 - TurnRed (Karsh)
 - Glenn (Target Zoah) - 1 / 2
 - Serge (Target Marcy) - 1 / 2 - X-Strike, Marcy should die before doing anything relevant.
 - Leena (Target Zoah) - 1 / 1 / 2 / 2 - EagleEye on Glenn
@@ -738,7 +748,7 @@ Drops:
 
 **Note:** It is imperative to check your stamina during the Frog Prince Setup. If Leena doesn't have the Stamina to cast Frog Prince Tausuroid will just destroy your setup with a Choke Slam.
 
-- Leena - Get to Level 5 - Turn Red Taurusoid
+- Leena - Get to Level 5 - TurnRed Taurusoid
   - If Interrupted and Leena or Serge (and hp is below 120) are hit otherwise get back to getting to Level 5
     - Leena - Get to Level 4 - Cure Leena or Serge
 - Serge - Get to Level 2 - WeakMinded
@@ -1018,21 +1028,19 @@ Reminder to make a Savestate here for Menu-ing Purposes
 - **Go downstairs and go to the inn (below the casino)**
 - Go watch the magic show in the first door past the ladder. Re-enter to get turned into cats and go unrig the game. Go back and talk to Fargo again, beat him this time, put Sprigg into First.
   - Menu - Allocate Elements
-  - **Press Triangle and select Healing and Supplemental first**
-  - Lynx
+  - Sprigg - **Press Triangle and select Attack first**
+    - Level 6 - PhotonBeam
+  - Lynx - **Press Triangle and select Healing and Supplemental first**
     - Level 2 - HealAll / HealAll / **Blackout x5** / **Revive**
     - Level 1 - Cure Plus / Cure Plus / TurnBlue / Strengthen / TurnWhite / WeakMinded / AeroBlaster / IceBlast
     - Level 6 - IceBlast
     - Level 4 - Magnify
   - Harle
-    - Remove All
     - Level 2 - HealAll / HealAll
     - Level 1 - TurnBlue / EagleEye / TurnRed / TurnWhite / TurnBlack
     - Level 4 - Panacea x5 / Diminish
     - Level 5 - Meteorite / IceBlast
     - Level 6 - AeroBlaster
-  - Sprigg
-    - Level 6 - PhotonBeam
 - After you get access go to the grand slam and talk to the sage. When he asks what you want, first choose nothing(2). Then mash.
 
 #### Sage (1575/7)
@@ -1084,7 +1092,7 @@ Drops:
 **NOTE:** Sprigg has to be the last one to kill WightKnight no matter what.
 
 - Setup Phase
-  - Harle - Get to Level 6 - Turn Black WightKnight
+  - Harle - Get to Level 6 - TurnBlack WightKnight
   - Lynx - Get to Level 5
   - Sprigg - Get to Level 6
 - Attack Phase
@@ -1438,10 +1446,10 @@ Reminder to make a Savestate here for Menu-ing Purposes.
 
 - Smith
   - Disassemble - Ivory Helmet - Defender - Gold Earring
-  - Forge - Stone Sword - 2 Stone Mails or 2 Stone Vests (Whatever you can afford. You can alternatively have skip the other Vest/Mail and use 1 Mythril Mail)
+  - Forge - Stone Sword - Stone Mail or Stone Vest (Whatever you can afford.)
 - Menu - Equip
   - Karsh - Remove All Equipment
-  - Lynx - Stone Mail / Vest - Dragoon Gauntlet - Dragoon Gauntlet - Power Glove(if you have it)
+  - Lynx - Stone Mail / Stone Vest - Dragoon Gauntlet - Dragoon Gauntlet - Power Glove(if you have it)
   - Marcy - Magic Ring or Sky Djinn Ring - Magic Ring or Sky Djinn Ring - Dragoon's Honor (Don't worry if you only have 1 Ring, just equip it)
 - Menu - Allocate Elements
   **Press Triangle and select Healing and Supplemental first**
@@ -1783,14 +1791,14 @@ Drops:
 **Note:** Fire Dragon Phase 2 Attacks are AOE, Attack, AOE. You must kill him before the 2nd AOE or else you'll wipe.
 
 - Phase 1:
-  - Fargo - Get to Level 2 - Strengthen Lynx
-  - Marcy - Get to Level 4 - EagleEye Lynx
+  - Marcy - Get to Level 4 - Strengthen Lynx
+  - Fargo - Get to Level 2 - EagleEye Lynx
   - Lynx - 3 / 3
-  - Fargo - Attack until Lynx is 4 stamina - TurnBlue Lynx
-  - Marcy - Cat's Cradle
+  - Fargo - TurnBlue Lynx
+  - Marcy - Attack until Lynx is 4 stamina (You may need to buffer some attacks with Fargo) - Cat's Cradle
 - Phase 2:
   - Lynx - 3 / 3
-  - Everyone Defend for Fire Dragon's Breath Element
+  - Whomever can - Get Lynx to 7 Stamina
   - Lynx - 1 then 3 / 3
   - Whomever can - Defend
   - Lynx - GlideHook
@@ -2033,7 +2041,7 @@ Drops:
   - **Press Triangle and select Healing and Supplemental first**
   - Glenn
     - Level 2 - HealAll / HealAll
-    - Level 1 - TurnBlue / EagleEye / Strengthen / Turn Green / TurnBlack
+    - Level 1 - TurnBlue / EagleEye / Strengthen / TurnGreen / TurnBlack
 - Head to El Nido Triangle. or to Hermit's Hideaway to Save Kid
 
 ### OPTIONAL: Hermit's Hideaway
@@ -2097,7 +2105,7 @@ Drops:
 
 - YellowField (Common/Rare)
 
-## Pryotor
+## Pyrotor
 
 - Go through the entrance, and knock over the totem to the left. Cross and enter the door. Go down the stairs and take the water fall down.
 - Go all the way down and then run up the coral and exit to the the bottom left entrance. Now climb down the coral ladder, then back up until you hit the collapsing bridge on the upper left. Now go through and talk to the creepy talking head thing.
@@ -2105,17 +2113,14 @@ Drops:
 - The Enemies here will chase after you Head up the ladder, then to the right ladder, then left to the next ladder. Keep heading up to the top.
 - Knock down both totems, then cross them to the next room. Head up and to the right for the next fight.
 
-#### Pryotor (2280/7)
-
-- Glenn - EagleEye Serge
-- Serge - 2 / 2
+#### Pyrotor (2280/7)
 
 - Serge has more than 40 STR
-
+  - Glenn - EagleEye Serge
+  - Serge - 2 / 2
   - Defend to SadnessWave
   - Fargo - Strengthen Serge
   - Serge - 2 / 3 - Dash & Slash
-
 - Serge has less than 40 STR
   - Fargo - EagleEye Serge
   - Glenn - TurnBlue Serge
@@ -2256,7 +2261,7 @@ Drops:
 
 - Phase 2 (Yellow)
 
-  - Glenn - Turn Green Serge Strengthen Serge
+  - Glenn - TurnGreen Serge
   - Serge - Defend [Defend again]
   - Glenn - Strengthen Serge
   - Fargo - EagleEye Serge
@@ -2277,17 +2282,17 @@ Drops:
     - Glenn - Defend
     - Serge - 2 / 3 / 3 then 3
   - Serge has 42 - 43 STR
-    - Serge - Turn Yellow Serge (yes, TurnYellow yourself you're under Vigora btw)
+    - Serge - TurnYellow Serge (yes, TurnYellow yourself you're under Vigora btw)
     - Serge - 3/3 then 3
   - Else
-    - Serge - Turn Yellow Serge (yes, TurnYellow yourself you're under Vigora btw)
+    - Serge - TurnYellow Serge (yes, TurnYellow yourself you're under Vigora btw)
     - Serge - YellowField
+    - Glenn - Attack until Serge is at 6 Stamina
     - Serge - 3 then 3
   - Glenn or Fargo - 2 then 2 then 2 to trigger the next phase
 
 - Phase 5 (Blue)
 
-  - [Glenn - HealAll]
   - Fargo - 1 - Strengthen Serge
   - Serge - X-Strike
 
@@ -2332,7 +2337,7 @@ Drops:
 - Serge - Get to Level 3
 - Glenn - Get to Level 2
 - Fargo - Get to Level 2
-- Defend All until Time Devourer does a Green Element
+- Defend until Time Devourer does any Element
 - Serge - TurnYellow
 - Glenn - Strengthen
 - Fargo - TurnGreen
