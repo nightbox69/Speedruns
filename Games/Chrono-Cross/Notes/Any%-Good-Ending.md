@@ -2235,7 +2235,7 @@ Drops:
 
 - Head back to the save point and save.
 - If you have Kid in the Party, Remove her revive and put it on Fargo. Switch Kid with Fargo as you will need Fargo's Vigora. Just add Revive to level 1 wherever you want on Fargo
-- Menu - Allocate Elements (Only if Serge is at below 41 Strength)
+- Menu - Allocate Elements (Only if Serge is at below 42 Strength)
   - **Press Triangle and select Healing and Supplemental first**
   - Serge
     - Level 2 - YellowField
