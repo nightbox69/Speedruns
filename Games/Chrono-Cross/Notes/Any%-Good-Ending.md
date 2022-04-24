@@ -409,7 +409,7 @@ Reminder to make a Savestate here for Menu-ing Purposes
   - 2 TurnBlue
   - 1 TurnRed
   - 2 TurnWhite
-  - 1 TurnBlack
+  - 2 TurnBlack
   - 1 Strengthen
   - 1 EagleEye
   - 1 Genius
@@ -1437,11 +1437,11 @@ Reminder to make a Savestate here for Menu-ing Purposes.
 ### Guldove (Home World)
 
 - Smith
-  - Disassemble - Ivory Helmet
-  - Forge - Stone Sword - Stone Vest (Skip the stone vest and use a Mythril Mail if Short)
+  - Disassemble - Ivory Helmet - Defender - Gold Earring
+  - Forge - Stone Sword - 2 Stone Mails or 2 Stone Vests (Whatever you can afford. You can alternatively have skip the other Vest/Mail and use 1 Mythril Mail)
 - Menu - Equip
   - Karsh - Remove All Equipment
-  - Lynx - Stone Vest - Dragoon Gauntlet - Dragoon Gauntlet - Power Glove(if you have it)
+  - Lynx - Stone Mail / Vest - Dragoon Gauntlet - Dragoon Gauntlet - Power Glove(if you have it)
   - Marcy - Magic Ring or Sky Djinn Ring - Magic Ring or Sky Djinn Ring - Dragoon's Honor (Don't worry if you only have 1 Ring, just equip it)
 - Menu - Allocate Elements
   **Press Triangle and select Healing and Supplemental first**
@@ -1780,22 +1780,19 @@ Drops:
 
 #### Fire Dragon (892/9 -> 3570/9)
 
+**Note:** Fire Dragon Phase 2 Attacks are AOE, Attack, AOE. You must kill him before the 2nd AOE or else you'll wipe.
+
 - Phase 1:
-  - Marcy - Get to Level 4
-  - Fargo - Get to Level 2
-  - Lynx - 1 / 1 / 2 / 3
-  - Marcy & Fargo - Defend (Attack to replace Lynx Stamina if he misses)
-  - Marcy - Strengthen Lynx
-  - Fargo - EagleEye Lynx
-  - Lynx - Defend
-  - Fargo - TurnBlue Lynx
+  - Fargo - Get to Level 2 - Strengthen Lynx
+  - Marcy - Get to Level 4 - EagleEye Lynx
+  - Lynx - 3 / 3
+  - Fargo - Attack until Lynx is 4 stamina - TurnBlue Lynx
   - Marcy - Cat's Cradle
 - Phase 2:
-  - Fargo (Optional) - Poke with 1's until Fire Dragon transforms
   - Lynx - 3 / 3
   - Everyone Defend for Fire Dragon's Breath Element
-  - Lynx - 3 / 3 / 1
-  - Marcy - Defend
+  - Lynx - 1 then 3 / 3
+  - Whomever can - Defend
   - Lynx - GlideHook
 - Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
@@ -1956,7 +1953,7 @@ Drops:
     - Level 1 - HealAll / HealAll / HealAll / Strengthen / TurnYellow / TurnWhite
     - Level 8 - Saints
   - Fargo
-    - Level 1 - Replace TurnBlue with Revive
+    - Level 1 - Replace TurnBlue with Revive / Replace TurnYellow with TurnBlack
     - Level 4 - Vigora
 - Enter Chronopolis.
 
@@ -1999,14 +1996,14 @@ Drops:
 **Note:** Magnify must happen before Diminish, else Run Away
 
 - Marcy - 1 / 1 - Magnify
-- Serge - 2 / 3 / 2
+- Serge - 2 / 3 / 2 (Get to Level 3 if 3 roll)
 - Marcy - Get to Level 2
 - Fargo - Get to Level 2
-- Serge - Get to Level 8
+- Serge - Get to Level 8 (Count Fate AP and try to get to level 8 before Gravitonne)
 - Fate - Gravitonne
 - Fargo - Genius-3 Serge
 - Marcy - WeakMinded-3
-- Fargo - TurnWhite anyone that is not Fate
+- Fargo - TurnWhite Serge (For Double White)
 - Marcy - WeakMinded-3
 - Serge - 1 / 2 - Saints
 - Fargo - 2 / 3 - Revive Serge if needed
@@ -2085,10 +2082,11 @@ Drops:
 - Serge 42 STR
   - Serge - 2 / 2 / 3 (Stop if Attacked)
   - Glenn - Get to Level 3
-  - Fargo - Strengthen Serge
-  - Serge - 1 - X-Strike
+  - Fargo - Strengthen Serge (Serge - X-Strike if all Serge attacks hit)
+  - Serge - 1 - X-Strike (1/2 - X-Strike if all attacks missed)
 - Serge 38 STR
-  - Serge - 2 / 3
+  - Glenn - EagleEye Serge
+  - Serge - 2 / 3 (Must Hit)
   - Glenn - Get to Level 3
   - Fargo - Strengthen Serge
   - Serge - 1 - X-Strike
@@ -2109,8 +2107,8 @@ Drops:
 
 #### Pryotor (2280/7)
 
-- Serge - 1 / 2
 - Glenn - EagleEye Serge
+- Serge - 2 / 2
 
 - Serge has more than 40 STR
 
@@ -2196,9 +2194,8 @@ Drop:
 - Anything Else
   - Fargo - Strengthen Serge
   - Serge - 3 / 3
-  - Glenn - 3 / 3 to charge Serge's Stamina
-  - Serge - 3 / 3
-    - X-Strike (first 3 should trigger Heal)
+  - Glenn - 2 / 2 / 2
+  - Serge - 3 / 3 - X-Strike (first 3 should trigger Heal)
 - Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
 
@@ -2212,9 +2209,11 @@ Drops:
 
 #### Aquator (2940/6)
 
-- Serge has 48 STR
+**Note:** Never Strengthen before Vigora
 
-  - Serge - 2 / 2
+- Serge has more than or equal to 47 STR
+
+  - Serge - 2 / 2 / 2
   - Fargo - Spam 1's to trigger Aquator's Vigora - Strengthen Serge
   - Glenn - 1 / 1 - X-Strike
 
@@ -2223,11 +2222,11 @@ Drops:
   - Serge - 2 / 2
   - Glenn - Get to Level 3
   - Fargo - Spam 1's to trigger Aquator's Vigora - Strengthen Serge
-  - Serge - 2 - X-Strike
+  - Serge - 1 / 1 - X-Strike
 
 - Serge 40 STR
-  - Fargo - EagleEye Serge
-  - Glenn - Get to Level 4 - Strengthen Serge
+  - Glenn - EagleEye Serge
+  - Glenn - Get to Level 4 - Strengthen Serge (Strengthen must be after Vigora)
   - Serge - 3 / 3 - X-Strike
 - Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
@@ -2236,6 +2235,10 @@ Drops:
 
 - Head back to the save point and save.
 - If you have Kid in the Party, Remove her revive and put it on Fargo. Switch Kid with Fargo as you will need Fargo's Vigora. Just add Revive to level 1 wherever you want on Fargo
+- Menu - Allocate Elements (Only if Serge is at below 41 Strength)
+  - **Press Triangle and select Healing and Supplemental first**
+  - Serge
+    - Level 2 - YellowField
 - Head up the teleporter on top of the floor of the defeated boss.
 
 ### Dragon God (1900/10 Each Phase)
@@ -2273,9 +2276,13 @@ Drops:
   - Serge has 44 - 45 STR
     - Glenn - Defend
     - Serge - 2 / 3 / 3 then 3
-  - Serge is below 44 STR
+  - Serge has 42 - 43 STR
     - Serge - Turn Yellow Serge (yes, TurnYellow yourself you're under Vigora btw)
     - Serge - 3/3 then 3
+  - Else
+    - Serge - Turn Yellow Serge (yes, TurnYellow yourself you're under Vigora btw)
+    - Serge - YellowField
+    - Serge - 3 then 3
   - Glenn or Fargo - 2 then 2 then 2 to trigger the next phase
 
 - Phase 5 (Blue)
@@ -2292,9 +2299,11 @@ Drops:
   - Glenn or Fargo - 2 then 2 then 2 to trigger the next phase
 
 - Phase 7 (White)
+
   - Glenn - TurnBlack Serge
   - Fargo - Get Serge to 6 Stamina - Genius Serge
   - Serge - 1 then 3/3
+
 - Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
 
