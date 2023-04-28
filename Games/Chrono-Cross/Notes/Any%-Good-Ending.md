@@ -1128,7 +1128,7 @@ Reminder to make a Savestate here for Practice Purposes
     - Lynx - 3 - Defend
     - Harle - Defend
     - WightKnight - 3 / 3
-    - Lynx - 2 / 3 - GlideHook
+    - Lynx - 2 / 3 - GlideHook (or Revive WK)
     - WightKnight - 2 / 3
   - Sprigg got interrupted getting to Level 5
     - Harle - Get to Level 4 - Diminish
@@ -1209,11 +1209,12 @@ Reminder to make a Savestate here for Practice Purposes
   - Everyone - Defend until StrongMinded
   - Miguel - StrongMinded
   - Lynx - Strengthen WightKnight
-  - Harle - Diminish
+  - Harle - Get to Level 4 - Diminish
   - WightKnight - 3 / 3
-  - Harle - 1 / 2 / 2 (use lynx when harle empties her stamina but just the remaining attacks)
-  - WightKnight - 3 / 2 (Only do 3 if Crit anywhere)
-  - Harle - 1 / 1 / 2 - MoonBeams (if Miguel AP, stamina and levels allow Get to Level 7 - Lunairetic)
+  - Miguel - HolyDragSword
+  - Lynx - 1 / 2 / 2 (use lynx when harle empties her stamina but just the remaining attacks)
+  - WightKnight - 3 / 2 (Only do 3 if Crit anywhere, 3 / 3 if no Strengthen)
+  - Harle - 1 / 1 / 2 - MoonBeams (Skip Element if Crit)
   - WightKnight - 3 / 3
 - **Sprigg Level 5 and AntiBlack on Harle**
   - Lynx - Get to Level 3 - Strengthen WightKnight
@@ -1224,6 +1225,7 @@ Reminder to make a Savestate here for Practice Purposes
   - Lynx - Blackout Harle
   - Harle - Diminish
   - WightKnight - 3 / 3
+  - Miguel - HolyDragSword
   - Harle - 1 / 2 / 2
   - WightKnight - 2 / 3 (Only do 3 if Crit)
   - Lynx - 1 / 1 / 2 - GlideHook
@@ -1238,12 +1240,12 @@ Reminder to make a Savestate here for Practice Purposes
   - Harle - Get to Level 4 - Diminish
   - WightKnight - The Highest Attack Combo you can muster
   - Miguel - HolyDragSword
-  - Lynx - 1 - Strengthen WightKnight
-  - Harle - 1 - TurnBlack (Anyone not Miguel)
+  - Lynx - 1 / 1 / 2 - Strengthen WightKnight
   - WightKnight - 3 / 3
-  - Lynx - 1 / 2 / 2
-  - WightKnight - 2 / 3 (Only do 3 if Crit)
-  - Lynx - 1 / 1 / 2 - GlideHook
+  - Lynx - GlideHook
+  - Harle - 1 - TurnBlack (Anyone not Miguel)
+  - WightKnight - 2 / 3
+  - Lynx or Harle - Get WightKnight back to 6 stamina
   - WightKnight - 3 / 3
 - Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
@@ -1478,9 +1480,11 @@ Reminder to make a Savestate here for Practice Purposes
 **Note:** You'll die if you overmash. Consider running if you didn't get the turn order right, or a good stamina refresh. Pray you don't miss. It's critical to empty Marcy's Stamina on Phase 4 before IceBlast for a full Stamina Refresh (Idiot Explanation: Do six 1's and then IceBlast)
 
 - Dario Phase 1
+  - Riddel - Defend (For Survival Purposes)
+  - Lynx - Get to Level 6
   - If Not Attacked
     - Lynx - Get to Level 6
-    - Marcy - 1's (until Dario Attacks or Level 4)
+    - Marcy - Get to Level 4
   - If Attacked
     - Lynx - 1 / 1 / 1 / 1
     - Marcy - 1 / 1
@@ -1730,9 +1734,18 @@ Drops:
 
 - Fargo - 1 / 2 - Pillage (Run Away if you didn't get Power Seal)
 - Marcy - Get to Level 7
-- Fargo - TurnBlue Lynx
-- Marcy - FrogPrince
-- Lynx & Fargo - 2 / 2 / 3 until Tyrano Dies
+- If Interrupted by Early Flap
+  - Lynx - Get to Level 2
+  - Marcy - Get to Level 7
+  - Lynx - CurePlus
+  - Fargo - Turn Blue Lynx
+  - Lynx - IceBlast Tyrano
+  - Marcy - FrogPrince
+  - Lynx & Fargo - 2 / 2 / 3 until Tyrano Dies
+- If Marcy is not Interrupted 
+  - Fargo - TurnBlue Lynx (Then pray Flap doesn't activated)
+  - Marcy - FrogPrince
+  - Lynx & Fargo - 2 / 2 / 3 until Tyrano Dies
 - Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
 
@@ -1799,7 +1812,8 @@ Drops:
   - Fargo - Get to Level 2 - EagleEye Lynx
   - Lynx - 3 / 3
   - Fargo - TurnBlue Lynx
-  - Marcy - Attack until Lynx is 4 stamina (You may need to buffer some attacks with Fargo) - Cat's Cradle
+  - Lynx & Marcy - Defend till Lynx has 6 Stamina
+  - Marcy - Cat's Cradle
 - Phase 2:
   - Lynx - 3 / 3
   - Whomever can - Get Lynx to 7 Stamina
@@ -1833,8 +1847,8 @@ Drops:
 - Marcy - EagleEye Lynx
 - Fargo - Strengthen Lynx
 - Lynx - 3 / 3 (or 2 / 3 if you're 38 STR or more)
-- Fargo - 3 / 3
-- Lynx - 3 / 3 - GlideHook
+- Fargo - 3 / 3 (1 / 2 if you're 38 STR or more)
+- Lynx - 3 / 3 (1 / 3 if you're 38 STR or more) - GlideHook
 - Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
 
@@ -1872,7 +1886,7 @@ Drops:
 - Fargo - Strengthen Lynx
 - Lynx - 3 / 3
 - Fargo - 3 / 3
-- Lynx - 3 / 3 (GlideHook if 40 STR)
+- Lynx - 3 / 3 (GlideHook if 40 STR or Crit)
 - Fargo and Lynx - Repeat (now with GlideHook)
 - Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
@@ -1946,7 +1960,7 @@ Drops:
 - Fargo - 1 then 3
 - Vita Unus - GreenField
 - Serge - 3 / 3
-- Fargo - 3 / 3
+- Fargo - 2 / 2 / 2
 - Serge - 3 / 3 - Dash & Slash
 - Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
@@ -2269,7 +2283,7 @@ Drops:
   - Serge - Defend [Defend again]
   - Glenn - Strengthen Serge
   - Fargo - EagleEye Serge
-  - Serge - 1/3 then 3
+  - Serge - 3 then 3
   - Glenn or Fargo - 2 then 2 then 2 to trigger the next phase
 
 - Phase 3 (Red)
@@ -2283,22 +2297,22 @@ Drops:
   - Serge has 46 STR
     - Serge - 1 / 3 / 3 then 3
   - Serge has 44 - 45 STR
-    - Glenn - Defend
     - Serge - 2 / 3 / 3 then 3
   - Serge has 42 - 43 STR
     - Serge - TurnYellow Serge (yes, TurnYellow yourself you're under Vigora btw)
     - Serge - 3/3 then 3
   - Else
     - Serge - TurnYellow Serge (yes, TurnYellow yourself you're under Vigora btw)
-    - Serge - YellowField
-    - Glenn - Attack until Serge is at 6 Stamina
-    - Serge - 3 then 3
+    - Serge - YellowField (Only if less than 39 Str)
+    - Serge - 3 / 3 then 3 ( 3 then 3 if YellowField)
   - Glenn or Fargo - 2 then 2 then 2 to trigger the next phase
 
 - Phase 5 (Blue)
 
+  - Glenn - Get to Level 4
   - Fargo - 1 - Strengthen Serge
-  - Serge - X-Strike
+  - Serge - 1 (Stamina Empty Purposes)
+  - Glenn - X-Strike
 
 - Phase 6 (Black)
 
@@ -2344,9 +2358,9 @@ Drops:
 - Defend until Time Devourer does any Element
 - Serge - TurnYellow
 - Glenn - Strengthen
-- Fargo - TurnGreen
+- Fargo - EagleEye
 - Glenn - TurnBlue
-- Fargo - Genius
+- Fargo - TurnBlack
 - Serge - TurnWhite
 - Serge - ChronoCross
 - **SPLIT AFTER CHRONO CROSS**
