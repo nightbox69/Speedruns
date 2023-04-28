@@ -387,11 +387,11 @@ Reminder to make a Savestate here for Menu-ing Purposes
 
 - Macha will let you roam after some cutscenes and mashing. Head to Lisa's.
 - Shop (Lisa's)
-  - 21 Tablets
+  - 41 Tablets (Skip this if you're planning on buying Capsules after DeadHead)
   - 11 Medicine
   - 2 Ointment
   - 2 CurePlus
-  - 2 HealAll
+  - 2 HealAll (Just buy one if you're buying Tablets)
   - 2 AquaBeam
   - 2 Aquaball (3 if no IceBlast)
   - 2 Bushbasher
@@ -424,11 +424,11 @@ Reminder to make a Savestate here for Menu-ing Purposes
   - Serge
     - Level 2 - Heal All
   - Glenn
-    - Level 2 - Heal All
+    - Level 2 - Heal All (Ignore this if you're buying Tablets)
     - Level 1 - Strengthen / TurnBlue / Revive
   - Leena
-    - Level 2 - CurePlus / CurePlus
-    - Level 1 - EagleEye / TurnRed / TurnWhite / AquaBall
+    - Level 1 - EagleEye / TurnRed / TurnWhite **Cancel then Sort by Innate** / AquaBeam
+    - Level 2 - CurePlus / CurePlus / AquaBall
     - Level 4 - IceBlast
     - Level 3 - BushBasher
 - Board the boat, head towards Fort Dragoon and enter the fog.
@@ -554,19 +554,11 @@ Drops:
     - Level 1 - Remove Strengthen / TurnBlue Stays / Replace Revive with AquaBeam
     - Level 4 - Magnify / **Panacea x5**
   - Leena
-    - Level 5 - Meteorite (or PhotonBeam)
+    - Level 1 - Replace EagleEye for Strengthen
+    - Level 5 - Diminish
   - Serge
-    - Leve 2 - Replace Cure with Revive / Medicine
-    - Level 1 - Strengthen / TurnBlue / Genius / AquaBeam
-    - Level 4 - AquaBall / BushBasher
-  - **Alternate Menu for Low Strength Glenn and High Strength Serge**
-  - Glenn
-    - Level 1 - Strengthen / TurnBlue / AquaBeam / TurnGreen
-    - Level 2 - Revive
-    - Level 4 - Magnify - Panacea x5
-  - Leena - Same as Above
-  - Serge
-    - Level 1 - WeakMinded - TurnBlue - Genius - AquaBeam
+    - Level 2 - Replace Cure with Revive / Medicine
+    - Level 1 - EagleEye / TurnBlue / Genius / AquaBall
     - Level 4 - AquaBall / BushBasher
 - Menu - Use Elements
   - Capsule Everyone.
@@ -574,8 +566,8 @@ Drops:
 
 #### Solt/Pepper (525/6 507/8)
 
-- Serge (Target Solt) - 1 - Strengthen Glenn
-- Leena (Target Solt) - 1 - EagleEye Glenn
+- Leena (Target Solt) - 1 - Strengthen Glenn
+- Serge (Target Solt) - 1 - EagleEye Glenn
 - Glenn (Target Solt) - 3 / 3
 - Leena (Target Solt) - Get to Level 4 - BushBasher Peppor (Target Solt instead of Glenn Hits)
 - Glenn (Target Solt) - 3 / 3 and Solt dies
@@ -606,14 +598,17 @@ Drops:
 **Note:** Fire Dragon is a bitch, he can kill Leena or Glenn if you ain't careful. Be prepared to adhoc the fight on this one. Remember that only Glenn has Revive and Magnify so determine for yourself if the Fight is worth continuing if Glenn was the person to die. Reset the game instead of running away.
 
 - Normal Strats
-  - Leena - 1 - Eagle Eye Glenn
+  - Serge - 1 - EagleEye Glenn
   - If Attacked:
-    - Glenn - 2
+    - Leena - 1 / 1 - AquaBall
     - Serge - 1 / 1 - TurnBlue Glenn
+    - Glenn - 3 / 3
   - If Not Attacked
     - Glenn - 3 / 3
-    - Serge - 1 (Or 1/1 if you can push it) - TurnBlue on Glenn
-  - Glenn - 3 / 3 - Revive Leena if she died earlier
+    - Leena - 1 - AquaBall
+    - Serge - 1 / 1 (Just get Glenn to 5 Stamina) - TurnBlue Glenn
+    - Glenn - 3 / 3
+  - FireDragon - FireBreath
   - Leena - 1 / 1 / 1 / 1 / 1
   - Serge - Genius Leena
   - Glenn - Magnify
@@ -691,15 +686,12 @@ Drops:
 ### Frog Prince Dragonia
 
 - Menu - Allocate Elements
-  - Glenn (Only if you're doing Alternate Strats)
-    - Level 1 - Remove Strengthen
-    - Level 2 - Remove Revive
-  - Serge
-    - Level 1 - WeakMinded (if already then move to top) / Strengthen
-    - Level 2 - Revive
   - Leena - **Sort by Innate**
-    - Level 1 - Cure
+    - Level 1 - Cure / Strengthen
     - Level 5 - FrogPrince
+  - Serge
+    - Level 1 - WeakMinded / EagleEye
+    - Level 2 - Revive
 - Menu - Equip
   - Serge - Golden Earring - Magic Ring (If Leena's Accessory Slot is full)
   - Glenn - Iron Vest - Remove Dragoon's Honor
@@ -722,12 +714,12 @@ Drops:
 #### Giant Gloop (840/8)
 
 - Glenn - Get to Level 4 - Magnify
-- Serge - Target Giant Gloop - 1 - Genius (Aquaball if Leena has 16 Mag)
-- Leena - Target Giant Gloop - Get to Level 4 - IceBlast
+- Serge - 1 - Genius
+- Leena - Get to Level 4 - IceBlast
 - If Leena has less than 15 Magic
-  - Serge or Glenn - Aquabeam
+  - Serge or Glenn - AquaBeam (or AquaBall)
 - Everyone - Defend
-- Leena - Target Giant Gloop - Get to Level 5 - Frog Prince
+- Leena - Get to Level 5 - Frog Prince
 - Heal with Consumables
 - Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
@@ -755,18 +747,19 @@ Drops:
 - Leena - Get to Level 5 - TurnRed Taurusoid
   - If Interrupted and Leena or Serge (and hp is below 120) are hit otherwise get back to getting to Level 5
     - Leena - Get to Level 4 - Cure Leena or Serge
-- Serge - Get to Level 2 - WeakMinded
+- Serge - Get to Level 2 - WeakMinded (1 - Genius if Leena has 18 Mag)
 - Glenn - Get to Level 4
 - Serge - Genius Leena
 - Leena - Get to Level 5 - Defend
+- Everyone - Defend
 - **IF TAURUSOID HASN'T DONE BACKDROP PRIOR TO THIS HAVE EVERYONE DEFEND UNTIL HE DOES HIS BACKDROP. DO NOT MAGNIFY UNTIL HE DOES. A CHARACTER WILL DIE IF YOU DO NOT FOLLOW THIS**
 - If Leena Dies
   - Serge - Get to Level 4 - Revive
   - Everyone - Defend for Chokeslam
 - Glenn - Magnify
-- Leena - Aquaball
-- Serge - Aquabeam
-- Glenn - 1 - Aquabeam (TurnBlue anyone not Taurosoid, if Leena is at Mag 15 - 17)
+- Leena - AquaBall
+- Serge - AquaBall (TurnBlue Leena if 16-17 Mag, AquaBall if you skipped WeakMinded)
+- Glenn - 1 - AquaBeam (TurnBlue anyone not Taurosoid, if Leena is at Mag 15 - 17)
 - Leena - Get back to Level 5 (repeat with serge if you miss and lose stamina) - FrogPrince
 - Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
@@ -805,11 +798,11 @@ Drops:
     - Everyone - Defend
     - Proceed with If Not Attacked Strats ignoring the first 3/3 with Leena (You're already level 5 why the hell are you going to do 3/3?)
   - If Glenn is asleep
-    - Serge - TurnBlue
-    - Leena - AquaBall
+    - Serge - TurnBlue Leena
+    - Leena - AquaBeam
     - Serge - Defend
-    - Leena - 1
-    - Serge - Aquabeam
+    - Leena - 1 (Must Hit)
+    - Serge - AquaBall
     - Leena - FrogPrince
 - **Heal with Consumables**
 - **SPLIT AFTER THE WIN MENU**
@@ -826,30 +819,31 @@ Drops:
 - Do the Dream Sequence Route only with harder things to dodge + bats.
 
 #### Bunyip (420/10 then 1260/10)
+**Bunyip Phase 1 will cast Volcano after MagmaBomb and will kill Leena if you're not counting AP Properly**
 
 - Phase 1
-  - Good Start (Bunyip doesn't attack during Leena's Turn)
-    - Leena - Get to Level 5
+  - Leena - Get to Level 5
+  - Good Start (Leena gets to Level 5 before Bunyip Attacks)
     - Serge - 1 - Genius Leena
     - Glenn - Get to level 4 - Magnify
-    - Serge - Defend
+    - Serge - 1
     - Leena - IceBlast
     - Bunyip should transform here, if not do a 2/2 with Serge
   - Bad Start (Bunyip attacks at Leena's Turn)
     - Leena - Get to Level 4
-    - Serge - 1 - Genius Leena
+    - Serge - 1 - Genius Leena (Skip this if you're lacking in AP)
     - Glenn - Get to level 4 - Magnify
-    - Serge - Defend
+    - Serge - 1
     - Leena - IceBlast
     - Bunyip should transform here, if not do a 2/2 with Serge
 - Phase 2
-  - Serge - Get to Level 5 (Stop if Attacked)
+  - Serge - Get to Level 5 (AquaBall if Attacked here)
   - Leena - Get to Level 5
-  - Glenn - 1's until Bunyip attacks - Aquabeam
-  - Serge - Aquabeam
+  - Glenn - 1 (Until Bunyip attacks) - Aquabeam
+  - Serge - AquaBall
   - Leena - FrogPrince
-  - Serge - 1 or Get to Level 5 - Luminaire
-  - Leena - Aquaball
+  - Serge - Get to Level 5 - Luminaire
+  - Leena - AquaBall
   - Glenn and Serge - 2 / 2 / 3 until Bunyip dies
 - Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
@@ -875,11 +869,11 @@ Drops:
   - Glenn Strength Strats (use Else if you missed on Glenn 3/3)
     - 27 Strength Or Crit | 27 Strength and 18 Magic Leena
       - Glenn - 2 - SonicSword
-    - 24 Strength
+    - 24 - 26 Strength
       - Glenn - 3 - SonicSword
     - Else
       - Serge - 1/1 (doesn't matter if you hit or miss)
-      - Glenn - 3/3 - SonicSword
+      - Glenn - 3/3 - Viper Element - SonicSword
 - If Attacked
   - Glenn 26 Strength
     - Glenn - 2
@@ -916,8 +910,8 @@ Drops:
     - Glenn - 3
   - If Attacked
     - Serge - 1 / 2 (if Serge is hit just do 1)
-  - Leena - EagleEye Glenn
-  - Serge - Strengthen Glenn
+  - Leena - Strengthen Glenn
+  - Serge - EagleEye Glenn
   - Leena - TurnWhite Glenn
   - **Only if Serge is hit** Serge - Defend
 - Attack Phase
@@ -1121,9 +1115,11 @@ Reminder to make a Savestate here for Practice Purposes
 
 - Sprigg - Get to Level 5 (Immediately stop if attacked)
   - Sprigg got to Level 5 w/o interruptions
-    - Harle - Get to Level 4 - Diminish
     - Sprigg - Doppelganger WightKnight
-    - Lynx - 1 - Strengthen WightKnight
+    - Harle - Get to Level 4 - Diminish (You can do this first then DoppelGanger if you're scared of Missing)
+    - WightKnight (Only if Garai doesn't Attack) - 1 / 3
+    - Lynx - 1 (1 / 3 if WightKnight Attacked Prior)- Strengthen WightKnight
+    - Harle (Only if WightKnight is at 6 Stamina) - Defend
     - WightKnight - 3 / 3
     - Lynx - 3 - Defend
     - Harle - Defend
@@ -1136,7 +1132,7 @@ Reminder to make a Savestate here for Practice Purposes
     - Lynx - 1 - Strengthen WightKnight
     - Harle - Defend
     - Wightknight - 1 / 3
-    - Harle - 1 - TurnBlack
+    - Harle - 1 - TurnBlack Garai
     - Lynx - Defend twice
     - Harle - Defend
     - WightKnight - 2 / 3
@@ -1463,7 +1459,8 @@ Reminder to make a Savestate here for Menu-ing Purposes.
     - Level 2 - Replace Revive with Inferno or FirePillar - Inferno or FirePillar
     - Level 1 - Replace TurnBlue with Revive
   - Marcy
-    - Level 2 - Heal All / Heal All / Brace
+    - Level 2 - Heal All / Heal All / Brace / IceBlast (If you're scared for your Life)
+    - Level 3 (If you're only scared for your life) - IceBlast 
     - Level 1 - TurnRed / Strengthen / EagleEye / WeakMinded / WeakMinded / Genius
     - Level 4 to Level 6 (Add Level 3 too if Marcy is below 20 Magic) - IceBlast
     - Level 7 - FrogPrince
@@ -1544,7 +1541,7 @@ Drops:
     - Level 4 - Remove Magnify
     - Level 6 - Remove IceBlast
   - Marcy
-    - Level 4 - Magnify / Panacea x5
+    - Level 4 - Panacea x5 (Very Top) / Magnify 
   - Fargo
     - Level 2 - HealAll / HealAll
     - Level 1 - TurnBlue / EagleEye / Strengthen / TurnGreen / TurnYellow / TurnWhite / Genius
