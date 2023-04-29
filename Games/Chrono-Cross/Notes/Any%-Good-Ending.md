@@ -642,18 +642,18 @@ Drops:
 
 ### Karsh/Zoah/Marcy (388/8 457/11 285/6)
 
-- If Serge / Glenn Strength average is 17 Strength
-  - Leena - 1 - TurnRed (Karsh)
-- Glenn (Target Zoah) - 1 / 2
-- Serge (Target Marcy) - 1 / 2 - X-Strike, Marcy should die before doing anything relevant.
-- Leena (Target Zoah) - 1 / 1 / 2 / 2 - EagleEye on Glenn
-- Glenn (Target Zoah) - 3 / 3 - Magnify
-- Leena (Target Zoah) - BushBasher Zoah
-- Serge (Target Karsh) - 2 / 2 / 3
-- Glenn - Defend
-- Serge - Defend
-- Leena (Target Karsh) - Get to Level 4 - IceBlast
-- Glenn (Target Karsh) - 3 / 3
+- Leena - 1 - Strengthen Glenn
+- Glenn (Target Zoah) - 1 / 2 (Skip EagleEye later if Zoah attacks here)
+- Serge (Target Marcy if Str Sum is less than 35, Zoah if Glenn 20 or 21 Str) - 1 / 2
+- Serge (Target Marcy) - X-Strike
+- Leena (Target Zoah) - Get to Level 3 - BushBasher Glenn
+- Serge - 1 - EagleEye Glenn
+- Glenn (Target Zoah) - 1 then 3 / 3
+- Leena (Target Zoah) - Get to Level 4
+- Serge (Target Karsh) - 1 - Turn Blue Glenn
+- Leena - IceBlast
+- Glenn (Target Karsh) - 1 then 3 / 3
+- Serge & Leena - 2 / 2 - AquaBall
 - Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
 
