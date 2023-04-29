@@ -1370,7 +1370,7 @@ Drops:
 
 - The Porre Army will start a machine for you to fight.
 
-#### Guillot (1051/9)\*\*
+#### Guillot (1051/9)
 
 - Harle - EagleEye Lynx
 - Lynx - 3 / 3
@@ -1459,12 +1459,15 @@ Reminder to make a Savestate here for Menu-ing Purposes.
     - Level 2 - Replace Revive with Inferno or FirePillar - Inferno or FirePillar
     - Level 1 - Replace TurnBlue with Revive
   - Marcy
-    - Level 2 - Heal All / Heal All / Brace / IceBlast (If you're scared for your Life)
-    - Level 3 (If you're only scared for your life) - IceBlast 
+    - Level 2 - Heal All / Heal All / Brace
     - Level 1 - TurnRed / Strengthen / EagleEye / WeakMinded / WeakMinded / Genius
+    - **Cancel then press Triangle Sort by Innate**
+    - Level 2 - IceBlast after Brace (If you're scared for your Life)
+    - Level 3 - IceBlast (If you're scared for your Life)
     - Level 4 to Level 6 (Add Level 3 too if Marcy is below 20 Magic) - IceBlast
     - Level 7 - FrogPrince
   - Riddel
+    - **Cancel then press Triangle Sort by Innate**
     - Level 1 - WeakMinded
 - Head to the Forbidden Island. The small island on the Upper Right of the main island and below the Zelbess.
 - **Safety Save Outside**
@@ -1536,11 +1539,11 @@ Drops:
   - Fargo - Stone Sword - Dreamer's Scarf - Mythril Helmet
   - Lynx - Dragoon's Honor - Dragoon's Gauntlet - Dragoon's Gauntlet
 - Menu - Allocate Elements
-  - **Press Triangle and select Healing and Supplemental first**
   - Lynx
     - Level 4 - Remove Magnify
     - Level 6 - Remove IceBlast
   - Marcy
+    - **Press Triangle and select Healing and Supplemental first**
     - Level 4 - Panacea x5 (Very Top) / Magnify 
   - Fargo
     - Level 2 - HealAll / HealAll
