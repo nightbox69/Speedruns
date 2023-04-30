@@ -2368,7 +2368,7 @@ Drops:
 
 ### Dragon God (1900/10 Each Phase)
 
-**Note:** Strategies are for 44 STR Serge, for Serge 43 and Below STR is at the very bottom of the guide.
+**Note:** Strategies are for 44 STR Serge, for Serge 43 and Below STR is at the bottom of this.
 - Phase 1 (White)
   - Fargo - TurnBlack Serge
   - Serge - 2 / 2 (Must Hit)
@@ -2418,7 +2418,61 @@ Drops:
 - **SPLIT AFTER THE WIN MENU**
 
 Drops:
+- Earring of Hope (Common/Rare)
 
+
+### EXPERIMENTAL Dragon God 43 and Below Strength (1900/10 Each Phase)
+
+**Note:** Strategies are for 43 STR Serge, for Serge 44 and above STR is above this one.
+- Phase 1 (White)
+  - Fargo - TurnBlack Serge
+  - Serge - 2 / 2 (Must Hit)
+  - Glenn - Get to Level 3
+  - Fargo - Get to Level 4
+  - Serge - Defend (Should be around 5/6 Stamina)
+  - Serge - 1 / 1 then 2
+
+- Phase 2 (Yellow)
+  - Glenn - TurnGreen Serge
+  - Fargo & Serge - Defend
+  - Glenn - Strengthen Serge
+  - Fargo - EagleEye Serge
+  - Serge - 3 then 3
+  - Glenn or Fargo - 2 then 2 to trigger the next phase
+
+- Phase 3 (Red)
+  - Glenn - TurnBlue Serge
+  - Fargo - Get Serge to 6 Stamina - Vigora Serge
+  - Serge - 3 then 3
+
+- Phase 4 (Green)
+  - Serge has 42 - 43 STR
+    - Serge - TurnYellow Serge (yes, TurnYellow yourself you're under Vigora btw)
+    - Serge - 3 / 3 then 3
+  - Else
+    - Serge - TurnYellow Serge (yes, TurnYellow yourself you're under Vigora btw)
+    - Serge - YellowField
+    - Serge - 3 then 3
+  - Glenn or Fargo - 2 then 2 to trigger the next phase
+
+- Phase 5 (Blue)
+  - Glenn - Get to Level 3
+  - Fargo - 1 - Strengthen Serge
+  - Serge - 1 (Stamina Empty Purposes)
+  - Glenn - X-Strike
+
+- Phase 6 (Black)
+  - Glenn - Get Serge to 4 Stamina - EagleEye Serge
+  - Fargo - 1 - TurnWhite Serge
+  - Serge - 3 then 3
+  - Glenn or Fargo - 2 then 2 to trigger the next phase
+
+- Phase 7 (White)
+  - Glenn - TurnBlack Serge
+  - Fargo - Get Serge to 6 Stamina - Genius Serge
+  - Serge - 1 then 3 / 3
+
+Drops:
 - Earring of Hope (Common/Rare)
 
 ## Time Devourer
@@ -2451,57 +2505,6 @@ Drops:
 - Serge - TurnWhite
 - Serge - ChronoCross
 - **SPLIT AFTER CHRONO CROSS**
-
-### Dragon God 43 and Below Strength (1900/10 Each Phase)
-
-**Note:** Strategies are for 43 STR Serge, for Serge 44 and above STR is above this one.
-- Phase 1 (White)
-  - Fargo - TurnBlack Serge
-  - Serge - 2 / 2 (Must Hit)
-  - Glenn - Get to Level 3
-  - Fargo - Get to Level 4
-  - Serge - Defend (Should be around 5/6 Stamina)
-  - Serge - 1 / 1 then 2
-
-- Phase 2 (Yellow)
-  - Glenn - TurnGreen Serge
-  - Fargo & Serge - Defend
-  - Glenn - Strengthen Serge
-  - Fargo - EagleEye Serge
-  - Serge - 3 then 3
-  - Glenn or Fargo - 2 then 2 then 2 to trigger the next phase
-
-- Phase 3 (Red)
-  - Glenn - TurnBlue Serge
-  - Fargo - Get Serge to 6 Stamina - Vigora Serge
-  - Serge - 3 then 3
-
-- Phase 4 (Green)
-  - Serge has 42 - 43 STR
-    - Serge - TurnYellow Serge (yes, TurnYellow yourself you're under Vigora btw)
-    - Serge - 3 / 3 then 3
-  - Else
-    - Serge - TurnYellow Serge (yes, TurnYellow yourself you're under Vigora btw)
-    - Serge - YellowField
-    - Serge - 3 then 3
-  - Glenn or Fargo - 2 then 2 then 2 to trigger the next phase
-
-- Phase 5 (Blue)
-  - Glenn - Get to Level 3
-  - Fargo - 1 - Strengthen Serge
-  - Serge - 1 (Stamina Empty Purposes)
-  - Glenn - X-Strike
-
-- Phase 6 (Black)
-  - Glenn - Get Serge to 4 Stamina - EagleEye Serge
-  - Fargo - 1 - TurnWhite Serge
-  - Serge - 3 then 3
-  - Glenn or Fargo - 2 then 2 then 2 to trigger the next phase
-
-- Phase 7 (White)
-  - Glenn - TurnBlack Serge
-  - Fargo - Get Serge to 6 Stamina - Genius Serge
-  - Serge - 1 then 3 / 3
 
 [1]: https://goo.gl/ZtQWaW
 [2]: ./General-Knowledge.md
