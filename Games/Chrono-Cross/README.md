@@ -7,11 +7,11 @@
   * [Evil Ash][1]
   * [Spike Vegeta][2]
   * [Tojju][3]
-  * [Twitch Chrono Cross Channel][4]
-  * [RPG Limit Break][5]
   * [SuperHandi (Steam Version World Record Holder)][10]
   * [CarbonDrank (PSX World Record Holder)][9]
   * [xan9br][11]
+  * [Twitch Chrono Cross Channel][4]
+  * [RPG Limit Break][5]
 
 ## Chat and Information
 
