@@ -617,7 +617,7 @@ Drops:
   - Everyone - Defend (Optional if you're only about to be FireBreath'd again)
   - Glenn - Magnify
   - Leena - AquaBall -2
-  - Serge - AquaBeam
+  - Serge - AquaBall
   - Leena - IceBlast
 - 20 Str Glenn, 14 Mag Leena Strats
   - Serge - 1 - Eagle Eye Glenn
@@ -816,7 +816,7 @@ Drops:
   - Leena - 3 / 3 (It's fine if one of 3's misses)
   - Serge - TurnBlue
   - Glenn - TurnBlue
-  - Serge - AquaBeam
+  - Serge - AquaBall
   - Leena - Get to Level 5 - FrogPrince
 - If Attacked
   - Leena - Get to Level 5
