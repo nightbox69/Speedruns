@@ -16,6 +16,7 @@
 ## Chat and Information
 
   * [Discord][6]
+  * [Chrono Cross Speedrun.com Page][12]
 
 ## Notes
 
@@ -33,3 +34,4 @@
 [9]: https://www.twitch.tv/carbondrank
 [10]: https://www.twitch.tv/superhandi
 [11]: https://www.twitch.tv/xan9br
+[12]: https://www.speedrun.com/chronocross
