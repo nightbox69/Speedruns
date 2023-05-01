@@ -4,11 +4,14 @@
 
 ## Runners to Watch
 
-  * [Evil Ash (World Record Holder)][1]
+  * [Evil Ash][1]
   * [Spike Vegeta][2]
   * [Tojju][3]
   * [Twitch Chrono Cross Channel][4]
   * [RPG Limit Break][5]
+  * [SuperHandi (Steam Version World Record Holder)][10]
+  * [CarbonDrank (PSX World Record Holder)][9]
+  * [xan9br][11]
 
 ## Chat and Information
 
@@ -18,7 +21,6 @@
 
   * [General Information][7]
   * [Any % Good Ending][8]
-  * [Star Fights][9]
 
 [1]: https://www.twitch.tv/evilash25
 [2]: https://www.twitch.tv/spikevegeta
@@ -28,4 +30,6 @@
 [6]: https://discordapp.com/invite/0XU29pWZvyu0YCVH
 [7]: ./Notes/General-Knowledge.md
 [8]: ./Notes/Any%25_Good_Ending.md
-[9]: ./Notes/Star-Fights/
+[9]: https://www.twitch.tv/carbondrank
+[10]: https://www.twitch.tv/superhandi
+[11]: https://www.twitch.tv/xan9br

@@ -9,6 +9,8 @@
 ## Useful General Knowledge
 
 - [General Knowledge][2]
+- SuperHandi's [Notes][3]
+- CarbonDrank's [Notes][4]
 
 ## Mama Komodo
 
@@ -2508,3 +2510,5 @@ Drops:
 
 [1]: https://goo.gl/ZtQWaW
 [2]: ./General-Knowledge.md
+[3]: https://drive.google.com/file/d/1Z6Qt1CUyIVB7QOwj3fyEPf26P1F0uzXd/view?usp=sharing
+[4]: https://drive.google.com/file/d/19JiMSFNKhORpN09KmyDKukTdW4vPMcZR/view?usp=sharing
