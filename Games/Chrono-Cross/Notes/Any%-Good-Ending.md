@@ -533,7 +533,6 @@ Drops:
 ## Fire Dragon
 
 - Mash and head to Marbule
-- **OPTIONAL:** Head to Guldove to save Kid then head to Marbule.
 
 ### Marbule
 
@@ -2479,6 +2478,7 @@ Drops:
 
 ## Time Devourer
 
+- **Note:** Last call to save Kid.
 - Head to Divine Dragon Falls in the Mainland.
 
 ### Divine Dragon Falls
