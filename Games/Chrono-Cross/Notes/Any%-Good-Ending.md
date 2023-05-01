@@ -501,7 +501,6 @@ The key can be found in 1 of the 4 People in this section but you'll have to sta
 - 2 Ghost
   - Serge - 2 (Wait for a second) / 2 / 3 (Dead Ghost)
   - Glenn - 1 / 2 (Ghost if it survives) - X-Strike
-- Use the Heal with Consumables Option **ONLY** if someone is on low HP
 
 ### Getting up to the Deck
 
@@ -1513,14 +1512,14 @@ Reminder to make a Savestate here for Menu-ing Purposes.
 - Smith
   - Disassemble - Ivory Helmet - Defender - Gold Earring
   - Forge - Stone Sword - Stone Mail or Stone Vest (Whatever you can afford)
-- Menu - Equip
+- Menu - Equip (Magic Ring and Sky Djinn Rings does that)
   - Karsh - Remove All Equipment
-  - Lynx - Stone Mail / Stone Vest - Dragoon Gauntlet - Dragoon Gauntlet - Power Glove(if you have it)
-  - Marcy - Magic Ring or Sky Djinn Ring - Magic Ring or Sky Djinn Ring - Dragoon's Honor (Don't worry if you only have 1 Ring, just equip it)
+  - Lynx - Stone Mail / Stone Vest - Dragoon Gauntlet - Dragoon Gauntlet - Power Glove(Keep Dreamer's Scarf instead)
+  - Marcy - Magic Ring - Magic Ring - Dragoon's Honor - Dragoon's Honor (Don't worry if you only have 1 Ring, just equip it)
 - Menu - Allocate Elements
   **Press Triangle and select Healing and Supplemental first**
   - Lynx
-    - Level 2 - Replace Revive with Inferno or FirePillar - Inferno or FirePillar
+    - Level 2 - Replace Revive with Inferno or FirePillar
     - Level 1 - Replace TurnBlue with Revive
   - Marcy
     - Level 2 - Heal All / Heal All / Brace
@@ -1528,7 +1527,7 @@ Reminder to make a Savestate here for Menu-ing Purposes.
     - **Cancel then press Triangle Sort by Innate**
     - Level 2 - IceBlast after Brace (If you're scared for your Life)
     - Level 3 - IceBlast (If you're scared for your Life)
-    - Level 4 to Level 6 (Add Level 3 too if Marcy is below 20 Magic) - IceBlast
+    - Level 4 to Level 6 (Add Level 3 too if Marcy is below 20 Magic) - IceBlast (Fill all slots, if Marcy has 22 Mag leave the top two Level 4 slots open)
     - Level 7 - FrogPrince
   - Riddel
     - **Cancel then press Triangle Sort by Innate**
@@ -1546,10 +1545,10 @@ Reminder to make a Savestate here for Practice Purposes
 - Dario Phase 1
   - Riddel - Defend (For Survival Purposes)
   - Lynx - Get to Level 6
-  - If Not Attacked
+  - If Dario doesn't attack after Riddel defends
     - Lynx - Get to Level 6
     - Marcy - Get to Level 4
-  - If Attacked
+  - If Dario attacks his Fiancee after she defends
     - Lynx - 1 / 1 / 1 / 1
     - Marcy - 1 / 1
   - Lynx - Inferno or FirePillar
@@ -1578,7 +1577,7 @@ Reminder to make a Savestate here for Practice Purposes
     - Lynx - WeakMinded
   - Marcy - 1's until your stamina count is 1 (**Do not over mash this**) - IceBlast Highest Possible Level Available
   - Repeat with Marcy until Dario Dies
-- Use the Heal with Consumables Option
+- Just get out of that Menu. You're healing after anyway
 - **SPLIT AFTER THE WIN MENU**
 
 Drops:
@@ -1594,7 +1593,7 @@ Drops:
 - Switch Riddel for Fargo
 - Menu - Equip
   - Lynx - Mastermune - Remove Dreamer's Scarf
-  - Marcy - Replace Magic Ring for Dreamer's Scarf
+  - Marcy - Replace Dragoon's Honor or Magic Ring (whichever you have double) for Dreamer's Scarf
   - Fargo - Stone Sword - Dreamer's Scarf - Mythril Helmet
   - Lynx - Dragoon's Honor - Dragoon's Gauntlet - Dragoon's Gauntlet
 - Menu - Allocate Elements
@@ -1636,7 +1635,7 @@ Drops:
 - Setup Phase
   - Marcy - EagleEye Lynx
   - Fargo - TurnGreen Lynx
-- **Lynx has more than 29 STR**
+- **Lynx has more than or equal to 29 STR**
   - If Attacked
     - Lynx - 2 / 2
     - Fargo - 1 / 1 - Strengthen
@@ -1660,7 +1659,6 @@ Drops:
     - Lynx - 3 / 3
     - Marcy - 3 / 3
     - Lynx - 1 then 3 / 3 (GlideHook after if not dead)
-- Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
 - Head to the El Nido Triangle
 
@@ -1671,6 +1669,8 @@ Drops:
 ## Star Fragment
 
 ### El Nido Triangle
+
+**Note:** Beginners can decide whether or not they would want to get a mini-star here It is 4 El Nido fights + CrabSteppa(Required Normal Fight) for the mini-star.
 
 - Head down the ladder heading to the right and down. Go to the right path again dodging everything and head down.
 - Get the chest (Star Fragment) surrounded by several fish. Those will chase you if you get in the circle.
@@ -1705,20 +1705,19 @@ Drops:
 
 #### Water Dragon (2660/10)
 
-- **Lynx has 33 STR**
+- **Lynx has more than or equal to 31 Strength**
   - Marcy - TurnRed Lynx
   - Fargo - Strengthen Lynx
   - Lynx - 2 / 3 / 2 (2 / 2 / 3 if already attacked)
   - Fargo - 2 / 3
-  - Lynx - 2 - 3 - GlideHook
+  - Lynx - 2 - 3 - GlideHook (3 / 3 if you missed some attacks)
 
-- **Lynx has 30 STR**
+- **Lynx has less than 31 Strength**
   - Marcy - TurnRed Lynx
   - Fargo - Strengthen Lynx
   - Lynx - 2 / 3 / 2 (2 / 2 / 3 if already attacked)
   - Fargo - 3 / 3
   - Lynx - 3 / 3 (GlideHook after if not dead)
-- Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
 
 Drops:
@@ -1762,7 +1761,7 @@ Drops:
 - Two Monsters
   - Marcy - Strengthen Lynx (skip if 36 STR)
   - Fargo - TurnYellow Lynx
-  - Lynx - 1 /2 / 3
+  - Lynx - 1 / 2 / 3
   - Fargo - 2 / 2 / 2
   - Lynx - 2 / 2 / 3
 
@@ -1784,7 +1783,7 @@ Drops:
 
 #### Tyrano (1680/6)
 
-**Note:** You must steal the Power Seal or Run Away. Additionally.
+**Note:** You must steal the Power Seal or Run Away. Additionally, pray flap doesn't happen after 
 
 - Fargo - 1 / 2 - Pillage (Run Away if you didn't get Power Seal)
 - Marcy - Get to Level 7
@@ -1799,6 +1798,16 @@ Drops:
   - Lynx & Fargo - 2 / 2 / 3 until Tyrano Dies
 - If Marcy is not Interrupted 
   - Fargo - TurnBlue Lynx (Then pray Flap doesn't activated)
+  - Marcy - FrogPrince
+  - Lynx & Fargo - 2 / 2 / 3 until Tyrano Dies
+- If Flap Happens after Fargo's Turn Blue
+  - Lynx - Get to Level 3 - Defend
+  - Marcy - Defend
+  - Lynx - CurePlus
+  - Marcy & Fargo - Defend
+  - Lynx - CurePlus
+  - Marcy - Defend
+  - Lynx - IceBlast Tyrano
   - Marcy - FrogPrince
   - Lynx & Fargo - 2 / 2 / 3 until Tyrano Dies
 - Use the Heal with Consumables Option
@@ -1823,9 +1832,9 @@ Drops:
   - Lynx - 2 / 3
   - Green Dragon - Carnivore
   - Marcy - Strengthen Lynx
-  - Fargo - TurnYellow Lynx
+  - Fargo - Get Lynx to 5 Stamina - TurnYellow Lynx
   - Lynx - 3 / 3 (GlideHook if 38STR)
-  - Marcy - Get Lynx to 5 Stamina - Panacea (Darkness or Fatigue), Brace (Yellow Element) Lynx
+  - Marcy - Get Lynx to 4 Stamina - Panacea (Darkness or Fatigue), Brace (Yellow Element) Lynx
   - Lynx - 2 / 3
   - Fargo & Lynx - 2 / 3 (now with GlideHook)
 - **Early Carnivore Strategy:**
@@ -1834,10 +1843,9 @@ Drops:
   - Marcy - Strengthen Lynx
   - Fargo - TurnYellow Lynx
   - Lynx - 3 / 3 (GlideHook if 38STR)
-  - Marcy - Get Lynx to 5 Stamina - Panacea (Darkness or Fatigue), Brace (Yellow Element) Lynx
+  - Marcy - Get Lynx to 4 Stamina - Panacea (Darkness or Fatigue), Brace (Yellow Element) Lynx
   - Lynx - 3 / 3
   - Fargo & Lynx - 2 / 3 (now with GlideHook)
-- Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
 
 Drops:
@@ -1873,11 +1881,13 @@ Drops:
 - Phase 2:
   - Lynx - 3 / 3
   - Fire Dragon - Fire Breath or Attack
-  - Whomever can - Get Lynx to 7 Stamina (Get Lynx to 6 Stamina then Heal All if Fire Dragon does an Attack)
+  - If Lynx is below 32 Strength or if Fire Dragon did a Normal Attack
+    - Get Lynx to 6 Stamina then Heal All
+  - Else
+    - Whomever can - Get Lynx to 7 Stamina (Get Lynx to 6 Stamina then Heal All if Fire Dragon does an Attack)
   - Lynx - 1 then 3 / 3
   - Whomever can - Defend
   - Lynx - GlideHook
-- Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
 
 Drops:
@@ -1947,8 +1957,8 @@ Drops:
   - Lynx - GlideHook
   - Marcy - 3 / 3
   - Lynx - 3 / 3
+  - Fargo & Lynx - 2 / 2 / 2 until it dies
 
-- Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
 
 Drops:
@@ -1987,7 +1997,6 @@ Drops:
 - Fargo - 3 / 3
 - Lynx - 3 / 3 (GlideHook if 40 STR or Crit)
 - Fargo and Lynx - Repeat (now with GlideHook)
-- Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
 
 Drops:
@@ -2016,7 +2025,6 @@ Drops:
 - Lynx - 2
 - Marcy - Defend
 - Lynx & Fargo - 3 / 3 (3 / 3 - GlideHook if not yet Dead after Fargo)
-- Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
 
 Drops:
@@ -2060,9 +2068,8 @@ Drops:
 - Fargo - 1 then 3
 - Vita Unus - GreenField
 - Serge - 3 / 3
-- Fargo - 2 / 2 / 2
+- Fargo - 3 / 3 
 - Serge - 3 / 3 - Dash & Slash
-- Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
 
 Drops:
@@ -2076,7 +2083,7 @@ Drops:
 - Menu - Allocate Elements
   - **Press Triangle and select Healing and Supplemental first**
   - Serge
-    - Level 1 - HealAll / HealAll / HealAll / Strengthen / TurnYellow / TurnWhite
+    - Level 1 - HealAllx3 (Bottom Slots) / Leave Blank Top Two slots / Strengthen / TurnYellow / TurnWhite
     - Level 8 - Saints
   - Fargo
     - Level 1 - Replace TurnBlue with Revive / Replace TurnYellow with TurnBlack
@@ -2098,7 +2105,6 @@ Drops:
   - Fargo - Vigora Serge
   - Serge - 2 / Dash & Slash (Strengthen+Dash&Slash if Marcy died) (trigger break)
   - Serge - Do 3's until he dies.
-- Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
 
 Drops:
@@ -2136,7 +2142,6 @@ Drops:
 - Serge - 1 / 2 - Saints
 - Fargo - 2 / 3 - Revive Serge if needed
 - Serge - 2 / 2 - Dash & Slash
-- Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
 
 Drops:
@@ -2219,7 +2224,6 @@ Drops:
   - Glenn - Get to Level 3
   - Fargo - Strengthen Serge
   - Serge - 1 - X-Strike
-- Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
 
 Drops:
@@ -2248,7 +2252,6 @@ Drops:
   - Serge - 2 (3 if 35-37str or after SadnessWave)
   - Fargo - 1 - Strengthen Serge
   - Serge - 3 / 3 - Dash & Slash
-- Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
 
 Drop:
@@ -2274,7 +2277,6 @@ Drop:
   - Glenn - Get to Level 3
   - Fargo - Strengthen Serge
   - Serge - X-Strike
-- Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
 
 Drops:
@@ -2295,7 +2297,6 @@ Drops:
 - Serge has less than 44 STR
   - Fargo - Strengthen Serge
   - Serge - 3 / 3 - Dash & Slash
-- Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
 
 Drop:
@@ -2322,7 +2323,6 @@ Drop:
   - Serge - 3 / 3
   - Glenn - 2 / 2 / 2
   - Serge - 3 / 3 - X-Strike (first 3 should trigger Heal)
-- Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
 
 Drops:
@@ -2354,7 +2354,6 @@ Drops:
   - Glenn - EagleEye Serge
   - Glenn - Get to Level 4 - Strengthen Serge (Strengthen must be after Vigora)
   - Serge - 3 / 3 - X-Strike
-- Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
 
 ## Dragon God
@@ -2415,7 +2414,6 @@ Drops:
   - Fargo - Get Serge to 6 Stamina - Genius Serge
   - Serge - 1 then 3 / 3
 
-- Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
 
 Drops:
@@ -2472,6 +2470,8 @@ Drops:
   - Glenn - TurnBlack Serge
   - Fargo - Get Serge to 6 Stamina - Genius Serge
   - Serge - 1 then 3 / 3
+
+- **SPLIT AFTER THE WIN MENU**
 
 Drops:
 - Earring of Hope (Common/Rare)
