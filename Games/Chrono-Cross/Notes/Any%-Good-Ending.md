@@ -1472,7 +1472,7 @@ Drops:
 - Karsh (Only if Attacked before this) - Defend
 - Lynx - AeroBlaster Peppor
 - Karsh (Target Solt) - 3 / 3 - AxialAxe (Solt dead)
-- Harle (Target Peppor) - 1 / 1 / 2 / 2 - AeroBlaster
+- Harle (Target Peppor) - Get to Level 6 - AeroBlaster
 - Lynx (Target Peppor) - 2 / 3
 - Karsh (Target Peppor) - 3
 - Use the Heal with Consumables Option
