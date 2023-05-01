@@ -1570,7 +1570,7 @@ Reminder to make a Savestate here for Practice Purposes
 - Dario Phase 4
   - Marcy - Get to Level 6 - IceBlast
   - Lynx - Get to Level 2 - Defend
-  - If Lynx Dies <span style="color:#FF0000; font-weight:800;">READ THIS PROPERLY YOU DINGBAT STOP RUNNING AWAY</span>
+  - If Lynx Dies <span style='color:red;">**READ THIS PROPERLY YOU DINGBAT STOP RUNNING AWAY**</span>
     - Marcy - Defend (Dario will attack normally and Marcy will be at 7 Stamina)
   - If Marcy Dies
     - Lynx - Revive Marcy
