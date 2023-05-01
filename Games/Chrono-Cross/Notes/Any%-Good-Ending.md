@@ -597,7 +597,7 @@ Drops:
 
 #### Fire Dragon (892/6)
 
-**Note:** Fire Dragon is a bitch, he can kill Leena or Glenn if you ain't careful. Be prepared to adhoc the fight on this one. Remember that only Glenn has Revive and Magnify so determine for yourself if the Fight is worth continuing if Glenn was the person to die. Reset the game instead of running away.
+**Note:** Fire Dragon is a bitch, he can kill Leena or Glenn if you ain't careful. Be prepared to adhoc the fight on this one. Remember that only Glenn has Magnify and Serge has Revive so determine for yourself if the Fight is worth continuing if Glenn or Serge was the person to die. Reset the game instead of running away. If you have Heal Alls then get back to the fight and get to Level 2 then run away.
 
 - Normal Strats
   - Serge - 1 - EagleEye Glenn
@@ -614,7 +614,7 @@ Drops:
   - FireDragon - FireBreath
   - Leena - Get to Level 5
   - Serge - Genius Leena
-  - Everyone - Defend (Optional if )
+  - Everyone - Defend (Optional if you're only about to be FireBreath'd again)
   - Glenn - Magnify
   - Leena - AquaBall -2
   - Serge - AquaBeam
