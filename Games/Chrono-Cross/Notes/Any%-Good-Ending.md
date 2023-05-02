@@ -1783,7 +1783,7 @@ Drops:
 
 #### Tyrano (1680/6)
 
-**Note:** You must steal the Power Seal or Run Away. Additionally, pray flap doesn't happen after 
+**Note:** You must steal the Power Seal or Run Away. Additionally, pray Flap doesn't happen after Turn Blue.
 
 - Fargo - 1 / 2 - Pillage (Run Away if you didn't get Power Seal)
 - Marcy - Get to Level 7
@@ -1801,14 +1801,13 @@ Drops:
   - Marcy - FrogPrince
   - Lynx & Fargo - 2 / 2 / 3 until Tyrano Dies
 - If Flap Happens after Fargo's Turn Blue
-  - Lynx - Get to Level 3 - Defend
-  - Marcy - Defend
-  - Lynx - CurePlus
-  - Marcy & Fargo - Defend
-  - Lynx - CurePlus
-  - Marcy - Defend
+  - Marcy - Cat's Cradle
+  - Lynx - Get to Level 2
+  - Fargo - 1's to recover Lynx to Stamina 7 (This never needs to hit)
+  - Lynx - CurePlus 
+  - Fargo - Defend
   - Lynx - IceBlast Tyrano
-  - Marcy - FrogPrince
+  - Marcy - Get to Level 7 - FrogPrince
   - Lynx & Fargo - 2 / 2 / 3 until Tyrano Dies
 - Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
@@ -2061,7 +2060,7 @@ Drops:
 
 - Serge - 1 / 2 / 2
 - Fargo - 1 - TurnBlue Serge
-- Marcy - 1 / 3
+- Marcy - 1 then 1 (repeat until CurePlus)
 - Vita Unus - CurePlus (Do 1's with Marcy or Fargo if this is not done yet)
 - Marcy - EagleEye Serge
 - Serge - 1 then 3
@@ -2213,12 +2212,12 @@ Drops:
 
 #### Terrator (2310/5)
 
-- Serge 42 STR
+- Serge has more than 42 STR
   - Serge - 2 / 2 / 3 (Stop if Attacked)
   - Glenn - Get to Level 3
   - Fargo - Strengthen Serge (Serge - X-Strike if all Serge attacks hit)
   - Serge - 1 - X-Strike (1 / 2 - X-Strike if all attacks missed)
-- Serge 38 STR
+- Serge has less than 42 STR
   - Glenn - EagleEye Serge
   - Serge - 2 / 3 (Must Hit)
   - Glenn - Get to Level 3
@@ -2351,7 +2350,7 @@ Drops:
   - Serge - 1 / 1 - X-Strike
 
 - Serge 40 STR
-  - Glenn - EagleEye Serge
+  - Fargo - EagleEye Serge
   - Glenn - Get to Level 4 - Strengthen Serge (Strengthen must be after Vigora)
   - Serge - 3 / 3 - X-Strike
 - **SPLIT AFTER THE WIN MENU**
