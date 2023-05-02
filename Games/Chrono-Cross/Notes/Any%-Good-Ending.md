@@ -2082,7 +2082,7 @@ Drops:
 - Menu - Allocate Elements
   - **Press Triangle and select Healing and Supplemental first**
   - Serge
-    - Level 1 - HealAllx3 (Bottom Slots) / Leave Blank Top Two slots / Strengthen / TurnYellow / TurnWhite
+    - Level 1 - HealAll (Top Two Slots) / HeallAll (Bottom Slot) / Blank Slot / Strengthen / TurnYellow / TurnWhite
     - Level 8 - Saints
   - Fargo
     - Level 1 - Replace TurnBlue with Revive / Replace TurnYellow with TurnBlack
@@ -2485,7 +2485,7 @@ Drops:
 - Put the Tears in the Altars to get Chrono Cross.
 - Menu - Allocate Elements
   - Serge
-    - Level 1 - Chrono Cross
+    - Level 1 - Replace 2nd HealAll with Chrono Cross
 - To Opassa Beach and go to another world.
 
 ### Opassa Beach (Another World)
