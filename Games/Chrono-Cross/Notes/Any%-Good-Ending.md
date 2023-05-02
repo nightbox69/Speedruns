@@ -965,12 +965,11 @@ Drops:
 
 **Idiot Explanation:** If you see Sprigg - Get to Level 5 then do 2 / 2 / 1 or 1 / 2 / 2 or 2 / 3 BUT NEVER EVER DO 1 / 1 / 1 / 1 / 1. After the Bosses move, 1 spams are fine as long as you know how to count. 
 
-**Sprigg Start Explation:**
-- 2 / 2 / 1 - On average you get to Level 4 or 2. with some stamina left for adjustment.
-- 1 / 2 / 2 - The risk of this is that you have the possibility of being just Level 1 after the enemy moves. Getting 4 levels is a tighter window.
-- 2 / 3 - You like to play gacha games and or is an habitual gambler. Seek professional help when needed. Doctor Garai or Doctor Miguel can assist you with your affliction.
-- 1 / 1 / 1 / 1 / 1 - You want to watch the world burn.
-
+- **Sprigg Start Explation:**
+  - 2 / 2 / 1 - On average you get to Level 4 or 2. with some stamina left for adjustment.
+  - 1 / 2 / 2 - The risk of this is that you have the possibility of being just Level 1 after the enemy moves. Getting 4 levels is a tighter window.
+  - 2 / 3 - You like to play gacha games and or is an habitual gambler. Seek professional help when needed. Doctor Garai or Doctor Miguel can assist you with your affliction.
+  - 1 / 1 / 1 / 1 / 1 - You want to watch the world burn.
 
 - Cut Scene 1 - 0:32
 - Cut Scene 2 - 0:45 (**Hold Down while Mashing**)
