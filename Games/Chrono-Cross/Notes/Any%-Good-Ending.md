@@ -1541,7 +1541,7 @@ Reminder to make a Savestate here for Menu-ing Purposes.
     - Level 2 - Heal All / Heal All / Brace
     - Level 1 - TurnRed / Strengthen / EagleEye / WeakMinded / WeakMinded / Genius
     - **Cancel then press Triangle Sort by Innate**
-    - Level 2 - IceBlast after Brace (This is for both Dario and Tyrano Safety)
+    - Level 2 - IceBlast after Brace (If you're Nightbox, or scared for your Life)
     - Level 3 - IceBlast (If you're scared for your Life, entirely optional)
     - Level 4 to Level 6 (Add Level 3 too if Marcy is below 20 Magic) - IceBlast (Fill all Slots, start from 6 to 4)
     - Level 7 - FrogPrince
@@ -1803,7 +1803,6 @@ Drops:
 
 - Fargo - 1 / 2 - Pillage (Run Away if you didn't get Power Seal)
 - Marcy - Get to Level 7
-- If you're scared of Flap then after Marcy reaches Level 7 then just proceed to interrupted strats while waiting for Flap and refresh Lynx Stamina to 7 if he's not yet Stamina 7.
 - If Interrupted by Early Flap
   - Lynx - Get to Level 2
   - Marcy - Get to Level 7
@@ -1813,17 +1812,15 @@ Drops:
   - Marcy - FrogPrince
   - Lynx & Fargo - 2 / 2 / 3 until Tyrano Dies
 - If Marcy is not Interrupted 
-  - Fargo - TurnBlue Lynx (Then pray Flap doesn't activated)
+  - Fargo - TurnBlue Lynx
+    - If Flap after Turn Blue
+      - Marcy - Cat's Cradle (Level 2 IceBlast if you have it)
+      - Lynx - Get to Level 2
+      - Fargo - 1's to recover Lynx to Stamina 7 (This never needs to hit)
+      - Lynx - CurePlus 
+      - Fargo - Defend
+      - Lynx - IceBlast Tyrano
   - Marcy - FrogPrince
-  - Lynx & Fargo - 2 / 2 / 3 until Tyrano Dies
-- If Flap Happens after Fargo's Turn Blue
-  - Marcy - Cat's Cradle (Level 2 IceBlast is better if you have it)
-  - Lynx - Get to Level 2
-  - Fargo - 1's to recover Lynx to Stamina 7 (This never needs to hit)
-  - Lynx - CurePlus 
-  - Fargo - Defend
-  - Lynx - IceBlast Tyrano
-  - Marcy - Get to Level 7 - FrogPrince
   - Lynx & Fargo - 2 / 2 / 3 until Tyrano Dies
 - Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
@@ -2436,7 +2433,7 @@ Drops:
 
 - Phase 7 (White)
   - Glenn - TurnBlack Serge
-  - Fargo - Get Serge to 6 Stamina - Genius Serge (Skip Genius if 45 and above Strength)
+  - Fargo - Get Serge to 7 Stamina
   - Serge - 1 then 3 / 3
 
 - **SPLIT AFTER THE WIN MENU**
