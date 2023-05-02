@@ -600,12 +600,12 @@ Drops:
 
 - Normal Strats
   - Serge - 1 - EagleEye Glenn
-  - If Attacked:
+  - If Attacked after EagleEye:
     - Serge - Get to Level 1 - EagleEye Glenn (If not done yet)
     - Leena - 1 / 1 - AquaBall
     - Serge - 1 / 1 - TurnBlue Glenn
     - Glenn - 3 / 3
-  - If Not Attacked
+  - If Not Attacked: 
     - Glenn - 3 / 3
     - Leena - 1 - AquaBall
     - Serge - 1's until Glenn gets 5 Stamina) - TurnBlue Glenn
@@ -615,20 +615,20 @@ Drops:
   - Serge - Genius Leena
   - Everyone - Defend (Optional if you're only about to be FireBreath'd again)
   - Glenn - Magnify
-  - Leena - AquaBall -2
+  - Leena - AquaBeam
   - Serge - AquaBall
   - Leena - IceBlast
-- 20 Str Glenn, 14 Mag Leena Strats
+- 20 Str Glenn, 14 Mag Leena Strats (Always be prepared to revive incase of accidents)
   - Serge - 1 - Eagle Eye Glenn
   - Glenn - 3 / 3
   - Serge - 1 - TurnBlue Glenn
   - Leena - 1 / 1 - AquaBall
   - Glenn - 3 / 3
-  - Leena - 1 / 1 / 1 - IceBlast
-  - Serge - Defend
+  - Leena - 1 / 1 / 1 / 1 - IceBlast
+  - Serge - Defend (Skip if Glenn is at 6-7 Stamina)
   - Glenn - 3 / 3
   - Serge - 2 / 3
-  - Glenn - 2 / 3
+  - Glenn - 2 / 3 (3 / 3 if EagleEye is active)
 - **Use the Heal with Consumables Option**
 - **SPLIT AFTER THE WIN MENU**
 
@@ -1398,11 +1398,12 @@ Drops:
 #### Grobyc (2940/7)
 
 - Sprigg - Get to Level 5 - DoppelGanger WightKnight (Stop if Attacked)
-- Good Start
+- Sprigg got to Level 5 (Good Start)
+  - Sprigg - DoppelGanger WightKnight
   - Lynx - 1 (Doesn't need to hit) - Strengthen WightKnight
-  - Harle - 1 / 1 / 1 (One needs to hit) - TurnWhite WightKnight
-  - WightKnight - 3 / 3
-  - Lynx - TurnWhite Lynx
+  - Harle - 1's Grobyc AP Count is at 5 (One needs to hit) - TurnWhite WightKnight
+  - WightKnight - 3 / 3 or 2 / 3
+  - Lynx - TurnWhite Lynx (Do some 1's if Harle will not push WightKnight to 6 stamina, use your brain)
   - Harle - Get to Level 5 - Meteorite
   - WightKnight - 3 / 3
   - Lynx - 2 / 2 / 2
@@ -1801,7 +1802,7 @@ Drops:
   - Marcy - FrogPrince
   - Lynx & Fargo - 2 / 2 / 3 until Tyrano Dies
 - If Flap Happens after Fargo's Turn Blue
-  - Marcy - Cat's Cradle
+  - Marcy - Cat's Cradle (Level 2 IceBlast is better if you have it)
   - Lynx - Get to Level 2
   - Fargo - 1's to recover Lynx to Stamina 7 (This never needs to hit)
   - Lynx - CurePlus 
@@ -2060,7 +2061,7 @@ Drops:
 
 - Serge - 1 / 2 / 2
 - Fargo - 1 - TurnBlue Serge
-- Marcy - 1 then 1 (repeat until CurePlus)
+- Marcy - 1 then 1 (repeat until CurePlus, you can do 2 or 3 if Serge missed to fill missing Stamina)
 - Vita Unus - CurePlus (Do 1's with Marcy or Fargo if this is not done yet)
 - Marcy - EagleEye Serge
 - Serge - 1 then 3
@@ -2082,7 +2083,7 @@ Drops:
 - Menu - Allocate Elements
   - **Press Triangle and select Healing and Supplemental first**
   - Serge
-    - Level 1 - HealAll (Top Two Slots) / HeallAll (Bottom Slot) / Blank Slot / Strengthen / TurnYellow / TurnWhite
+    - Level 1 - HealAll (Top Slot) / HeallAll (Very Bottom Slots, press up) / Blank 2nd Slot / Strengthen / TurnYellow / TurnWhite
     - Level 8 - Saints
   - Fargo
     - Level 1 - Replace TurnBlue with Revive / Replace TurnYellow with TurnBlack
