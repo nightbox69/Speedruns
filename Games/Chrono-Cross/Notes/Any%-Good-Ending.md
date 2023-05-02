@@ -560,7 +560,7 @@ Drops:
   - Serge
     - Level 2 - Replace Cure with Revive / Medicine
     - Level 1 - EagleEye / TurnBlue / Genius / AquaBall
-    - Level 4 - AquaBall / BushBasher
+    - Level 4 - BushBasher
 - Menu - Use Elements
   - Capsule Everyone.
 - Head up to the ladder.
@@ -607,7 +607,7 @@ Drops:
     - Glenn - 3 / 3
   - If Not Attacked: 
     - Glenn - 3 / 3
-    - Leena - 1 - AquaBall
+    - Leena - 1 - AquaBeam
     - Serge - 1's until Glenn gets 5 Stamina) - TurnBlue Glenn
     - Glenn - 3 / 3
   - FireDragon - FireBreath
@@ -673,6 +673,8 @@ Drops:
 
 **Note:** The Fights from here on out are going to get trickier, some will just need you to attack but most will prioritize on Element Spams. The notes will also adjust to this as well, advising you to get to a certain level instead of picking your attacks. Pick your attacks in priority to getting the levels as safe and as assuredly as possible instead of fast. It's highly adviseable to start counting Enemy AP here too (Bosses are labelled as Boss HP Value / AP Value, check [General Information][2] for more information.) so you'll know when the next attack will be. It'll return to attack picking should it be needed.
 
+**Idiot Explanation:** Anyone that starts with Get to Level X means you need to be kind of risky instead of spamming 1's. Be brave but not stupid. After that spamming 1's are fine as long as you know how to count AP and Stamina. 
+
 - Head into Fort Dragonia and Fight your next Boss.
 
 ### Fort Dragonia
@@ -684,16 +686,16 @@ Drops:
   - Leena - 2 / 3
   - Glenn - Magnify
   - Leena - Get to Level 5 (Skip if you're already Level 5)
-  - Serge - 1 - AquaBall
-  - Leena - Iceblast
-  - Glenn - Defend (or 2 / 2 if ahead of AP)
-  - Leena - AquaBall
+  - Serge - 1 - AquaBeam
+  - Leena - IceBlast
+  - Glenn - Defend
+  - Leena - Get to Level 2 - AquaBall
   - Glenn - 2 / 2 - AquaBeam
 - If Attacked: 
   - Glenn - Get to Level 4 - Magnify
   - Leena - Get to Level 5
   - Serge - 1 - AquaBall
-  - Leena - Iceblast
+  - Leena - IceBlast
   - Glenn - Defend (or 2 / 2 if ahead of AP)
   - Leena - AquaBall
   - Glenn - 2 / 2 - AquaBeam
@@ -710,7 +712,7 @@ Drops:
   - Leena - **Sort by Innate**
     - Level 1 - Cure
     - Level 5 - FrogPrince
-  - Serge
+  - Serge - **Sort by Innate**
     - Level 1 - WeakMinded (Top Slot)
 - Menu - Equip
   - Glenn - Iron Vest
@@ -784,7 +786,7 @@ Drops:
   - Serge - Get to Level 4 - Revive
   - Everyone - Defend for Chokeslam
 - Glenn - Magnify
-- Leena - AquaBall
+- Leena - AquaBeam
 - Serge - AquaBall (TurnBlue Leena if 16-17 Mag, AquaBall if you skipped WeakMinded)
 - Glenn - 1 - AquaBeam (TurnBlue anyone not Taurosoid, if Leena is at Mag 15 - 17)
 - Leena - Get back to Level 5 - FrogPrince
@@ -813,8 +815,8 @@ Drops:
 - Serge - Get to Level 2
 - If Not Attacked
   - Leena - 3 / 3 (It's fine if one of 3's misses)
-  - Serge - TurnBlue
-  - Glenn - TurnBlue
+  - Serge - TurnBlue (Target Leena if Magic is very low)
+  - Glenn - TurnBlue (AquaBeam if you targetted Leena)
   - Serge - AquaBall
   - Leena - Get to Level 5 - FrogPrince
 - If Attacked
@@ -866,10 +868,10 @@ Drops:
 - Phase 2
   - Serge - Get to Level 5 (AquaBall if Attacked here)
   - Glenn - 1 (Until Bunyip attacks) - AquaBeam
-  - Serge - AquaBall
+  - Serge - AquaBall (Skip if done already)
   - Leena - Get to Level 5 - FrogPrince
   - Serge - Get to Level 5 - Luminaire
-  - Leena - AquaBall
+  - Leena - Get to Level 2 - AquaBall
   - Glenn and Serge - 2 / 2 / 3 until Bunyip dies
 - Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
@@ -958,6 +960,17 @@ Drops:
 ## Radius
 
 ### Body Shift Dragonia
+
+**Note:** The fights here will be of the same concept of Frog Prince except we will be using Sprigg to transform into Lagoonate and WightKnight respectively. The AP count of the bosses here tend to punish the foolish to spam five 1's unlike in Fort Dragonia where the bosses have either long ass AP Values or don't punish your foolishness at all. Check [General Information][2] for more information about Stamina Pushing and Enemy AP.
+
+**Idiot Explanation:** If you see Sprigg - Get to Level 5 then do 2 / 2 / 1 or 1 / 2 / 2 or 2 / 3 BUT NEVER EVER DO 1 / 1 / 1 / 1 / 1. After the Bosses move, 1 spams are fine as long as you know how to count. 
+
+**Sprigg Start Explation:**
+- 2 / 2 / 1 - On average you get to Level 4 or 2. with some stamina left for adjustment.
+- 1 / 2 / 2 - The risk of this is that you have the possibility of being just Level 1 after the enemy moves. Getting 4 levels is a tighter window.
+- 2 / 3 - You like to play gacha games and or is an habitual gambler. Seek professional help when needed. Doctor Garai or Doctor Miguel can assist you with your affliction.
+- 1 / 1 / 1 / 1 / 1 - You want to watch the world burn.
+
 
 - Cut Scene 1 - 0:32
 - Cut Scene 2 - 0:45 (**Hold Down while Mashing**)
@@ -1064,7 +1077,7 @@ Reminder to make a Savestate here for Menu-ing Purposes
   - Harle
     - Level 2 - HealAll / HealAll
     - Level 1 - TurnBlue / EagleEye / TurnRed / TurnWhite / TurnBlack
-    - Level 4 - Panacea x5 / Diminish
+    - Level 4 - Panacea x5 (2nd Slot) / Diminish (1st Slot) (Exchange both if you flipped them)
     - Level 5 - Meteorite / IceBlast
     - Level 6 - AeroBlaster
 - After you get access go to the grand slam and talk to the sage. When he asks what you want, first choose nothing(2). Then mash.
@@ -1513,10 +1526,10 @@ Reminder to make a Savestate here for Menu-ing Purposes.
 - Smith
   - Disassemble - Ivory Helmet - Defender - Gold Earring
   - Forge - Stone Sword - Stone Mail or Stone Vest (Whatever you can afford)
-- Menu - Equip (Magic Ring and Sky Djinn Rings does that)
+- Menu - Equip (Prioritize Sky Djinn Ring over Magic Ring if you somehow have all the rings)
   - Karsh - Remove All Equipment
   - Lynx - Stone Mail / Stone Vest - Dragoon Gauntlet - Dragoon Gauntlet - Power Glove(Keep Dreamer's Scarf instead)
-  - Marcy - Magic Ring - Magic Ring - Dragoon's Honor - Dragoon's Honor (Don't worry if you only have 1 Ring, just equip it)
+  - Marcy - Ring - Ring - Dragoon's Honor - Dragoon's Honor (Priority is 2 Rings + Honor over 1 Ring + 2 Honors)
 - Menu - Allocate Elements
   **Press Triangle and select Healing and Supplemental first**
   - Lynx
@@ -1526,12 +1539,12 @@ Reminder to make a Savestate here for Menu-ing Purposes.
     - Level 2 - Heal All / Heal All / Brace
     - Level 1 - TurnRed / Strengthen / EagleEye / WeakMinded / WeakMinded / Genius
     - **Cancel then press Triangle Sort by Innate**
-    - Level 2 - IceBlast after Brace (If you're scared for your Life)
-    - Level 3 - IceBlast (If you're scared for your Life)
-    - Level 4 to Level 6 (Add Level 3 too if Marcy is below 20 Magic) - IceBlast (Fill all slots, if Marcy has 22 Mag leave the top two Level 4 slots open)
+    - Level 2 - IceBlast after Brace (This is for both Dario and Tyrano Safety)
+    - Level 3 - IceBlast (If you're scared for your Life, entirely optional)
+    - Level 4 to Level 6 (Add Level 3 too if Marcy is below 20 Magic) - IceBlast (Fill all Slots, start from 6 to 4)
     - Level 7 - FrogPrince
   - Riddel
-    - **Cancel then press Triangle Sort by Innate**
+    - **Sort by Innate**
     - Level 1 - WeakMinded
 - Head to the Forbidden Island. The small island on the Upper Right of the main island and below the Zelbess.
 - **Safety Save Outside**
@@ -1549,7 +1562,7 @@ Reminder to make a Savestate here for Practice Purposes
   - If Dario doesn't attack after Riddel defends
     - Lynx - Get to Level 6
     - Marcy - Get to Level 4
-  - If Dario attacks his Fiancee after she defends
+  - If Dario attacks after Riddel defends (or Run Away if you're a coward)
     - Lynx - 1 / 1 / 1 / 1
     - Marcy - 1 / 1
   - Lynx - Inferno or FirePillar
@@ -1603,7 +1616,7 @@ Drops:
     - Level 6 - Remove IceBlast
   - Marcy
     - **Press Triangle and select Healing and Supplemental first**
-    - Level 4 - Panacea x5 (Very Top) / Magnify 
+    - Level 4 - Panacea x5 (Top Slot) / Magnify (Second Slot)
   - Fargo
     - Level 2 - HealAll / HealAll
     - Level 1 - TurnBlue / EagleEye / Strengthen / TurnGreen / TurnYellow / TurnWhite / Genius
@@ -2083,7 +2096,7 @@ Drops:
 - Menu - Allocate Elements
   - **Press Triangle and select Healing and Supplemental first**
   - Serge
-    - Level 1 - HealAll (Top Slot) / HeallAll (Very Bottom Slots, press up) / Blank 2nd Slot / Strengthen / TurnYellow / TurnWhite
+    - Level 1 - HealAll (Top Slot) / HeallAll x2 (Bottom Slots, press up) / Blank 2nd Slot / Strengthen / TurnYellow / TurnWhite
     - Level 8 - Saints
   - Fargo
     - Level 1 - Replace TurnBlue with Revive / Replace TurnYellow with TurnBlack
@@ -2157,7 +2170,7 @@ Drops:
 - Replace Marcy with Glenn, and Fargo with Starky.
 - Menu - Equip
   - Marcy
-    - Remove Mythril Mail (Skip if you have Stone Armor already)
+    - Remove Mythril Mail (Skip if you still have Mythril Mail on your inventory)
     - Remove All Equipment
   - Fargo
     - Remove Dragoon's Honor for Dreamer's Scarf
@@ -2173,7 +2186,7 @@ Drops:
 ### OPTIONAL: Hermit's Hideaway
 
 - Talk to Kid
-- Fuck you, you casual bitch I ain't gonna tell you how to save a girl. Do that yourself.
+- Find out how to save Kid by yourself coz I'm never telling you that. This is supposed to be a speedrun.
 - Enjoy Exploring and the Music.
 
 ### El Nido Triangle
