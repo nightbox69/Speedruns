@@ -92,7 +92,7 @@ Mother Dragon - 152 HP - (Fang and Tablet)
 - **Optional Marathon Strat:** Fight 2 Beach Bums for a Mini Star.
 - Defend until Solt hits Serge (damage is nullified until after the battle cutscene ends)
 - Kid (Target Solt) - 1 / 2 - Magma Bomb
-- Serge (Target Solt) - 1 / 1 / 2 / 3 (If there are misses Fireball do 2 instead of 3 and Fireball Peppor)
+- Serge (Target Solt) - 1 / 1 / 2 / 3 (If there are misses do 2 instead of 3 and Fireball Peppor)
 - Kid - Defend (Only if no Misses)
 - Serge - Fireball (Level 3) Karsh
 - Kid - (Target Peppor) - 1/2 - Fireball (Level 3) Peppor
@@ -133,15 +133,15 @@ Drops:
 
 **Note:** Leena only has 2 actions available to her before the Battle Cutscene.
 
+- Leena (Target Solt) - 1 / 2 (or 3/3 if you're feeling it)
 - With Magmabomb
-  - Leena (Target Solt) - 1 / 2 (or 3/3 if you're feeling it)
   - Solt and Peppor will do their comedy skit
   - Serge (Target Solt) - 1 / 2 - Fireball+2 Solt
   - Leena (Target Solt) - Get to Level 3 - MagmaBomb
   - Poshul (Target Solt) - 1 / 2 / 2
   - Serge / Poshul (Target Solt if he lives then Peppor) - 2 / 2 / 3
 - No Magmabomb
-  - Defend until Solt and Peppor will do their comedy skit
+  - Solt and Peppor will do their comedy skit
   - Serge (Target Solt) - 1 / 1 / 2 - Fireball+2
   - Poshul (Target Solt) - 2 / 2 / 3
   - Leena - 3 / 3
@@ -208,7 +208,7 @@ Drops:
 #### Solt/Peppor/Ketchop (273HP/9AP)
 
 **Note:** Switch Pierre to being infront if you still haven't done it yet. Also, don't bother hitting Solt and Peppor.
-**Appendum:** When the notes say X then X / X the "then" means you wait for the attack animation to finish before you plug your attacks again.
+**Appendum:** When the notes say X then X / X the "then" means you wait for the attack animation to finish before you plug your attacks again. (Wait for a second or two before puttting another attack)
 
 - Defend until Solt revives Pierre
 - Serge (Target Ketchop) - 2 then 2 / 3 (You can do 1 then 3 / 3 if you're feeling cocky for crits. If you miss that's on you.)
@@ -618,6 +618,8 @@ Drops:
   - Leena - AquaBeam
   - Serge - AquaBall
   - Leena - IceBlast
+  - Glenn - 1 - AquaBeam
+  - Glenn and Serge - 2 / 2 until he dies
 - 20 Str Glenn, 14 Mag Leena Strats (Always be prepared to revive incase of accidents)
   - Serge - 1 - Eagle Eye Glenn
   - Glenn - 3 / 3
@@ -686,9 +688,9 @@ Drops:
   - Leena - 2 / 3
   - Glenn - Magnify
   - Leena - Get to Level 5 (Skip if you're already Level 5)
-  - Serge - 1 - AquaBeam
+  - Serge - 1 - AquaBall
   - Leena - IceBlast
-  - Glenn - Defend
+  - Glenn - Defend (or 2 / 2 if ahead of AP)
   - Leena - Get to Level 2 - AquaBall
   - Glenn - 2 / 2 - AquaBeam
 - If Attacked: 
@@ -744,7 +746,7 @@ Drops:
 - If Leena is hit with a Blue Status Effect or if you need one more Blue element and someone has a status effect that is not Frozen
   - Serge - Get to Level 2 - Medicine Status Affected Ally
 - Else if you need a Blue Element on the Field
-  - Serge And Or Glenn - 1 - AquaBeam
+  - Serge And Or Glenn - 1 - AquaBeam or AquaBall or TurnBlue (Not Gloop)
 - Else
   - Leena - Get to Level 5 - Frog Prince
 - Heal with Consumables
@@ -787,7 +789,7 @@ Drops:
   - Everyone - Defend for Chokeslam
 - Glenn - Magnify
 - Leena - AquaBeam
-- Serge - AquaBall (TurnBlue Leena if 16-17 Mag, AquaBall if you skipped WeakMinded)
+- Serge - 1 - AquaBall (TurnBlue Leena if 16-17 Mag, AquaBall if you skipped WeakMinded)
 - Glenn - 1 - AquaBeam (TurnBlue anyone not Taurosoid, if Leena is at Mag 15 - 17)
 - Leena - Get back to Level 5 - FrogPrince
 - Use the Heal with Consumables Option
@@ -802,7 +804,7 @@ Drops:
 
 ### Frog Prince Dragonia
 
-- Talk to the altar and head back out to the Main Hall. Put Serge infront of the Party.
+- Talk to the altar and head back out to the Main Hall. Put Glenn infront of the Party.
 - Head to the Bottom Right Door, Turn the statue to the South, and Hit the altar.
 - Head to out and take the Ladder up. Go back to the Main Hall and Head to the Elevator.
 
@@ -812,21 +814,22 @@ Drops:
 
 **Note:** Two TurnBlues will cancel each other out so just target Sun of a Gun with it.
 
-- Serge - Get to Level 2
+- Glenn - Get to Level 2
 - If Not Attacked
   - Leena - 3 / 3 (It's fine if one of 3's misses)
-  - Serge - TurnBlue (Target Leena if Magic is very low)
-  - Glenn - TurnBlue (AquaBeam if you targetted Leena)
-  - Serge - AquaBall
+  - Glenn - TurnBlue (Target Leena if Magic is very low)
+  - Serge - 1 - TurnBlue (AquaBeam if you targetted Leena)
+  - Glenn - AquaBeam
   - Leena - Get to Level 5 - FrogPrince
 - If Attacked
+  - Serge - Get to Level 2
   - Leena - Get to Level 5
   - Sun Of A Gun - KissyWissy and ModeChange
   - If Serge or Leena are asleep
-    - Glenn - Panacea Sleeping Character
+    - Glenn - Get to Level 4 - Panacea Sleeping Character
     - Everyone - Defend
     - Proceed with If Not Attacked Strats ignoring the first 3 / 3 with Leena (You're already level 5 why the hell are you going to do 3 / 3?)
-  - If Glenn is asleep
+  - If Glenn is asleep (Sun of a Gun does an attack then Mode Change so you have 14 AP to play around)
     - Serge - TurnBlue Leena
     - Leena - AquaBeam
     - Serge - Defend
@@ -941,7 +944,7 @@ Drops:
   - Leena - Strengthen Glenn
   - Serge - EagleEye Glenn
   - Leena - TurnWhite Glenn
-  - **Only if Serge is hit** Serge - Defend
+  - Serge (**Only if Serge is hit**)- Defend
 - Attack Phase
   - Glenn - 3 / 3
   - Serge - 1 / 2 / 2
@@ -968,7 +971,7 @@ Drops:
 - **Sprigg Start Explation:**
   - 2 / 2 / 1 - On average you get to Level 4 or 2. with some stamina left for adjustment.
   - 1 / 2 / 2 - The risk of this is that you have the possibility of being just Level 1 after the enemy moves. Getting 4 levels is a tighter window.
-  - 2 / 3 - You like to play gacha games and or is an habitual gambler. Seek professional help when needed. Doctor Garai or Doctor Miguel can assist you with your affliction.
+  - 2 / 3 - You like to play gacha games and or is an habitual gambler. Seek professional help when needed. Doctor Garai, Doctor HighwayMan and Doctor Miguel can and will assist you with your affliction.
   - 1 / 1 / 1 / 1 / 1 - You want to watch the world burn.
 
 - Cut Scene 1 - 0:32
@@ -1153,22 +1156,22 @@ Reminder to make a Savestate here for Practice Purposes
 
 **Garai Pattern:** Attack x1, TripleCut, Attack x2, Attack x3, WillBreaker
 
-- Sprigg - 2 
+- Sprigg - 2 / 2 (Stop if Interrupted)
   - If Sprigg Hits
-    - Sprigg - 2 / 1 (Stop if Interrupted) - Doppelganger WightKnight
-  - If Sprigg Misses
+    - Sprigg - 1 - Doppelganger WightKnight
+  - If Sprigg Misses one of the 2's
     - Sprigg - 2 / 2 - then Proceed to Sprigg got interrupted getting to Level 5 strats
 - Sprigg got to Level 5 w/o interruptions
   - Sprigg - Doppelganger WightKnight
   - Harle - Get to Level 4 - Diminish (You can do this first then DoppelGanger if you're scared of Missing)
-  - WightKnight (Only if Garai doesn't Attack) - 1 / 3
+  - WightKnight (Only if Garai doesn't Attack) - 3 / 1 (Stop if Attacked)
   - Lynx - 1 (1 / 3 if WightKnight Attacked Prior)- Strengthen WightKnight
-  - Harle (Only if WightKnight is at 6 Stamina) - Defend
+  - Harle (Only if WightKnight is at 5 Stamina) - Defend
   - WightKnight - 3 / 3
   - Lynx - 3 - Defend
   - Harle - Defend
   - WightKnight - 3 / 3
-  - Lynx - 2 / 3 - GlideHook (or Revive WK)
+  - Lynx - 2 / 3 - GlideHook (or Revive WightKnight)
   - WightKnight - 2 / 3
 - Sprigg got interrupted getting to Level 5
   - Harle - Get to Level 4 - Diminish
