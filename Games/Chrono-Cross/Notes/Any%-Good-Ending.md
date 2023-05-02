@@ -817,8 +817,8 @@ Drops:
 - Glenn - Get to Level 2
 - If Not Attacked
   - Leena - 3 / 3 (It's fine if one of 3's misses)
-  - Glenn - TurnBlue (Target Leena if Magic is very low)
-  - Serge - 1 - TurnBlue (AquaBeam if you targetted Leena)
+  - Glenn - TurnBlue (Target Leena if Magic is 13 and below)
+  - Serge - 1 - TurnBlue (AquaBall if you targetted Leena)
   - Glenn - AquaBeam
   - Leena - Get to Level 5 - FrogPrince
 - If Attacked
