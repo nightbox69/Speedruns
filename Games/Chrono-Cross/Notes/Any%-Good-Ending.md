@@ -2373,12 +2373,12 @@ Drops:
   - Serge - 2 / 2 (Must Hit)
   - Glenn - Get to Level 3
   - Fargo - Get to Level 4
-  - Serge - Defend (Should be around 5/6 Stamina)
+  - Serge & Glenn- Defend until Serge has 6 Stamina (You're saving all of their stamina don't attack)
   - Serge - 1 then 2
 
 - Phase 2 (Yellow)
   - Glenn - TurnGreen Serge
-  - Serge - Defend
+  - Fargo And Or Serge - Defend until Serge has 5 Stamina and Glenn has atleast 1 Stamina
   - Glenn - Strengthen Serge
   - Fargo - EagleEye Serge
   - Serge - 3 then 3
@@ -2397,20 +2397,30 @@ Drops:
   - Glenn or Fargo - 2 then 2 then 2 to trigger the next phase
 
 - Phase 5 (Blue)
-  - Glenn - Get to Level 4
+  - Glenn - Get to Level 3
   - Fargo - 1 - Strengthen Serge
   - Serge - 1 (Stamina Emptying Purposes)
   - Glenn - X-Strike
 
 - Phase 6 (Black)
-  - Glenn - Get Serge to 5 Stamina [5 Stamina] - EagleEye Serge
-  - Fargo - Get to Level 1
-  - Serge - 3 then 3
-  - Glenn or Fargo - 2 then 2 then 2 to trigger the next phase
+  - If you did Phase 5 correctly and everyone refreshed their stamina
+    - Glenn - Get Serge to 4 Stamina or Level 1 - EagleEye Serge
+    - Fargo - Get to Level 1 - TurnWhite Serge
+    - Serge - 3 then 3
+    - Glenn or Fargo - 2 then 2 to trigger the next phase
+  - You fucked up stamina refreshing
+    - Fargo - Get to Level 2
+    - Glenn - Get to Level 1
+    - Everyone - Defend and Pray No One Dies
+    - Fargo - Revive whomever died
+    - Glenn - Get Serge to 5 Stamina (Only if Glenn was the one who died) - EagleEye Serge
+    - Fargo - TurnWhite Serge
+    - Serge - 3 then 3
+    - Glenn or Fargo - 2 then 2 to trigger the next phase
 
 - Phase 7 (White)
   - Glenn - TurnBlack Serge
-  - Fargo - Get Serge to 6 Stamina - Genius Serge
+  - Fargo - Get Serge to 6 Stamina - Genius Serge (Skip Genius if 45 and above Strength)
   - Serge - 1 then 3 / 3
 
 - **SPLIT AFTER THE WIN MENU**
@@ -2427,12 +2437,12 @@ Drops:
   - Serge - 2 / 2 (Must Hit)
   - Glenn - Get to Level 3
   - Fargo - Get to Level 4
-  - Serge - Defend (Should be around 5/6 Stamina)
+  - Serge & Glenn- Defend until Serge has 6 Stamina (You're saving all of their stamina don't attack)
   - Serge - 1 / 1 then 2
 
 - Phase 2 (Yellow)
   - Glenn - TurnGreen Serge
-  - Fargo & Serge - Defend
+  - Fargo And Or Serge - Defend until Serge has 5 Stamina and Glenn has atleast 1 Stamina
   - Glenn - Strengthen Serge
   - Fargo - EagleEye Serge
   - Serge - 3 then 3
@@ -2445,10 +2455,10 @@ Drops:
 
 - Phase 4 (Green)
   - Serge has 42 - 43 STR
-    - Serge - TurnYellow Serge (yes, TurnYellow yourself you're under Vigora btw)
+    - Serge - TurnYellow Serge (yes, TurnYellow yourself, you're under Vigora btw)
     - Serge - 3 / 3 then 3
   - Else
-    - Serge - TurnYellow Serge (yes, TurnYellow yourself you're under Vigora btw)
+    - Serge - TurnYellow Serge (yes, TurnYellow yourself, you're under Vigora btw)
     - Serge - YellowField
     - Serge - 3 then 3
   - Glenn or Fargo - 2 then 2 to trigger the next phase
@@ -2460,10 +2470,20 @@ Drops:
   - Glenn - X-Strike
 
 - Phase 6 (Black)
-  - Glenn - Get Serge to 4 Stamina - EagleEye Serge
-  - Fargo - 1 - TurnWhite Serge
-  - Serge - 3 then 3
-  - Glenn or Fargo - 2 then 2 to trigger the next phase
+  - If you did Phase 5 correctly and everyone refreshed their stamina
+    - Glenn - Get Serge to 4 Stamina - EagleEye Serge
+    - Fargo - 1 - TurnWhite Serge
+    - Serge - 3 then 3
+    - Glenn or Fargo - 2 then 2 to trigger the next phase
+  - You fucked up stamina refreshing
+    - Fargo - Get to Level 2
+    - Glenn - Get to Level 1
+    - Everyone - Defend and Pray Fargo doesn't Die
+    - Fargo - Revive whoever died
+    - Glenn - Get Serge to 5 Stamina (Only if Glenn was the one who died) - EagleEye Serge
+    - Fargo - TurnWhite Serge
+    - Serge - 3 then 3
+    - Glenn or Fargo - 2 then 2 to trigger the next phase
 
 - Phase 7 (White)
   - Glenn - TurnBlack Serge
