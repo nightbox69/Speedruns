@@ -1703,12 +1703,10 @@ Drops:
 #### SideSteppa
 
 - **Lynx has more than 32 STR**
-
   - Marcy - TurnRed Lynx
   - Lynx - 2 / 2 / 2 - GlideHook
 
 - **Lynx has less than 32 STR**
-
   - Marcy - TurnRed Lynx
   - Fargo - Strengthen Lynx
   - Lynx - 1 / 1 / 2 / 2 - GlideHook
@@ -1925,7 +1923,7 @@ Drops:
 
 - Marcy - EagleEye Lynx
 - Fargo - Strengthen Lynx
-- Lynx has 39 Strength
+- Lynx has 39 Strength:
   - Not Attacked:
     - Lynx - 2 / 2
     - Fargo - 1 / 1 (Defend Twice instead if 40 Strength)
@@ -2388,7 +2386,6 @@ Drops:
   - Fargo - Get to Level 4
   - Serge & Glenn- Defend until Serge has 6 Stamina (You're saving all of their stamina don't attack)
   - Serge - 1 then 2
-
 - Phase 2 (Yellow)
   - Glenn - TurnGreen Serge
   - Fargo And Or Serge - Defend until Serge has 5 Stamina and Glenn has atleast 1 Stamina
@@ -2396,25 +2393,21 @@ Drops:
   - Fargo - EagleEye Serge
   - Serge - 3 then 3
   - Glenn or Fargo - 2 then 2 then 2 to trigger the next phase
-
 - Phase 3 (Red)
   - Glenn - TurnBlue Serge
   - Fargo - Attack until Serge is at 6 Stamina - Vigora Serge
   - Serge - 3 then 3
-
 - Phase 4 (Green)
   - Serge has 46 STR
     - Serge - 1 / 3 / 3 then 3
   - Serge has 44 - 45 STR
     - Serge - 2 / 3 / 3 then 3
   - Glenn or Fargo - 2 then 2 then 2 to trigger the next phase
-
 - Phase 5 (Blue)
   - Glenn - Get to Level 3
   - Fargo - 1 - Strengthen Serge
   - Serge - 1 (Stamina Emptying Purposes)
   - Glenn - X-Strike
-
 - Phase 6 (Black)
   - If you did Phase 5 correctly and everyone refreshed their stamina
     - Glenn - Get Serge to 4 Stamina or Level 1 - EagleEye Serge
@@ -2430,7 +2423,6 @@ Drops:
     - Fargo - TurnWhite Serge
     - Serge - 3 then 3
     - Glenn or Fargo - 2 then 2 to trigger the next phase
-
 - Phase 7 (White)
   - Glenn - TurnBlack Serge
   - Fargo - Get Serge to 7 Stamina
@@ -2452,7 +2444,6 @@ Drops:
   - Fargo - Get to Level 4
   - Serge & Glenn- Defend until Serge has 6 Stamina (You're saving all of their stamina don't attack)
   - Serge - 1 / 1 then 2
-
 - Phase 2 (Yellow)
   - Glenn - TurnGreen Serge
   - Fargo And Or Serge - Defend until Serge has 5 Stamina and Glenn has atleast 1 Stamina
@@ -2460,12 +2451,10 @@ Drops:
   - Fargo - EagleEye Serge
   - Serge - 3 then 3
   - Glenn or Fargo - 2 then 2 to trigger the next phase
-
 - Phase 3 (Red)
   - Glenn - TurnBlue Serge
   - Fargo - Get Serge to 6 Stamina - Vigora Serge
   - Serge - 3 then 3
-
 - Phase 4 (Green)
   - Serge has 42 - 43 STR
     - Serge - TurnYellow Serge (yes, TurnYellow yourself, you're under Vigora btw)
@@ -2475,13 +2464,11 @@ Drops:
     - Serge - YellowField
     - Serge - 3 then 3
   - Glenn or Fargo - 2 then 2 to trigger the next phase
-
 - Phase 5 (Blue)
   - Glenn - Get to Level 3
   - Fargo - 1 - Strengthen Serge
   - Serge - 1 (Stamina Empty Purposes)
   - Glenn - X-Strike
-
 - Phase 6 (Black)
   - If you did Phase 5 correctly and everyone refreshed their stamina
     - Glenn - Get Serge to 4 Stamina - EagleEye Serge
@@ -2497,7 +2484,6 @@ Drops:
     - Fargo - TurnWhite Serge
     - Serge - 3 then 3
     - Glenn or Fargo - 2 then 2 to trigger the next phase
-
 - Phase 7 (White)
   - Glenn - TurnBlack Serge
   - Fargo - Get Serge to 6 Stamina - Genius Serge
