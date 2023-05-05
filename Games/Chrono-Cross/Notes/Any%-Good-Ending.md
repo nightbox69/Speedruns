@@ -406,7 +406,6 @@ Reminder to make a Savestate here for Menu-ing Purposes
 - Shop (Straight ahead, talk to the guy in the swimming pool in the upper corner)
   - 2 TurnBlue
   - 1 TurnRed
-  - 1 TurnGreen
   - 2 TurnWhite
   - 2 TurnBlack
   - 1 Strengthen
