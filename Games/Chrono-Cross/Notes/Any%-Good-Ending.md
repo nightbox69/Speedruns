@@ -651,7 +651,7 @@ Drops:
   - Serge (Target Marcy if Str Sum is less than 35, Zoah if Glenn 20 or 21 Str) - 1 / 2
   - Serge (Target Marcy) - X-Strike
 - Zoah Phase
-  - Leena (Target Zoah) - Get to Level 4 - BushBasher Glenn
+  - Leena (Target Zoah) - Get to Level 4 - BushBasher Zoah
   - Serge - 1 - EagleEye Glenn
   - Glenn (Target Zoah) - 3 / 3
   - Leena - 2's until Zoah dies if he lives
