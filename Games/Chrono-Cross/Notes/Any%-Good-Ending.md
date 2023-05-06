@@ -1275,7 +1275,7 @@ Reminder to make a Savestate here for Practice Purposes
   - Harle - Get to Level 4 - Diminish
   - WightKnight - 3 / 3
   - Miguel - HolyDragSword
-  - Lynx - 1 / 2 / 2 (use lynx when harle empties her stamina but just the remaining attacks)
+  - Lynx - 1 / 2 / 2 (use harle when lynx empties his stamina but just the remaining attacks)
   - WightKnight - 3 / 2 (Only do 3 if Crit anywhere, 3 / 3 if no Strengthen)
   - Harle - 1 / 1 / 2 - MoonBeams (Skip Element if Crit)
   - WightKnight - 3 / 3
@@ -1290,7 +1290,7 @@ Reminder to make a Savestate here for Practice Purposes
   - Harle - Diminish
   - WightKnight - 3 / 3
   - Miguel - HolyDragSword
-  - Harle - 1 / 2 / 2
+  - Lynx - 1 / 2 / 2 (use harle when lynx empties his stamina but just the remaining attacks)
   - WightKnight - 2 / 3 (Only do 3 if Crit)
   - Lynx - 1 / 1 / 2 - GlideHook
   - WightKnight - 3 / 3
@@ -1885,7 +1885,7 @@ Drops:
   - Fargo - Get to Level 2 - EagleEye Lynx
   - Lynx - 3 / 3
   - Fargo - TurnBlue Lynx
-  - Lynx & Marcy - Defend till Lynx has 6 Stamina
+  - Lynx - Defend till Lynx has 6 Stamina (Don't defend with Marcy, just with Lynx)
   - Marcy - Cat's Cradle or IceBlast (Fargo to do 2 then 2 if Cat's Cradle didn't push to Phase 2)
 - Phase 2:
   - Lynx - 3 / 3
@@ -2403,10 +2403,9 @@ Drops:
     - Serge - 2 / 3 / 3 then 3
   - Glenn or Fargo - 2 then 2 then 2 to trigger the next phase
 - Phase 5 (Blue)
-  - Glenn - Get to Level 3
-  - Fargo - 1 - Strengthen Serge
-  - Serge - 1 (Stamina Emptying Purposes)
-  - Glenn - X-Strike
+  - Glenn - Get to Level 3 (4 Stamina Glenn)
+  - Fargo - 1 - Strengthen Serge (-6 Stamina Fargo)
+  - Serge - X-Strike (Everyone will Stamina Refresh after)
 - Phase 6 (Black)
   - If you did Phase 5 correctly and everyone refreshed their stamina
     - Glenn - Get Serge to 4 Stamina or Level 1 - EagleEye Serge
@@ -2464,10 +2463,9 @@ Drops:
     - Serge - 3 then 3
   - Glenn or Fargo - 2 then 2 to trigger the next phase
 - Phase 5 (Blue)
-  - Glenn - Get to Level 3
-  - Fargo - 1 - Strengthen Serge
-  - Serge - 1 (Stamina Empty Purposes)
-  - Glenn - X-Strike
+  - Glenn - Get to Level 3 (4 Stamina Glenn)
+  - Fargo - 1 - Strengthen Serge (-6 Stamina Fargo)
+  - Serge - X-Strike (Everyone will Stamina Refresh after)
 - Phase 6 (Black)
   - If you did Phase 5 correctly and everyone refreshed their stamina
     - Glenn - Get Serge to 4 Stamina - EagleEye Serge
