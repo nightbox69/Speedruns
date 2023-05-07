@@ -1542,7 +1542,7 @@ Reminder to make a Savestate here for Menu-ing Purposes.
     - **Cancel then press Triangle Sort by Innate**
     - Level 2 - IceBlast after Brace (If you're Nightbox, or scared for your Life)
     - Level 3 - IceBlast (If you're scared for your Life, entirely optional)
-    - Level 4 to Level 6 (Add Level 3 too if Marcy is below 20 Magic) - IceBlast (Fill all Slots, start from 6 to 4)
+    - Level 4 to Level 6 (Add Level 3 too if Marcy is below 20 Magic) - IceBlast (Fill all Slots)
     - Level 7 - FrogPrince
   - Riddel
     - **Sort by Innate**
@@ -1561,10 +1561,10 @@ Reminder to make a Savestate here for Practice Purposes
   - Riddel - Defend (For Survival Purposes)
   - Lynx - Get to Level 6
   - If Dario doesn't attack after Riddel defends
-    - Lynx - Get to Level 6
+    - Lynx - Get to Level 6 (Lynx needs to get to Level 2 minimum, the other attacks can miss here)
     - Marcy - Get to Level 4
   - If Dario attacks after Riddel defends (or Run Away if you're a coward)
-    - Lynx - 1 / 1 / 1 / 1
+    - Lynx - 1 / 1 / 1 / 1 (Some attacks required to hit for any missed levels)
     - Marcy - 1 / 1
   - Lynx - Inferno or FirePillar
   - Marcy - Get to Level 7
@@ -1573,12 +1573,12 @@ Reminder to make a Savestate here for Practice Purposes
   - Lynx - 1 / 1 / 1 / 1
   - Marcy - Genius Marcy
   - Lynx - Magnify
-  - Marcy - TurnRed
+  - Marcy - TurnRed Dario
   - Hope for a Good Stamina Refresh
-- Dario Phase 3
-  - Lynx - CurePlus Marcy
+- Dario Phase 3 (If Marcy is not your first character and she's hit early in the fight you really need to heal her otherwise just mash CurePlus)
+  - Lynx - CurePlus Marcy 
   - Marcy - 1 / 1 / 1 / 1
-  - Lynx - CurePlus Marcy
+  - Lynx - CurePlus Marcy 
   - Marcy - FrogPrince
   - Hope for a Good Stamina Refresh
 - Dario Phase 4
@@ -1810,13 +1810,14 @@ Drops:
   - Lynx & Fargo - 2 / 2 / 3 until Tyrano Dies
 - If Marcy is not Interrupted 
   - Fargo - TurnBlue Lynx
-    - If Flap after Turn Blue
+    - If Flap occurs after Turn Blue
       - Marcy - Cat's Cradle (Level 2 IceBlast if you have it)
       - Lynx - Get to Level 2
       - Fargo - 1's to recover Lynx to Stamina 7 (This never needs to hit)
       - Lynx - CurePlus 
       - Fargo - Defend
       - Lynx - IceBlast Tyrano
+      - Marcy - Get to Level 7
   - Marcy - FrogPrince
   - Lynx & Fargo - 2 / 2 / 3 until Tyrano Dies
 - Use the Heal with Consumables Option
@@ -1840,8 +1841,8 @@ Drops:
 - **Late Carnivore Strategy:**
   - Lynx - 2 / 3
   - Green Dragon - Carnivore
-  - Marcy - Strengthen Lynx
-  - Fargo - Get Lynx to 5 Stamina - TurnYellow Lynx
+  - Marcy - 1 - Strengthen Lynx
+  - Fargo - 1 - TurnYellow Lynx
   - Lynx - 3 / 3 (GlideHook if 38STR)
   - Marcy - Get Lynx to 4 Stamina - Panacea (Darkness or Fatigue), Brace (Yellow Element) Lynx
   - Lynx - 2 / 3
@@ -1850,7 +1851,7 @@ Drops:
   - Green Dragon - Carnivore
   - Lynx - 1 (This is just for a bit of Damage and Stamina Recovery Purposes)
   - Marcy - Strengthen Lynx
-  - Fargo - TurnYellow Lynx
+  - Fargo - 1 - TurnYellow Lynx
   - Lynx - 3 / 3 (GlideHook if 38STR)
   - Marcy - Get Lynx to 4 Stamina - Panacea (Darkness or Fatigue), Brace (Yellow Element) Lynx
   - Lynx - 3 / 3
