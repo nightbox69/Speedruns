@@ -30,7 +30,7 @@
 [5]: https://www.twitch.tv/rpglimitbreak
 [6]: https://discordapp.com/invite/0XU29pWZvyu0YCVH
 [7]: ./Notes/General-Knowledge.md
-[8]: ./Notes/Any%25_Good_Ending.md
+[8]: ./Notes/Any%-Good-Ending.md
 [9]: https://www.twitch.tv/carbondrank
 [10]: https://www.twitch.tv/superhandi
 [11]: https://www.twitch.tv/xan9br

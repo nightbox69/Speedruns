@@ -9,7 +9,7 @@
 ## Useful General Knowledge
 
 - [General Knowledge][2]
-- SuperHandi's [Notes][3] (and it's Supplementary Notes[5])
+- SuperHandi's [Notes][3]
 - CarbonDrank's [Notes][4]
 
 ## Mama Komodo
@@ -195,7 +195,7 @@ Drops:
 
 #### Guard Fights (70HP, 84HP)
 
-  - Serge and Kid (Attack Guards) - 2 / 2 / 3 (You can do 1 / 3 / 3 if you're feeling a bit wild for no particular reason)
+  - Serge & Kid - 2 / 2 / 3
 
 - Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
@@ -781,7 +781,7 @@ Drops:
 - Glenn - Get to Level 4
 - Serge - Genius Leena
 - Leena - Get to Level 5 - Defend
-- Everyone - Defend
+- Everyone - Defend until Taurusoid BackDrop
 - **IF TAURUSOID HASN'T DONE BACKDROP PRIOR TO THIS HAVE EVERYONE DEFEND UNTIL HE DOES HIS BACKDROP. DO NOT MAGNIFY UNTIL HE DOES. A CHARACTER WILL DIE IF YOU DO NOT FOLLOW THIS**
 - If Leena Dies
   - Serge - Get to Level 4 - Revive
@@ -1378,13 +1378,14 @@ Drops:
 
 - Sprigg - Get Level 5 - DoppelGanger WightKnight
   - Sprigg got to Level 5 or WightKnight is out
-    - Lynx - 2 / 3 - TurnBlue WightKnight
+    - Sprigg - DoppelGanger WightKnight
+    - Lynx - 1 / 1 (1 if you had to Doppelgang)- TurnBlue WightKnight
     - Harle - 1 / 1 - Turn Blue Lynx
   - Sprigg got Interrupted
     - Sprigg - Get Level 5 - DoppelGanger WightKnight
     - Lynx - Get to Level 1 - TurnBlue WightKnight
     - Harle - 3 - TurnBlue Lynx
-- WightKnight - 3 / 3
+- WightKnight - 3 / 3 (or 2 / 3)
 - Lynx - 2 / 2 / 3
 - WightKnight - 3 / 3
 - Lynx - 1 / 2 / 2 - IceBlast
@@ -1481,9 +1482,9 @@ Drops:
 
 #### Solt and Peppor (945/8 1050/10)
 
+- Karsh (Only if Attacked before by someone before EagleEye) - Defend
 - Lynx (Target Solt) - Get to Level 2 - Strengthen Karsh
 - Harle (Target Solt) - 1 - EagleEyle Karsh
-- Karsh (Only if Attacked before this) - Defend
 - Lynx - AeroBlaster Peppor
 - Karsh (Target Solt) - 3 / 3 - AxialAxe (Solt dead)
 - Harle (Target Peppor) - Get to Level 6 - AeroBlaster
@@ -2404,8 +2405,8 @@ Drops:
     - Serge - 2 / 3 / 3 then 3
   - Glenn or Fargo - 2 then 2 then 2 to trigger the next phase
 - Phase 5 (Blue)
-  - Glenn - Get to Level 3 (4 Stamina Glenn)
-  - Fargo - 1 - Strengthen Serge (-6 Stamina Fargo)
+  - Glenn - Get to Level 3 (4 Stamina or lower Glenn)
+  - Fargo - 1 - Strengthen Serge (-1 Stamina Fargo)
   - Serge - X-Strike (Everyone will Stamina Refresh after)
 - Phase 6 (Black)
   - If you did Phase 5 correctly and everyone refreshed their stamina
@@ -2433,7 +2434,7 @@ Drops:
 - Earring of Hope (Common/Rare)
 
 
-### EXPERIMENTAL Dragon God 43 and Below Strength (1900/10 Each Phase)
+### Dragon God 43 and Below Strength (1900/10 Each Phase)
 
 **Note:** Strategies are for 43 STR Serge, for Serge 44 and above STR is above this one.
 - Phase 1 (White)
@@ -2464,8 +2465,8 @@ Drops:
     - Serge - 3 then 3
   - Glenn or Fargo - 2 then 2 to trigger the next phase
 - Phase 5 (Blue)
-  - Glenn - Get to Level 3 (4 Stamina Glenn)
-  - Fargo - 1 - Strengthen Serge (-6 Stamina Fargo)
+  - Glenn - Get to Level 3 (4 Stamina or lower Glenn)
+  - Fargo - 1 - Strengthen Serge (-1 Stamina Fargo)
   - Serge - X-Strike (Everyone will Stamina Refresh after)
 - Phase 6 (Black)
   - If you did Phase 5 correctly and everyone refreshed their stamina
@@ -2526,6 +2527,5 @@ Drops:
 
 [1]: https://goo.gl/ZtQWaW
 [2]: ./General-Knowledge.md
-[3]: https://drive.google.com/file/d/1Z6Qt1CUyIVB7QOwj3fyEPf26P1F0uzXd/view?usp=sharing
+[3]: https://docs.google.com/document/d/1FSWhUFGX0b25gaaQ2sAh03Xi0spBks0DEQWURUnACSg/edit
 [4]: https://drive.google.com/file/d/19JiMSFNKhORpN09KmyDKukTdW4vPMcZR/view?usp=sharing
-[5]: https://drive.google.com/file/d/1VSwBd5a9jhMlTwrvQLCCH1gdEc-Z8gSa/view
