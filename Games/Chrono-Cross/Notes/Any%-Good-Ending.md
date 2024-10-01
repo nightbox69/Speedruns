@@ -1162,7 +1162,7 @@ Reminder to make a Savestate here for Practice Purposes
     - Sprigg - 2 / 2 - then Proceed to Sprigg got interrupted getting to Level 5 strats
 - Sprigg got to Level 5 w/o interruptions
   - Sprigg - Doppelganger WightKnight
-  - Harle - Get to Level 4 - Diminish (You can do this first then DoppelGanger if you're scared of Missing)
+  - Harle - Get to Level 4 - Diminish (You can do the attacks first then DoppelGanger - Diminish if you're scared of Missing)
   - WightKnight (Only if Garai doesn't Attack) - 3 / 1 (Stop if Attacked)
   - Lynx - 1 (1 / 3 if WightKnight Attacked Prior)- Strengthen WightKnight
   - Harle (Only if WightKnight is at 5 Stamina) - Defend
@@ -1211,7 +1211,7 @@ Drops:
   - Sprigg got to Level 5 or WightKnight before HighwayMan Attacks
     - Sprigg - DoppelGanger WightKnight
     - Lynx - 1 - Strengthen WightKnight
-    - Harle - 1's until HighwayMan is at 6ap - TurnWhite WightKnight
+    - Harle - 1's until HighwayMan is at 5ap - TurnWhite WightKnight
     - WightKnight - 3 / 3
     - HighwayMan - 2nd Attack
     - Harle - Get to Level 5
