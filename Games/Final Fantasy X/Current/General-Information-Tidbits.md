@@ -29,6 +29,8 @@
 
 ## Killing Basilisks for Tidus Grid
 
+  * Only do these if you get / are guaranteed a Lightning Steel whichever method you use depends on your circumstances.
+
   * Kimahri Method (Fastest Method)
     * Grid 1x HP Sphere on Kimahri
     * Lancet Bomb in MRR, Old Road or Mi'hen
@@ -37,7 +39,7 @@
     * After Extractor Grid - Tidus, Remove Kimahri from Party
     * Lancet next Basilisk
 
-  * Valefor Method
+  * Valefor Method (Consider this only if you're short of Speed Spheres and is guaranteed a Basilisk - Double Bee, this is atleast 2.5minutes slower)
     * Save Sphere before Cloister
     * Charge Overdrive on your way out of Kilika
     * Grid Magic Sphere on Yuna
