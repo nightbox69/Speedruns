@@ -1211,14 +1211,14 @@ Drops:
   - Sprigg got to Level 5 or WightKnight before HighwayMan Attacks
     - Sprigg - DoppelGanger WightKnight
     - Lynx - 1 - Strengthen WightKnight
-    - Harle - 1's until WightKnight is at 5 Stamina - TurnWhite WightKnight
+    - Harle - 1's until HighwayMan is at 6ap - TurnWhite WightKnight
     - WightKnight - 3 / 3
     - HighwayMan - 2nd Attack
     - Harle - Get to Level 5
-    - Lynx - 1's until WightKnight is at 5 Stamina - TurnWhite Lynx
+    - Lynx - 1's until HighwayMan is at 5ap - TurnWhite Lynx
     - WightKnight - 3 / 3
     - HighwayMan - ExhaustGas
-    - Harle - 1's until WightKnight is at 5 Stamina Panacea WightKnight (Meteorite if WightKnight is not hit by darkness)
+    - Harle - 1's until HighwayMan is at 5ap - Panacea WightKnight (Meteorite if WightKnight is not hit by darkness)
     - WightKnight - 3 / 3
     - HighwayMan - Rampage
     - Lynx - 3
@@ -1273,11 +1273,12 @@ Reminder to make a Savestate here for Practice Purposes
   - Miguel - StrongMinded
   - Lynx - Strengthen WightKnight
   - Harle - Get to Level 4 - Diminish
-  - WightKnight - 3 / 3
+  - WightKnight - 3 / 3 (Miguel HP Range: below 1400)
   - Miguel - HolyDragSword
   - Lynx - 1 / 2 / 2 (use harle when lynx empties his stamina but just the remaining attacks)
-  - WightKnight - 3 / 2 (Only do 3 if Crit anywhere, 3 / 3 if no Strengthen)
-  - Harle - 1 / 1 / 2 - MoonBeams (Skip Element if Crit)
+  - WightKnight - 3 / 2 (Only do 3 if Crit anywhere, 3 / 3 if no Strengthen) (Miguel HP Range: Above: 900)
+  - Lynx - Get to Level 3 - GlideHook
+  - Harle - 1's until Miguel is at 4ap - TurnBlack WightKnight (Skip if Miguel AP is at 5)
   - WightKnight - 3 / 3
 - **Sprigg Level 5 and AntiBlack on Harle**
   - Sprigg - DoppelGanger WightKnight
@@ -1291,8 +1292,9 @@ Reminder to make a Savestate here for Practice Purposes
   - WightKnight - 3 / 3
   - Miguel - HolyDragSword
   - Lynx - 1 / 2 / 2 (use harle when lynx empties his stamina but just the remaining attacks)
-  - WightKnight - 2 / 3 (Only do 3 if Crit)
-  - Lynx - 1 / 1 / 2 - GlideHook
+  - WightKnight - 3 / 2 (Only do 3 if Crit anywhere, 3 / 3 if no Strengthen) (Miguel HP Range: Above: 900)
+  - Lynx - Get to Level 3 - GlideHook
+  - Harle - 1's until Miguel is at 4ap - TurnBlack WightKnight (Skip if Miguel AP is at 5)
   - WightKnight - 3 / 3
 - **Sprigg Level 2 and AntiBlack on Harle (Worst Start)**
   - Sprigg - Get to Level 5 - DoppelGanger WightKnight
