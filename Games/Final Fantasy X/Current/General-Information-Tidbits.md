@@ -27,6 +27,27 @@
     * Selling Longsword in Luca Oaka is to place Stunning Steel in the first row for easy changing in Chocobo Eater later.
     * Selling Stunning Steel (or Longsword) and Buckler is to place Sonic Steel and Shimmering Blade on first and second slot respectively. This is for easy access in Customize later in the game so you do not have to find them.
 
+## Killing Basilisks for Tidus Grid
+
+  * Kimahri Method (Fastest Method)
+    * Grid 1x HP Sphere on Kimahri
+    * Lancet Bomb in MRR, Old Road or Mi'hen
+    * Self-Destruct first basilisk, Flee after
+    * Lancet first basilisk
+    * After Extractor Grid - Tidus, Remove Kimahri from Party
+    * Lancet next Basilisk
+
+  * Valefor Method
+    * Save Sphere before Cloister
+    * Charge Overdrive on your way out of Kilika
+    * Grid Magic Sphere on Yuna
+    * Party Order before Basilisk is Tidus, Yuna, Wakka
+      * Switch for Kimahri - Lancet
+      * Tidus Defend
+      * Valefor Overdrive
+      * Valefor Water - Surviving Enemies
+    * After Extractor Grid - Tidus
+
 ## Wendigo
 
   * There is a very small but not impossible chance of a Wendigo Double Tap on Tidus during the fight, this happens when the Guado casts a non-thunder element on Tidus then Wendigo hits him.
