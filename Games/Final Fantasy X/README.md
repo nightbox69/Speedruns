@@ -4,13 +4,25 @@ Protagonist has Dad issues and joins pretty girl that calls forth entities of gr
 
 ## Runners to Watch
 
-  To be added eventually..
-  By eventually meaning never.
+  * [CaracarnVi][4]
+  * [Christenarium][5]
+  * [CrimsonInferno][6]
+  * [fis0324][7]
+  * [nightbox69][8] - Bias
+  * [Oddmog][9]
 
-## Notes
+## Notes and Other Useful Data
 
-  Original Notes from MrTyton: [Github Link][1] I merely updated the Single Column PDF to fit my preferences.
-  [Any%][2] 
+  [Original Notes][1] from MrTyton: I merely updated this section for Historical Purposes
+  [Any%][2]
+  [FFX Info][3] by Grayfox96
 
-  [1]: https://github.com/MrTyton/Final-Fantasy-Speedruns
+  [1]: https://bit.ly/ffx-any
   [2]: https://github.com/nightbox69/Speedruns/blob/master/Games/Final%20Fantasy%20X/FFX_Any_%20-%20Single%20Column.pdf
+  [3]: https://grayfox96.github.io/FFX-Info/
+  [4]: https://www.twitch.tv/caracarnvi
+  [5]: https://www.twitch.tv/christenarium/
+  [6]: https://www.twitch.tv/crimsoninferno9
+  [7]: https://www.twitch.tv/fis0324
+  [8]: https://www.twitch.tv/nightbox69
+  [9]: https://www.twitch.tv/oddmog

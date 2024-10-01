@@ -4,11 +4,10 @@
 
 ## Runners to Watch
 
+  * [CarbonDrank][9]
   * [Evil Ash][1]
   * [Spike Vegeta][2]
-  * [Tojju][3]
-  * [SuperHandi (Steam Version World Record Holder)][10]
-  * [CarbonDrank (PSX World Record Holder)][9]
+  * [SuperHandi][10]
   * [xan9br][11]
   * [Twitch Chrono Cross Channel][4]
   * [RPG Limit Break][5]
@@ -17,6 +16,7 @@
 
   * [Discord][6]
   * [Chrono Cross Speedrun.com Page][12]
+  * [Chrono Cross Compedium][3]
 
 ## Notes
 
@@ -25,7 +25,7 @@
 
 [1]: https://www.twitch.tv/evilash25
 [2]: https://www.twitch.tv/spikevegeta
-[3]: https://www.twitch.tv/tojju
+[3]: https://goo.gl/ZtQWaW
 [4]: https://www.twitch.tv/directory/game/Chrono%20Cross
 [5]: https://www.twitch.tv/rpglimitbreak
 [6]: https://discordapp.com/invite/0XU29pWZvyu0YCVH
