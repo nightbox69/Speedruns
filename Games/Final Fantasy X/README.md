@@ -13,7 +13,7 @@ Protagonist has Dad issues and joins pretty girl that calls forth entities of gr
 
 ## Notes and Other Useful Data
 
-  * [Original Notes][1] from MrTyton: I merely updated this section for Historical Purposes
+  * [Original Notes][1] from MrTyton: I merely updated this section of my github for Historical Purposes
   * [Any%][2]
   * [FFX Info][3] by Grayfox96
 
