@@ -4,6 +4,7 @@
   * Most of these are just for ease of life than prioritizing speed. 
   * Any techniques specific to a type of run will be stated.
   * This is made just a catch all of all the stupid things the owner of the repo does just incase he comes back and forget all of these again.
+  * Anything condescending that are written in these notes are meant for the main user of these notes which is the owner. Having said that, the owner has no responsibility to apologize to anyone who has been offended reading these notes. You have been warned.
 
 ## Using Potions in the first part of the run
 
@@ -29,15 +30,15 @@
 ## Wendigo
 
   * There is a very small but not impossible chance of a Wendigo Double Tap on Tidus during the fight, this happens when the Guado casts a non-thunder element on Tidus then Wendigo hits him.
-    * This is preventable by gridding the HP on the very top during the Seymour Tidus Grid section while doing the rest of the grid normally.
+    * This is preventable by gridding the HP on the very top during the Seymour Tidus Grid section while doing the rest of the grid normally. (Terrible Idea)
     * This is also totally preventable by doing [Oddmog Strats][1].
 
 ## Blitz Loss Evrae
 
-  * This is just incase you forgot to do all the things blitz loss strats requires you to do during Thunder plains or you are lacking in Strength Spheres and have no plans on getting any extra for one reason or another.
+  * This is just incase you forgot to do all the things blitz loss strats requires you to do during Thunder Plains or you are lacking in Strength Spheres and have no plans on getting any extra for one reason or another.
     * $${\color{red}SAVE \space TIDUS \space OVERDRIVE \space UNTIL \space EVRAE, \space DO \space NOT \space FUCKING \space OVERDRIVE \space WENDIGO \space YOU \space FUCKING \space DUMBASS}$$
     * If for some reason you overdrive'd wendigo charge tidus overdrive on Bikanel but you're on your own on how. and yes you're required to have overdrive to survive.
-    * Normal Blitz Win Strat on Evrae except you overdrive after Haste. 
+    * Normal Blitz Win Strat on Evrae except you overdrive after Evrae Haste. 
 
 # Any% Manip
 
@@ -45,8 +46,23 @@
 
   * The order of business of manipulation is manipulating for Silence Grenades x6 first, then Manipulating for No Encounters then Manipulating 2 or No Return Sphere Drops with 1st Ghost No Encounters Armor all in that order.
 
+## Mushroom Rock Road Encounters
+
+  * If for some reason you would prefer to have less encounters in MRR consider doing the slower version of MRR skip. 
+    * Instead of head to the save sphere area head straight to the chocobo while the cutscene is playing and stop immediately when you hit the wall. 
+      * Allow the man to pass through first before doing your setup. Setting up before the man passes through will enable him to push you out of the way adding to your already terrible step count.
+    * Only do this if you're trying to avoid a 6th (not guaranteed) or 7th encounter.
+
 ## Silence Grenades x6
-  * In cases where you have a surplus of Strength Spheres that you have no use of or are planning to get some in the later parts of the run. Check if Kimahri needs to not die in order for you to steal Silence Grenades x6 on Anima.
-    * If he needs to not die then you can grid 2x HP Spheres on Kimahri which is just next to Rikku.
+  * In cases where you have a surplus of Strength Spheres that you have no use of or are planning to get some in the later parts of the run. Check if Kimahri needs to not die during Extractor in order for you to steal Silence Grenades x6 on Anima.
+    * If he needs to not die then you can grid 2x HP Spheres on Kimahri which is just next to Rikku, then Heal Kimahri to full.
+    * Kimahri should survive at 1044 hp during extractor. Switch Kimahri with Yuna and defend with Lulu reviving Rikku. Then Switch Yuna with Tidus and Change Weapon to Brotherhood.
+
+## Home Fights
+  * In cases where you're kinda locked for NEA and you have pre-emptive Dual Horn and / or Chimera Fights kill the Guado with Tidus then Stone Breath.
+    * Switch Tidus with Kimahri and then Lancet
+    * Switch the 2nd character with Tidus then attack the guado
+    * Kimahri Stone Breath
+  * ALWAYS CHECK FOR POSSIBLE COMBINATIONS DURING THE KIMAHRI STONE BREATH FIGHTS AS THERE CAN BE TWO SAME NAME DROPS WITH DIFFERENT STATS THAT CAN MAKE OR BREAK YOUR NO ENCOUNTERS. 
 
 [1]: https://youtu.be/KJQtA70aYsY?si=kgd9N2zhvwvN7LeT
