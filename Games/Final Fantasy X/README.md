@@ -13,12 +13,12 @@ Protagonist has Dad issues and joins pretty girl that calls forth entities of gr
 
 ## Notes and Other Useful Data
 
-  [Original Notes][1] from MrTyton: I merely updated this section for Historical Purposes
-  [Any%][2]
-  [FFX Info][3] by Grayfox96
+  * [Original Notes][1] from MrTyton: I merely updated this section for Historical Purposes
+  * [Any%][2]
+  * [FFX Info][3] by Grayfox96
 
   [1]: https://bit.ly/ffx-any
-  [2]: https://github.com/nightbox69/Speedruns/blob/master/Games/Final%20Fantasy%20X/FFX_Any_%20-%20Single%20Column.pdf
+  [2]: ./Current/FFX_Any_%20-%20Single%20Column%20-%20Blitz%20Win.pdf
   [3]: https://grayfox96.github.io/FFX-Info/
   [4]: https://www.twitch.tv/caracarnvi
   [5]: https://www.twitch.tv/christenarium/
