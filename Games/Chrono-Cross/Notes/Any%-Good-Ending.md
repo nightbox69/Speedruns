@@ -471,7 +471,7 @@ Drops:
 ### Fargo's former Pirate Ship now promoted to Ghost Ship
 
 - Run away from the fight in the cabin and get out.
-- Check the door infront of the injured guy, it'll say that you'll need a key.
+- Check the other door nearest to you (Infront of the injured guy), it'll say that you'll need a key.
 
 ### Finding the Key (Image Credits: EvilAsh25)
 
@@ -480,19 +480,18 @@ The key can be found in 1 of the 4 People in this section but you'll have to sta
 - Avoid the Ghosts popping about, head left and go up the ladder, enter the first door on the right and enter the vent.
 - Get out of the room and talk to the guy on the blockade.
   - Ghost Dance: Either this or fight the Ghost ![Credits to EvilAsh25 for the image](./images/ghostdance.png)
-- When he lets you pass, then talk to the guy past the door. **Make sure that the textbox conversation ends before you walk away from him or else he will have the key after all the fighting you have done. I cannot stress this enough, END HIS TEXTBOX BEFORE YOU LEAVE YOU MORON**
+- When he lets you pass, then talk to the guy with a bandana past the door. 
+- **Make sure that the textbox conversation ends before you walk away from him or else he will have the key after all the fighting you have done. I cannot stress this enough, END HIS TEXTBOX BEFORE YOU LEAVE YOU MORON**
 - Head through the vent, pick up the chest(Panacea, this is important) and fight the ghost, if it's 4 Monsters run away and try again.
-  - Check Ghost / Skeleton Fight Strats below
 - Talk to the guy after the fight, and hopefully he has the key, if not go back to the room and fight the skeleton on your right, if it's 4 Monsters run away and try again.
-  - Check Ghost / Skeleton Fights Strats below.
 - To the the guy for the key if you still don't have it then proceed to the ladder down and to the 2nd door on the right. Fight the Skeleton fighting the guy.
-  - Check Ghost / Skeleton Fight Strats below
 - Talk to the guy after, and finally get the freaking stupid key. (You're so screwed by RNG at this point if you had to do this btw, I'm so sorry for you)
 
 #### Ghost / Skeleton Fights
 
+- Target Priority - Skeleton then Ghost
 - 2 Skeletons
-  - Serge - 2 / 3 (Dead Skelly) - Dash & Slash other Skelly
+  - Serge - 2 / 3 (Dead Skelly) - Dash & Slash Skelly2
   - Glenn - 2 / 2 / 3 remaining
 - 1 Skeleton, 1 Ghost
   - Serge - 2 / 3 (Dead Skelly)
@@ -1064,7 +1063,8 @@ Reminder to make a Savestate here for Menu-ing Purposes
 ### Zelbess
 
 - Head downstairs and down the ladder to the last room before the guard to talk to the sage. Try to follow him through the door.
-- Go talk to Fargo. Play Roulette with him and try and get the cursor between North and East using paused to make sure it lands there. Hold X and unpause and you should hit South. Also if Fargo lands on East just hold X.
+- Go up one floor and head to the upper left door. Go talk to Fargo. 
+- Go to the door below you. Play Roulette with him and try and get the cursor between North and East using paused to make sure it lands there. Hold X and unpause and you should hit South. If Fargo lands on East just hold X.
 - **Go downstairs and go to the inn (below the casino)**
 - Go watch the magic show in the first door past the ladder. Re-enter to get turned into cats and go unrig the game. Go back and talk to Fargo again, beat him this time, put Sprigg into First.
   - Menu - Allocate Elements (The notes presume you're doing this menu before Sage to listen to Dilemma, tho it's not recommended because sometimes you slow down the menus to listen more. Truly a Dilemma.)
@@ -1374,7 +1374,7 @@ Drops:
 
 ### Viper's Manor Prison
 
-- Take the door to the right.
+- Climb up the ladders closest to you and Take the door to the right.
 
 #### Orcha (2940/8)
 
