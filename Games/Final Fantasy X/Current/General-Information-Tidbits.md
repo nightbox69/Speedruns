@@ -59,12 +59,20 @@
 ## Blitz Loss Evrae
 
   * This is just incase you forgot to do all the things blitz loss strats requires you to do during Thunder Plains or you are lacking in Strength Spheres for one reason or another.
-    * $${\color{red}SAVE \space TIDUS \space OVERDRIVE \space UNTIL \space EVRAE, \space DO \space NOT \space FUCKING \space OVERDRIVE \space WENDIGO \space YOU \space FUCKING \space DUMBASS}$$
-    * If for some reason you overdrive'd wendigo charge tidus overdrive on Bikanel but you're on your own on how. and yes you're required to have overdrive to survive.
-    * Grid Tidus for 1700HP
-    * Grid Kimahri needs 1800HP
-    * Normal Blitz Win Strat on Evrae except Kimahri and Tidus needs to be full HP then you overdrive after Evrae Poison Breath.
-    * General Flow of the Fight should be something like [this][2]
+  * This is more of a backup strat where you want to continue running instead of just outright killing the run.
+  * This requires you to grid the HP on the very top during the Seymour Tidus Grid section while doing the rest of the grid normally. Tidus's HP must be 1720 by Wendigo.
+  * This requires you to grid Kimahri all HP Spheres in Rikku's area + one more hp sphere (either near kimahri's start point or near spare change). Kimahri's HP must be 1844 by Evrae or Seymour.
+  * Theoretically, you don't need to grid all the HP Spheres. But that requires you to luck out highrolling every Tidus Crit by 6k each that you can overdrive before Poison Breath. It doesn't happen often.
+
+### Evrae
+  * $${\color{red}SAVE \space TIDUS \space OVERDRIVE \space UNTIL \space EVRAE, \space DO \space NOT \space FUCKING \space OVERDRIVE \space WENDIGO \space YOU \space FUCKING \space DUMBASS}$$
+  * If for some reason you overdrive'd wendigo charge tidus overdrive on Bikanel but you're on your own on how. and yes you're required to have overdrive to survive.
+  * Grid Tidus for 1720HP
+  * Grid Kimahri for 1844HP
+  * Normal Blitz Win Strat on Evrae except Kimahri and Tidus needs to be full HP then you overdrive after Evrae Poison Breath.
+  * General Flow of the Fight should be something like [this][2] except you overdrive.
+    * Please note this is an example flow of the fight. I'm showing this because Kimahri and Tidus got hit by evrae here.
+    * If you follow this flow instead of the notes version evrae can react with Stone Gaze on its 2nd attack instead of a normal one. It's Game Over if it hits Tidus or Kimahri.
 
 # Any% Manip
 
