@@ -77,7 +77,7 @@
     * Only do this if you're trying to avoid a 6th (not guaranteed) or 7th encounter.
 
 ## Silence Grenades x6
-  * In cases where you have a surplus of Strength Spheres that you have no use of or are planning to get some in the later parts of the run. Check if Kimahri needs to not die during Extractor in order for you to steal Silence Grenades x6 on Anima.
+  * In cases where you have a surplus of Power Spheres that you have no use of or are planning to get some in the later parts of the run. Check if Kimahri needs to not die during Extractor in order for you to steal Silence Grenades x6 on Anima.
     * If he needs to not die then you can grid 2x HP Spheres on Kimahri which is just next to Rikku, then Heal Kimahri to full.
     * Kimahri should survive at 1044 hp during extractor. Switch Kimahri with Yuna and defend with Lulu reviving Rikku. Then Switch Yuna with Tidus and Change Weapon to Brotherhood.
 
