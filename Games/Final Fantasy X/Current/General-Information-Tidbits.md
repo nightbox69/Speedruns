@@ -58,10 +58,12 @@
 
 ## Blitz Loss Evrae
 
-  * This is just incase you forgot to do all the things blitz loss strats requires you to do during Thunder Plains or you are lacking in Strength Spheres and have no plans on getting any extra for one reason or another.
+  * This is just incase you forgot to do all the things blitz loss strats requires you to do during Thunder Plains or you are lacking in Strength Spheres for one reason or another.
     * $${\color{red}SAVE \space TIDUS \space OVERDRIVE \space UNTIL \space EVRAE, \space DO \space NOT \space FUCKING \space OVERDRIVE \space WENDIGO \space YOU \space FUCKING \space DUMBASS}$$
     * If for some reason you overdrive'd wendigo charge tidus overdrive on Bikanel but you're on your own on how. and yes you're required to have overdrive to survive.
-    * Normal Blitz Win Strat on Evrae except you overdrive after Evrae Haste. 
+    * Grid Tidus for 1700HP
+    * Grid Kimahri needs 1800HP
+    * Normal Blitz Win Strat on Evrae then you overdrive after Evrae Poison Breath. 
 
 # Any% Manip
 
