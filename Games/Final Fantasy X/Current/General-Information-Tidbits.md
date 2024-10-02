@@ -63,7 +63,8 @@
     * If for some reason you overdrive'd wendigo charge tidus overdrive on Bikanel but you're on your own on how. and yes you're required to have overdrive to survive.
     * Grid Tidus for 1700HP
     * Grid Kimahri needs 1800HP
-    * Normal Blitz Win Strat on Evrae then you overdrive after Evrae Poison Breath. 
+    * Normal Blitz Win Strat on Evrae except Kimahri and Tidus needs to be full HP then you overdrive after Evrae Poison Breath.
+    * General Flow of the Fight should be something like [this][2]
 
 # Any% Manip
 
@@ -91,3 +92,4 @@
   * ALWAYS CHECK FOR POSSIBLE COMBINATIONS DURING THE KIMAHRI STONE BREATH FIGHTS AS THERE CAN BE TWO SAME NAME DROPS WITH DIFFERENT STATS THAT CAN MAKE OR BREAK YOUR NO ENCOUNTERS. 
 
 [1]: https://youtu.be/KJQtA70aYsY?si=kgd9N2zhvwvN7LeT
+[2]: https://www.twitch.tv/videos/188014950?t=6h16m5s
