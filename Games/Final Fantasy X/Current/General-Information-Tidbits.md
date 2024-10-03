@@ -18,7 +18,7 @@
   * If you use different languages and have a hard time distinguishing things for mixes later then use common sense, the last rows of items always have Bomb Core x2, then all the items you stole all in order of when you stole them.
     * To make things easier for you use Fish Scales as your anchor point then determine where your other steals are as they would always be before or after fish scales.
   * You can however manually set items before the bevelle guard fights for ease of access during rikku mixes later on. 
-    * Manually exchanging Lightning Marbles (or Black Magic Spheres) or Silence Grenades x6 or Grenades x2 will make rikku mixes easier to find.
+    * Manually exchanging Lightning Marbles (or Black Magic Spheres) for Silence Grenades x6 / Grenades x2 will make rikku mixes easier to find.
     * You can go all out if you want by putting elixir below the grenades for easier access during the evrae fight if you really are that anal about it. Elixirs used on Evrae Altana is around 1.5-3 seconds faster than Phoenix Downs.
 
 ## Selling Weapons
