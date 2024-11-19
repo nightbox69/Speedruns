@@ -16,10 +16,10 @@
   * Persona Memory - OFF
   * Camera Speed High or Max
 
-| | | | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|
-|<span style="background-color: #FF0000; color: #000000;">Prologue</span>|<span style="background-color: #FF0000; color: #000000;"> Rush, Gun Turbo </span>|
-|<span style="background-color: #FF0000; color: #000000;"> Kasumi Fight </span>|<span style="background-color: #FF0000; color: #000000;"> Hold Triangle then Guard when prompted </span>|
+| | |
+|---|---|
+| Prologue | Rush, Gun Turbo |
+| Kasumi Fight | Hold Triangle then Guard when prompted |
 | | Multiple FMV Skips and Name Change, Don't save |
 | 4/9 | Go to Sojiro's house, then Le Blanc |
 | | Examine everything & Sleep |
@@ -38,10 +38,16 @@
 | Mandrake | Gun turbo |
 | AoA Tutorial | Eiha, AoA |
 | Ambush Fight | Rush (You cant win) |
+
+| | | | |
+|---|---|---|---|
 | Ryuji Awakening | Ryuji | Zio | Eligor |
 | | Joker | Cleave | Eligor |
 | | Mona | Garu | Eligor |
 | | Repeat until Dead |
+
+| | |
+|---|---|
 | 4/13 | Skip FMV, R1 Up (Classroom) injured Kid in the corner beside the blackboard |
 | | R1 Up (Classrom 1F) - Turn right injured Kids in PE Uniform
 | | R1 Down Down )Classroom 3F) - Turn left injured kid in PE Uniform
@@ -52,17 +58,29 @@
 | 4/15 | Go to the other side (Go past the teacher's room, then go down from the left staircase) |
 | | Chase Ryuji |
 | Pixie | Gun |
+
+| | | | |
+|---|---|---|---|
 | Bicorns | Joker | Zio | Both Bicorns |
 | | Demand Money |
+
+| | |
+|---|---|
 | | Go Diagonally across, only sprint when seen |
 | | Go back to where Ann is don't bother getting Knife (It's absolutely worthless) |
+
+| | | | |
+|---|---|---|---|
 | Ann Awakening | Ann | Agi x2 | Belphegor |
 | | Joker | Gun | Belphegor |
 | | Morgana | Gun | Belphegor |
 | | Ryuji | Guard |
-| | Ann | Agi x2 |
+| | Ann | Agi x2 | Belphegor |
 | | Rush |
 | Night | Sleep |
+
+| | |
+|---|---|
 | 4/16 | Run to the Clinic | Talk to Takemi |
 | Clinic | Nohar-M x2 | 
 | | Alert Capsule x1 |
@@ -74,10 +92,8 @@
 | 4/18 | R1 Library -> Alluring Dancer (Up up)
 | | QA Confidants -> Doctor (Death Rank 1)
 | Night | Tidy |
-
-<span style="background-color: #FF0000; color: #000000;"></span>
-
-
+| 4/19 | Question: 3 (They're the Same)
+| | Ryuji 
 
   [1]: https://bit.ly/p5r-advanced
   [2]: https://twitch.tv/tatsuyaact
