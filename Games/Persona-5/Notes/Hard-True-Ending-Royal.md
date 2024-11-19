@@ -22,17 +22,28 @@
   * Green - Iwai
   * White - DO NOT FORGET FOR FUCKS SAKE HOLY SHIT BRO YOU CAN'T FUCK UP LIKE THIS
 
+<style>
+    .iHateThis {
+        width: 70%;
+        text-align: center;
+    }
+    .iHateThis tr:nth-child(1) { background: #FF0000; }
+    .iHateThis tr:nth-child(2) { background: #FF0000; }
+    .iHateThis tr:nth-child(3) { background: green; }
+</style>
 
 
+<div class="iHateThis">
 | | |
 |---|---|
-| Prologue | Rush, Gun Turbo | I shouldn't be here |
+| Prologue | Rush, Gun Turbo |
 | | Guard |
 | | Multiple FMV Skips and Name Change, Don't save |
 | 4/9 | Go to Sojiro's house, then Le Blanc |
 | | Examine everything & Sleep |
 | | Run to Shido, Skip Two FMV's |
 | 4/10 | Go downstairs, Phone, leave & re-enter, sleep |
+</div>
 
 
 
