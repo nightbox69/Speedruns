@@ -24,9 +24,9 @@
 
 
 
-| | | | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Prologue | Rush, Gun Turbo |
+| | |
+|---|---|
+| Prologue | Rush, Gun Turbo | I shouldn't be here |
 | | Guard |
 | | Multiple FMV Skips and Name Change, Don't save |
 | 4/9 | Go to Sojiro's house, then Le Blanc |
