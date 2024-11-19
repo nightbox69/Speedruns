@@ -32,15 +32,15 @@
 | School | Upstairs, Middle Door |
 | | Go to the Roof, then Go Home |
 | Night | Sleep |
+
+| | | | |
+|---|---|---|---|
 | 4/12 | Question: 3 (Villains)
 | | Dodge first two shadows
 | Gun Tutorial | Gun turbo |
 | Mandrake | Gun turbo |
 | AoA Tutorial | Eiha, AoA |
 | Ambush Fight | Rush (You cant win) |
-
-| | | | |
-|---|---|---|---|
 | Ryuji Awakening | Ryuji | Zio | Eligor |
 | | Joker | Cleave | Eligor |
 | | Mona | Garu | Eligor |
@@ -55,22 +55,17 @@
 | 4/14 | Ryuji dialogue -> Take all options |
 | | R1 Backstreets -> Chase Ann | 
 | Night | Sleep |
+
+
+| | | | |
+|---|---|---|---|
 | 4/15 | Go to the other side (Go past the teacher's room, then go down from the left staircase) |
 | | Chase Ryuji |
 | Pixie | Gun |
-
-| | | | |
-|---|---|---|---|
 | Bicorns | Joker | Zio | Both Bicorns |
 | | Demand Money |
-
-| | |
-|---|---|
 | | Go Diagonally across, only sprint when seen |
 | | Go back to where Ann is don't bother getting Knife (It's absolutely worthless) |
-
-| | | | |
-|---|---|---|---|
 | Ann Awakening | Ann | Agi x2 | Belphegor |
 | | Joker | Gun | Belphegor |
 | | Morgana | Gun | Belphegor |
