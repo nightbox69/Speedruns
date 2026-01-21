@@ -1,0 +1,31 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Hide the default sidebar/header */
+header {
+  display: none !important;
+  width: 0 !important;
+}
+
+/* adjust layout to be full width */
+.wrapper {
+  margin: 0 auto !important;
+  width: 95% !important; 
+  max-width: 1200px !important; 
+}
+
+section {
+  width: 100% !important;
+  float: none !important;
+  margin: 0 !important;
+  padding: 20px 0 !important;
+}
+
+/* Ensure mobile friendliness */
+@media print, screen and (max-width: 960px) {
+  .wrapper {
+    width: 95% !important;
+  }
+}

@@ -2,28 +2,24 @@
 
 This repository is forked from [drush211][1] as the base repository and is used so that I have a place where I can place my notes and easily access and edit them. 
 
-**[View Formatted Notes (GitHub Pages)](https://nightbox69.github.io/Speedruns/)**
-
-## Runners to Watch
+**(https://nightbox69.github.io/Speedruns/)**
 
 ## Games
 
 ### Chrono Cross
 
   * [Information][2]
-  * Personal Best - None
+  * [Personal Bests][4]
 
 ### Final Fantasy X
 
   * [Information][3]
-  * Personal Best
-    * Any% HD-Remaster PC - [9h 26m 38s][4]
-    * Any% PS2 - None 
+  * [Personal Bests][4]
 
-### Final Fantasy X-2
+### Persona 5
 
   * [Information][5]
-  * Personal Best - None
+  * [Personal Bests][4]
 
 ## Twitch
 
@@ -31,7 +27,7 @@ This repository is forked from [drush211][1] as the base repository and is used 
 
 [1]: https://github.com/drush211/Speedruns
 [2]: ./Games/Chrono-Cross/README.md
-[3]: ./Games/Final-Fantasy-X/README.md
-[4]: https://www.speedrun.com/run/zpqd4rvy
-[5]: ./Games/Final-Fantasy-X-2/README.md
+[3]: ./Games/Final%20Fantasy%20X/README.md
+[4]: https://www.speedrun.com/users/nightbox69
+[5]: ./Games/Persona-5/README.md
 [6]: https://www.twitch.tv/nightbox69
