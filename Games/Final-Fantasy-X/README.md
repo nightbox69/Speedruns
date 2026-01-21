@@ -18,18 +18,20 @@ Protagonist has Dad issues and joins pretty girl that calls forth entities of gr
   * [Original Notes][1] from MrTyton: I merely updated this section of my github for Historical Purposes
   * [Any%][2]
   * [FFX Info][3] by Grayfox96
+  * [FFX General Information Tidbits][10]
 
-  [Return to home][10]
+  [Return to home][13]
 
-  [1]: https://bit.ly/ffx-any
-  [2]: ./Current/FFX_Any_%20-%20Single%20Column%20-%20Blitz%20Win.pdf
-  [3]: https://grayfox96.github.io/FFX-Info/
-  [4]: https://www.twitch.tv/caracarnvi
-  [5]: https://www.twitch.tv/christenarium/
-  [6]: https://www.twitch.tv/crimsoninferno9
-  [7]: https://www.twitch.tv/fis0324
-  [8]: https://www.twitch.tv/nightbox69
-  [9]: https://www.twitch.tv/oddmog
-  [10]: https://nightbox69.github.io/Speedruns/
-  [11]: https://twitch.tv/khaegar
-  [12]: https://twitch.tv/krakenupeuw
+[1]: https://bit.ly/ffx-any
+[2]: ./Current/FFX_Any_%20-%20Single%20Column%20-%20Blitz%20Win.pdf
+[3]: https://grayfox96.github.io/FFX-Info/
+[4]: https://www.twitch.tv/caracarnvi
+[5]: https://www.twitch.tv/christenarium/
+[6]: https://www.twitch.tv/crimsoninferno9
+[7]: https://www.twitch.tv/fis0324
+[8]: https://www.twitch.tv/nightbox69
+[9]: https://www.twitch.tv/oddmog
+[10]: ./Current/General-Information-Tidbits.md 
+[11]: https://twitch.tv/khaegar
+[12]: https://twitch.tv/krakenupeuw
+[13]: https://nightbox69.github.io/Speedruns/
