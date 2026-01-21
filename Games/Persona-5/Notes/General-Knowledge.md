@@ -6,14 +6,13 @@ This is meant to be a catch all of general knowledge that can be applied to most
 
 These notes are [based][1] from a combination of Cereth's Beginner and Advanced Guides, Asa1108's Notes[2] and some advancements made in the discord. Any breaks listed in square brackets (e.g. [1:00]) require turbo on confirm and FFWD on at 120fps and are rough estimates at best.
 
- * Class questions are only correct for the early game. When the answer is no longer listed, mash the top option
- * When learning new skills, if it is not listed, you don't need to learn it. (90% Yusuke's Skills are this. You can learn Morgana's Healing Skills tho.)
- * When learning the run, it is expected that you watch a video of a run of a palace before doing it. You will need to practice OoB skips.
- * This version of Notes is designed for you the owner to have slept properly before the run. If you didn't **DON'T FUCKING RUN THE GAME**
- * Requied social stats - **Knowledge 4, Charm 3, Kindness 4**
- * Speedrun Required Confidant Skills: **Chariot 4 (Stealth Dash), Hermit 2 (Mementos Scan), Moon 3 (Exp), Death 1 (Kamoshida Items), Justice 10**
- * Plot Required Confidant Levels: Councillor 10, Justice 10, Fool 10, Magician 10, Judgement 10
- * Don't bother training your proficiency. Just buy ABC's of Crafting**
+ - Class questions are only correct for the early game. When the answer is no longer listed, mash the top option
+ - When learning new skills, if it is not listed, you don't need to learn it. (90% Yusuke's Skills are this. You can learn Morgana's Healing Skills tho.)
+ - When learning the run, it is expected that you watch a video of a run of a palace before doing it. You will need to practice OoB skips.
+ - Required social stats - **Knowledge 4, Charm 3, Kindness 4**
+ - Speedrun Required Confidant Skills: **Chariot 4 (Stealth Dash), Hermit 2 (Mementos Scan), Moon 3 (Exp), Death 1 (Kamoshida Items), Justice 10**
+ - Plot Required Confidant Levels: Councillor 10, Justice 10, Fool 10, Magician 10, Judgement 10
+ - Don't bother training your proficiency. Just buy ABC's of Crafting
 
 ## Pre-Start Menu Settings
 

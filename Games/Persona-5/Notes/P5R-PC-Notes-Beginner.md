@@ -1,5 +1,9 @@
 # Persona 5 Royal
 
+- Anything condescending that are written in these notes are meant for the main user of these notes which is the owner. Having said that, the owner has no responsibility to apologize to anyone who has been offended reading these notes. You have been warned.
+- This version of Notes is designed for you the owner to have slept properly before the run. If you didn't **DON'T FUCKING RUN THE GAME**
+- Please DM me on discord or tag me on P5R channel for typos that you have found within the notes.
+
 <table>
 <tbody>
 <tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">Prologue</td><td colspan="8">Rush, Gun turbo</td></tr>
