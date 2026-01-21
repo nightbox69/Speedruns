@@ -2131,4 +2131,4 @@
 </tbody>
 </table>
 
-[1]: ./Games/Persona-5/README.md
+[1]: https://nightbox69.github.io/Speedruns/Games/Persona-5/
