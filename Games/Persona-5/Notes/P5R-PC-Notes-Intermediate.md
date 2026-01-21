@@ -1643,29 +1643,29 @@
 <tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">4x Rush</td></tr>
 <tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">3x Rush Freidyne</td></tr>
 <tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8"><b>Phase 4</b></td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Marakunda</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7" style="border-bottom: 1px solid #000">Marakunda</td></tr>
 <tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="6" style="border-top: 1px solid #000; border-left: 1px solid #000; border-right: 1px solid #000">If Haru outspeeds Shido</td><td colspan="2">&lt;- Shido Heat Riser</td></tr>
 <tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td style="border-bottom: 1px solid #000; border-left: 1px solid #000">Haru</td><td colspan="5" style="border-bottom: 1px solid #000; border-right: 1px solid #000">Baptismal Water</td><td colspan="2">-</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Guard</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7" style="border-top: 1px solid #000; border-bottom: 1px solid #000">Guard</td></tr>
 <tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="2" style="border-top: 1px solid #000; border-left: 1px solid #000">If Joker goes first:</td><td colspan="4" style="border-top: 1px solid #000; border-right: 1px solid #000">If Shido goes first:</td><td colspan="2">&lt;- Shido Heat Riser</td></tr>
 <tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td style="border-bottom: 1px solid #000; border-left: 1px solid #000">Joker</td><td style="border-bottom: 1px solid #000">Freidyne</td><td style="border-bottom: 1px solid #000">Joker</td><td colspan="3" style="border-bottom: 1px solid #000; border-right: 1px solid #000">(Kushinada) Rakunda</td><td colspan="2">-</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Haru</td><td>Tetrakarn</td><td colspan="6">Haru</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Haru</td><td>Tetrakarn</td><td colspan="6" style="border-top: 1px solid #000">Haru</td></tr>
 <tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td>Tetrakarn</td><td colspan="6">Ann</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td>Tetrakarn</td><td colspan="6">Makoto</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td>Tetrakarn</td><td colspan="6" style="border-bottom: 1px solid #000">Makoto</td></tr>
 <tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="2" style="border-top: 1px solid #000; border-left: 1px solid #000">If Joker went first:</td><td colspan="4" style="border-top: 1px solid #000; border-right: 1px solid #000">If Shido went first:</td><td colspan="2">&lt;- Shido Bloodbath</td></tr>
 <tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td style="border-bottom: 1px solid #000; border-left: 1px solid #000">Joker</td><td colspan="2" style="border-bottom: 1px solid #000">(Kushinada) Rakunda</td><td style="border-bottom: 1px solid #000">Joker</td><td colspan="2" style="border-bottom: 1px solid #000; border-right: 1px solid #000">Freidyne</td><td colspan="2">-</td></tr>
 <tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Haru</td><td>Tetrakarn</td><td colspan="6">Haru</td></tr>
 <tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td>Dekaja</td><td>Shido</td><td colspan="5"><b>THIS IS IMPORTANT DON&#x27;T FORGET THIS PART</b></td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Freidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7" style="border-bottom: 1px solid #000">Freidyne</td></tr>
 <tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="2" style="border-top: 1px solid #000; border-left: 1px solid #000">If Joker went first:</td><td colspan="4" style="border-top: 1px solid #000; border-right: 1px solid #000">If Shido went first:</td><td colspan="2">&lt;- Shido Heat Riser</td></tr>
 <tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td style="border-bottom: 1px solid #000; border-left: 1px solid #000">Joker</td><td style="border-bottom: 1px solid #000">Rush</td><td style="border-bottom: 1px solid #000">Joker</td><td colspan="3" style="border-bottom: 1px solid #000; border-right: 1px solid #000">Rakunda</td><td colspan="2">&lt;- Things go wrong w/o Dekaja</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Haru</td><td>Tetrakarn</td><td colspan="6">Makoto</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Haru</td><td>Tetrakarn</td><td colspan="6" style="border-top: 1px solid #000">Makoto</td></tr>
 <tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Agidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td>Tetrakarn</td><td colspan="6">Ann</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td>Tetrakarn</td><td colspan="6" style="border-bottom: 1px solid #000">Ann</td></tr>
 <tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="2" style="border-top: 1px solid #000; border-left: 1px solid #000">If Joker went first:</td><td colspan="4" style="border-top: 1px solid #000; border-right: 1px solid #000">If Shido went first:</td><td colspan="2">-</td></tr>
 <tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td style="border-left: 1px solid #000">Joker</td><td>Rakunda</td><td>Joker</td><td colspan="2">Makarakarn Haru</td><td style="border-right: 1px solid #000">(Kushinada)</td><td colspan="2">-</td></tr>
 <tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="2" style="border-bottom: 1px solid #000; border-left: 1px solid #000">-</td><td style="border-bottom: 1px solid #000">Haru</td><td colspan="3" style="border-bottom: 1px solid #000; border-right: 1px solid #000">Rush</td><td colspan="2">-</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Haru</td><td>Makarakarn</td><td colspan="6">Haru</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Haru</td><td>Makarakarn</td><td colspan="6" style="border-top: 1px solid #000">Haru</td></tr>
 <tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Rush</td></tr>
 <tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8"><b>Phase 5</b></td></tr>
 <tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Rakunda</td></tr>
@@ -2113,28 +2113,28 @@
 <tr><td style="width: 1.5in"></td><td colspan="8">Skip post-credits FMV (yes we maxed Akechi just to skip a cutscene)</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">End timer on NG+ save confirmation</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">GG</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Yume wo yume to kizuita yoru</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Kimi wo mitsume mabuta wo tojiru</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Nukumori mo kasaneta te mo koe mo</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Mezamereba madoromi e to kiete</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Bokura ga nidoto aenakute mo</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Sugita toki ga itami ni kawatte mo</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Sono itami de ne michibīte yo</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Boku wo terasu yozora no hoshi e to</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Amai amai otogi no kuni</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Kimi to aeta yuganda sekai</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Itsuwari no shiawase demo ī to tsugeru kuchi</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Kimi ga sotto fusagu</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Omoide no hajimaru hi ni naru</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Kimi ga kieta jibun de kimeta michi</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Aruku no sa zutto setsunakute mo</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Boku no mezasu ashita no hoshi e to</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Mezamete genjitsu ga kuru kinō to chigau kanashimi ga taisetsudakara asu wo ikiteiku</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Bokura ga nidoto aenakute mo sugita toki ga itami ni kawatte mo</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Sono itami sae koeteikuyo</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Nagasu namida nori koe yori takaku</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Soshite tsukamu yo</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Sumikitta sora</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Towa ni ukabu bokura no hikari wo</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in"></td><td colspan="8">Yume wo yume to kizuita yoru</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in"></td><td colspan="8">Kimi wo mitsume mabuta wo tojiru</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in"></td><td colspan="8">Nukumori mo kasaneta te mo koe mo</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in"></td><td colspan="8">Mezamereba madoromi e to kiete</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in"></td><td colspan="8">Bokura ga nidoto aenakute mo</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in"></td><td colspan="8">Sugita toki ga itami ni kawatte mo</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in"></td><td colspan="8">Sono itami de ne michibīte yo</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in"></td><td colspan="8">Boku wo terasu yozora no hoshi e to</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in"></td><td colspan="8">Amai amai otogi no kuni</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in"></td><td colspan="8">Kimi to aeta yuganda sekai</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in"></td><td colspan="8">Itsuwari no shiawase demo ī to tsugeru kuchi</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in"></td><td colspan="8">Kimi ga sotto fusagu</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in"></td><td colspan="8">Omoide no hajimaru hi ni naru</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in"></td><td colspan="8">Kimi ga kieta jibun de kimeta michi</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in"></td><td colspan="8">Aruku no sa zutto setsunakute mo</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in"></td><td colspan="8">Boku no mezasu ashita no hoshi e to</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in"></td><td colspan="8">Mezamete genjitsu ga kuru kinō to chigau kanashimi ga taisetsudakara asu wo ikiteiku</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in"></td><td colspan="8">Bokura ga nidoto aenakute mo sugita toki ga itami ni kawatte mo</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in"></td><td colspan="8">Sono itami sae koeteikuyo</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in"></td><td colspan="8">Nagasu namida nori koe yori takaku</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in"></td><td colspan="8">Soshite tsukamu yo</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in"></td><td colspan="8">Sumikitta sora</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in"></td><td colspan="8">Towa ni ukabu bokura no hikari wo</td></tr>
 </tbody>
 </table>
