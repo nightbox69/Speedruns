@@ -15,7 +15,7 @@ A sequel that begins by unceremoniously killing off the heroes of its beloved pr
 ## Chat and Information
 
   * [Discord][6]
-  * [Chrono Cross Speedrun.com Page][12]
+  * [Chrono Cross Leaderboards][12]
   * [Chrono Cross Compedium][3]
 
 ## Notes
