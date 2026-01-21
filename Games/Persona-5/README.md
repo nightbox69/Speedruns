@@ -32,6 +32,8 @@ Random teenager in exile pursues his most lucrative part-time job in Tokyo.
   * [Persona 5 Royal Party Member Confidant Guide][13]
   * [Persona 5 Royal All Confidants Guide][14]
 
+[Return to home][19]
+
 [1]: https://www.twitch.tv/neviutz
 [2]: https://www.twitch.tv/cereth
 [3]: https://www.twitch.tv/asa1108
@@ -51,3 +53,4 @@ Random teenager in exile pursues his most lucrative part-time job in Tokyo.
 [16]: https://discord.gg/DArA2nN
 [17]: https://megatenspeedruns.com/persona/persona-5/p5r/
 [18]: https://megatenspeedruns.com/persona/persona-5/p5/
+[19]: https://nightbox69.github.io/Speedruns/

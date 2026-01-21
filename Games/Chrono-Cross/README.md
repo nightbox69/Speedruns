@@ -23,6 +23,8 @@
   * [General Information][7]
   * [Any % Good Ending][8]
 
+[Return to home][13]
+
 [1]: https://www.twitch.tv/evilash25
 [2]: https://www.twitch.tv/spikevegeta
 [3]: https://goo.gl/ZtQWaW
@@ -35,3 +37,4 @@
 [10]: https://www.twitch.tv/superhandi
 [11]: https://www.twitch.tv/xan9br
 [12]: https://www.speedrun.com/chronocross
+[13]: https://nightbox69.github.io/Speedruns/

@@ -1,4 +1,4 @@
-# Chrono Cross
+# Chrono Cross[5]
 
 ## Disclaimer
 
@@ -208,6 +208,7 @@ Drops:
 #### Solt/Peppor/Ketchop (273HP/9AP)
 
 **Note:** Switch Pierre to being infront if you still haven't done it yet. Also, don't bother hitting Solt and Peppor.
+
 **Appendum:** When the notes say X then X / X the "then" means you wait for the attack animation to finish before you plug your attacks again. (Wait for a second or two before puttting another attack)
 
 - Defend until Solt revives Pierre
@@ -2531,3 +2532,4 @@ Drops:
 [2]: ./General-Knowledge.md
 [3]: https://docs.google.com/document/d/1FSWhUFGX0b25gaaQ2sAh03Xi0spBks0DEQWURUnACSg/edit
 [4]: https://drive.google.com/file/d/19JiMSFNKhORpN09KmyDKukTdW4vPMcZR/view?usp=sharing
+[5]: ./Games/Chrono-Cross/README.md

@@ -1,4 +1,4 @@
-# Persona 5 Royal
+# Persona 5 Royal[1]
 
 ## Disclaimer and other stuff 
 
@@ -2130,3 +2130,5 @@
 <tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in">Towa ni ukabu bokura no hikari wo</td><td colspan="8">-</td></tr>
 </tbody>
 </table>
+
+[1]: ./Games/Persona-5/README.md
