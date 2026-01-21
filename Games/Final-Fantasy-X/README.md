@@ -10,6 +10,8 @@ Protagonist has Dad issues and joins pretty girl that calls forth entities of gr
   * [fis0324][7]
   * [nightbox69][8] - Bias
   * [Oddmog][9]
+  * [Khaegar][11]
+  * [KrakenUp][12]
 
 ## Notes and Other Useful Data
 
@@ -29,3 +31,5 @@ Protagonist has Dad issues and joins pretty girl that calls forth entities of gr
   [8]: https://www.twitch.tv/nightbox69
   [9]: https://www.twitch.tv/oddmog
   [10]: https://nightbox69.github.io/Speedruns/
+  [11]: https://twitch.tv/khaegar
+  [12]: https://twitch.tv/krakenupeuw
