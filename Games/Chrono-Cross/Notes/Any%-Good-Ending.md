@@ -1,3 +1,7 @@
+---
+title: Chrono Cross Any% Good Ending Notes
+---
+
 # [Chrono Cross][5]
 
 ## Disclaimer

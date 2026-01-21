@@ -1,3 +1,7 @@
+---
+title: Persona 5 Royal PC Beginner-Intermediate Notes
+---
+
 # [Persona 5 Royal][1]
 
 ## Disclaimer and other stuff 
