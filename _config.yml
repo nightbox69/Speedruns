@@ -1,5 +1,7 @@
 title: Speedrun Notes
 theme: jekyll-theme-minimal
+minima:
+  skin: dark # or 'auto' to sync with system preferences
 markdown: kramdown
 kramdown:
   input: GFM

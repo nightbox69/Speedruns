@@ -1,8 +1,6 @@
-# Speedruns
+# [Speedruns][7]
 
 This repository is forked from [drush211][1] as the base repository and is used so that I have a place where I can place my notes and easily access and edit them. 
-
-**(https://nightbox69.github.io/Speedruns/)**
 
 ## Games
 
@@ -31,3 +29,4 @@ This repository is forked from [drush211][1] as the base repository and is used 
 [4]: https://www.speedrun.com/users/nightbox69
 [5]: ./Games/Persona-5/README.md
 [6]: https://www.twitch.tv/nightbox69
+[7]: https://nightbox69.github.io/Speedruns/
