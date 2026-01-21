@@ -1,4 +1,4 @@
-# Persona 5 Royal[1]
+# [Persona 5 Royal][1]
 
 ## Disclaimer and other stuff 
 

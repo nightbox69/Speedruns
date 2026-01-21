@@ -1,4 +1,4 @@
-# Chrono Cross[5]
+# [Chrono Cross][5]
 
 ## Disclaimer
 
