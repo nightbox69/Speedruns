@@ -1,6 +1,6 @@
 # Chrono Cross
 
-17-Year old sets off on a journey to build his ultimate harem featuring Really, Really, Really Good Music.
+A sequel that begins by unceremoniously killing off the heroes of its beloved predecessor. You play as a boy whose mere existence is a cosmic mistake, forcing you to traverse parallel dimensions while collecting 45 largely useless party members—including a sentient turnip and a racist mermaid. You spend half the game trapped in the body of a furry villain while your childhood sweetheart abandons you, ultimately saving the universe not through combat, but by playing a game of Simon Says with a depressed supercomputer. But hey, it has REALLY, REALLY, REALLY GOOD MUSIC.
 
 ## Runners to Watch
 
