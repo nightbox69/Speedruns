@@ -34,7 +34,7 @@ This repository is forked from [drush211][1] as the base repository and is used 
 
 [1]: https://github.com/drush211/Speedruns
 [2]: ./Games/Chrono-Cross/README.md
-[3]: ./Games/Final%20Fantasy%20X/README.md
+[3]: ./Games/Final-Fantasy-X/README.md
 [4]: https://www.speedrun.com/users/nightbox69
 [5]: ./Games/Persona-5/README.md
 [6]: https://www.twitch.tv/nightbox69
