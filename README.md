@@ -1,4 +1,8 @@
-# [Speedruns][7]
+---
+title: NB Speedrun Notes
+layout: default
+---
+# [NB Speedrun Notes][7]
 
 This repository is forked from [drush211][1] as the base repository and is used so that I have a place where I can place my notes and easily access and edit them. 
 
