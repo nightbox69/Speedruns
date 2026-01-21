@@ -12,18 +12,20 @@ Protagonist has Dad issues and joins pretty girl that calls forth entities of gr
   * [Oddmog][9]
   * [Khaegar][11]
   * [KrakenUp][12]
+  * THERE'S LITERALLY HUNDREDS OF YOU IF YOU EXPECT TO UPDATE THIS LIST AGAIN JUST SO YOU CAN READ YOUR NAMEIT WILL FUCKING NEVER HAPPEN.
 
 ## Notes and Other Useful Data
 
-  * [Original Notes][1] from MrTyton: I merely updated this section of my github for Historical Purposes
-  * [Any%][2]
-  * [FFX Info][3] by Grayfox96
   * [FFX General Information Tidbits][10]
-  * [Former Notes][14]
+  * [Original Notes][1] from MrTyton: 
+  * [Any%][2] - I merely updated this section for Historical Purposes otherwise it is the same as the original notes.
+  * [FFX Info][3] by Grayfox96
+  * [FFX Pre-MRR Skip Notes][13]
+  * [FFX Trio of 9999][14]
 
-  [Return to home][13]
+  [Return to home][15]
 
-[1]: https://bit.ly/ffx-any
+[1]: https://speedrunning-notes.github.io/Final-Fantasy-Speedruns/Final%20Fantasy%20X/notes.html
 [2]: ./Current/FFX_Any_%20-%20Single%20Column%20-%20Blitz%20Win.pdf
 [3]: https://grayfox96.github.io/FFX-Info/
 [4]: https://www.twitch.tv/caracarnvi
@@ -35,5 +37,6 @@ Protagonist has Dad issues and joins pretty girl that calls forth entities of gr
 [10]: ./Current/General-Information-Tidbits.md 
 [11]: https://twitch.tv/khaegar
 [12]: https://twitch.tv/krakenupeuw
-[13]: https://nightbox69.github.io/Speedruns/
-[14]: ./Former/
+[13]: ./Former/FFX_Any_%20-%20Single%20Column%20-%20Bahamut%20Pre%20MRR%20Skip.pdf
+[14]: ./Former/FFX_Any_%20-%20Single%20Column%20-%20Trio%20of%209999.pdf
+[15]: https://nightbox69.github.io/Speedruns/
