@@ -1,6 +1,6 @@
 # Persona 5
 
-You play as a convicted juvenile delinquent on exile who decides that the legal system is too slow, so you rehabilitate society by breaking into adults' minds and psychologically tormenting them until they confess. You must juggle the stress of high school exams with the responsibility of managing a harem of women—including your teacher and doctor. Meanwhile, a talking cat dictates your sleep schedule. In the end, you fight a guidance counselor who essentially cures depression and brings the dead back to life, simply because you decide that a world without suffering is "fake" and you'd rather everyone be miserable but "free."
+You play as a convicted juvenile delinquent on exile who decides that the legal system is too slow, so you rehabilitate society by breaking into adults' minds and psychologically tormenting them until they confess. You must juggle the stress of high school exams with the responsibility of managing a harem of women—including your teacher and doctor. Meanwhile, a talking cat dictates your sleep schedule. In the end, you fight a guidance counselor who essentially cures depression and brings the dead back to life, simply because you decide that a world without suffering is "fake" and you'd rather everyone be miserable but "free." Also, you're capable of glitching through floors and ignoring atleast 10% of the gameplay mechanics because of your good buddy Fernando, who didn't close his ears and heard confidential information.
 
 ## Runners to Watch
 
