@@ -4,7 +4,7 @@ This is meant to be a catch all of general knowledge that can be applied to most
 
 ## About the Notes
 
-The notes in this repository are [based][1] from a combination of Cereth's Beginner and Advanced Guides, [Asa1108's Notes][2] and some advancements discussed by fellow runners in the discord. Any breaks listed in square brackets (e.g. 1:00) require turbo on confirm and FFWD on at 120fps and are rough estimates at best.
+The notes in this repository are [based][1] from a combination of Cereth's Beginner and Advanced Guides, [Asa1108's Notes][2] and some advancements discussed by fellow runners in the [discord][3]. Any breaks listed in square brackets (e.g. 1:00) require turbo on confirm and FFWD on at 120fps and are rough estimates at best.
 
  - Class questions are only correct for the early game. When the answer is no longer listed, mash the top option
  - When learning new skills, if it is not listed, you don't need to learn it. (90% Yusuke's Skills are this. You can learn Morgana's Healing Skills tho.)
@@ -22,10 +22,14 @@ The notes in this repository are [based][1] from a combination of Cereth's Begin
   * Battle Memory ON (Preference but recommended)
   * Persona Memory OFF
   * Camera Speed High or Max  
+  * Vibration - Your Preference
+  * Camera Shake - OFF
+
+## FPS Manipulation
+Persona skill animation switch to 30/60 (30 is faster), everything else (e.g. menuing, switching personas, guarding) is faster on 120. Use that to your advantage if you can.
 
 ## Avoiding Fights
-
-Always do this at all costs unless specified!!!! Experience is very tight in this run. One extra kill in the late game can mean the difference between Ann and Ryuji gaining a level before a certain fight in the 3rd term. Otherwise the additional experience will cause you to learn skills in inopportune moments where you will need the skill you will delete for the next fight. Overall, don't kill the shadows, down them with their weakness and run away. The Notes has all shadow weaknesses until Futaba. After Futaba you're just expected to either avoid the fight entirely with either a Smokescreen or a Hypno Mist as Joker will have access to Repel Physical that will kill a Shadow if they attack Joker.
+Always do this at all costs unless specified! Experience is very tight in this run. One extra kill in the late game can mean the difference between Ann and Ryuji gaining a level before a certain fight in the 3rd term. Otherwise the additional experience will cause you to learn skills in inopportune moments where you will need the skill you will delete for the next fight. Overall, don't kill the shadows, down them with their weakness and run away. The Notes has all shadow weaknesses until Futaba. After Futaba you're just expected to either avoid the fight entirely with either a Smokescreen or a Hypno Mist as Joker will have access to Repel Physical that will kill a Shadow if they attack Joker. You only need to battle shadows in Kamoshida's palace, and one fight each for Okumura's Palace ( only if you did the OoB) and Shido's Palace.
 
 ## Money
 You will need to have 214462 Yen before the Shido Boss Fight. This is doable by selling two Soma's (100k), Homonculus (20k, if not used in the Oberon Fight), Palace and Mementos Sellables, the Summer Lottery (30k - 100k depending on your luck) and working in the Flower Shop until you reach Kindness 4. This will give you 214462 Yen. A good breakpoint to determine if you will have the required money will be checking if you have 70-90k by Mid-November. If not, I suggest you either do a mementos run for additional sellables or kill the run coz you lack money. If you're just slightly behind of money you can opt out of buying Freeze Charms and just buy them before you enter the palace with Akechi at 1/9. 
@@ -39,8 +43,8 @@ If you're not comfortable with Mementos Depths. Strive to get 11+ Iron Sands on 
 ## Palace Exploration and Out of Bounds
 You're expected to know your way around the palace and capable of atleast doing Shido Out of Bounds The route that is listed in the notes requires Shido Out of Bounds Knowledge. Otherwise you will be unable to complete the run. The notes also will not tell you where chests or places are unless specified (Like Maruki's Color Puzzle if you're capable of even understanding that at that point of the run). 
 
-The Other Out of Bounds skips are optional like Madarame's, Kaneshiro's and Okumura's doing them changes the route a bit but otherwise you're not losing much. You're better off getting good in fights and overall decision making than doing those skips. (You save a prolly less than 5mins-8mins in a average 12hour run doing those skips. Don't quote me on that I don't actually know).
+The other Out of Bounds skips are optional like Madarame's, Kaneshiro's and Okumura's doing them changes the route a bit but otherwise you're not losing much. You're better off getting good in fights and overall decision making than doing those skips. (You save a prolly less than 5mins-8mins in a average 12hour run doing those skips. Don't quote me on that I don't actually know but I'll find out soon enough).
 
 [1]: https://www.speedrun.com/p5r/guides
-[2]: https://www.speedrun.com/p5
+[2]: https://docs.google.com/document/d/1harr5GpM4XN6TVO5pcxsvutXlJQrt_BSK_rbX5yahQA/edit?tab=t.0
 [3]: https://discord.gg/DArA2nN
