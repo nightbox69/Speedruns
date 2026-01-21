@@ -1,5 +1,9 @@
 # NB Speedrun Notes
 
+NiGhTBoX's Note Trashbin
+
+## About the Repository
+
 This repository is forked from [drush211][1] as the base repository and is used so that I have a place where I can place my notes and easily access and edit them. 
 
 ## Games
