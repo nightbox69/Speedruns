@@ -1,6 +1,6 @@
 # Chrono Cross
 
-A sequel that begins by unceremoniously killing off the heroes of its beloved predecessor. You play as a boy whose mere existence is a cosmic mistake, forcing you to traverse parallel dimensions while collecting 45 largely useless party members—including a sentient turnip and a racist mermaid. You spend half the game trapped in the body of a furry villain while your childhood sweetheart abandons you, ultimately saving the universe not through combat, but by playing a game of Simon Says with a depressed supercomputer. But hey, it has REALLY, REALLY, REALLY GOOD MUSIC.
+A sequel that begins by unceremoniously killing off the heroes of its beloved predecessor. You play as a boy whose mere existence is a cosmic mistake, forcing you to traverse parallel dimensions while collecting 45 largely useless party members—including a sentient turnip and a racist mermaid. You spend half the game trapped in the body of a furry villain while your childhood sweetheart abandons you, which is fine because she's largely useless to the speedrun anyway. Ultimately you save the universe not through combat, but by playing a game of Simon Says with a depressed supercomputer. But hey, it has REALLY, REALLY, REALLY GOOD MUSIC.
 
 ## Runners to Watch
 
