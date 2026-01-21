@@ -19,6 +19,7 @@ Protagonist has Dad issues and joins pretty girl that calls forth entities of gr
   * [Any%][2]
   * [FFX Info][3] by Grayfox96
   * [FFX General Information Tidbits][10]
+  * [Former Notes][14]
 
   [Return to home][13]
 
@@ -35,3 +36,4 @@ Protagonist has Dad issues and joins pretty girl that calls forth entities of gr
 [11]: https://twitch.tv/khaegar
 [12]: https://twitch.tv/krakenupeuw
 [13]: https://nightbox69.github.io/Speedruns/
+[14]: ./Former/
