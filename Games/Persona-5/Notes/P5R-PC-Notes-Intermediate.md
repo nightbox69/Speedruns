@@ -1707,9 +1707,9 @@
 <tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in">Menu</td><td colspan="8">Equip Joker Ring of Envy</td></tr>
 <tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Persona: Girimehkala</td></tr>
 <tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Party: Makoto (Makoto in) - - - - - X - -</td></tr>
-<tr style="background-color: #FFFFFF; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Before the Puzzle: Just Run Straight</td></tr>
-<tr style="background-color: #FFFFFF; color: #000000"><td style="width: 1.5in"></td><td colspan="8">After the Puzzle: Possible Hypno Mist or Smokescreen Area</td></tr>
-<tr style="background-color: #FFFFFF; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Before Puzzle 2: Definitely a Hypno Mist Area</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Before the Puzzle: Just Run Straight</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">After the Puzzle: Possible Hypno Mist or Smokescreen Area</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Before Puzzle 2: Definitely a Hypno Mist Area</td></tr>
 <tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Throne</td><td>Makoto</td><td colspan="7">Mafreila</td></tr>
 <tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Guard</td></tr>
 <tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Marakunda</td></tr>
@@ -1721,13 +1721,13 @@
 <tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Dominion</td><td>Makoto</td><td colspan="7">Magneto Coil</td></tr>
 <tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">BP</td></tr>
 <tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td>(Tri L1 Cerberus)</td><td colspan="6">Maeiga</td></tr>
-<tr style="background-color: #FFFFFF; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Maragidyne &gt; Rebellion (Cerberus)</td></tr>
-<tr style="background-color: #FFFFFF; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Rebellion &gt; Growth 2 (Hecatoncheires)</td></tr>
-<tr style="background-color: #FFFFFF; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Matarukaja &gt; Tarukaja (Ryuji)</td></tr>
-<tr style="background-color: #FFFFFF; color: #000000"><td style="width: 1.5in"></td><td colspan="8">One Shot Kill &gt; Triple Down (Haru)</td></tr>
-<tr style="background-color: #FFFFFF; color: #000000"><td style="width: 1.5in"></td><td colspan="8">After Dominion: Definitely a Hypno Mist Area</td></tr>
-<tr style="background-color: #FFFFFF; color: #000000"><td style="width: 1.5in"></td><td colspan="8">After Puzzle 5: Be careful of the shadows, might need to use a smokescreen but hypno mist if things are dicey</td></tr>
-<tr style="background-color: #FFFFFF; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Before Puzzle Series: Use Hiding Spots I guess or activate a puzzle near you to disable shadows</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Maragidyne &gt; Rebellion (Cerberus)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Rebellion &gt; Growth 2 (Hecatoncheires)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Matarukaja &gt; Tarukaja (Ryuji)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">One Shot Kill &gt; Triple Down (Haru)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">After Dominion: Definitely a Hypno Mist Area</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">After Puzzle 5: Be careful of the shadows, might need to use a smokescreen but hypno mist if things are dicey</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Before Puzzle Series: Use Hiding Spots I guess or activate a puzzle near you to disable shadows</td></tr>
 <tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in">Menu</td><td colspan="8">Party: Ann, Makoto, Haru (Ann/Haru in) - - - X - - X -</td></tr>
 <tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Heal</td></tr>
 <tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Holy Grail</td><td colspan="8">Phase 1</td></tr>
@@ -2010,8 +2010,8 @@
 <tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td>Makarakarn</td><td colspan="6">Joker</td></tr>
 <tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Guard or Hell Magatama</td></tr>
 <tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Kasumi</td><td>Gun</td><td colspan="6">If Surt doesn&#x27;t die Agidyne with Ann and Hell Magatama</td></tr>
-<tr style="background-color: #FFFFFF; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Don&#x27;t bother learning Blazing Hell and Atomic Flare they deal +50 damage for 48sp (Ann and Makoto)</td></tr>
-<tr style="background-color: #FFFFFF; color: #000000"><td style="width: 1.5in"></td><td colspan="8">This is added here because you can&#x27;t resist the temptation on getting those skills</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Don&#x27;t bother learning Blazing Hell and Atomic Flare they deal +50 damage for 48sp (Ann and Makoto)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">This is added here because you can&#x27;t resist the temptation on getting those skills</td></tr>
 <tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in">Menu</td><td colspan="8">Party: Ann, Makoto, Kasumi (Heal Everyone unless you want to end the run)</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">Color Puzzle: Box means Color Panel</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">All on, run up (Box is set to White)</td></tr>
@@ -2113,28 +2113,28 @@
 <tr><td style="width: 1.5in"></td><td colspan="8">Skip post-credits FMV (yes we maxed Akechi just to skip a cutscene)</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">End timer on NG+ save confirmation</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">GG</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in">Yume wo yume to kizuita yoru</td><td colspan="8">-</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in">Kimi wo mitsume mabuta wo tojiru</td><td colspan="8">-</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in">Nukumori mo kasaneta te mo koe mo</td><td colspan="8">-</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in">Mezamereba madoromi e to kiete</td><td colspan="8">-</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in">Bokura ga nidoto aenakute mo</td><td colspan="8">-</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in">Sugita toki ga itami ni kawatte mo</td><td colspan="8">-</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in">Sono itami de ne michibīte yo</td><td colspan="8">-</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in">Boku wo terasu yozora no hoshi e to</td><td colspan="8">-</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in">Amai amai otogi no kuni</td><td colspan="8">-</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in">Kimi to aeta yuganda sekai</td><td colspan="8">-</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in">Itsuwari no shiawase demo ī to tsugeru kuchi</td><td colspan="8">-</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in">Kimi ga sotto fusagu</td><td colspan="8">-</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in">Omoide no hajimaru hi ni naru</td><td colspan="8">-</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in">Kimi ga kieta jibun de kimeta michi</td><td colspan="8">-</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in">Aruku no sa zutto setsunakute mo</td><td colspan="8">-</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in">Boku no mezasu ashita no hoshi e to</td><td colspan="8">-</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in">Mezamete genjitsu ga kuru kinō to chigau kanashimi ga taisetsudakara asu wo ikiteiku</td><td colspan="8">-</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in">Bokura ga nidoto aenakute mo sugita toki ga itami ni kawatte mo</td><td colspan="8">-</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in">Sono itami sae koeteikuyo</td><td colspan="8">-</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in">Nagasu namida nori koe yori takaku</td><td colspan="8">-</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in">Soshite tsukamu yo</td><td colspan="8">-</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in">Sumikitta sora</td><td colspan="8">-</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in">Towa ni ukabu bokura no hikari wo</td><td colspan="8">-</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Yume wo yume to kizuita yoru</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Kimi wo mitsume mabuta wo tojiru</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Nukumori mo kasaneta te mo koe mo</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Mezamereba madoromi e to kiete</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Bokura ga nidoto aenakute mo</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Sugita toki ga itami ni kawatte mo</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Sono itami de ne michibīte yo</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Boku wo terasu yozora no hoshi e to</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Amai amai otogi no kuni</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Kimi to aeta yuganda sekai</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Itsuwari no shiawase demo ī to tsugeru kuchi</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Kimi ga sotto fusagu</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Omoide no hajimaru hi ni naru</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Kimi ga kieta jibun de kimeta michi</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Aruku no sa zutto setsunakute mo</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Boku no mezasu ashita no hoshi e to</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Mezamete genjitsu ga kuru kinō to chigau kanashimi ga taisetsudakara asu wo ikiteiku</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Bokura ga nidoto aenakute mo sugita toki ga itami ni kawatte mo</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Sono itami sae koeteikuyo</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Nagasu namida nori koe yori takaku</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Soshite tsukamu yo</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Sumikitta sora</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF text-align: center"><td style="width: 1.5in"></td><td colspan="8">Towa ni ukabu bokura no hikari wo</td></tr>
 </tbody>
 </table>
