@@ -17,9 +17,13 @@ Protagonist has Dad issues and joins pretty girl that calls forth entities of gr
 ## Notes and Other Useful Data
 
   * [FFX General Information Tidbits][10]
+  * [FFX Info][3] by Grayfox96
+
+### Current Notes
   * [Original Notes][1] from MrTyton: 
   * [Any%][2] - I merely updated this section for Historical Purposes otherwise it is the same as the original notes.
-  * [FFX Info][3] by Grayfox96
+
+### Former Notes
   * [FFX Pre-MRR Skip Notes][13]
   * [FFX Trio of 9999][14]
 
