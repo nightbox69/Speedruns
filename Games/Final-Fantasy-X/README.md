@@ -13,6 +13,7 @@ Protagonist has Dad issues and joins pretty girl that calls forth entities of gr
   * [Khaegar][11]
   * [KrakenUp][12]
   * THERE'S LITERALLY HUNDREDS OF YOU IF YOU EXPECT THAT I UPDATE THIS LIST AGAIN JUST SO YOU CAN READ YOUR NAME IT WILL FUCKING NEVER HAPPEN. THIS IS THE LAST TIME. NEVER AGAIN.
+  * [Hiroshigeno36][15]
 
 ## Notes and Other Useful Data
 
@@ -27,7 +28,7 @@ Protagonist has Dad issues and joins pretty girl that calls forth entities of gr
   * [FFX Pre-MRR Skip Notes][13]
   * [FFX Trio of 9999][14]
 
-  [Return to home][15]
+  [Return to home][16]
 
 [1]: https://speedrunning-notes.github.io/Final-Fantasy-Speedruns/Final%20Fantasy%20X/notes.html
 [2]: ./Current/FFX_Any_%20-%20Single%20Column%20-%20Blitz%20Win.pdf
@@ -43,4 +44,5 @@ Protagonist has Dad issues and joins pretty girl that calls forth entities of gr
 [12]: https://twitch.tv/krakenupeuw
 [13]: ./Former/FFX_Any_%20-%20Single%20Column%20-%20Bahamut%20Pre%20MRR%20Skip.pdf
 [14]: ./Former/FFX_Any_%20-%20Single%20Column%20-%20Trio%20of%209999.pdf
-[15]: https://nightbox69.github.io/Speedruns/
+[15]: https://www.twitch.tv/hiroshigeno36
+[16]: https://nightbox69.github.io/Speedruns/
