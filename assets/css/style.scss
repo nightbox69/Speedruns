@@ -1,5 +1,15 @@
 --- --- @import "{{ site.theme }}";
 
+body {
+  background-color: #222 !important;
+  color: #eee !important;
+}
+
+a {
+  color: #8cc2ff !important;
+}
+
+
 /* Hide the default sidebar/header */
 header {
   display: none !important;
