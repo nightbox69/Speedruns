@@ -25,7 +25,7 @@ You play as a convicted juvenile delinquent on exile who decides that the legal 
 ## Notes
 
   * [General Knowledge][17]
-  * [Persona 5 Royal Hard, True Ending Beginner Notes - PC][12]
+  * [Persona 5 Royal Hard, True Ending Beginner-Intermediate Notes - PC][12]
   * [Persona 5 Royal Hard, True Ending All Confidants, All Romances - PC][13]
 
 ## Utility Guides
@@ -46,7 +46,7 @@ You play as a convicted juvenile delinquent on exile who decides that the legal 
 [9]: https://www.speedrun.com/p5r
 [10]: https://www.twitch.tv/directory/category/persona-5
 [11]: https://www.twitch.tv/directory/category/persona-5-royal
-[12]: ./Notes/P5R-PC-Notes-Beginner.md
+[12]: ./Notes/P5R-PC-Notes-Intermediate.md
 [13]: ./Notes/True-Ending-Hard-All-Confidants-And-Romances.md
 [14]: ./Notes/Utility-Guides/P5R-Crafting.md
 [15]: ./Notes/Utility-Guides/Party-Member-Confidant-Guide.md

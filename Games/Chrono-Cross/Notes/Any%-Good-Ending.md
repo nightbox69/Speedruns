@@ -6,7 +6,7 @@
 - The goal of these notes is to allow runners and casual players to find the points of the run that they need to get to in order to finish the game. If you only need the boss fight strategies consider looking for EvilAsh's notes in the [Chrono Cross Compedium][1].
 - Please DM me on discord or tag me on CC channel for typos that you have found within the notes.
 
-## Useful General Knowledge
+## Useful Knowledge
 
 - [General Knowledge][2]
 - SuperHandi's [Notes][3]

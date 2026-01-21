@@ -4,9 +4,16 @@
 
 - Anything condescending that are written in these notes are meant for the main user of these notes which is the owner. Having said that, the owner has no responsibility to apologize to anyone who has been offended reading these notes. You have been warned.
 - This version of Notes is designed for you the owner to have slept properly before the run. If you didn't **DON'T FUCKING RUN THE GAME**
+- While this is called "Beginner-Intermediate" notes, it is designed in a way that you still need adequate preparation before doing a full run. This is not a "read this and you'll be fine" type of notes. Don't be an idiot.
 - Please DM me on discord or tag me on P5R channel for typos that you have found within the notes.
 
+## Useful Bits
+
+- [General Knowledge][2]
+
+
 [1]: https://nightbox69.github.io/Speedruns/Games/Persona-5/
+[2]: ./General-Knowledge.md
 
 <table>
 <tbody>
@@ -1410,702 +1417,702 @@
 <tr><td style="width: 1.5in">11/19</td><td colspan="8">High Limit Floor</td></tr>
 <tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Sae</td><td>Joker</td><td>Makarakarn</td><td colspan="6">Joker</td></tr>
 <tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Concentrate</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td>Tetrakarn</td><td colspan="6">Joker</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td>Tetrakarn</td><td colspan="6">Makoto</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Top options - Lose 150 HP</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Choose 2nd and  3rd options</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Send Makoto</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">(Isis) Guard</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Top options</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Phase 2</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Debilitator Ofuda</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td>Spotlight</td><td colspan="6">Joker</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Switch to Kaiwan</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td>Muscle Drink</td><td colspan="6">Makoto</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Freila</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Idaten Ofuda</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Concentrate</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Rush</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Freila</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Rush</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Freila</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td>Arahabaki Switch</td><td colspan="6">(If Kaiwan doesn&#x27;t have Speed Master here stay in Kaiwan and rush)</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Rakunda</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td>Freila</td><td colspan="6">Marakunda if in Kaiwan</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Mazionga &gt; Mazio (Ryuji)</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Agidyne &gt; Agi (Ann)</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Freidyne &gt; Freila (Makoto)</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">F: Moloch</td><td colspan="8">(Decarabia) Rakunda -&gt; Rush</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">F: Kasumi fight</td><td colspan="8">Guard</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Skip save prompt [1:05]</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">11/20</td><td colspan="8">Lots of FMV skips, another save prompt</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">11/21</td><td colspan="8">[1:30]</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">Menu</td><td>Equip</td><td>Joker</td><td colspan="6">White Band</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>-</td><td>R1  Ryuji</td><td colspan="6">Regent R</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Party: Solo (Makoto out) - - - - - X - -</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Sleep [1:00]</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">11/22</td><td colspan="8">Sleep</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">11/23</td><td colspan="8">Run forward to Shido</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">11/24</td><td colspan="8">Dialogue #2 - A ship? - Skip FMV</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">F: Cerberus</td><td colspan="8">Taunt</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Freidyne &gt; Freila</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">Velvet Room</td><td colspan="8">Save</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Arahabaki + Kaiwan = Valkyrie</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Retalliating Body</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Rakunda, Makarakarn, Defense Master, Speed Master</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Buy:</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">[L1 Right] Regent</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">[Tri Left x5] Kaiwan [Tri Up x2 Left x3]</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Valkyrie + Kaiwan = Girimehkala (Ag)</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Retalliating Body</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Makarakarn, Attack Master, Defense Master, Speed Master</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Decarabia + Regent = Ananta</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Mighty Gaze</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Null Brainwash, Fire Boost, Makarakarn, Rakunda</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Growth 2 &gt; Elec Wall</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Marakukaja &gt; Abysmal Surge</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Buy:</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">[L1 Up Tri Up] Valkyrie</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">[L1 Right x2] Decarabia</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Leave</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">Night</td><td colspan="8">Study [1:00]</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">11/25</td><td colspan="8">QA Square - Hideout - Enter Palace</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">R1 Central Passage</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Save - Do OOB</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8"><b>Remember to set 120 FPS back on</b></td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">F: Yamata-no-Orochi</td><td colspan="8">Makarakarn -&gt; Rush -&gt; Ice Break -&gt; (Girimehkala) Marakunda</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Freidyne &gt; Freila (Makoto)</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Talk to waiter -&gt; Goho-M</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">R1 -&gt; Central Hall -&gt; Elevator</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">Menu</td><td colspan="8">Party: Makoto (Makoto in) - - - - - X - -</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">F: Kali</td><td>Makoto</td><td>Tetrakarn</td><td colspan="6">Makoto</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Marakunda</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td>Tetrakarn</td><td colspan="6">Makoto</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Rush</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Elec Boost &gt; Headbutt (Ryuji)</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">F: Baphomets</td><td>Makoto</td><td>Happy Bomb</td><td colspan="6">any</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">BP</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">R1 Makouga</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Makouga</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Makarakarn &gt; Diarama (Isis) - Don&#x27;t worry if you don&#x27;t get it.</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Nuke Boost &gt; Fire Boost (Ananta)</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">Menu</td><td colspan="8">Persona: Valykrie</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Party: Makoto, Ann, Ryuji (Ryuji,Ann in) - X - X - - - -</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Safe room + Save</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Get Soma (Locked Chest)</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">F: Oberon</td><td colspan="8">Fight Note: Dizzy prevents BP Chain</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Marakunda</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td>Strength Up Ofuda</td><td>Makoto</td><td colspan="5">If Makoto is Dizzy reverse Strawberry Daifuku and Str Ofuda</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="2">Next Character - Incase of Dizzy:</td><td colspan="6">Alert Capsule or Strawberry Daifuku (Incase of Multiple Dizzy)</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ryuji or Ann</td><td>Psycho Bomb</td><td colspan="6">Titania</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">BP</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann or Ryuji</td><td colspan="7">Nuke Cracker</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">BP</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Switch to Girimehkala</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">(Girimehkala) Psy Wheel</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">BP</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td>Showtime</td><td colspan="6">Oberon</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>If Joker</td><td colspan="7">Guard</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Next Char</td><td colspan="7">Stun Gun or Mazionga (Incase of Ryuji)</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Next Char</td><td colspan="7">If Stunned - Gun otherwise Stun Gun</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Next Char</td><td colspan="7">Gun Stunned Titania</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">BP</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Deathbound</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>The Rest</td><td colspan="7">Best Abilities available that is not Nuke</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">Menu</td><td colspan="8">Party: Makoto (Ryuji/Ann out) - X - X - - - -</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">F: Baphomets</td><td colspan="8">Happy Bomb BP Joker Makouga x2 (Same as before)</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">Menu</td><td colspan="8">Persona: Girimehkala</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Party: Solo (Makoto out) - - - - - X - -</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Heal Joker with Mona + Snuff Soul - Joker needs 168 SP for Ongyo-ki , 264 total</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">F: Ongyo-Ki</td><td colspan="4">Joker goes First:</td><td colspan="4">Ongyo-Ki goes First:</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="4">Makarakarn</td><td colspan="4">Marakunda</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="4">Marakunda x2</td><td colspan="4">Guard</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="4">Makarakarn x2</td><td colspan="4">Makarakarn</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="4">Marakunda</td><td colspan="4">Marakunda</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="4">After Heat Riser, Makarakarn</td><td colspan="4">Makarakarn</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="4">-</td><td colspan="4">Marakunda</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="4">-</td><td colspan="4">After Heat Riser, Makarakarn</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Repel Phys &gt; Deathbound (Girimehkala)</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Megaton Raid &gt; Rampage</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Psiodyne &gt; Psio (Haru)</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">Menu</td><td colspan="8">Joker needs 100 SP - Use 2x Snuff Soul/1 Chewing Soul or Sakura</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Equip</td><td>Joker</td><td colspan="6">Gambler&#x27;s Shirt</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="2">-</td><td colspan="6">Breath Ring</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Heal with Morgana [522 HP ish] Don&#x27;t heal if Full HP Previously</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Persona: Ananta (MOVE OUT OF GIRIMEHKALA YOU DUMB FUCK)</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">F: Akechi</td><td colspan="8">Phase 1 (Justice 9)</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">(Girimehkala) Makarakarn -&gt; Guard (if necessary)</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Phase 2 (Shadows dead)</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Marakunda -&gt; Guard -&gt; Rush -&gt; Rush</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Phase 3 (Loki)</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">(Girimehkala) Mayo Locust (If below 420hp Bead instead or Strawberry Daifuku)</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">(Decarabia) Tetrakarn</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">(Girimehkala) Marakunda</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Rush (Justice 10) (Mayo Locust before Rushing if you had to Bead)</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Megaton Raid &gt; Rampage (Ryuji)</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Gun Boost &gt; Amrita Drop (Haru)</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Leave</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">Night</td><td colspan="8">Study</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">11/26</td><td colspan="8">Sleep until 12/11 - You can rubber band and turbo X for a long break</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">12/11</td><td colspan="8">Sleep</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">Night</td><td colspan="8">SAVE</td></tr>
-<tr style="background-color: #C2D69B; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">Iwai</td><td colspan="8"><b>2nd Option</b></td></tr>
-<tr style="background-color: #C2D69B; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Sell:</td></tr>
-<tr style="background-color: #C2D69B; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">All Melee Weapons</td></tr>
-<tr style="background-color: #C2D69B; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Default Accessory (Prolly Suspenders)</td></tr>
-<tr style="background-color: #C2D69B; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Breeze Ring</td></tr>
-<tr style="background-color: #C2D69B; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">2x Soma (Need 214462 Yen)</td></tr>
-<tr style="background-color: #C2D69B; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="2">Buy (60680 Yen):</td><td colspan="6">You can buy Freeze Charms in 1/9 before talking to Akechi if lacking Money</td></tr>
-<tr style="background-color: #C2D69B; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Accessory</td><td colspan="7">2x Fearless Cape (don&#x27;t equip)</td></tr>
-<tr style="background-color: #C2D69B; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>-</td><td colspan="7">3x Freeze Charm (don&#x27;t equip)</td></tr>
-<tr style="background-color: #C2D69B; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Melee</td><td colspan="7">Ryuji - Wicked Iron Pipe (Equip and sell old)</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Jazz Club (Ann)</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Debilitate &gt; Tarunda</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">12/12</td><td colspan="8">QA Hideout - Calling Card</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Skip FMV [0:45]</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">Velvet Room</td><td colspan="8">SAVE - 150,382 Yen Required</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Delete Decarabia</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8"><b>DO NOT FUCKING SAVE UNLESS TOLD OTHERWISE A FUSION MISTAKE IS RECOVERABLE BUT YOUR STUPIDITY ISN&#x27;T</b></td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Buy:</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">[L1 Right] Regent</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">[L1 Up Tri] Obariyon</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">[Right] Jack o Lantern</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Girimehkala + Jack o Lantern = Kushinada</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Retalliating Body</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Repel Phys, Attack Master, Makarakarn, Rakunda</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="2">Ananta + Regent = Yatagarasu</td><td colspan="6"><b>DO NOT SAVE AFTER THIS ONE IF YOU MADE A MISTAKE IT&#x27;S OVER</b></td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Intense Focus</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="2">Nuke Boost, Growth2, Marakukaja,</td><td colspan="6"><b>MAFREILA (NOT RAKUNDA YOU&#x27;RE FUSING FOR TITANIA FUCKING WAKE UP)</b></td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Yatagarasu + Valkyrie = Titania</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Intense Focus</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Mafreila, Marakukaja, Growth 2, Nuke Boost</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Titania + Obariyon = Hecatoncheires</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Striking Weight</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Nuke Boost, Resist Fear, Growth 2, Rakunda</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Mid-Fusion-Save</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Buy:</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">[L1 Right] Regent</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">[Down Tri Down x2] Ananta</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">[L1 Right] Valkyrie</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">[Down] Girimehkala</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">[Left x3] Titania</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Isis + Valkyrie = Pazuzu</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Mighty Gaze</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Rakunda, Attack Master, Defense Master, Speed Master</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Ananta + Regent = Yatagarasu</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Mighty Gaze</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">All 4 passive skills at the bottom (Press Up)</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Yatagarasu + Pazuzu = Cerberus</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Mighty Gaze</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Maeiga, Fire Boost, Attack Master, Defense Master</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Buy:</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">[L1 Up Tri Up x2] Valkyrie</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">Menu</td><td colspan="8">Persona: Kushinada</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Equip</td><td>Joker</td><td colspan="6">Zen Outfit</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="2">-</td><td colspan="6">White Band</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Party: Makoto, Ann, Haru (Ann,Makoto,Haru in) - - - X - X X -</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">R1 Central passage (not central hall)</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">F: Shido</td><td colspan="8"><b>Phase 1</b></td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td><b>Spotlight</b></td><td colspan="6"><b>Joker</b></td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Rakunda</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Haru</td><td colspan="7">Matarukaja</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td>Tetrakarn</td><td colspan="6">Haru</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Concentrate</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne (Titania)</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Haru</td><td colspan="7">Matarukaja</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td colspan="7">Agidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Freidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8"><b>Phase 2</b></td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7"><b>(Valkyrie) Rakunda</b></td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Haru</td><td>Makarakarn</td><td colspan="6">Joker</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td colspan="7">Fire Break</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Nuke Break</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Haru</td><td colspan="7">Triple Down</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td colspan="7">Agidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Freidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8"><b>Phase 3</b></td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Guard</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Haru</td><td colspan="7">Matarukaja</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td colspan="7">Debilitate</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td>Spotlight</td><td colspan="6">Joker</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Guard</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Haru</td><td colspan="7">Rush</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td colspan="7">Rush</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Concentrate</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">4x Rush</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">3x Rush Freidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8"><b>Phase 4</b></td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Marakunda</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="6">If Haru outspeeds Shido</td><td colspan="2">&lt;- Shido Heat Riser</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Haru</td><td colspan="7">Baptismal Water</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td colspan="7">Guard</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="2">If Joker goes first:</td><td colspan="4">If Shido goes first:</td><td colspan="2">&lt;- Shido Heat Riser</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td>Freidyne</td><td>Joker</td><td colspan="5">(Kushinada) Rakunda</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Haru</td><td>Tetrakarn</td><td colspan="6">Haru</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td>Tetrakarn</td><td colspan="6">Ann</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td>Tetrakarn</td><td colspan="6">Makoto</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="2">If Joker went first:</td><td colspan="4">If Shido went first:</td><td colspan="2">&lt;- Shido Bloodbath</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td>(Kushinada) Rakunda</td><td>Joker</td><td colspan="5">Freidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Haru</td><td>Tetrakarn</td><td colspan="6">Haru</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td colspan="7">Dekaja</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Freidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="2">If Joker went first:</td><td colspan="6">If Shido went first:</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td>Rush</td><td>Joker</td><td colspan="5">Rakunda</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Haru</td><td>Tetrakarn</td><td colspan="6">Makoto</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td colspan="7">Agidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td>Tetrakarn</td><td colspan="6">Ann</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="2">If Joker went first:</td><td colspan="6">If Shido went first:</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td>Rakunda</td><td>Joker</td><td colspan="2">Makarakarn Haru</td><td colspan="3">(Kushinada)</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="2">-</td><td>Haru</td><td colspan="5">Rush</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Haru</td><td>Makarakarn</td><td colspan="6">Haru</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Rush</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8"><b>Phase 5</b></td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Rakunda</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td>Tetrakarn</td><td colspan="6">Haru</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td>Makarakarn</td><td colspan="6">Ann</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Haru</td><td>Makarakarn</td><td colspan="6">Makoto</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Rakunda</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td>Tetrakarn</td><td colspan="6">Ann</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td>Tetrakarn</td><td colspan="6">Makoto</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Haru</td><td colspan="7">Rush</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Makarakarn</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Rush x2</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Null Confuse &gt; Hysterical Slap (Kushinada)</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Ziodyne &gt; Zio (Ryuji)</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Gun Boost &gt; Amrita Drop (Haru)</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Null Ice &gt; Psy Wall (If you maxed Ann Confidant)</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">Night</td><td colspan="8">Sleep</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">12/13</td><td colspan="8">Sleep until 12/20</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">12/18</td><td colspan="8">Sleep [1:00]</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">12/20</td><td colspan="8">1,3,1,2</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">12/21</td><td colspan="8">1,1</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">12/22</td><td colspan="8">1,1</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Go Home</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">Night</td><td colspan="8">Laundromat -&gt; Wash everything</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">12/23</td><td colspan="8">Sleep</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">12/24</td><td colspan="8">Mementos - Go back up and R1 to lowest floor</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Collect items an flowers. Need 600 Flowers</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Collect stamps on floors - need minimum 11 stamps total. If you got x7 Items last time you don&#x27;t need any more</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Reset cognition in Area 10-13 on Path of Sheriruth -&gt; 2 Stars in EXP, remainder in Item Rewards</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">At 640 Flowers buy:</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Blue Jealousy Seed</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Kongou Ofuda (should have 2)</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Idaten Ofuda</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Re-talk to Jose for Ring of Envy</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Mementos Depths</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Leave and re-enter area for EXP glitch</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">Menu</td><td colspan="8">Party: Solo (Ann,  Makoto, Haru out) - - - X - X X -</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">F: Melchizedek</td><td colspan="8">Rush</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">Menu</td><td colspan="8">Equip Joker Ring of Envy</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Persona: Girimehkala</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Party: Makoto (Makoto in) - - - - - X - -</td></tr>
-<tr style="background-color: #FFFFFF; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Before the Puzzle: Just Run Straight</td></tr>
-<tr style="background-color: #FFFFFF; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">After the Puzzle: Possible Hypno Mist or Smokescreen Area</td></tr>
-<tr style="background-color: #FFFFFF; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Before Puzzle 2: Definitely a Hypno Mist Area</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">F: Throne</td><td>Makoto</td><td colspan="7">Mafreila</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Guard</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Marakunda</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Mafreila</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">BP</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Mafreila</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Mafreidyne &gt; Mafreila (Makoto)</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Before Puzzle 4: Use hiding spots don&#x27;t be an idiot</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">F: Dominion</td><td>Makoto</td><td colspan="7">Magneto Coil</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">BP</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td>(Tri L1 Cerberus)</td><td colspan="6">Maeiga</td></tr>
-<tr style="background-color: #FFFFFF; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Maragidyne &gt; Rebellion (Cerberus)</td></tr>
-<tr style="background-color: #FFFFFF; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Rebellion &gt; Growth 2 (Hecatoncheires)</td></tr>
-<tr style="background-color: #FFFFFF; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Matarukaja &gt; Tarukaja (Ryuji)</td></tr>
-<tr style="background-color: #FFFFFF; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">One Shot Kill &gt; Triple Down (Haru)</td></tr>
-<tr style="background-color: #FFFFFF; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">After Dominion: Definitely a Hypno Mist Area</td></tr>
-<tr style="background-color: #FFFFFF; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">After Puzzle 5: Be careful of the shadows, might need to use a smokescreen but hypno mist if things are dicey</td></tr>
-<tr style="background-color: #FFFFFF; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Before Puzzle Series: Use Hiding Spots I guess or activate a puzzle near you to disable shadows</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">Menu</td><td colspan="8">Party: Ann, Makoto, Haru (Ann/Haru in) - - - X - - X -</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Heal</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">F: Holy Grail</td><td colspan="8">Phase 1</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Rush</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td colspan="7">Debilitate</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Concentrate</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Haru</td><td colspan="7">Rush</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td colspan="7">Agidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Freidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Haru</td><td colspan="7">One-shot Kill</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Phase 2 - Dont revive if someone dies, just do 500+ damage per round</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Rush</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td colspan="7">Rush</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Freidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Haru</td><td colspan="7">One-shot Kill</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td colspan="7">Rush</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Rush</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Haru</td><td colspan="7">Rush</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td colspan="7">Rush</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Freidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Haru</td><td colspan="7">Rush</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">2 FMV Skips</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">F: Twins</td><td colspan="8">Rush and hold Triangle (or Y)</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">FMV Skip</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Grab Vest of Life chest (This is the first chest in Shibuya)</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">Menu</td><td>Equip</td><td>Joker</td><td colspan="6">Vest of Life</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>-</td><td>R1 x3 Ann</td><td colspan="6">Zen Outfit</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="2">-</td><td colspan="6">Default accessory</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>-</td><td>L1 x3 Joker</td><td colspan="6">Lantern Necklace</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">F: Uriel</td><td colspan="8">Check turn order</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Magic up Ofuda on Joker</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Debilitate Uriel</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Curse Magatama Summon &gt; BP Joker &gt; Maragidyne (Cerberus)</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Magic up Ofuda again and repeat</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Fire Amp &gt; Maragion (Ann)</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Enduring Soul &gt; Megaton Raid (Cerberus)</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">Menu</td><td colspan="8">Persona: Kushinada</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Party: Solo (Ann/Makoto/Haru out)  - - - X - X X -</td></tr>
-<tr style="background-color: #D99594; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">F: Raphael</td><td colspan="8">Rakunda x2</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Null Ice &gt; Psy Wall (Kushinada)</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Nuke Amp &gt; Lullaby (Titania)</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Concentrate &gt; Dekaja (Ann)</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">(Optional) Menu</td><td colspan="8">Set Concentrate on Ann below Agidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">F: Gabriel</td><td colspan="8">If you go first: (Valkyrie) Rakunda</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">(Valkyrie) Makarakarn</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Rakunda</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Makarakarn</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Rakunda</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Makarakarn</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Freidyne (Titania)</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Mediarahan &gt; Ziodyne (Titania)</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Charge &gt; Adverse Resolve (Ryuji)</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">Menu</td><td colspan="8">Persona: Girimehkala</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Delete Valkyrie</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Equip Joker Gambler&#x27;s Shirt</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">SP restore Joker</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">If you have 3 or more Hypno Mists: Hypno Mist here</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">If you have 3 or more Hypno: Grab Soma chest (on the left, Scarf of Mercy on the right and it&#x27;s fucking useless))</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">F: Michael</td><td colspan="8">Rush if you go first</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">(Kushinada) Rush</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Guard</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Guard</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Mediarama</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Mediarama</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Guard</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">(Cerberus) Guard</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">(Kushinada) Rush</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Rush</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Mudoon x2 (Girimehkala)</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Charge &gt; Adverse Resolve (Ryuji)</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">Menu</td><td>Equip</td><td>Joker</td><td colspan="6">Ring of Envy</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="2">-</td><td colspan="6">Formal Shirt</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>-</td><td>R1 Ryuji</td><td colspan="6">Gambler&#x27;s Shirt</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>-</td><td>R1 x2 Ann</td><td colspan="6">Lantern Necklace</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Party: Makoto, Ann (Makoto/Ann in) - - - X - X - -</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Talk to Ryuji to add him last</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">R1 to Lavenza and heal</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Or Mediarahan and SP item if you have loads</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">F: Holy Grail</td><td colspan="8">Don&#x27;t send</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">(Titania) Marakukaja</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td colspan="7">Debilitate</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Concentrate</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ryuji</td><td colspan="7">Matarukaja</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Send Ryuji</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Mediarahan</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td colspan="7">Agidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Freidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td colspan="7">Concentrate</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Concentrate</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ryuji</td><td colspan="7">Bead Chain/Starwberry Daifuku</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td colspan="7">Agidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Freidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ryuji</td><td colspan="7">Rush (DON&#x27;T EVEN TRY TO MEGATON RAID HE&#x27;S DOWN TO 30HP)</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Fire Amp &gt; Maragion</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">FMV Skip</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">F: Yaldabaoth</td><td colspan="8">Prep phase - do not deal more than 1500 damage</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Marakukaja</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td colspan="7">Debilitate</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Marakunda</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ryuji</td><td colspan="7">Charge</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td colspan="7">Concentrate</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Concentrate</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ryuji</td><td colspan="7">Matarukaja</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Concentrate</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td colspan="7">Debilitate</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Kongou Ofuda</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ryuji</td><td colspan="7">Matarukaja</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Marakukaja</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td colspan="7">Debilitate</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Soma/Strawberry Daifuku (prefer Soma)</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ryuji</td><td colspan="7">Matarukaja</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td colspan="7">Agidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Freidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ryuji</td><td colspan="7">Megaton Raid</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Phase 2 - Alternate charges and damages</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Concentrate</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td colspan="7">Concentrate</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Concentrate</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ryuji</td><td colspan="7">Charge</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td colspan="7">Agidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Freidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ryuji</td><td colspan="7">Megaton Raid</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Concentrate</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td colspan="7">Concentrate</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Concentrate</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ryuji</td><td colspan="7">Charge</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td colspan="7">Agidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Freidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ryuji</td><td colspan="7">Megaton Raid</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Phase 3 - Divine Apex</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Concentrate</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td colspan="7">Concentrate</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Concentrate</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ryuji</td><td colspan="7">Megaton Raid/Rush</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td colspan="7">Agidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Freidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ryuji</td><td colspan="7">Megaton Raid/Rush</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Skip FMV</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Skip save prompt when everyone walks off screen [1:00 ish maybe]</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">12/25</td><td colspan="8">Skip save prompt when in bed</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">1/1</td><td colspan="8">Skip FMV [1:35]</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">1/2</td><td colspan="8">Palace - Get safety chest (Revival beads, Soul food)</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">Menu</td><td>Equip</td><td>Joker</td><td colspan="6">Fearless Cape</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>-</td><td>Akechi</td><td colspan="6">Fearless Cape</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>-</td><td>Kasumi</td><td colspan="6">Ring of Envy</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Person</td><td colspan="7">Hecatoncheires</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">F: Macabre</td><td>Akechi</td><td colspan="7">Rush</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Kasumi</td><td colspan="7">Makougaon</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">BP</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Akechi</td><td colspan="7">Megidolaon</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">F: Belial</td><td colspan="8">Idaten Ofuda</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Makougaon</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">Menu</td><td colspan="8">Kasumi -&gt; White Band</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Persona: Girimehkala</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Skip FMV x3</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">F: Hasfur</td><td>Akechi</td><td colspan="7">Debilitate</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Concentrate</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Akechi</td><td colspan="7">Rush</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Mediarahan</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Akechi</td><td colspan="7">Laevateinn</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Rush/Rush</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Showtime</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Save prompt after conversation with Mona</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">1/3</td><td colspan="8">Talk to everyone:</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Ann</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">1/4</td><td colspan="8">Makoto</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">1/5</td><td colspan="8">Ryuji</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">1/6</td><td colspan="8">Haru</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">1/7</td><td colspan="8">Futaba</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">1/8</td><td colspan="8">Yusuke</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Don&#x27;t save</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">1/9</td><td colspan="8">If you did not go to buy Accessories before Shido you can do it now (Go the left and Airsoft Shop)</td></tr>
-<tr style="background-color: #C2D69B; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">Iwai</td><td>Buy:</td><td colspan="7">(If not yet done)</td></tr>
-<tr style="background-color: #C2D69B; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Accessory</td><td colspan="7">3x Freeze Charm (don&#x27;t equip)</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td>Tetrakarn</td><td colspan="6">Joker</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td>Tetrakarn</td><td colspan="6">Makoto</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Top options - Lose 150 HP</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Choose 2nd and  3rd options</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Send Makoto</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">(Isis) Guard</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Top options</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Phase 2</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Debilitator Ofuda</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td>Spotlight</td><td colspan="6">Joker</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Switch to Kaiwan</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td>Muscle Drink</td><td colspan="6">Makoto</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Freila</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Idaten Ofuda</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Concentrate</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Rush</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Freila</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Rush</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Freila</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td>Arahabaki Switch</td><td colspan="6">(If Kaiwan doesn&#x27;t have Speed Master here stay in Kaiwan and rush)</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Rakunda</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td>Freila</td><td colspan="6">Marakunda if in Kaiwan</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Mazionga &gt; Mazio (Ryuji)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Agidyne &gt; Agi (Ann)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Freidyne &gt; Freila (Makoto)</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Moloch</td><td colspan="8">(Decarabia) Rakunda -&gt; Rush</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Kasumi fight</td><td colspan="8">Guard</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Skip save prompt [1:05]</td></tr>
+<tr><td style="width: 1.5in">11/20</td><td colspan="8">Lots of FMV skips, another save prompt</td></tr>
+<tr><td style="width: 1.5in">11/21</td><td colspan="8">[1:30]</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in">Menu</td><td>Equip</td><td>Joker</td><td colspan="6">White Band</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td>-</td><td>R1  Ryuji</td><td colspan="6">Regent R</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Party: Solo (Makoto out) - - - - - X - -</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Sleep [1:00]</td></tr>
+<tr><td style="width: 1.5in">11/22</td><td colspan="8">Sleep</td></tr>
+<tr><td style="width: 1.5in">11/23</td><td colspan="8" style="border-top: 1px solid #000">Run forward to Shido</td></tr>
+<tr><td style="width: 1.5in">11/24</td><td colspan="8">Dialogue #2 - A ship? - Skip FMV</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Cerberus</td><td colspan="8">Taunt</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Freidyne &gt; Freila</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in">Velvet Room</td><td colspan="8">Save</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Arahabaki + Kaiwan = Valkyrie</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Retalliating Body</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Rakunda, Makarakarn, Defense Master, Speed Master</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Buy:</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">[L1 Right] Regent</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">[Tri Left x5] Kaiwan [Tri Up x2 Left x3]</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Valkyrie + Kaiwan = Girimehkala (Ag)</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Retalliating Body</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Makarakarn, Attack Master, Defense Master, Speed Master</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Decarabia + Regent = Ananta</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Mighty Gaze</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Null Brainwash, Fire Boost, Makarakarn, Rakunda</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Growth 2 &gt; Elec Wall</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Marakukaja &gt; Abysmal Surge</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Buy:</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">[L1 Up Tri Up] Valkyrie</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">[L1 Right x2] Decarabia</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Leave</td></tr>
+<tr><td style="width: 1.5in">Night</td><td colspan="8">Study [1:00]</td></tr>
+<tr><td style="width: 1.5in">11/25</td><td colspan="8">QA Square - Hideout - Enter Palace</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">R1 Central Passage</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Save - Do OOB</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8"><b>Remember to set 120 FPS back on</b></td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Yamata-no-Orochi</td><td colspan="8">Makarakarn -&gt; Rush -&gt; Ice Break -&gt; (Girimehkala) Marakunda</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Freidyne &gt; Freila (Makoto)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Talk to waiter -&gt; Goho-M</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">R1 -&gt; Central Hall -&gt; Elevator</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in">Menu</td><td colspan="8">Party: Makoto (Makoto in) - - - - - X - -</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Kali</td><td>Makoto</td><td>Tetrakarn</td><td colspan="6">Makoto</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Marakunda</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td>Tetrakarn</td><td colspan="6">Makoto</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Rush</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Elec Boost &gt; Headbutt (Ryuji)</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Baphomets</td><td>Makoto</td><td>Happy Bomb</td><td colspan="6">any</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">BP</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">R1 Makouga</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Makouga</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Makarakarn &gt; Diarama (Isis) - Don&#x27;t worry if you don&#x27;t get it.</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Nuke Boost &gt; Fire Boost (Ananta)</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in">Menu</td><td colspan="8">Persona: Valykrie</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Party: Makoto, Ann, Ryuji (Ryuji,Ann in) - X - X - - - -</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Safe room + Save</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Get Soma (Locked Chest)</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Oberon</td><td colspan="8">Fight Note: Dizzy prevents BP Chain</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Marakunda</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td>Strength Up Ofuda</td><td>Makoto</td><td colspan="5">If Makoto is Dizzy reverse Strawberry Daifuku and Str Ofuda</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="2">Next Character - Incase of Dizzy:</td><td colspan="6">Alert Capsule or Strawberry Daifuku (Incase of Multiple Dizzy)</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ryuji or Ann</td><td>Psycho Bomb</td><td colspan="6">Titania</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">BP</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann or Ryuji</td><td colspan="7">Nuke Cracker</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">BP</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Switch to Girimehkala</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">(Girimehkala) Psy Wheel</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">BP</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td>Showtime</td><td colspan="6">Oberon</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>If Joker</td><td colspan="7">Guard</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Next Char</td><td colspan="7">Stun Gun or Mazionga (Incase of Ryuji)</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Next Char</td><td colspan="7">If Stunned - Gun otherwise Stun Gun</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Next Char</td><td colspan="7">Gun Stunned Titania</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">BP</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Deathbound</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>The Rest</td><td colspan="7">Best Abilities available that is not Nuke</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in">Menu</td><td colspan="8">Party: Makoto (Ryuji/Ann out) - X - X - - - -</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Baphomets</td><td colspan="8">Happy Bomb BP Joker Makouga x2 (Same as before)</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in">Menu</td><td colspan="8">Persona: Girimehkala</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Party: Solo (Makoto out) - - - - - X - -</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Heal Joker with Mona + Snuff Soul - Joker needs 168 SP for Ongyo-ki , 264 total</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Ongyo-Ki</td><td colspan="4">Joker goes First:</td><td colspan="4">Ongyo-Ki goes First:</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="4">Makarakarn</td><td colspan="4">Marakunda</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="4">Marakunda x2</td><td colspan="4">Guard</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="4">Makarakarn x2</td><td colspan="4">Makarakarn</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="4">Marakunda</td><td colspan="4">Marakunda</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="4">After Heat Riser, Makarakarn</td><td colspan="4">Makarakarn</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="4">-</td><td colspan="4">Marakunda</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="4">-</td><td colspan="4">After Heat Riser, Makarakarn</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Repel Phys &gt; Deathbound (Girimehkala)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Megaton Raid &gt; Rampage</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Psiodyne &gt; Psio (Haru)</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in">Menu</td><td colspan="8">Joker needs 100 SP - Use 2x Snuff Soul/1 Chewing Soul or Sakura</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td>Equip</td><td>Joker</td><td colspan="6">Gambler&#x27;s Shirt</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td colspan="2">-</td><td colspan="6">Breath Ring</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Heal with Morgana [522 HP ish] Don&#x27;t heal if Full HP Previously</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Persona: Ananta (MOVE OUT OF GIRIMEHKALA YOU DUMB FUCK)</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Akechi</td><td colspan="8">Phase 1 (Justice 9)</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">(Girimehkala) Makarakarn -&gt; Guard (if necessary)</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Phase 2 (Shadows dead)</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Marakunda -&gt; Guard -&gt; Rush -&gt; Rush</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Phase 3 (Loki)</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">(Girimehkala) Mayo Locust (If below 420hp Bead instead or Strawberry Daifuku)</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">(Decarabia) Tetrakarn</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">(Girimehkala) Marakunda</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Rush (Justice 10) (Mayo Locust before Rushing if you had to Bead)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Megaton Raid &gt; Rampage (Ryuji)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Gun Boost &gt; Amrita Drop (Haru)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Leave</td></tr>
+<tr><td style="width: 1.5in">Night</td><td colspan="8">Study</td></tr>
+<tr><td style="width: 1.5in">11/26</td><td colspan="8">Sleep until 12/11 - You can rubber band and turbo X for a long break</td></tr>
+<tr><td style="width: 1.5in">12/11</td><td colspan="8">Sleep</td></tr>
+<tr><td style="width: 1.5in">Night</td><td colspan="8">SAVE</td></tr>
+<tr style="background-color: #C2D69B; color: #000000"><td style="width: 1.5in">Iwai</td><td colspan="8"><b>2nd Option</b></td></tr>
+<tr style="background-color: #C2D69B; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Sell:</td></tr>
+<tr style="background-color: #C2D69B; color: #000000"><td style="width: 1.5in"></td><td colspan="8">All Melee Weapons</td></tr>
+<tr style="background-color: #C2D69B; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Default Accessory (Prolly Suspenders)</td></tr>
+<tr style="background-color: #C2D69B; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Breeze Ring</td></tr>
+<tr style="background-color: #C2D69B; color: #000000"><td style="width: 1.5in"></td><td colspan="8">2x Soma (Need 214462 Yen)</td></tr>
+<tr style="background-color: #C2D69B; color: #000000"><td style="width: 1.5in"></td><td colspan="2">Buy (60680 Yen):</td><td colspan="6">You can buy Freeze Charms in 1/9 before talking to Akechi if lacking Money</td></tr>
+<tr style="background-color: #C2D69B; color: #000000"><td style="width: 1.5in"></td><td>Accessory</td><td colspan="7">2x Fearless Cape (don&#x27;t equip)</td></tr>
+<tr style="background-color: #C2D69B; color: #000000"><td style="width: 1.5in"></td><td>-</td><td colspan="7">3x Freeze Charm (don&#x27;t equip)</td></tr>
+<tr style="background-color: #C2D69B; color: #000000"><td style="width: 1.5in"></td><td>Melee</td><td colspan="7">Ryuji - Wicked Iron Pipe (Equip and sell old)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Jazz Club (Ann)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Debilitate &gt; Tarunda</td></tr>
+<tr><td style="width: 1.5in">12/12</td><td colspan="8">QA Hideout - Calling Card</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Skip FMV [0:45]</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in">Velvet Room</td><td colspan="8">SAVE - 150,382 Yen Required</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Delete Decarabia</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8"><b>DO NOT FUCKING SAVE UNLESS TOLD OTHERWISE A FUSION MISTAKE IS RECOVERABLE BUT YOUR STUPIDITY ISN&#x27;T</b></td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Buy:</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">[L1 Right] Regent</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">[L1 Up Tri] Obariyon</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">[Right] Jack o Lantern</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Girimehkala + Jack o Lantern = Kushinada</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Retalliating Body</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Repel Phys, Attack Master, Makarakarn, Rakunda</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="2">Ananta + Regent = Yatagarasu</td><td colspan="6"><b>DO NOT SAVE AFTER THIS ONE IF YOU MADE A MISTAKE IT&#x27;S OVER</b></td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Intense Focus</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="2">Nuke Boost, Growth2, Marakukaja,</td><td colspan="6"><b>MAFREILA (NOT RAKUNDA YOU&#x27;RE FUSING FOR TITANIA FUCKING WAKE UP)</b></td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Yatagarasu + Valkyrie = Titania</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Intense Focus</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Mafreila, Marakukaja, Growth 2, Nuke Boost</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Titania + Obariyon = Hecatoncheires</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Striking Weight</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Nuke Boost, Resist Fear, Growth 2, Rakunda</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Mid-Fusion-Save</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Buy:</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">[L1 Right] Regent</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">[Down Tri Down x2] Ananta</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">[L1 Right] Valkyrie</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">[Down] Girimehkala</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">[Left x3] Titania</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Isis + Valkyrie = Pazuzu</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Mighty Gaze</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Rakunda, Attack Master, Defense Master, Speed Master</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Ananta + Regent = Yatagarasu</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Mighty Gaze</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">All 4 passive skills at the bottom (Press Up)</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Yatagarasu + Pazuzu = Cerberus</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Mighty Gaze</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Maeiga, Fire Boost, Attack Master, Defense Master</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Buy:</td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">[L1 Up Tri Up x2] Valkyrie</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in">Menu</td><td colspan="8">Persona: Kushinada</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td>Equip</td><td>Joker</td><td colspan="6">Zen Outfit</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td colspan="2">-</td><td colspan="6">White Band</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Party: Makoto, Ann, Haru (Ann,Makoto,Haru in) - - - X - X X -</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">R1 Central passage (not central hall)</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Shido</td><td colspan="8"><b>Phase 1</b></td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td><b>Spotlight</b></td><td colspan="6"><b>Joker</b></td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Rakunda</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Haru</td><td colspan="7">Matarukaja</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td>Tetrakarn</td><td colspan="6">Haru</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Concentrate</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne (Titania)</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Haru</td><td colspan="7">Matarukaja</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Agidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Freidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8"><b>Phase 2</b></td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7"><b>(Valkyrie) Rakunda</b></td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Haru</td><td>Makarakarn</td><td colspan="6">Joker</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Fire Break</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Nuke Break</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Haru</td><td colspan="7">Triple Down</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Agidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Freidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8"><b>Phase 3</b></td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Guard</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Haru</td><td colspan="7">Matarukaja</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Debilitate</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td>Spotlight</td><td colspan="6">Joker</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Guard</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Haru</td><td colspan="7">Rush</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Rush</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Concentrate</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">4x Rush</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">3x Rush Freidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8"><b>Phase 4</b></td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Marakunda</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="6" style="border-top: 1px solid #000; border-left: 1px solid #000; border-right: 1px solid #000">If Haru outspeeds Shido</td><td colspan="2">&lt;- Shido Heat Riser</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td style="border-bottom: 1px solid #000; border-left: 1px solid #000">Haru</td><td colspan="5" style="border-bottom: 1px solid #000; border-right: 1px solid #000">Baptismal Water</td><td colspan="2">-</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Guard</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="2" style="border-top: 1px solid #000; border-left: 1px solid #000">If Joker goes first:</td><td colspan="4" style="border-top: 1px solid #000; border-right: 1px solid #000">If Shido goes first:</td><td colspan="2">&lt;- Shido Heat Riser</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td style="border-bottom: 1px solid #000; border-left: 1px solid #000">Joker</td><td style="border-bottom: 1px solid #000">Freidyne</td><td style="border-bottom: 1px solid #000">Joker</td><td colspan="3" style="border-bottom: 1px solid #000; border-right: 1px solid #000">(Kushinada) Rakunda</td><td colspan="2">-</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Haru</td><td>Tetrakarn</td><td colspan="6">Haru</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td>Tetrakarn</td><td colspan="6">Ann</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td>Tetrakarn</td><td colspan="6">Makoto</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="2" style="border-top: 1px solid #000; border-left: 1px solid #000">If Joker went first:</td><td colspan="4" style="border-top: 1px solid #000; border-right: 1px solid #000">If Shido went first:</td><td colspan="2">&lt;- Shido Bloodbath</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td style="border-bottom: 1px solid #000; border-left: 1px solid #000">Joker</td><td colspan="2" style="border-bottom: 1px solid #000">(Kushinada) Rakunda</td><td style="border-bottom: 1px solid #000">Joker</td><td colspan="2" style="border-bottom: 1px solid #000; border-right: 1px solid #000">Freidyne</td><td colspan="2">-</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Haru</td><td>Tetrakarn</td><td colspan="6">Haru</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td>Dekaja</td><td>Shido</td><td colspan="5"><b>THIS IS IMPORTANT DON&#x27;T FORGET THIS PART</b></td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Freidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="2" style="border-top: 1px solid #000; border-left: 1px solid #000">If Joker went first:</td><td colspan="4" style="border-top: 1px solid #000; border-right: 1px solid #000">If Shido went first:</td><td colspan="2">&lt;- Shido Heat Riser</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td style="border-bottom: 1px solid #000; border-left: 1px solid #000">Joker</td><td style="border-bottom: 1px solid #000">Rush</td><td style="border-bottom: 1px solid #000">Joker</td><td colspan="3" style="border-bottom: 1px solid #000; border-right: 1px solid #000">Rakunda</td><td colspan="2">&lt;- Things go wrong w/o Dekaja</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Haru</td><td>Tetrakarn</td><td colspan="6">Makoto</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Agidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td>Tetrakarn</td><td colspan="6">Ann</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="2" style="border-top: 1px solid #000; border-left: 1px solid #000">If Joker went first:</td><td colspan="4" style="border-top: 1px solid #000; border-right: 1px solid #000">If Shido went first:</td><td colspan="2">-</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td style="border-left: 1px solid #000">Joker</td><td>Rakunda</td><td>Joker</td><td colspan="2">Makarakarn Haru</td><td style="border-right: 1px solid #000">(Kushinada)</td><td colspan="2">-</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="2" style="border-bottom: 1px solid #000; border-left: 1px solid #000">-</td><td style="border-bottom: 1px solid #000">Haru</td><td colspan="3" style="border-bottom: 1px solid #000; border-right: 1px solid #000">Rush</td><td colspan="2">-</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Haru</td><td>Makarakarn</td><td colspan="6">Haru</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Rush</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8"><b>Phase 5</b></td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Rakunda</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td>Tetrakarn</td><td colspan="6">Haru</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td>Makarakarn</td><td colspan="6">Ann</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Haru</td><td>Makarakarn</td><td colspan="6">Makoto</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Rakunda</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td>Tetrakarn</td><td colspan="6">Ann</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td>Tetrakarn</td><td colspan="6">Makoto</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Haru</td><td colspan="7">Rush</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Makarakarn</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Rush x2</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Null Confuse &gt; Hysterical Slap (Kushinada)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Ziodyne &gt; Zio (Ryuji)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Gun Boost &gt; Amrita Drop (Haru)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Null Ice &gt; Psy Wall (If you maxed Ann Confidant)</td></tr>
+<tr><td style="width: 1.5in">Night</td><td colspan="8">Sleep</td></tr>
+<tr><td style="width: 1.5in">12/13</td><td colspan="8">Sleep until 12/20</td></tr>
+<tr><td style="width: 1.5in">12/18</td><td colspan="8">Sleep [1:00]</td></tr>
+<tr><td style="width: 1.5in">12/20</td><td colspan="8">1,3,1,2</td></tr>
+<tr><td style="width: 1.5in">12/21</td><td colspan="8">1,1</td></tr>
+<tr><td style="width: 1.5in">12/22</td><td colspan="8">1,1</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Go Home</td></tr>
+<tr><td style="width: 1.5in">Night</td><td colspan="8">Laundromat -&gt; Wash everything</td></tr>
+<tr><td style="width: 1.5in">12/23</td><td colspan="8">Sleep</td></tr>
+<tr><td style="width: 1.5in">12/24</td><td colspan="8">Mementos - Go back up and R1 to lowest floor</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Collect items an flowers. Need 600 Flowers</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Collect stamps on floors - need minimum 11 stamps total. If you got x7 Items last time you don&#x27;t need any more</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Reset cognition in Area 10-13 on Path of Sheriruth -&gt; 2 Stars in EXP, remainder in Item Rewards</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">At 640 Flowers buy:</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Blue Jealousy Seed</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Kongou Ofuda (should have 2)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Idaten Ofuda</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Re-talk to Jose for Ring of Envy</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Mementos Depths</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Leave and re-enter area for EXP glitch</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in">Menu</td><td colspan="8">Party: Solo (Ann,  Makoto, Haru out) - - - X - X X -</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Melchizedek</td><td colspan="8">Rush</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in">Menu</td><td colspan="8">Equip Joker Ring of Envy</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Persona: Girimehkala</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Party: Makoto (Makoto in) - - - - - X - -</td></tr>
+<tr style="background-color: #FFFFFF; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Before the Puzzle: Just Run Straight</td></tr>
+<tr style="background-color: #FFFFFF; color: #000000"><td style="width: 1.5in"></td><td colspan="8">After the Puzzle: Possible Hypno Mist or Smokescreen Area</td></tr>
+<tr style="background-color: #FFFFFF; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Before Puzzle 2: Definitely a Hypno Mist Area</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Throne</td><td>Makoto</td><td colspan="7">Mafreila</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Guard</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Marakunda</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Mafreila</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">BP</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Mafreila</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Mafreidyne &gt; Mafreila (Makoto)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Before Puzzle 4: Use hiding spots don&#x27;t be an idiot</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Dominion</td><td>Makoto</td><td colspan="7">Magneto Coil</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">BP</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td>(Tri L1 Cerberus)</td><td colspan="6">Maeiga</td></tr>
+<tr style="background-color: #FFFFFF; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Maragidyne &gt; Rebellion (Cerberus)</td></tr>
+<tr style="background-color: #FFFFFF; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Rebellion &gt; Growth 2 (Hecatoncheires)</td></tr>
+<tr style="background-color: #FFFFFF; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Matarukaja &gt; Tarukaja (Ryuji)</td></tr>
+<tr style="background-color: #FFFFFF; color: #000000"><td style="width: 1.5in"></td><td colspan="8">One Shot Kill &gt; Triple Down (Haru)</td></tr>
+<tr style="background-color: #FFFFFF; color: #000000"><td style="width: 1.5in"></td><td colspan="8">After Dominion: Definitely a Hypno Mist Area</td></tr>
+<tr style="background-color: #FFFFFF; color: #000000"><td style="width: 1.5in"></td><td colspan="8">After Puzzle 5: Be careful of the shadows, might need to use a smokescreen but hypno mist if things are dicey</td></tr>
+<tr style="background-color: #FFFFFF; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Before Puzzle Series: Use Hiding Spots I guess or activate a puzzle near you to disable shadows</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in">Menu</td><td colspan="8">Party: Ann, Makoto, Haru (Ann/Haru in) - - - X - - X -</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Heal</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Holy Grail</td><td colspan="8">Phase 1</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Rush</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Debilitate</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Concentrate</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Haru</td><td colspan="7">Rush</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Agidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Freidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Haru</td><td colspan="7">One-shot Kill</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Phase 2 - Dont revive if someone dies, just do 500+ damage per round</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Rush</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Rush</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Freidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Haru</td><td colspan="7">One-shot Kill</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Rush</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Rush</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Haru</td><td colspan="7">Rush</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Rush</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Freidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Haru</td><td colspan="7">Rush</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">2 FMV Skips</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Twins</td><td colspan="8">Rush and hold Triangle (or Y)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">FMV Skip</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Grab Vest of Life chest (This is the first chest in Shibuya)</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in">Menu</td><td>Equip</td><td>Joker</td><td colspan="6">Vest of Life</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td>-</td><td>R1 x3 Ann</td><td colspan="6">Zen Outfit</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td colspan="2">-</td><td colspan="6">Default accessory</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td>-</td><td>L1 x3 Joker</td><td colspan="6">Lantern Necklace</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Uriel</td><td colspan="8">Check turn order</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Magic up Ofuda on Joker</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Debilitate Uriel</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Curse Magatama Summon &gt; BP Joker &gt; Maragidyne (Cerberus)</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Magic up Ofuda again and repeat</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Fire Amp &gt; Maragion (Ann)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Enduring Soul &gt; Megaton Raid (Cerberus)</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in">Menu</td><td colspan="8">Persona: Kushinada</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Party: Solo (Ann/Makoto/Haru out)  - - - X - X X -</td></tr>
+<tr style="background-color: #D99594; color: #000000"><td style="width: 1.5in">F: Raphael</td><td colspan="8">Rakunda x2</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Null Ice &gt; Psy Wall (Kushinada)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Nuke Amp &gt; Lullaby (Titania)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Concentrate &gt; Dekaja (Ann)</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in">(Optional) Menu</td><td colspan="8">Set Concentrate on Ann below Agidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Gabriel</td><td colspan="8">If you go first: (Valkyrie) Rakunda</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">(Valkyrie) Makarakarn</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Rakunda</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Makarakarn</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Rakunda</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Makarakarn</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Freidyne (Titania)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Mediarahan &gt; Ziodyne (Titania)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Charge &gt; Adverse Resolve (Ryuji)</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in">Menu</td><td colspan="8">Persona: Girimehkala</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Delete Valkyrie</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Equip Joker Gambler&#x27;s Shirt</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td colspan="8">SP restore Joker</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">If you have 3 or more Hypno Mists: Hypno Mist here</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">If you have 3 or more Hypno: Grab Soma chest (on the left, Scarf of Mercy on the right and it&#x27;s fucking useless))</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Michael</td><td colspan="8">Rush if you go first</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">(Kushinada) Rush</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Guard</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Guard</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Mediarama</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Mediarama</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Guard</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">(Cerberus) Guard</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">(Kushinada) Rush</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Rush</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Mudoon x2 (Girimehkala)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Charge &gt; Adverse Resolve (Ryuji)</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in">Menu</td><td>Equip</td><td>Joker</td><td colspan="6">Ring of Envy</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td colspan="2">-</td><td colspan="6">Formal Shirt</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td>-</td><td>R1 Ryuji</td><td colspan="6">Gambler&#x27;s Shirt</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td>-</td><td>R1 x2 Ann</td><td colspan="6">Lantern Necklace</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Party: Makoto, Ann (Makoto/Ann in) - - - X - X - -</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Talk to Ryuji to add him last</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">R1 to Lavenza and heal</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Or Mediarahan and SP item if you have loads</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Holy Grail</td><td colspan="8">Don&#x27;t send</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">(Titania) Marakukaja</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Debilitate</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Concentrate</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ryuji</td><td colspan="7">Matarukaja</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Send Ryuji</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Mediarahan</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Agidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Freidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Concentrate</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Concentrate</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ryuji</td><td colspan="7">Bead Chain/Starwberry Daifuku</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Agidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Freidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ryuji</td><td colspan="7">Rush (DON&#x27;T EVEN TRY TO MEGATON RAID HE&#x27;S DOWN TO 30HP)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Fire Amp &gt; Maragion</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">FMV Skip</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Yaldabaoth</td><td colspan="8">Prep phase - do not deal more than 1500 damage</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Marakukaja</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Debilitate</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Marakunda</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ryuji</td><td colspan="7">Charge</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Concentrate</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Concentrate</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ryuji</td><td colspan="7">Matarukaja</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Concentrate</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Debilitate</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Kongou Ofuda</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ryuji</td><td colspan="7">Matarukaja</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Marakukaja</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Debilitate</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Soma/Strawberry Daifuku (prefer Soma)</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ryuji</td><td colspan="7">Matarukaja</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Agidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Freidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ryuji</td><td colspan="7">Megaton Raid</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Phase 2 - Alternate charges and damages</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Concentrate</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Concentrate</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Concentrate</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ryuji</td><td colspan="7">Charge</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Agidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Freidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ryuji</td><td colspan="7">Megaton Raid</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Concentrate</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Concentrate</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Concentrate</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ryuji</td><td colspan="7">Charge</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Agidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Freidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ryuji</td><td colspan="7">Megaton Raid</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Phase 3 - Divine Apex</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Concentrate</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Concentrate</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Concentrate</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ryuji</td><td colspan="7">Megaton Raid/Rush</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Agidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Freidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ryuji</td><td colspan="7">Megaton Raid/Rush</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Skip FMV</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Skip save prompt when everyone walks off screen [1:00 ish maybe]</td></tr>
+<tr><td style="width: 1.5in">12/25</td><td colspan="8">Skip save prompt when in bed</td></tr>
+<tr><td style="width: 1.5in">1/1</td><td colspan="8">Skip FMV [1:35]</td></tr>
+<tr><td style="width: 1.5in">1/2</td><td colspan="8">Palace - Get safety chest (Revival beads, Soul food)</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in">Menu</td><td>Equip</td><td>Joker</td><td colspan="6">Fearless Cape</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td>-</td><td>Akechi</td><td colspan="6">Fearless Cape</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td>-</td><td>Kasumi</td><td colspan="6">Ring of Envy</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td>Person</td><td colspan="7">Hecatoncheires</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Macabre</td><td>Akechi</td><td colspan="7">Rush</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Kasumi</td><td colspan="7">Makougaon</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">BP</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Akechi</td><td colspan="7">Megidolaon</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Belial</td><td colspan="8">Idaten Ofuda</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Makougaon</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in">Menu</td><td colspan="8">Kasumi -&gt; White Band</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Persona: Girimehkala</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Skip FMV x3</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Hasfur</td><td>Akechi</td><td colspan="7">Debilitate</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Concentrate</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Akechi</td><td colspan="7">Rush</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Mediarahan</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Akechi</td><td colspan="7">Laevateinn</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Rush/Rush</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Showtime</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Save prompt after conversation with Mona</td></tr>
+<tr><td style="width: 1.5in">1/3</td><td colspan="8">Talk to everyone:</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Ann</td></tr>
+<tr><td style="width: 1.5in">1/4</td><td colspan="8">Makoto</td></tr>
+<tr><td style="width: 1.5in">1/5</td><td colspan="8">Ryuji</td></tr>
+<tr><td style="width: 1.5in">1/6</td><td colspan="8">Haru</td></tr>
+<tr><td style="width: 1.5in">1/7</td><td colspan="8">Futaba</td></tr>
+<tr><td style="width: 1.5in">1/8</td><td colspan="8">Yusuke</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Don&#x27;t save</td></tr>
+<tr><td style="width: 1.5in">1/9</td><td colspan="8">If you did not go to buy Accessories before Shido you can do it now (Go the left and Airsoft Shop)</td></tr>
+<tr style="background-color: #C2D69B; color: #000000"><td style="width: 1.5in">Iwai</td><td>Buy:</td><td colspan="7">(If not yet done)</td></tr>
+<tr style="background-color: #C2D69B; color: #000000"><td style="width: 1.5in"></td><td>Accessory</td><td colspan="7">3x Freeze Charm (don&#x27;t equip)</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">Talk to Akechi and enter palace</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">Don&#x27;t take the Corridor Safe Room (It&#x27;s Useless)</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">Menu</td><td>Equip</td><td>Joker</td><td colspan="6">Ring of Envy</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">F: Kasumi</td><td colspan="8">Marakunda</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Skip FMV</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">F: Cendrillon</td><td colspan="8">Phase 1:</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Mafreila</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Guard/Guard</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Rush x4</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Phase 2:</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">(Kushinada) Matarukaja</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Akechi</td><td colspan="7">Debilitate</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Concentrate</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ryuji</td><td colspan="3">Freeze Spray (or Any single Target Ice Item)</td><td colspan="4">Summon</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">BP</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Mafreidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">BP</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Fire Amp &gt; Maragion (Ann)</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">Night</td><td colspan="8">Sleep [1:00]</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">1/10</td><td colspan="8">Sleep</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">1/11</td><td colspan="8">Story stuff + Sleep</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">1/12</td><td colspan="8">Palace</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">Menu</td><td colspan="8">Party: Ann, Makoto, Kasumi (Akechi out, Ann in) - - - X - - - X - -</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">F: Loa</td><td colspan="8">Makougaon x2</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">F: Dionysus</td><td>Makoto</td><td colspan="7">Vacuum Cutter</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">BP</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Mafreila</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">Menu</td><td>Persona:</td><td colspan="7">Kushinada</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Party: Ryuji, Makoto, Kasumi (Ann out, Ryuji in) - X - X - - - - - -</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Equip</td><td>Joker</td><td colspan="6">Ring of Envy</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>-</td><td>R1 Ryuji</td><td colspan="6">Freeze Charm</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>-</td><td>R1 x4 Makoto</td><td colspan="6">Freeze Charm</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>-</td><td>R1 x3 Kasumi</td><td colspan="6">Freeze Charm</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>-</td><td>L1 Akechi</td><td colspan="6">Black Robe</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>-</td><td>R1 x3 Joker</td><td colspan="6">Chaos Undershirt</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Take safe room</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">F: Scathach</td><td>Makoto</td><td>Stun Gun</td><td colspan="6">Okuninushi</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">BP</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ryuji</td><td colspan="7">Elec Break</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Kasumi</td><td>Molotov Cocktail</td><td colspan="6">Okuninushi</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ryuji</td><td>Stun Gun</td><td colspan="6">Scathach</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Marakunda</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td>Stun Gun</td><td colspan="6">Okuninushi</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">BP</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Mafreila</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ryuji</td><td colspan="7">Gun</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">BP</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Nuke Amp &gt; Mafreidyne (Makoto)</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">Menu</td><td colspan="8">Party: Ann, Makoto, Kasumi</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Equip</td><td>R1 x2 Kasumi</td><td colspan="6">Khamrai Tao</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>-</td><td>L1 x3 Makoto</td><td colspan="6">Regent</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>-</td><td>L1 x2 Ann</td><td colspan="6">Regent</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Sleep</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">1/13</td><td colspan="8">Backstreets -&gt; Thick Parchments + Tanned Leather</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Go Home</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">Night</td><td colspan="8">Study</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">1/14</td><td colspan="8">Home/Study</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">1/15</td><td colspan="8">Craft - 8 Hypno Mist - Use these in either Mementos or Palace whenever you get cornered or on screens you don&#x27;t like</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Save 1 Hypno Mist for Surt OoB</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">Night</td><td colspan="8">Sleep</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">1/16</td><td colspan="8">Backstreets -&gt; Thick Parchments + Tanned Leather</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">QA Hideout -&gt; View Requests -&gt; Mementos</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Head to bottom and enter new Mementos</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Run straight to the end. Use Hypno Mists if you want to</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">Night</td><td colspan="8">Craft 3x Spotlight (Up to 3, craft 1 or 0 as appropriate), 2x Hypno Mists, Rest into smokescreens and anything else you want</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">1/17</td><td colspan="8">QA Hideout Palace (You can do this until 1/26 if you want)</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">R1 Mon Prep Room</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">All locked doors are option 4</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Locked door #1 - His Lover</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Locked door #2 - Evidence</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Exam Room: (dialogue #2 then #3 in the discussion room)</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">First room: B</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Second room: C</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Third room: D (Left Farthest)</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Grab Rasetsu Ofuda Chest</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Surt OoB</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Nuke Break -&gt; Stun gun -&gt; Mafreila -&gt; Escape if you get caught</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8"><b>SET 120 FPS BACK</b></td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Colour puzzle help on right -&gt;</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Take safe room</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">F: Surt</td><td>Makoto</td><td colspan="2">Nuke Break</td><td colspan="5">Surt&#x27;s attack pattern is Fire AOE &gt; Nuke ST &gt; Phys AOE &gt; Fire AOE</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Kasumi</td><td>Spotlight / Limelight</td><td>Joker</td><td colspan="5">Surt normally would attack after Makoto but can after Kasumi</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td>Makarakarn</td><td colspan="6">Joker</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td>Switch to Giri</td><td colspan="6">Marakunda</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td>Tetrakarn</td><td colspan="6">Kasumi</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Kasumi</td><td colspan="7">Bead Chain</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td>Tetrakarn</td><td colspan="6">Ann</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td>Guard</td><td colspan="6">To prevent Surt from Taunting you</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td>Tetrakarn</td><td colspan="6">Makoto</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Kasumi</td><td>Kougaon</td><td colspan="6">Surt</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td colspan="7">Fire Break</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td>Makarakarn</td><td colspan="6">Joker</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Guard or Hell Magatama</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Kasumi</td><td>Gun</td><td colspan="6">If Surt doesn&#x27;t die Agidyne with Ann and Hell Magatama</td></tr>
-<tr style="background-color: #FFFFFF; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Don&#x27;t bother learning Blazing Hell and Atomic Flare they deal +50 damage for 48sp (Ann and Makoto)</td></tr>
-<tr style="background-color: #FFFFFF; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">This is added here because you can&#x27;t resist the temptation on getting those skills</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">Menu</td><td colspan="8">Party: Ann, Makoto, Kasumi (Heal Everyone unless you want to end the run)</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Color Puzzle: Box means Color Panel</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">All on, run up (Box is set to White)</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Red off, run up (Box is set to Cyan)</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Skip a box, Head Straight then Left</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Blue off, Jump down (on your right), Run left (Box is set to Green)</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Red on, Run right (Next Box: Follow the path from your perspective: Straight, Left, Right) (Box is set to Yellow)</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Skip 2 boxes</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Green off, Blue on (Next box: Follow the Path: Straight,  Left, Box, Straight) (Box is set to Magenta)</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Skip a box</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Green On, Blue Off (Next Box from your perspective: Right, Left, Straight to Next box) (Box is set to Yellow)</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Red off, Blue on (Follow the Path to the End) (Box is set to Cyan)</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Skip 2 boxes</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">All on (Box is set to White)</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Last Door: Persona</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">F: Siegfried</td><td>Makoto</td><td>Spotlight</td><td colspan="6">Joker</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Kasumi</td><td>Magic Oint</td><td colspan="6">Kasumi</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td>Makarakarn</td><td colspan="6">Ann</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td>Makarakarn</td><td colspan="6">Joker</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td>Magic Oint.</td><td colspan="6">Makoto</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Kasumi</td><td colspan="7">Stun Gun [Guard if she went before Siegfried]</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td colspan="7">Debilitate</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Matarukaja</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Concentrate</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Kasumi</td><td colspan="7">Gun</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">BP</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td colspan="7">Agidyne (Showtime)</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Freidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Kasumi</td><td colspan="7">Kougaon</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8" style="border-left: 1px solid #000">Don&#x27;t bother learning Blazing Hell and Atomic Flare they deal +50 damage for 48sp (Ann and Makoto)</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8" style="border-left: 1px solid #000">This is added here because you can&#x27;t resist the temptation on getting those skills</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">Menu</td><td colspan="8">Party: Ann,Makoto,Akechi (Kasumi out/Akechi in) - - - - - - - X X -</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Equip</td><td>Joker</td><td colspan="6">Fearless Cape</td></tr>
-<tr style="background-color: #FABF8F; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>-</td><td>R1 x5 Makoto</td><td colspan="6">Ring of Envy</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Secure + Leave</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">Night</td><td colspan="8">Sleep</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">1/18</td><td colspan="8">Home/Sleep</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">1/19</td><td colspan="8">Reject palace offer</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Home/Study</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">1/20</td><td colspan="8">Home/Sleep</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">1/21</td><td colspan="8">Home/Study</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">1/22</td><td colspan="8">Sleep/Sleep</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">1/23</td><td colspan="8">Home/Study</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">1/24</td><td colspan="8">Home/Sleep</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">1/25</td><td colspan="8">Home/Sleep</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">1/26</td><td colspan="8">Reject palace offer</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Home/Sleep</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">1/27</td><td colspan="8">Home/Study</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">1/28</td><td colspan="8">Home/Study</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">1/29</td><td colspan="8">Sleep/Sleep</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">1/30</td><td colspan="8">Reject palace offer</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Home/Study</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">1/31</td><td colspan="8">Home/Sleep</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">2/1</td><td colspan="8">Home/Study</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">2/2</td><td colspan="8">Home</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">Night:</td><td colspan="8">Head downstairs - 2nd option [0:40]</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">2/3</td><td colspan="8">R1 Twilight Corridor</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">F: Azathoth</td><td>Rakunda</td><td colspan="7">Azathoth (The one in the back)</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Rush</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Counter Amplify Magic with Makarakarn</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Rakuda otherwise</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">F: Azathoth 2</td><td>Rakunda</td><td>Azathoth</td><td colspan="6">Keep doing Rakunda (Soul Food or SP item when not allowed)</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Tyrant Stance -&gt; Hecatoncheires and Rush</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">(Kushinada) after Endure</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Tyrant Stance -&gt; Cerberus and Rush</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">(Kushinada) after Enduring Soul and Rush</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">F: Maruki</td><td>Joker</td><td colspan="7">Concentrate</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Akechi</td><td colspan="7">Cyclone Magatama</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Freidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td colspan="7">Agidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">(Hecatoncheires) Rakunda</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Akechi</td><td>Spotlight</td><td colspan="6">Joker</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Concentrate</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td colspan="7">Concentrate</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Akechi</td><td colspan="7">Rasetsu Ofuda</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Freidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td colspan="7">Agidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Concentrate</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Akechi</td><td colspan="7">Arc Magatama</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Concentrate</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td colspan="7">Concentrate</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Akechi</td><td colspan="7">Arc Magatama</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Makoto</td><td colspan="7">Freidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td>Ann</td><td colspan="7">Agidyne</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">F: Adam Kadmon</td><td colspan="8">Guard x4</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Rush x4</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Guard x4</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Rush x4</td></tr>
-<tr style="background-color: #DA9694; color: #000000"><td style="border-right: 1px solid #000; width: 1.5in">F: Maruki</td><td colspan="8">Turbo X</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Skip FMVs</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Skip save prompt</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">2/13</td><td colspan="8">Skip 2 FMVs [2:00]</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in">3/14</td><td colspan="8">Flower shop one last time</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Go out and back in [13:40]</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">Skip post-credits FMV (yes we maxed Akechi just to skip a cutscene)</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">End timer on NG+ save confirmation</td></tr>
-<tr><td style="border-right: 1px solid #000; width: 1.5in"></td><td colspan="8">GG</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in">Menu</td><td>Equip</td><td>Joker</td><td colspan="6">Ring of Envy</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Kasumi</td><td colspan="8">Marakunda</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Skip FMV</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Cendrillon</td><td colspan="8">Phase 1:</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Mafreila</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Guard/Guard</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Rush x4</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Phase 2:</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">(Kushinada) Matarukaja</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Akechi</td><td colspan="7">Debilitate</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Concentrate</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ryuji</td><td colspan="3">Freeze Spray (or Any single Target Ice Item)</td><td colspan="4">Summon</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">BP</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Mafreidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">BP</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Fire Amp &gt; Maragion (Ann)</td></tr>
+<tr><td style="width: 1.5in">Night</td><td colspan="8">Sleep [1:00]</td></tr>
+<tr><td style="width: 1.5in">1/10</td><td colspan="8">Sleep</td></tr>
+<tr><td style="width: 1.5in">1/11</td><td colspan="8">Story stuff + Sleep</td></tr>
+<tr><td style="width: 1.5in">1/12</td><td colspan="8">Palace</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in">Menu</td><td colspan="8">Party: Ann, Makoto, Kasumi (Akechi out, Ann in) - - - X - - - X - -</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Loa</td><td colspan="8">Makougaon x2</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Dionysus</td><td>Makoto</td><td colspan="7">Vacuum Cutter</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">BP</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Mafreila</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in">Menu</td><td>Persona:</td><td colspan="7">Kushinada</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Party: Ryuji, Makoto, Kasumi (Ann out, Ryuji in) - X - X - - - - - -</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td>Equip</td><td>Joker</td><td colspan="6">Ring of Envy</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td>-</td><td>R1 Ryuji</td><td colspan="6">Freeze Charm</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td>-</td><td>R1 x4 Makoto</td><td colspan="6">Freeze Charm</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td>-</td><td>R1 x3 Kasumi</td><td colspan="6">Freeze Charm</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td>-</td><td>L1 Akechi</td><td colspan="6">Black Robe</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td>-</td><td>R1 x3 Joker</td><td colspan="6">Chaos Undershirt</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Take safe room</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Scathach</td><td>Makoto</td><td>Stun Gun</td><td colspan="6">Okuninushi</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">BP</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ryuji</td><td colspan="7">Elec Break</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Kasumi</td><td>Molotov Cocktail</td><td colspan="6">Okuninushi</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ryuji</td><td>Stun Gun</td><td colspan="6">Scathach</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Marakunda</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td>Stun Gun</td><td colspan="6">Okuninushi</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">BP</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Mafreila</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ryuji</td><td colspan="7">Gun</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">BP</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Nuke Amp &gt; Mafreidyne (Makoto)</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in">Menu</td><td colspan="8">Party: Ann, Makoto, Kasumi</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td>Equip</td><td>R1 x2 Kasumi</td><td colspan="6">Khamrai Tao</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td>-</td><td>L1 x3 Makoto</td><td colspan="6">Regent</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td>-</td><td>L1 x2 Ann</td><td colspan="6">Regent</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Sleep</td></tr>
+<tr><td style="width: 1.5in">1/13</td><td colspan="8">Backstreets -&gt; Thick Parchments + Tanned Leather</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Go Home</td></tr>
+<tr><td style="width: 1.5in">Night</td><td colspan="8">Study</td></tr>
+<tr><td style="width: 1.5in">1/14</td><td colspan="8">Home/Study</td></tr>
+<tr><td style="width: 1.5in">1/15</td><td colspan="8">Craft - 8 Hypno Mist - Use these in either Mementos or Palace whenever you get cornered or on screens you don&#x27;t like</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Save 1 Hypno Mist for Surt OoB</td></tr>
+<tr><td style="width: 1.5in">Night</td><td colspan="8">Sleep</td></tr>
+<tr><td style="width: 1.5in">1/16</td><td colspan="8">Backstreets -&gt; Thick Parchments + Tanned Leather</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">QA Hideout -&gt; View Requests -&gt; Mementos</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Head to bottom and enter new Mementos</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Run straight to the end. Use Hypno Mists if you want to</td></tr>
+<tr><td style="width: 1.5in">Night</td><td colspan="8">Craft 3x Spotlight (Up to 3, craft 1 or 0 as appropriate), 2x Hypno Mists, Rest into smokescreens and anything else you want</td></tr>
+<tr><td style="width: 1.5in">1/17</td><td colspan="8">QA Hideout Palace (You can do this until 1/26 if you want)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">R1 Mon Prep Room</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">All locked doors are option 4</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Locked door #1 - His Lover</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Locked door #2 - Evidence</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Exam Room: (dialogue #2 then #3 in the discussion room)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">First room: B</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Second room: C</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Third room: D (Left Farthest)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Grab Rasetsu Ofuda Chest</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Surt OoB</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Nuke Break -&gt; Stun gun -&gt; Mafreila -&gt; Escape if you get caught</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8"><b>SET 120 FPS BACK</b></td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Colour puzzle help on right -&gt;</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Take safe room</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Surt</td><td>Makoto</td><td colspan="2">Nuke Break</td><td colspan="5">Surt&#x27;s attack pattern is Fire AOE &gt; Nuke ST &gt; Phys AOE &gt; Fire AOE</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Kasumi</td><td>Spotlight / Limelight</td><td>Joker</td><td colspan="5">Surt normally would attack after Makoto but can after Kasumi</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td>Makarakarn</td><td colspan="6">Joker</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td>Switch to Giri</td><td colspan="6">Marakunda</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td>Tetrakarn</td><td colspan="6">Kasumi</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Kasumi</td><td colspan="7">Bead Chain</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td>Tetrakarn</td><td colspan="6">Ann</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td>Guard</td><td colspan="6">To prevent Surt from Taunting you</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td>Tetrakarn</td><td colspan="6">Makoto</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Kasumi</td><td>Kougaon</td><td colspan="6">Surt</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Fire Break</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td>Makarakarn</td><td colspan="6">Joker</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Guard or Hell Magatama</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Kasumi</td><td>Gun</td><td colspan="6">If Surt doesn&#x27;t die Agidyne with Ann and Hell Magatama</td></tr>
+<tr style="background-color: #FFFFFF; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Don&#x27;t bother learning Blazing Hell and Atomic Flare they deal +50 damage for 48sp (Ann and Makoto)</td></tr>
+<tr style="background-color: #FFFFFF; color: #000000"><td style="width: 1.5in"></td><td colspan="8">This is added here because you can&#x27;t resist the temptation on getting those skills</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in">Menu</td><td colspan="8">Party: Ann, Makoto, Kasumi (Heal Everyone unless you want to end the run)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Color Puzzle: Box means Color Panel</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">All on, run up (Box is set to White)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Red off, run up (Box is set to Cyan)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Skip a box, Head Straight then Left</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Blue off, Jump down (on your right), Run left (Box is set to Green)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Red on, Run right (Next Box: Follow the path from your perspective: Straight, Left, Right) (Box is set to Yellow)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Skip 2 boxes</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Green off, Blue on (Next box: Follow the Path: Straight,  Left, Box, Straight) (Box is set to Magenta)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Skip a box</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Green On, Blue Off (Next Box from your perspective: Right, Left, Straight to Next box) (Box is set to Yellow)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Red off, Blue on (Follow the Path to the End) (Box is set to Cyan)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Skip 2 boxes</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">All on (Box is set to White)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Last Door: Persona</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Siegfried</td><td>Makoto</td><td>Spotlight</td><td colspan="6">Joker</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Kasumi</td><td>Magic Oint</td><td colspan="6">Kasumi</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td>Makarakarn</td><td colspan="6">Ann</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td>Makarakarn</td><td colspan="6">Joker</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td>Magic Oint.</td><td colspan="6">Makoto</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Kasumi</td><td colspan="7">Stun Gun [Guard if she went before Siegfried]</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Debilitate</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Matarukaja</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Concentrate</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Kasumi</td><td colspan="7">Gun</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">BP</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Agidyne (Showtime)</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Freidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Kasumi</td><td colspan="7">Kougaon</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Don&#x27;t bother learning Blazing Hell and Atomic Flare they deal +50 damage for 48sp (Ann and Makoto)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">This is added here because you can&#x27;t resist the temptation on getting those skills</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in">Menu</td><td colspan="8">Party: Ann,Makoto,Akechi (Kasumi out/Akechi in) - - - - - - - X X -</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td>Equip</td><td>Joker</td><td colspan="6">Fearless Cape</td></tr>
+<tr style="background-color: #FABF8F; color: #000000"><td style="width: 1.5in"></td><td>-</td><td>R1 x5 Makoto</td><td colspan="6">Ring of Envy</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Secure + Leave</td></tr>
+<tr><td style="width: 1.5in">Night</td><td colspan="8">Sleep</td></tr>
+<tr><td style="width: 1.5in">1/18</td><td colspan="8">Home/Sleep</td></tr>
+<tr><td style="width: 1.5in">1/19</td><td colspan="8">Reject palace offer</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Home/Study</td></tr>
+<tr><td style="width: 1.5in">1/20</td><td colspan="8">Home/Sleep</td></tr>
+<tr><td style="width: 1.5in">1/21</td><td colspan="8">Home/Study</td></tr>
+<tr><td style="width: 1.5in">1/22</td><td colspan="8">Sleep/Sleep</td></tr>
+<tr><td style="width: 1.5in">1/23</td><td colspan="8">Home/Study</td></tr>
+<tr><td style="width: 1.5in">1/24</td><td colspan="8">Home/Sleep</td></tr>
+<tr><td style="width: 1.5in">1/25</td><td colspan="8">Home/Sleep</td></tr>
+<tr><td style="width: 1.5in">1/26</td><td colspan="8">Reject palace offer</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Home/Sleep</td></tr>
+<tr><td style="width: 1.5in">1/27</td><td colspan="8">Home/Study</td></tr>
+<tr><td style="width: 1.5in">1/28</td><td colspan="8">Home/Study</td></tr>
+<tr><td style="width: 1.5in">1/29</td><td colspan="8">Sleep/Sleep</td></tr>
+<tr><td style="width: 1.5in">1/30</td><td colspan="8">Reject palace offer</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Home/Study</td></tr>
+<tr><td style="width: 1.5in">1/31</td><td colspan="8">Home/Sleep</td></tr>
+<tr><td style="width: 1.5in">2/1</td><td colspan="8">Home/Study</td></tr>
+<tr><td style="width: 1.5in">2/2</td><td colspan="8">Home</td></tr>
+<tr><td style="width: 1.5in">Night:</td><td colspan="8">Head downstairs - 2nd option [0:40]</td></tr>
+<tr><td style="width: 1.5in">2/3</td><td colspan="8">R1 Twilight Corridor</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Azathoth</td><td>Rakunda</td><td colspan="7">Azathoth (The one in the back)</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Rush</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Counter Amplify Magic with Makarakarn</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Rakuda otherwise</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Azathoth 2</td><td>Rakunda</td><td>Azathoth</td><td colspan="6">Keep doing Rakunda (Soul Food or SP item when not allowed)</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Tyrant Stance -&gt; Hecatoncheires and Rush</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">(Kushinada) after Endure</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Tyrant Stance -&gt; Cerberus and Rush</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">(Kushinada) after Enduring Soul and Rush</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Maruki</td><td>Joker</td><td colspan="7">Concentrate</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Akechi</td><td colspan="7">Cyclone Magatama</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Freidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Agidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">(Hecatoncheires) Rakunda</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Akechi</td><td>Spotlight</td><td colspan="6">Joker</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Concentrate</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Concentrate</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Akechi</td><td colspan="7">Rasetsu Ofuda</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Freidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Agidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Concentrate</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Akechi</td><td colspan="7">Arc Magatama</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Concentrate</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Concentrate</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Freidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Akechi</td><td colspan="7">Arc Magatama</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Freidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Agidyne</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Adam Kadmon</td><td colspan="8">Guard x4</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Rush x4</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Guard x4</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Rush x4</td></tr>
+<tr style="background-color: #DA9694; color: #000000"><td style="width: 1.5in">F: Maruki</td><td colspan="8">Turbo X</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Skip FMVs</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Skip save prompt</td></tr>
+<tr><td style="width: 1.5in">2/13</td><td colspan="8">Skip 2 FMVs [2:00]</td></tr>
+<tr><td style="width: 1.5in">3/14</td><td colspan="8">Flower shop one last time</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Go out and back in [13:40]</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Skip post-credits FMV (yes we maxed Akechi just to skip a cutscene)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">End timer on NG+ save confirmation</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">GG</td></tr>
 <tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in">Yume wo yume to kizuita yoru</td><td colspan="8">-</td></tr>
 <tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in">Kimi wo mitsume mabuta wo tojiru</td><td colspan="8">-</td></tr>
 <tr style="background-color: #20124D; color: #FFFFFF"><td style="width: 1.5in">Nukumori mo kasaneta te mo koe mo</td><td colspan="8">-</td></tr>
