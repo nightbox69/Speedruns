@@ -6,8 +6,8 @@ import html
 from typing import Optional, List, Dict, Tuple, Any
 
 # Constants
-INPUT_FILE = r'd:\Work\Speedruns\Conversion-Files\Your-Notes.xlsx'
-OUTPUT_FILE = r'd:\Work\Speedruns\Conversion-Files\NotesTable.md'
+INPUT_FILE = r'd:\Work\Speedruns\Games\Persona-5\Notes\Conversion-Files\P5R-Notes.xlsx'
+OUTPUT_FILE = r'd:\Work\Speedruns\Games\Persona-5\Notes\Conversion-Files\NotesTable.md'
 
 class ExcelStyleExtractor:
     """Handles extraction of styles (colors, borders, fonts) from Excel cells."""
