@@ -19,6 +19,9 @@ Protagonist has Dad issues and joins pretty girl that calls forth entities of gr
 
   * [FFX General Information Tidbits][10]
   * [FFX Info][3] by Grayfox96
+  * [FFX Leaderboards][17]
+  * [Blitzball Haters Club Headquarters][18]
+  * [Blitzball Lovers Club Headquarters][19]
 
 ### Current Notes
   * [Original Notes][1] from MrTyton: 
@@ -46,3 +49,6 @@ Protagonist has Dad issues and joins pretty girl that calls forth entities of gr
 [14]: ./Former/FFX_Any_%20-%20Single%20Column%20-%20Trio%20of%209999.pdf
 [15]: https://www.twitch.tv/hiroshigeno36
 [16]: https://nightbox69.github.io/Speedruns/
+[17]: https://www.speedrun.com/ffx
+[18]: https://discord.gg/X3qXHWG
+[19]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
