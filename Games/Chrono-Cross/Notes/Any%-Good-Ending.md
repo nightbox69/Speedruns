@@ -30,11 +30,23 @@ title: Chrono Cross Any% Good Ending Notes
 - Shop
   - 2 Fireballs
 - Menu
-  - Serge - Allocate Elements
-    - Level 1 - Fireball / Fill Blanks
-  - Options
-    - Accuracy Selection: Manual
-    - O Button Pressed: Walk
+  <table style="width: 100%">
+    <tr style="background-color: #ADD8E6; color: #000000">
+      <td style="font-weight: bold; width: 1.5in">Allocate Elements</td>
+      <td>Serge</td>
+      <td>Level 1: Fireball / Fill Blanks</td>
+    </tr>
+    <tr style="background-color: #ADD8E6; color: #000000">
+      <td style="font-weight: bold; width: 1.5in">Options</td>
+      <td>Accuracy Selection</td>
+      <td>Manual</td>
+    </tr>
+    <tr style="background-color: #ADD8E6; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td>O Button Pressed</td>
+      <td>Walk</td>
+    </tr>
+  </table>
 - Go to Beach
 
 **Note:** Look for one Feather, one Fang and two Humours as drops from all the Komodo Fights. There are backups later if you don't get them.
@@ -52,20 +64,45 @@ Mother Dragon - 152 HP - (Fang and Tablet)
 
 #### Rock Komodo, Jump Komodo
 
-- Spam 2
-- Fireball (Level 1 or 3)
-- Spam 2
+- Fight
+  <table style="width: 100%">
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in">Spam 2</td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in">Fireball (Level 1 or 3)</td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in">Spam 2</td>
+    </tr>
+  </table>
 
 #### Chase Komodo and Mama Komodo
 
-- 2 / 2
-- Level 1 Fireball, Mama Komodo will appear.
+- Fight
+  <table style="width: 100%">
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in">2-2</td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in">Level 1 Fireball, Mama Komodo will appear.</td>
+    </tr>
+  </table>
 
 #### Momma Komodo (76)
 
-- 2 / 2 or 1 / 2 if Stamina Refresh is at 4.
-- Fireball + 2
-- Spam 2
+- Fight
+  <table style="width: 100%">
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in">2 / 2 or 1 / 2 if Stamina Refresh is at 4.</td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in">Fireball + 2</td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in">Spam 2</td>
+    </tr>
+  </table>
 - Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
 
@@ -86,21 +123,57 @@ Mother Dragon - 152 HP - (Fang and Tablet)
 
 **Note:** These are optional if you lack Humours, you can opt for these for a Strength up or with Leena after. The stats you get are duplicated on the Karsh battle so you can reset here if you got bad stats.
 
-- 2 / 2
-- Fireball + 2
-- Spam 2
+- Fight
+    <table style="width: 100%">
+      <tr style="background-color: #FFCCCB; color: #000000">
+        <td style="width: 1.5in">Spam 2</td>
+      </tr>
+      <tr style="background-color: #FFCCCB; color: #000000">
+        <td style="width: 1.5in">Fireball + 2</td>
+      </tr>
+      <tr style="background-color: #FFCCCB; color: #000000">
+        <td style="width: 1.5in">Spam 2</td>
+      </tr>
+    </table>
 - Head up and talk to your Grave to trigger the next fight.
 
 #### Karsh/Solt/Peppor (120HP/9AP, 54HP/9AP, 63HP/9AP)
 
 - **Optional Marathon Strat:** Fight 2 Beach Bums for a Mini Star.
-- Defend until Solt hits Serge (damage is nullified until after the battle cutscene ends)
-- Kid (Target Solt) - 1 / 2 - Magma Bomb
-- Serge (Target Solt) - 1 / 1 / 2 / 3 (If there are misses do 2 instead of 3 and Fireball Peppor)
-- Kid - Defend (Only if no Misses)
-- Serge - Fireball (Level 3) Karsh
-- Kid - (Target Peppor) - 1/2 - Fireball (Level 3) Peppor
-- Serge and Kid (Target Karsh) - Spam 2 to Karsh until he dies
+- Fight
+  <table style="width: 100%">
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in">Serge</td>
+      <td>Defend until Solt hits Serge</td>
+      <td>Damage is nullified until after the battle cutscene ends</td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in">Kid</td>
+      <td colspan="2">Target Solt - 1 / 2 - Magma Bomb</td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in">Serge</td>
+      <td>Target Solt - 1 / 1 / 2 / 3</td>
+      <td>If there are misses do 2 instead of 3 and Fireball Peppor</td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in">Kid</td>
+      <td>Defend</td>
+      <td>Only if no Misses</td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in">Serge</td>
+      <td colspan="2">Fireball (Level 3) - Karsh</td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in">Kid</td>
+      <td colspan="2">1/2 - Fireball (Level 3) Peppor</td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in">Serge / Kid</td>
+      <td colspan="2">Spam 2 at Karsh until he dies</td>
+    </tr>
+  </table>
 - Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
 
@@ -118,16 +191,36 @@ Drops:
 - Get Magma Bomb hidden in the left corner of your room after Leena and Poshul join.
 - Put Leena infront while running out (press select).
 - Menu
-  - Leena - Allocate Element
-    - Magma Bomb Level 3
-  - Poshul - Equip
-    - Replace Ivory Mail for Ivory Vest if you need a backup humour.
-  - Serge - Equip
-    - Power Glove (if you got it)
+    <table style="width: 100%">
+      <tr style="background-color: #ADD8E6; color: #000000">
+        <td style="width: 1.5in"><b>Allocate Elements</b></td>
+        <td>Leena</td>
+        <td>Level 3</td>
+        <td>Magmabomb</td>
+      </tr>
+      <tr style="background-color: #ADD8E6; color: #000000">
+        <td style="width: 1.5in"><b>Equip</b></td>
+        <td>Poshul</td>
+        <td>Replace Ivory Mail for Ivory Vest</td>
+        <td>Only if you need Backup Humour</td>
+      </tr>
+      <tr style="background-color: #ADD8E6; color: #000000">
+        <td style="width: 1.5in"></td>
+        <td>Serge</td>
+        <td>Power Glove</td>
+        <td>If you got it</td>
+      </tr>
+    </table>
 - Head to Fossil Valley, if short on Humours then head to Cape Howl for a Beach Bum fight for the extra Humour
-  - Leena
-    - Get to Level 3
-    - Magma Bomb
+  - Fight
+    <table style="width: 100%">
+      <tr style="background-color: #FFCCCB; color: #000000">
+        <td style="width: 1.5in"></td>
+        <td>Leena</td>
+        <td>Get to Level 3</td>
+        <td>Magmabomb</td>
+      </tr>
+    </table>
 
 ### Fossil Valley
 
@@ -137,19 +230,42 @@ Drops:
 
 **Note:** Leena only has 2 actions available to her before the Battle Cutscene.
 
-- Leena (Target Solt) - 1 / 2 (or 3/3 if you're feeling it)
-- With Magmabomb
-  - Solt and Peppor will do their comedy skit
-  - Serge (Target Solt) - 1 / 2 - Fireball+2 Solt
-  - Leena (Target Solt) - Get to Level 3 - MagmaBomb
-  - Poshul (Target Solt) - 1 / 2 / 2
-  - Serge / Poshul (Target Solt if he lives then Peppor) - 2 / 2 / 3
-- No Magmabomb
-  - Solt and Peppor will do their comedy skit
-  - Serge (Target Solt) - 1 / 1 / 2 - Fireball+2
-  - Poshul (Target Solt) - 2 / 2 / 3
-  - Leena - 3 / 3
-  - Serge / Poshul (Target Solt if he lives then Peppor) - 2 / 2 / 3
+- Fight
+    <table style="width: 100%">
+      <tr style="background-color: #FFCCCB; color: #000000">
+        <td style="width: 1.5in">Leena</td>
+        <td colspan="2"><center>Target Solt - 1 / 2 (or 3/3 if you&#x27;re feeling it)</center></td>
+      </tr>
+      <tr style="background-color: #FFCCCB; color: #000000">
+        <td style="width: 1.5in"></td>
+        <td colspan="2"><center>Solt and Peppor will do their comedy skit</center></td>
+      </tr>
+      <tr style="background-color: #FFCCCB; color: #000000">
+        <td style="width: 1.5in"></td>
+        <td><strong>With Magmabomb</strong></td>
+        <td><strong>No Magmabomb</strong></td>
+      </tr>
+      <tr style="background-color: #FFCCCB; color: #000000">
+        <td style="width: 1.5in">Serge</td>
+        <td>Target Solt - 1 / 2 - Fireball+2 Solt</td>
+        <td>Serge (Target Solt) - 1 / 1 / 2 - Fireball+2</td>
+      </tr>
+      <tr style="background-color: #FFCCCB; color: #000000">
+        <td style="width: 1.5in">Leena or Poshul</td>
+        <td>Leena (Target Solt) - Get to Level 3 - MagmaBomb</td>
+        <td>Poshul (Target Solt) - 2 / 2 / 3</td>
+      </tr>
+      <tr style="background-color: #FFCCCB; color: #000000">
+        <td style="width: 1.5in">Poshul or Leena</td>
+        <td>Poshul (Target Solt) - 1 / 2 / 2</td>
+        <td>Leena - 3 / 3</td>
+      </tr>
+      <tr style="background-color: #FFCCCB; color: #000000">
+        <td style="width: 1.5in">Serge / Poshul</td>
+        <td>Target Solt if he lives then Peppor - 2 / 2 / 3</td>
+        <td>Target Solt if he lives then Peppor - 2 / 2 / 3</td>
+      </tr>
+    </table>
 - Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
 
@@ -167,12 +283,24 @@ Drops:
 - Replace Leena with Kid.
 - Pick up the Profiteer Purse under the staircase of the mansion past the Smithy shop, head to the Smithy.
 - Blacksmith
-  - Disassemble
-    - Profiteer Purse
-    - Ivory Mail (If you need extra Humour)
-  - Forge
-    - Steel Swallow
-    - Iron Dagger
+  <table style="width: 100%">
+    <tr style="background-color: #71797E; color: #FFFFFF">
+      <td style="width: 1.5in"><b>Disassemble</b></td>
+      <td>Profiteer Purse</td>
+    </tr>
+    <tr style="background-color: #71797E; color: #FFFFFF">
+      <td style="width: 1.5in"></td>
+      <td>Ivory Mail (If you need extra Humour)</td>
+    </tr>
+    <tr style="background-color: #71797E; color: #FFFFFF">
+      <td style="width: 1.5in"><b>Forge</b></td>
+      <td>Steel Swallow</td>
+    </tr>
+    <tr style="background-color: #71797E; color: #FFFFFF">
+      <td style="width: 1.5in"></td>
+      <td>Iron Dagger</td>
+    </tr>
+  </table>
 - Talk to Pierre.
 - Get Medal of Honor from the running child.
 - Show the Medal of Honor to Pierre (press Square and choose Medal of Honor), talk to Pierre to get him to join the Party.
@@ -183,11 +311,23 @@ Drops:
 ### Before Viper Manor
 
 - Menu
-  - Serge - Equip
-    - Steel Swallow
-    - Ivory Helmet
-  - Kid - Equip
-    - Iron Dagger
+  <table style="width: 100%">
+    <tr style="background-color: #ADD8E6; color: #000000">
+      <td style="width: 1.5in"><b>Equip</b></td>
+      <td>Serge</td>
+      <td>Steel Swallow</td>
+    </tr>
+    <tr style="background-color: #ADD8E6; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td></td>
+      <td>Ivory Helmet</td>
+    </tr>
+    <tr style="background-color: #ADD8E6; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td>Kid</td>
+      <td>Iron Dagger</td>
+    </tr>
+  </table>
 - Tele-porter (Square while on the overworld)
   - Replace Poshul with Pierre
 - Put Pierre infront of the Party.
@@ -199,8 +339,14 @@ Drops:
 
 #### Guard Fights (70HP, 84HP)
 
-  - Serge & Kid - 2 / 2 / 3
-
+- Fight
+  <table style="width: 100%">
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in"><b>F:</b></td>
+      <td>Serge / Kid</td>
+      <td>2 / 2 / 3</td>
+    </tr>
+  </table>
 - Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
 
@@ -215,13 +361,46 @@ Drops:
 
 **Appendum:** When the notes say X then X / X the "then" means you wait for the attack animation to finish before you plug your attacks again. (Wait for a second or two before puttting another attack)
 
-- Defend until Solt revives Pierre
-- Serge (Target Ketchop) - 2 then 2 / 3 (You can do 1 then 3 / 3 if you're feeling cocky for crits. If you miss that's on you.)
-- Kid - Defend
-- Serge - Dash & Slash
-- Kid - 2 / 2 / 3
-- Everyone: Defend (refreshes stamina)
-- Kid and Serge (Target Ketchop) - 2 / 2 / 3
+- Fight
+  <table style="width: 100%">
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in"><b>F:</b></td>
+      <td>Everyone</td>
+      <td colspan="2">Defend until Solt revives Pierre</td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td>Serge</td>
+      <td>Target Ketchop - 2 then 2 / 3</td>
+      <td>You can do 1 then 3 / 3 if you&#x27;re feeling cocky for crits. If you miss that&#x27;s on you.</td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td>Kid</td>
+      <td colspan="2">Defend</td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td>Serge</td>
+      <td colspan="2">Dash &amp; Slash</td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td>Kid</td>
+      <td colspan="2">2 / 2 / 3</td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td>Everyone</td>
+      <td>Defend</td>
+      <td>Refreshes stamina</td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td>Serge / Kid</td>
+      <td colspan="2">2 / 2 / 3</td>
+    </tr>
+  </table>
 - Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
 
@@ -237,9 +416,20 @@ Drops:
 - Get the TurnYellow behind the gate.
 - Switch Serge back to front.
 - Menu
-  - Heal everyone with Tablets, if not yet done.
+  <table style="width: 100%">
+    <tr style="background-color: #ADD8E6; color: #000000">
+      <td style="width: 1.5in"><b>Use Elements</b></td>
+      <td>Heal everyone with Tablets, if not yet done.</td>
+    </tr>
+  </table>
 - Guard Fight
-  - See Guard Fight Strats above.
+  <table style="width: 100%">
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in"><b>F:</b></td>
+      <td>Serge / Kid</td>
+      <td>2 / 2 / 3</td>
+    </tr>
+  </table>
 - Head to the stables, avoid moving guards and the lights.
 
 ### Stables
@@ -253,7 +443,13 @@ Drops:
 
 - Turn the statue 0/0, you'll never get it first try no matter what you try.
 - Cell Guards
-  - See Guard Fight Strats above.
+  <table style="width: 100%">
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in"><b>F:</b></td>
+      <td>Serge / Kid</td>
+      <td>2 / 2 / 3</td>
+    </tr>
+  </table>
 - Head to the left side, avoid walking to the center or mashing x to avoid encounters from here on out.
 - Go to Dining Room and talk to Glenn.
 - Get Dragoon's Honor in the corner and get out.
@@ -262,21 +458,58 @@ Drops:
 - Go to treasure room on the right side, and don't select anything on the passwords when prompted.
 - Pick up Bronze Sword and Bronze Mail from treasure room.
 - Menu
-  - Serge - Equip
-    - Bronze Mail
-    - **Dragoon's Honor**
-  - Pierre - Allocate Elements
-    - Level 1
-      - TurnYellow
-      - Revive
+  <table style="width: 100%">
+    <tr style="background-color: #ADD8E6; color: #000000">
+      <td style="width: 1.5in"><b>Equip</b></td>
+      <td>Serge</td>
+      <td colspan="2">Bronze Mail</td>
+    </tr>
+    <tr style="background-color: #ADD8E6; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td></td>
+      <td colspan="2"><b>Dragoon&#x27;s Honor</b></td>
+    </tr>
+    <tr style="background-color: #ADD8E6; color: #000000">
+      <td style="width: 1.5in"><b>Allocate Elements</b></td>
+      <td>Pierre</td>
+      <td>Level 1</td>
+      <td>Turn Yellow</td>
+    </tr>
+    <tr style="background-color: #ADD8E6; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td colspan="2"></td>
+      <td>Revive</td>
+    </tr>
+  </table>
 - Grab the Silver Pendant on wall, just mash and don't think about it.
 
 ### Bulbs (168/10)
 
-- Pierre (Target Bulb) - Get to Level 1 - TurnYellow Serge
-- Serge (Target Bulb) - 2 / 3 / 2 (if the bulbs haven't attacked yet) or 2 / 2 / 3
-- Kid (Target Bulb) - 1 / 1 / 2 / 3
-- Serge and Kid (Target Remaining Bulbs) - 2 / 2 / 3
+- Fight
+  <table style="width: 100%">
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in"><b>F:</b></td>
+      <td>Pierre</td>
+      <td>Get to Level 1</td>
+      <td>Turn Yellow Serge</td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td>Serge</td>
+      <td>2 / 3 / 2 or 2 / 2 / 3</td>
+      <td>Depends if the Bulb attacked first or nah</td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td>Kid</td>
+      <td colspan="2">1 / 1 / 2 / 3</td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td>Serge / Kid</td>
+      <td colspan="2">2 / 2 / 3</td>
+    </tr>
+  </table>
 - Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
 
@@ -291,11 +524,27 @@ Drops:
 - **Optional:** If you didn't get the Ivory Helmet drop get the Bronze Helmet on the next room after Luccia (The room with the eye, chest nearest to you)
 - Head up to Karsh's Room (2nd door up the stairs) and talk to the chest 20 times for Dragoon's Gauntlet.
 - Menu
-  - Serge - Equip
-    - Dragoon's Gauntlet
-  - Heal everyone with Tablets and use Antidote or Brace if poisoned or Sprained.
-  - Pierre - Allocate Element
-    - Eagleeye (if you got it)
+  <table style="width: 100%">
+    <tr style="background-color: #ADD8E6; color: #000000">
+      <td style="width: 1.5in"><b>Equip</b></td>
+      <td>Serge</td>
+      <td>Dragoon&#x27;s Gauntlet</td>
+    </tr>
+    <tr style="background-color: #ADD8E6; color: #000000">
+      <td style="width: 1.5in"><b>Use Elements</b></td>
+      <td colspan="2">Heal everyone with Tablets</td>
+    </tr>
+    <tr style="background-color: #ADD8E6; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td>Use Antidotes or Brace</td>
+      <td>Only if Poisoned or Sprained</td>
+    </tr>
+    <tr style="background-color: #ADD8E6; color: #000000">
+      <td style="width: 1.5in"><b>Allocate Element</b></td>
+      <td>Pierre</td>
+      <td>EagleEye (if it dropped)</td>
+    </tr>
+  </table>
 - Go back to the statue and enter the code obtained from earlier.
 - Head up to the Main Hall and turn left to Balthasar's Tower.
 
@@ -307,21 +556,65 @@ Drops:
 
 **Note:** Marcy will use Cat's Cradle when she hits 249 HP, you want to kill her before she spams IceBlast coz it will kill Kid outright.
 
-- **Optional, with EagleEye:** Pierre: 1 / EagleEye Serge
-- Serge - 3 / 3
-- Kid - 1 / 1 / 2 / 2
-  - If everything hits:
-    - Serge - 1 / 2 (Marcy will attack) / 2 / 2
-    - Kid - 2 (Wait for a second) / 2 / 3 (Marcy will do Cat's Cradle)
-    - Serge - 1 / 2 / 2 - Dash&Slash
-    - Kid - Fireball+2
-  - With Misses:
-    - Serge - 3 / 3
-    - Kid - 1 / 1 / 2 / 2
-    - Serge - 3 / 3 (Marcy will do Cat's Cradle)
-    - Kid - 1 / 2 / 2
-    - Serge - Dash&Slash
-    - Kid - Fireball+2
+- Fight
+  <table style="width: 100%">
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in"><b>F:</b></td>
+      <td><b>Pierre, Only if you have EagleEye</b></td>
+      <td>Get to Level 1</td>
+      <td>EagleEye - Serge</td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td>Serge</td>
+      <td colspan="2">3 / 3</td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td>Kid</td>
+      <td colspan="2">1 / 2 / 2 - Defend</td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td></td>
+      <td><b>All Hits - Iron Dagger or Ivory Dagger + Serge 16 STR</b></td>
+      <td><b>Any Misses or Serge 13 STR or Ivory Dagger</b></td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td>Serge</td>
+      <td>1 / 2 (Marcy Attack) then 2 / 2</td>
+      <td>3 / 3</td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td>Kid</td>
+      <td>2 then 2 / 3</td>
+      <td>1 / 2 / 2 - Defend</td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td>Serge</td>
+      <td>1 / 2 / 2 - Dash &amp; Slash</td>
+      <td>3 / 3 (Marcy Cat&#x27;s Cradle)</td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td>Kid</td>
+      <td>Fireball + 2</td>
+      <td>1 / 2 / 2</td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td colspan="2">Serge</td>
+      <td>Dash &amp; Slash</td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td colspan="2">Kid</td>
+      <td>Fireball + 2</td>
+    </tr>
+  </table>
 - Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
 
@@ -337,25 +630,89 @@ Drops:
 - Head back to the main hall and talk to Harle.
 - Hit button behind 2nd pillar on left.
 - Guards (**Heal with consumables after**)
-  - See Guard Fight Strats above.
+  <table style="width: 100%">
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in"><b>F:</b></td>
+      <td>Serge / Kid</td>
+      <td>2 / 2 / 3</td>
+    </tr>
+  </table>
 - Go up elevator, and go through door straight ahead. Wait for ghost to shut his eye or else a battle will happen.
 
 #### Lynx (861/8)
 
 **Note:** Count crits and misses as they cancel each other out. ()'s are there to tell you that it is the current count if you hit the 3's and not for to use a specific attack. Don't be a fucking buffoon.
 
-- **Optional, with EagleEye:** Pierre: 1 / EagleEye Serge
-- Serge (Target Lynx) - 3 / 3 (1)
-- Kid (Target Lynx) - 2 / 2 / 2
-- Serge (Target Lynx) - 1 / 3 / 3 (2)
-- Kid (Target Lynx) - 2 / 2 / 3
-- Serge (Target Lynx) - 3 / 3 (3) (Repeat if you have 2 or more misses)
-- Kid (Target Lynx) - 2 / 2 / 2 - Pilfer (Pray for a Magic Ring - This needs to happen here)
-- Lynx should do an Imbecile in his next turn
-- Pierre (Target Lynx) - 3
-- Serge (Target Lynx) - 3 / 3 - Slash & Dash
-- Lynx will do an Anti-White in his next turn
-- Kid (Target Lynx) - 2 / 2 / 3
+- Fight
+  <table style="width: 100%">
+  <tr style="background-color: #FFCCCB; color: #000000">
+    <td style="width: 1.5in"><b>F:</b></td>
+      <td><b>Pierre, Only if you have EagleEye</b></td>
+      <td>Get to Level 1</td>
+      <td>EagleEye - Serge</td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td>Serge</td>
+      <td>3 / 3</td>
+      <td>Count 1 if you don&#x27;t miss</td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td>Kid</td>
+      <td colspan="2">2 / 2 / 2</td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td>Serge</td>
+      <td>1 / 3 / 3</td>
+      <td>Count 2 if you don&#x27;t miss</td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td>Kid</td>
+      <td colspan="2">2 / 2 / 3</td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td>Serge</td>
+      <td>3 / 3</td>
+      <td>Repeat if needed to supplement misses</td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td>Kid</td>
+      <td>2 / 2 / 2</td>
+      <td>Pilfer and Pray for a Magic Ring</td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td>Lynx</td>
+      <td colspan="2">Imbecile</td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td>Pierre</td>
+      <td>3</td>
+      <td>He doesn&#x27;t need to hit</td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td>Serge</td>
+      <td>3 / 3</td>
+      <td>Dash &amp; Slash</td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td>Lynx</td>
+      <td colspan="2">Anti - White</td>
+    </tr>
+    <tr style="background-color: #FFCCCB; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td>Serge / Kid</td>
+      <td colspan="2">2 / 2 / 3</td>
+    </tr>
+  </table>
 - Use the Heal with Consumables Option
 - **SPLIT AFTER THE WIN MENU**
 
@@ -371,10 +728,18 @@ Drops:
 - Cutscene (Starting from when Kid asks you what's wrong) 28seconds
 - Just keep mashing, you'll get into the Menu after Serge jumps.
 - Menu
-  - Kid - Equip
-    - Remove Iron Dagger
-  - Pierre - Allocate Elements
-    - Remove All
+  <table style="width: 100%">
+    <tr style="background-color: #ADD8E6; color: #000000">
+      <td style="width: 1.5in"><b>Equip</b></td>
+      <td>Kid</td>
+      <td>Remove Iron Dagger</td>
+    </tr>
+    <tr style="background-color: #ADD8E6; color: #000000">
+      <td style="width: 1.5in"><b>Allocate Elements</b></td>
+      <td>Pierre</td>
+      <td>Remove All</td>
+    </tr>
+  </table>
 
 ### Guldove
 
@@ -390,18 +755,82 @@ Reminder to make a Savestate here for Menu-ing Purposes
 
 - Macha will let you roam after some cutscenes and mashing. Head to Lisa's.
 - Shop (Lisa's)
-  - 41 Tablets (Skip this if you're planning on buying Capsules after DeadHead)
-  - 11 Medicine
-  - 2 Ointment (Optional: Burn only reduces your defense and deals 2x damage on field damage aka lava)
-  - 2 CurePlus
-  - 2 HealAll (Just buy one if you're buying Tablets)
-  - 2 AquaBeam
-  - 2 AquaBall (3 if no IceBlast)
-  - 2 Bushbasher
+  <table style="width: 100%">
+    <tr style="background-color: #71797E; color: #FFFFFF">
+      <td style="width: 1.5in"><b>Lisa&#x27;s Shop</b></td>
+      <td>41 Tablets</td>
+      <td>Skip this if you&#x27;re planning on buying Capsules after DeadHead</td>
+    </tr>
+    <tr style="background-color: #71797E; color: #FFFFFF">
+      <td style="width: 1.5in"></td>
+      <td colspan="2">11 Medicine</td>
+    </tr>
+    <tr style="background-color: #71797E; color: #FFFFFF">
+      <td style="width: 1.5in"></td>
+      <td colspan="2">2 Cureplus</td>
+    </tr>
+    <tr style="background-color: #71797E; color: #FFFFFF">
+      <td style="width: 1.5in"></td>
+      <td>2 HealAll</td>
+      <td>Only if you skipped Tablets</td>
+    </tr>
+    <tr style="background-color: #71797E; color: #FFFFFF">
+      <td style="width: 1.5in"></td>
+      <td colspan="2">3 AquaBeam</td>
+    </tr>
+    <tr style="background-color: #71797E; color: #FFFFFF">
+      <td style="width: 1.5in"></td>
+      <td>1 AquaBall</td>
+      <td>Buy 2 if you don&#x27;t have IceBlast</td>
+    </tr>
+    <tr style="background-color: #71797E; color: #FFFFFF">
+      <td style="width: 1.5in"></td>
+      <td colspan="2">2 BushBasher</td>
+    </tr>
+  </table>
 - Head to the Smith after buying.
-  - Sell - Bone Axe / Iron Dagger / Bronze Sword
-  - Disassemble - Silver Earring / Knee Pad / Silver Pendant
-  - Forge - Ladle Fe26 / Steel Sword
+  <table style="width: 100%">
+    <tr style="background-color: #71797E; color: #FFFFFF">
+      <td style="width: 1.5in"><b>Blacksmith</b></td>
+      <td><b>Sell</b></td>
+      <td>Bone Axe</td>
+    </tr>
+    <tr style="background-color: #71797E; color: #FFFFFF">
+      <td style="width: 1.5in"></td>
+      <td></td>
+      <td>Iron Dagger</td>
+    </tr>
+    <tr style="background-color: #71797E; color: #FFFFFF">
+      <td style="width: 1.5in"></td>
+      <td></td>
+      <td>Bronze Sword</td>
+    </tr>
+    <tr style="background-color: #71797E; color: #FFFFFF">
+      <td style="width: 1.5in"></td>
+      <td><b>Disassemble</b></td>
+      <td>Silver Earring</td>
+    </tr>
+    <tr style="background-color: #71797E; color: #FFFFFF">
+      <td style="width: 1.5in"></td>
+      <td></td>
+      <td>Knee Pad</td>
+    </tr>
+    <tr style="background-color: #71797E; color: #FFFFFF">
+      <td style="width: 1.5in"></td>
+      <td></td>
+      <td>Silver Pendant</td>
+    </tr>
+    <tr style="background-color: #71797E; color: #FFFFFF">
+      <td style="width: 1.5in"></td>
+      <td><b>Forge</b></td>
+      <td>Ladle Fe26</td>
+    </tr>
+    <tr style="background-color: #71797E; color: #FFFFFF">
+      <td style="width: 1.5in"></td>
+      <td></td>
+      <td>Steel Sword</td>
+    </tr>
+  </table>
 - Head to the Termina Entrance for a cutscene with Glenn, then head back to Macha to have Glenn and her join the party. (Rename Glenn to G)
 - Board the boat, replace Pierre and Poshul for Glenn and Macha respectively, and head to Marbule.
 
@@ -409,30 +838,168 @@ Reminder to make a Savestate here for Menu-ing Purposes
 
 - Replace Macha with Leena while heading to Marbule.
 - Shop (Straight ahead, talk to the guy in the swimming pool in the upper corner)
-  - 2 TurnBlue
-  - 1 TurnRed
-  - 2 TurnWhite
-  - 2 TurnBlack
-  - 1 Strengthen
-  - 1 EagleEye
-  - 1 Genius
-  - 1 WeakMinded
-- Menu - Equip
-  - Serge - Ivory Mail - Remove Ivory Helmet (Keep this if you have 2 Magic Rings)
-  - Glenn - Steel Sword
-  - Leena - Ladle Fe26 - Bronze Mail - Magic Ring - Ivory Helmet or Magic Ring
-- Menu - Allocate Elements
-  - **Press Triangle and select Healing and Supplemental first**
-  - Serge
-    - Level 2 - Heal All
-  - Glenn
-    - Level 2 - Heal All (Ignore this if you bought Tablets)
-    - Level 1 - Strengthen / TurnBlue / Revive
-  - Leena
-    - Level 1 - EagleEye / TurnRed / TurnWhite **Cancel then Sort by Innate** / AquaBeam
-    - Level 2 - CurePlus / CurePlus / AquaBall
-    - Level 4 - IceBlast
-    - Level 3 - BushBasher
+  <table style="width: 100%">
+    <tr style="background-color: #71797E; color: #FFFFFF">
+      <td style="width: 1.5in"><b>Marbule Shop</b></td>
+      <td colspan="2">2 TurnBlue</td>
+    </tr>
+    <tr style="background-color: #71797E; color: #FFFFFF">
+      <td style="width: 1.5in"></td>
+      <td colspan="2">1 TurnRed</td>
+    </tr>
+    <tr style="background-color: #71797E; color: #FFFFFF">
+      <td style="width: 1.5in"></td>
+      <td colspan="2">3 TurnWhite</td>
+    </tr>
+    <tr style="background-color: #71797E; color: #FFFFFF">
+      <td style="width: 1.5in"></td>
+      <td colspan="2">2 TurnBlack</td>
+    </tr>
+    <tr style="background-color: #71797E; color: #FFFFFF">
+      <td style="width: 1.5in"></td>
+      <td colspan="2">1 Strengthen</td>
+    </tr>
+    <tr style="background-color: #71797E; color: #FFFFFF">
+      <td style="width: 1.5in"></td>
+      <td>1 EagleEye</td>
+      <td>Don&#x27;t buy if it dropped</td>
+    </tr>
+    <tr style="background-color: #71797E; color: #FFFFFF">
+      <td style="width: 1.5in"></td>
+      <td colspan="2">1 Genius</td>
+    </tr>
+    <tr style="background-color: #71797E; color: #FFFFFF">
+      <td style="width: 1.5in"></td>
+      <td colspan="2">1 WeakMinded</td>
+    </tr>
+  </table>
+- Menu
+  <table style="width: 100%">
+    <tr style="background-color: #ADD8E6; color: #000000">
+      <td style="width: 1.5in"><b>Equip</b></td>
+      <td>Serge</td>
+      <td colspan="2">Ivory Mail</td>
+    </tr>
+    <tr style="background-color: #ADD8E6; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td></td>
+      <td>Remove Ivory Helmet</td>
+      <td>Keep if you have 2 Magic Rings</td>
+    </tr>
+    <tr style="background-color: #ADD8E6; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td>Glenn</td>
+      <td colspan="2">Steel Sword</td>
+    </tr>
+    <tr style="background-color: #ADD8E6; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td>Leena</td>
+      <td colspan="2">Ladle Fe26</td>
+    </tr>
+    <tr style="background-color: #ADD8E6; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td></td>
+      <td colspan="2">Bronze Mail</td>
+    </tr>
+    <tr style="background-color: #ADD8E6; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td></td>
+      <td colspan="2">Magic Ring</td>
+    </tr>
+    <tr style="background-color: #ADD8E6; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td></td>
+      <td colspan="2">Ivory Helmet or Magic Ring</td>
+    </tr>
+    <tr style="background-color: #ADD8E6; color: #000000">
+      <td style="width: 1.5in"><b>Allocate Elements</b></td>
+      <td colspan="3"><b>Press Triangle and select Healing and Supplemental first</b></td>
+    </tr>
+    <tr style="background-color: #ADD8E6; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td>Serge</td>
+      <td>Level 2</td>
+      <td>Heal All (Ignore this if you bought Tablets)</td>
+    </tr>
+    <tr style="background-color: #ADD8E6; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td style="border-top: 1px solid #000">Glenn</td>
+      <td style="border-top: 1px solid #000">Level 2</td>
+      <td style="border-top: 1px solid #000">Heal All (Ignore this if you bought Tablets)</td>
+    </tr>
+    <tr style="background-color: #ADD8E6; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td></td>
+      <td>Level 1</td>
+      <td>Strengthen</td>
+    </tr>
+    <tr style="background-color: #ADD8E6; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td></td>
+      <td></td>
+      <td>TurnBlue</td>
+    </tr>
+    <tr style="background-color: #ADD8E6; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td>-</td>
+      <td>-</td>
+      <td>Revive</td>
+    </tr>
+    <tr style="background-color: #ADD8E6; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td style="border-top: 1px solid #000">Leena</td>
+      <td style="border-top: 1px solid #000">Level 1</td>
+      <td style="border-top: 1px solid #000">EagleEye</td>
+    </tr>
+    <tr style="background-color: #ADD8E6; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td></td>
+      <td></td>
+      <td>TurnRed</td>
+    </tr>
+    <tr style="background-color: #ADD8E6; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td></td>
+      <td></td>
+      <td>TurnWhite (Cancel then Sort by Innate)</td>
+    </tr>
+    <tr style="background-color: #ADD8E6; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td></td>
+      <td></td>
+      <td>AquaBeam</td>
+    </tr>
+    <tr style="background-color: #ADD8E6; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td></td>
+      <td>Level 2</td>
+      <td>CurePlus</td>
+    </tr>
+    <tr style="background-color: #ADD8E6; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td></td>
+      <td></td>
+      <td>CurePlus</td>
+    </tr>
+    <tr style="background-color: #ADD8E6; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td></td>
+      <td></td>
+      <td>AquaBall</td>
+    </tr>
+    <tr style="background-color: #ADD8E6; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td></td>
+      <td>Level 4</td>
+      <td>IceBlast (or AquaBall)</td>
+    </tr>
+    <tr style="background-color: #ADD8E6; color: #000000">
+      <td style="width: 1.5in"></td>
+      <td></td>
+      <td>Level 3</td>
+      <td>BushBasher</td>
+    </tr>
+  </table>
 - Board the boat, head towards Fort Dragoon and enter the fog.
 
 ### Fargo's Pirate Ship
@@ -485,7 +1052,7 @@ The key can be found in 1 of the 4 People in this section but you'll have to sta
 - Avoid the Ghosts popping about, head left and go up the ladder, enter the first door on the right and enter the vent.
 - Get out of the room and talk to the guy on the blockade.
   - Ghost Dance: Either this or fight the Ghost ![Credits to EvilAsh25 for the image](./images/ghostdance.png)
-- When he lets you pass, then talk to the guy with a bandana past the door. 
+- When he lets you pass, then talk to the guy with a bandana past the door.
 - **Make sure that the textbox conversation ends before you walk away from him or else he will have the key after all the fighting you have done. I cannot stress this enough, END HIS TEXTBOX BEFORE YOU LEAVE YOU MORON**
 - Head through the vent, pick up the chest(Panacea, this is important) and fight the ghost, if it's 4 Monsters run away and try again.
 - Talk to the guy after the fight, and hopefully he has the key, if not go back to the room and fight the skeleton on your right, if it's 4 Monsters run away and try again.
@@ -608,7 +1175,7 @@ Drops:
     - Leena - 1 / 1 - AquaBall
     - Serge - 1 / 1 - TurnBlue Glenn
     - Glenn - 3 / 3
-  - If Not Attacked: 
+  - If Not Attacked:
     - Glenn - 3 / 3
     - Leena - 1 - AquaBeam
     - Serge - 1's until Glenn gets 5 Stamina) - TurnBlue Glenn
@@ -678,7 +1245,7 @@ Drops:
 
 **Note:** The Fights from here on out are going to get trickier, some will just need you to attack but most will prioritize on Element Spams. The notes will also adjust to this as well, advising you to get to a certain level instead of picking your attacks. Pick your attacks in priority to getting the levels as safe and as assuredly as possible instead of fast. It's highly adviseable to start counting Enemy AP here too (Bosses are labelled as Boss HP Value / AP Value, check [General Information][2] for more information.) so you'll know when the next attack will be. It'll return to attack picking should it be needed.
 
-**Idiot Explanation:** Anyone that starts with Get to Level X means you need to be kind of risky instead of spamming 1's. Be brave but not stupid. After that spamming 1's are fine as long as you know how to count AP and Stamina. 
+**Idiot Explanation:** Anyone that starts with Get to Level X means you need to be kind of risky instead of spamming 1's. Be brave but not stupid. After that spamming 1's are fine as long as you know how to count AP and Stamina.
 
 - Head into Fort Dragonia and Fight your next Boss.
 
@@ -687,7 +1254,7 @@ Drops:
 #### Dragoon (735/9)
 
 - Glenn - Get to Level 4
-- If Not Attacked and Glenn gets to Level 4: 
+- If Not Attacked and Glenn gets to Level 4:
   - Leena - 2 / 3
   - Glenn - Magnify
   - Leena - Get to Level 5 (Skip if you're already Level 5)
@@ -696,7 +1263,7 @@ Drops:
   - Glenn - Defend (or 2 / 2 if ahead of AP)
   - Leena - Get to Level 2 - AquaBall
   - Glenn - 2 / 2 - AquaBeam
-- If Attacked: 
+- If Attacked:
   - Glenn - Get to Level 4 - Magnify
   - Leena - Get to Level 5
   - Serge - 1 - AquaBall
@@ -723,7 +1290,6 @@ Drops:
   - Glenn - Iron Vest
   - Leena - Magic Ring (If you have an accessory slot available)
   - Serge - Golden Earring - Magic Ring (If Leena's Accessory Slot is full)
-
 
 **Note:** You need Leena to hit and get the Element Levels so she can spam Elements, it's riskier to take the 2 Magic Rings, Sky Djinn Ring than Dragoon's Honor, and 2 Magic Rings.
 
@@ -779,7 +1345,7 @@ Drops:
 - Leena - Get to Level 5 - (Only if Leena is below 14 Magic) TurnRed Taurusoid
 - If Interrupted and Leena or Serge are hit and their hp is below 120
   - Leena - Get to Level 4 - Cure Leena or Serge
-- Else 
+- Else
   - Leena - Get to Level 5 - (Only if Leena is below 14 Magic) TurnRed Taurusoid
 - Serge - Get to Level 2 - WeakMinded (1 - Genius if Leena has 18 Mag)
 - Glenn - Get to Level 4
@@ -854,6 +1420,7 @@ Drops:
 - Do the Dream Sequence Route only with harder things to dodge + bats.
 
 #### Bunyip (420/10 then 1260/10)
+
 **Bunyip Phase 1 will cast Volcano after MagmaBomb and will kill Leena if you're not counting AP Properly**
 
 - Phase 1
@@ -969,7 +1536,7 @@ Drops:
 
 **Note:** The fights here will be of the same concept of Frog Prince except we will be using Sprigg to transform into Lagoonate and WightKnight respectively. The AP count of the bosses here tend to punish the foolish to spam five 1's unlike in Fort Dragonia where the bosses have either long ass AP Values or don't punish your foolishness at all. Check [General Information][2] for more information about Stamina Pushing and Enemy AP.
 
-**Idiot Explanation:** If you see Sprigg - Get to Level 5 then do 2 / 2 / 1 or 1 / 2 / 2 or 2 / 3 BUT NEVER EVER DO 1 / 1 / 1 / 1 / 1. After the Bosses move, 1 spams are fine as long as you know how to count. 
+**Idiot Explanation:** If you see Sprigg - Get to Level 5 then do 2 / 2 / 1 or 1 / 2 / 2 or 2 / 3 BUT NEVER EVER DO 1 / 1 / 1 / 1 / 1. After the Bosses move, 1 spams are fine as long as you know how to count.
 
 - **Sprigg Start Explation:**
   - 2 / 2 / 1 - On average you get to Level 4 or 2. with some stamina left for adjustment.
@@ -1068,7 +1635,7 @@ Reminder to make a Savestate here for Menu-ing Purposes
 ### Zelbess
 
 - Head downstairs and down the ladder to the last room before the guard to talk to the sage. Try to follow him through the door.
-- Go up one floor and head to the upper left door. Go talk to Fargo. 
+- Go up one floor and head to the upper left door. Go talk to Fargo.
 - Go to the door below you. Play Roulette with him and try and get the cursor between North and East using paused to make sure it lands there. Hold X and unpause and you should hit South. If Fargo lands on East just hold X.
 - **Go downstairs and go to the inn (below the casino)**
 - Go watch the magic show in the first door past the ladder. Re-enter to get turned into cats and go unrig the game. Go back and talk to Fargo again, beat him this time, put Sprigg into First.
@@ -1584,15 +2151,15 @@ Reminder to make a Savestate here for Practice Purposes
   - Marcy - TurnRed Dario
   - Hope for a Good Stamina Refresh
 - Dario Phase 3 (If Marcy is not your first character and she's hit early in the fight you really need to heal her otherwise just mash CurePlus)
-  - Lynx - CurePlus Marcy 
+  - Lynx - CurePlus Marcy
   - Marcy - 1 / 1 / 1 / 1
-  - Lynx - CurePlus Marcy 
+  - Lynx - CurePlus Marcy
   - Marcy - FrogPrince
   - Hope for a Good Stamina Refresh
 - Dario Phase 4
   - Marcy - Get to Level 6 - IceBlast
   - Lynx - Get to Level 2 - Defend
-  - If Lynx Dies $${\color{red}READ  \space THIS  \space PROPERLY  \space YOU  \space DINGBAT  \space BEFORE  \space YOU  \space START  \space PANICKING  \space STOP  \space RUNNING  \space AWAY}$$	
+  - If Lynx Dies $${\color{red}READ  \space THIS  \space PROPERLY  \space YOU  \space DINGBAT  \space BEFORE  \space YOU  \space START  \space PANICKING  \space STOP  \space RUNNING  \space AWAY}$$
     - Marcy - Defend (Dario will attack normally and Marcy will be at 7 Stamina)
   - If Marcy Dies
     - Lynx - Revive Marcy
@@ -1609,7 +2176,7 @@ Drops:
 
 ## Earth Dragon
 
-- The Star Fights from here on out will vary according to Serge's Strength values. So be aware of them as having a certain value will change the fight entirely.
+- The Fights from here on out will vary according to Serge's Strength values. So be aware of them as having a certain value will change the fight entirely.
 
 ### Overworld
 
@@ -1677,7 +2244,7 @@ Drops:
     - Marcy - 2 / 2 / 2 - Defend (to prevent Marcy's Death)
     - Lynx - 1 then 3 / 3 (GlideHook after if not dead)
   - If Not Attacked
-    - Lynx - 3 / 3 
+    - Lynx - 3 / 3
     - Fargo - 1 / 2 / 2 - Strengthen Lynx
     - Lynx - 3 / 3
     - Marcy - 3 / 3
@@ -1774,7 +2341,6 @@ Drops:
 #### PreyMantis (579HP, Female, 640HP, Male /21)
 
 - One Monster
-
   - Marcy - Strengthen Lynx (skip if 36 STR)
   - Fargo - TurnYellow Lynx
   - Lynx - 2 then 2 / 3
@@ -1816,13 +2382,13 @@ Drops:
   - Lynx - IceBlast Tyrano
   - Marcy - FrogPrince
   - Lynx & Fargo - 2 / 2 / 3 until Tyrano Dies
-- If Marcy is not Interrupted 
+- If Marcy is not Interrupted
   - Fargo - TurnBlue Lynx
     - If Flap occurs after Turn Blue
       - Marcy - Cat's Cradle (Level 2 IceBlast if you have it)
       - Lynx - Get to Level 2
       - Fargo - 1's to recover Lynx to Stamina 7 (This never needs to hit)
-      - Lynx - CurePlus 
+      - Lynx - CurePlus
       - Fargo - Defend
       - Lynx - IceBlast Tyrano
       - Marcy - Get to Level 7
@@ -1876,8 +2442,8 @@ Drops:
 
 ### Mt. Pyre (Another World)
 
-- First go up through the first screen, then go right. Be careful because the dogs will chase you here. 
-- Head down the lavafall, then through the mini cave to the exit at the top of the screen. 
+- First go up through the first screen, then go right. Be careful because the dogs will chase you here.
+- Head down the lavafall, then through the mini cave to the exit at the top of the screen.
 - Now head up one more screen to the room with the fire dragon.
 
 - Menu - Equip and Use Elements
@@ -1936,36 +2502,36 @@ Drops:
     - Lynx - 2 / 2
     - Fargo - 1 / 1 (Defend Twice instead if 40 Strength)
     - Lynx - 2 / 3 - GlideHook
-  - Attacked: 
+  - Attacked:
     - Lynx - 3
     - Fargo - 1 / 1 (Defend Twice instead if 40 Strength)
     - Lynx - 2 / 3 - GlideHook
 - Lynx has 38 Strength:
-  - Not Attacked: 
+  - Not Attacked:
     - Lynx - 2 / 3
     - Fargo - 1 / 2
     - Lynx - 1 / 3 - GlideHook
-  - Attacked: 
+  - Attacked:
     - Lynx - 2 / 3
     - Fargo - 2 / 3
     - Lynx - GlideHook
     - Marcy - 3 / 3
     - Lynx - 3 / 3
 - Lynx has 37 Strength:
-  - Not Attacked: 
+  - Not Attacked:
     - Lynx - 2 / 3
     - Fargo - 1 / 1 / 1
     - Lynx - 1 / 3 then GlideHook
-  - Attacked: 
+  - Attacked:
     - Lynx - 3
     - Fargo - 1 / 2
     - Lynx - 1 / 3 then GlideHook
 - Lynx has 36 Strength:
-  - Not Attacked: 
+  - Not Attacked:
     - Lynx - 3 / 3
     - Fargo - 3 / 3
     - Lynx - 3 / 3 then GlideHook
-  - Attacked: 
+  - Attacked:
     - Lynx: 3
     - Fargo: 1 / 2
     - Lynx: 3 / 3 then GlideHook
@@ -2067,7 +2633,7 @@ Drops:
 ### Overworld
 
 - Head to the Dead Sea Ruins, and enter the Fate Distortion. Do a disc swap after some mashing
-**Note:** All strategies below presume you are at 33 strength and above. Be prepared to do a lot of adhoc at Serge 32 Strength
+  **Note:** All strategies below presume you are at 33 strength and above. Be prepared to do a lot of adhoc at Serge 32 Strength
 
 ### Fate Distortion
 
@@ -2086,7 +2652,7 @@ Drops:
 - Fargo - 1 then 3
 - Vita Unus - GreenField
 - Serge - 3 / 3
-- Fargo - 3 / 3 
+- Fargo - 3 / 3
 - Serge - 3 / 3 - Dash & Slash
 - **SPLIT AFTER THE WIN MENU**
 
@@ -2330,7 +2896,6 @@ Drop:
 - Glenn - EagleEye Serge
 
 - Serge has more than or equal to 42 STR, and Glenn has more than or equal to 41 STR
-
   - Serge - 3 / 3
   - Glenn - Get to Level 3
   - Fargo - Strengthen Serge
@@ -2356,13 +2921,11 @@ Drops:
 **Note:** Never Strengthen before Vigora
 
 - Serge has more than or equal to 47 STR
-
   - Serge - 2 / 2 / 2
   - Fargo - Spam 1's to trigger Aquator's Vigora - Strengthen Serge
   - Glenn - 1 / 1 - X-Strike
 
 - Serge 43 STR
-
   - Serge - 2 / 2
   - Glenn - Get to Level 3
   - Fargo - Spam 1's to trigger Aquator's Vigora - Strengthen Serge
@@ -2387,6 +2950,7 @@ Drops:
 ### Dragon God (1900/10 Each Phase)
 
 **Note:** Strategies are for 44 STR Serge, for Serge 43 and Below STR is at the bottom of this.
+
 - Phase 1 (White)
   - Fargo - TurnBlack Serge
   - Serge - 2 / 2 (Must Hit)
@@ -2438,12 +3002,13 @@ Drops:
 - **SPLIT AFTER THE WIN MENU**
 
 Drops:
-- Earring of Hope (Common/Rare)
 
+- Earring of Hope (Common/Rare)
 
 ### Dragon God 43 and Below Strength (1900/10 Each Phase)
 
 **Note:** Strategies are for 43 STR Serge, for Serge 44 and above STR is above this one.
+
 - Phase 1 (White)
   - Fargo - TurnBlack Serge
   - Serge - 2 / 2 (Must Hit)
@@ -2498,6 +3063,7 @@ Drops:
 - **SPLIT AFTER THE WIN MENU**
 
 Drops:
+
 - Earring of Hope (Common/Rare)
 
 ## Time Devourer

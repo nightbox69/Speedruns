@@ -6,8 +6,8 @@ import html
 from typing import Optional, List, Dict, Tuple, Any
 
 # Constants
-INPUT_FILE = r'd:\Work\Speedruns\Conversion-Files\P5R-Notes.xlsx'
-OUTPUT_FILE = r'd:\Work\Speedruns\Conversion-Files\NotesTable.md'
+INPUT_FILE = r'd:\Projects\Personal\Speedruns\Conversion-Files\Notes.xlsx'
+OUTPUT_FILE = r'd:\Projects\Personal\Speedruns\Conversion-Files\NotesTable.md'
 
 class ExcelStyleExtractor:
     """Handles extraction of styles (colors, borders, fonts) from Excel cells."""
@@ -106,7 +106,7 @@ class HtmlTableGenerator:
         # Identify valid columns (columns that have at least some data)
         valid_cols = [col for col in df.columns if df[col].any()]
 
-        output_handle.write("<table>\n<tbody>\n")
+        output_handle.write('<table style="width: 100%">\n')
 
         # Iterate through all rows in dataframe
         # Note: OpenPyXL is 1-indexed, Pandas is 0-indexed
@@ -117,7 +117,7 @@ class HtmlTableGenerator:
 
             self._process_row(index, row, ws, valid_cols, output_handle)
 
-        output_handle.write("</tbody>\n</table>\n\n")
+        output_handle.write("</table>\n\n")
 
     def _process_row(self, index: int, row: pd.Series, ws: Any, valid_cols: List, f):
         openpyxl_row = None
@@ -140,7 +140,7 @@ class HtmlTableGenerator:
             style_parts.append(f"color: {text_color}")
         
         style_attr = f' style="{"; ".join(style_parts)}"' if style_parts else ""
-        f.write(f'<tr{style_attr}>')
+        f.write(f'  <tr{style_attr}>\n')
 
         # Extract data for all cells in valid columns first
         # Format: (value, is_bold, borders_dict)
@@ -208,13 +208,13 @@ class HtmlTableGenerator:
                 content = f"<b>{content}</b>"
             
             if colspan > 1:
-                f.write(f'<td colspan="{colspan}"{td_style}>{content}</td>')
+                f.write(f'    <td colspan="{colspan}"{td_style}>{content}</td>\n')
                 i += colspan
             else:
-                f.write(f'<td{td_style}>{content}</td>')
+                f.write(f'    <td{td_style}>{content}</td>\n')
                 i += 1
         
-        f.write("</tr>\n")
+        f.write("  </tr>\n")
 
 
 def main():
