@@ -4,24 +4,24 @@ A sequel that begins by unceremoniously killing off the heroes of its beloved pr
 
 ## Runners to Watch
 
-  * [CarbonDrank][9]
-  * [Evil Ash][1]
-  * [Spike Vegeta][2]
-  * [SuperHandi][10]
-  * [xan9br][11]
-  * [Twitch Chrono Cross Channel][4]
-  * [RPG Limit Break][5]
+- [CarbonDrank][9]
+- [Evil Ash][1]
+- [Spike Vegeta][2]
+- [SuperHandi][10]
+- [xan9br][11]
+- [Twitch Chrono Cross Channel][4]
+- [RPG Limit Break][5]
 
 ## Chat and Information
 
-  * [Discord][6]
-  * [Chrono Cross Leaderboards][12]
-  * [Chrono Cross Compedium][3]
+- [Discord][6]
+- [Chrono Cross Leaderboards][12]
+- [Chrono Cross Compedium][3]
 
 ## Notes
 
-  * [General Information][7]
-  * [Any % Good Ending][8]
+- [General Information][7]
+- [Any % Good Ending][8]
 
 [Return to home][13]
 
@@ -37,4 +37,4 @@ A sequel that begins by unceremoniously killing off the heroes of its beloved pr
 [10]: https://www.twitch.tv/superhandi
 [11]: https://www.twitch.tv/xan9br
 [12]: https://www.speedrun.com/chronocross
-[13]: https://nightbox69.github.io/Speedruns/
+[13]: ../../index.md

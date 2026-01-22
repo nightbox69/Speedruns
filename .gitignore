@@ -1,3 +1,10 @@
+_site
 Conversion-Files
 Tools
 Speedruns.code-workspace
+
+Gemfile
+Gemfile.lock
+
+err.txt
+error.log

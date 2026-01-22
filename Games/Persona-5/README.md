@@ -4,34 +4,41 @@ You play as a convicted juvenile delinquent on exile who decides that the legal 
 
 ## Runners to Watch
 
-  * [TatsuyaAct][5]
-  * [FurryWulfz][6]
-  * [asa1108][3]
-  * [Sprayzz][4]
-  * [Neviutz][1]
-  * [Cereth][2]
-  * [DarkKefkaffx][7]
+- [TatsuyaAct][5]
+- [FurryWulfz][6]
+- [asa1108][3]
+- [Sprayzz][4]
+- [Neviutz][1]
+- [Cereth][2]
+- [DarkKefkaffx][7]
 
 ## Chat and Information
 
-  * [Persona 5 Leaderboards][8]
-  * [Twitch Persona 5 Channel][10]
-  * [Persona 5 Royal Leaderboards][9]
-  * [Twitch Persona 5 Royal Channel][11]
-  * [Persona 5 MegatenSpeedruns][19]
-  * [Persona 5 Royal MegatenSpeedruns][20]
-  * [SMT/Persona Speedrun Discord][18]
+- [SMT/Persona Speedrun Discord][18]
+
+### Persona 5
+
+- [Persona 5 Leaderboards][8]
+- [Twitch Persona 5 Channel][10]
+- [MegatenSpeedruns Persona 5][19]
+
+### Persona 5 Royal
+
+- [Persona 5 Royal Leaderboards][9]
+- [Twitch Persona 5 Royal Channel][11]
+- [MegatenSpeedruns Persona 5 Royal][20]
 
 ## Notes
 
-  * [General Knowledge][17]
-  * [Persona 5 Royal Hard, True Ending Beginner-Intermediate Notes - PC][12]
-  * [Persona 5 Royal Hard, True Ending All Confidants, All Romances - PC][13]
+- [General Knowledge][17]
+- [Persona 5 Royal Hard, True Ending Beginner-Intermediate Notes - PC][12]
+- [Persona 5 Royal Hard, True Ending All Confidants, All Romances - PC][13]
 
 ## Utility Guides
-  * [Persona 5 Royal Crafting Guide for Hard, True Ending][14]
-  * [Persona 5 Royal Party Member Confidant Guide][15]
-  * [Persona 5 Royal All Confidants Guide][16]
+
+- [Persona 5 Royal Crafting Guide for Hard, True Ending][14]
+- [Persona 5 Royal Party Member Confidant Guide][15]
+- [Persona 5 Royal All Confidants Guide][16]
 
 [Return to home][21]
 
@@ -55,4 +62,4 @@ You play as a convicted juvenile delinquent on exile who decides that the legal 
 [18]: https://discord.gg/DArA2nN
 [19]: https://megatenspeedruns.com/persona/persona-5/p5/
 [20]: https://megatenspeedruns.com/persona/persona-5/p5r/
-[21]: https://nightbox69.github.io/Speedruns/
+[21]: ../../index.md

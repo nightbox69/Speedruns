@@ -15,24 +15,24 @@ This repository is forked from [drush211][1] as the base repository and is used 
 
 ### Chrono Cross
 
-* [Information][2]
+- [Information][2]
 
 ### Final Fantasy X
 
-* [Information][3]
+- [Information][3]
 
 ### Persona 5
 
-* [Information][4]
+- [Information][4]
 
 ## Speedrun Personal Bests
 
-* [SRC Profile][5]
+- [SRC Profile][5]
 
 ## Where to Find Me
 
-* [Twitch Channel][6]
-* [Youtube Channel][7]
+- [Twitch Channel][6]
+- [Youtube Channel][7]
 
 [1]: https://github.com/drush211/Speedruns
 [2]: ./Games/Chrono-Cross/README.md

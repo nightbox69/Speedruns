@@ -4,7 +4,7 @@ title: Persona 5 Royal PC Beginner-Intermediate Notes
 
 # [Persona 5 Royal][1]
 
-## Disclaimer and other stuff 
+## Disclaimer and other stuff
 
 - Anything condescending that are written in these notes are meant for the main user of these notes which is the owner. Having said that, the owner has no responsibility to apologize to anyone who has been offended reading these notes. You have been warned.
 - This version of Notes is designed for you the owner to have slept properly before the run. If you didn't **DON'T FUCKING RUN THE GAME**
@@ -15,8 +15,7 @@ title: Persona 5 Royal PC Beginner-Intermediate Notes
 
 - [General Knowledge][2]
 
-
-[1]: https://nightbox69.github.io/Speedruns/Games/Persona-5/
+[1]: ../README.md
 [2]: ./General-Knowledge.md
 
 # Persona 5 Royal

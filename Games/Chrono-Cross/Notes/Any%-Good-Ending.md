@@ -3102,4 +3102,4 @@ Drops:
 [2]: ./General-Knowledge.md
 [3]: https://docs.google.com/document/d/1FSWhUFGX0b25gaaQ2sAh03Xi0spBks0DEQWURUnACSg/edit
 [4]: https://drive.google.com/file/d/19JiMSFNKhORpN09KmyDKukTdW4vPMcZR/view?usp=sharing
-[5]: https://nightbox69.github.io/Speedruns/Games/Chrono-Cross/
+[5]: ../README.md
