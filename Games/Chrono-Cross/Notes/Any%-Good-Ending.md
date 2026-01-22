@@ -242,8 +242,8 @@ Drops:
       </tr>
       <tr style="background-color: #FFCCCB; color: #000000">
         <td style="width: 1.5in"></td>
-        <td><strong>With Magmabomb</strong></td>
-        <td><strong>No Magmabomb</strong></td>
+        <td><strong style=" color: #000000 !important">With Magmabomb</strong></td>
+        <td><strong style=" color: #000000 !important">No Magmabomb</strong></td>
       </tr>
       <tr style="background-color: #FFCCCB; color: #000000">
         <td style="width: 1.5in">Serge</td>

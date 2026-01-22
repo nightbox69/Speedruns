@@ -3,48 +3,48 @@
 @import "{{ site.theme }}";
 
 body {
-  background-color: #222 !important;
-  color: #eee !important;
+  background-color: #222;
+  color: #eee;
 }
 
 a {
-  color: #8cc2ff !important;
+  color: #8cc2ff;
 }
 
 h1, h2, h3, h4, h5, h6, strong, thead {
-  color: #eee !important;
+  color: #eee;
 }
 
 
 /* Hide the default sidebar/header */
 header {
-  display: none !important;
-  width: 0 !important;
+  display: none;
+  width: 0;
 }
 
 footer {
-  display: none !important;
-  width: 0 !important;
+  display: none;
+  width: 0;
 }
 
 /* adjust layout to be full width */
 .wrapper {
-  margin: 0 auto !important;
-  width: 95% !important;
-  max-width: 1200px !important;
+  margin: 0 auto;
+  width: 95%;
+  max-width: 1200px;
 }
 
 section {
-  width: 100% !important;
-  float: none !important;
-  margin: 0 !important;
-  padding: 20px 0 !important;
+  width: 100%;
+  float: none;
+  margin: 0;
+  padding: 20px 0;
 }
 
 /* Ensure mobile friendliness */
 @media print,
 screen and (max-width: 960px) {
   .wrapper {
-    width: 95% !important;
+    width: 95%;
   }
 }
