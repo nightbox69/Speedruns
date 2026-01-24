@@ -1560,7 +1560,7 @@ title: Persona 5 Royal PC Beginner-Intermediate Notes
 <tr><td style="width: 1.5in">Night</td><td colspan="8">Study</td></tr>
 <tr><td style="width: 1.5in">11/26</td><td colspan="8">Sleep until 12/11 - You can rubber band and turbo X for a long break</td></tr>
 <tr><td style="width: 1.5in">12/11</td><td colspan="8">Sleep</td></tr>
-<tr><td style="width: 1.5in">Night</td><td colspan="8">SAVE</td></tr>
+<tr><td style="width: 1.5in">Night</td><td colspan="8">SAVE - Shop - Fancy Magatama Set (2) - If you're not doing Maruki OoB</td></tr>
 <tr style="background-color: #C2D69B; color: #000000"><td style="width: 1.5in">Iwai</td><td colspan="8"><b>2nd Option</b></td></tr>
 <tr style="background-color: #C2D69B; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Sell:</td></tr>
 <tr style="background-color: #C2D69B; color: #000000"><td style="width: 1.5in"></td><td colspan="8">All Melee Weapons</td></tr>
