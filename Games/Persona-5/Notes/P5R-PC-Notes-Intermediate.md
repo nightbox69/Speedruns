@@ -1560,14 +1560,14 @@ title: Persona 5 Royal PC Beginner-Intermediate Notes
 <tr><td style="width: 1.5in">Night</td><td colspan="8">Study</td></tr>
 <tr><td style="width: 1.5in">11/26</td><td colspan="8">Sleep until 12/11 - You can rubber band and turbo X for a long break</td></tr>
 <tr><td style="width: 1.5in">12/11</td><td colspan="8">Sleep</td></tr>
-<tr><td style="width: 1.5in">Night</td><td colspan="8">SAVE - Shop - Fancy Magatama Set (2) - If you're not doing Maruki OoB</td></tr>
+<tr><td style="width: 1.5in">Night</td><td colspan="8">SAVE - <b>Shop</b> - Fancy Magatama Set (2) - If you're not doing Maruki OoB</td></tr>
 <tr style="background-color: #C2D69B; color: #000000"><td style="width: 1.5in">Iwai</td><td colspan="8"><b>2nd Option</b></td></tr>
 <tr style="background-color: #C2D69B; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Sell:</td></tr>
 <tr style="background-color: #C2D69B; color: #000000"><td style="width: 1.5in"></td><td colspan="8">All Melee Weapons</td></tr>
 <tr style="background-color: #C2D69B; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Default Accessory (Prolly Suspenders)</td></tr>
 <tr style="background-color: #C2D69B; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Breeze Ring</td></tr>
 <tr style="background-color: #C2D69B; color: #000000"><td style="width: 1.5in"></td><td colspan="8">2x Soma (Need 214462 Yen)</td></tr>
-<tr style="background-color: #C2D69B; color: #000000"><td style="width: 1.5in"></td><td colspan="2">Buy (60680 Yen):</td><td colspan="6">You can buy Freeze Charms in 1/9 before talking to Akechi if lacking Money</td></tr>
+<tr style="background-color: #C2D69B; color: #000000"><td style="width: 1.5in"></td><td colspan="10">Buy (60680 Yen): (You can buy Freeze Charms in 1/9 before talking to Akechi if lacking Money)</td></tr>
 <tr style="background-color: #C2D69B; color: #000000"><td style="width: 1.5in"></td><td>Accessory</td><td colspan="7">2x Fearless Cape (don&#x27;t equip)</td></tr>
 <tr style="background-color: #C2D69B; color: #000000"><td style="width: 1.5in"></td><td>-</td><td colspan="7">3x Freeze Charm (don&#x27;t equip)</td></tr>
 <tr style="background-color: #C2D69B; color: #000000"><td style="width: 1.5in"></td><td>Melee</td><td colspan="7">Ryuji - Wicked Iron Pipe (Equip and sell old)</td></tr>
@@ -1577,7 +1577,7 @@ title: Persona 5 Royal PC Beginner-Intermediate Notes
 <tr><td style="width: 1.5in"></td><td colspan="8">Skip FMV [0:45]</td></tr>
 <tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in">Velvet Room</td><td colspan="8">SAVE - 150,382 Yen Required</td></tr>
 <tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Delete Decarabia</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8"><b>DO NOT FUCKING SAVE UNLESS TOLD OTHERWISE A FUSION MISTAKE IS RECOVERABLE BUT YOUR STUPIDITY ISN&#x27;T</b></td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8"><b>DO NOT FUCKING SAVE UNLESS TOLD OTHERWISE A FUSION DISASTER IS RECOVERABLE BUT YOUR STUPIDITY ISN&#x27;T</b></td></tr>
 <tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Buy:</td></tr>
 <tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">[L1 Right] Regent</td></tr>
 <tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">[L1 Up Tri] Obariyon</td></tr>
@@ -1585,9 +1585,9 @@ title: Persona 5 Royal PC Beginner-Intermediate Notes
 <tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Girimehkala + Jack o Lantern = Kushinada</td></tr>
 <tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Retalliating Body</td></tr>
 <tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Repel Phys, Attack Master, Makarakarn, Rakunda</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="2">Ananta + Regent = Yatagarasu</td><td colspan="6"><b>DO NOT SAVE AFTER THIS ONE IF YOU MADE A MISTAKE IT&#x27;S OVER</b></td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Ananta + Regent = Yatagarasu <b>DO NOT SAVE AFTER THIS ONE IF YOU MADE A MISTAKE IT&#x27;S OVER</b></td></tr>
 <tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Intense Focus</td></tr>
-<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="2">Nuke Boost, Growth2, Marakukaja,</td><td colspan="6"><b>MAFREILA (NOT RAKUNDA YOU&#x27;RE FUSING FOR TITANIA FUCKING WAKE UP)</b></td></tr>
+<tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Nuke Boost, Growth2, Marakukaja, <b>MAFREILA (NOT RAKUNDA YOU&#x27;RE FUSING FOR TITANIA FUCKING WAKE UP)</b></td></tr>
 <tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Yatagarasu + Valkyrie = Titania</td></tr>
 <tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Intense Focus</td></tr>
 <tr style="background-color: #B2A1C7; color: #000000"><td style="width: 1.5in"></td><td colspan="8">Mafreila, Marakukaja, Growth 2, Nuke Boost</td></tr>
