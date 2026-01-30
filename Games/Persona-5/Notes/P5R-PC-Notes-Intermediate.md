@@ -8,15 +8,17 @@ title: Persona 5 Royal PC Beginner-Intermediate Notes
 
 - Anything condescending that are written in these notes are meant for the main user of these notes which is the owner. Having said that, the owner has no responsibility to apologize to anyone who has been offended reading these notes. You have been warned.
 - This version of Notes is designed for you the owner to have slept properly before the run. If you didn't **DON'T FUCKING RUN THE GAME**
-- While this is called "Beginner-Intermediate" notes, it is designed in a way that you still need adequate preparation before doing a full run. This is not a "read this and you'll be fine" type of notes. Don't be an idiot.
+- While this is called "Beginner-Intermediate" notes, it is designed in a way that you still need adequate preparation before doing a full run. This is not a "read this and you'll be fine" type of notes.
 - Please DM me on discord or tag me on P5R channel for typos that you have found within the notes.
 
 ## Useful Bits
 
 - [General Knowledge][2]
+- [Crafting Guide][3]
 
 [1]: ../README.md
 [2]: ./General-Knowledge.md
+[3]: ./Notes/Utility-Guides/P5R-Crafting.md
 
 # Persona 5 Royal
 
@@ -504,6 +506,7 @@ title: Persona 5 Royal PC Beginner-Intermediate Notes
 <tr><td style="width: 1.5in"></td><td colspan="8">Solve the password then backtrack for locked chest - Bead Chain</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">In the torii gate, then past it, then into it again</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">Outside - Grab 2x treasures and Black Rock (need to wait for shadow anyway)</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Madarame OoB - Bait Shadow - 30 FPS - Jump Down - Jump up when shadow is near - Smokescreen</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">Get chest next to Sayuri painting (Baptismal Water)</td></tr>
 <tr style="background-color: #DA9694; color: #FFFFFF"><td style="width: 1.5in">F: Makami</td><td>Yusuke</td><td colspan="7">Magneto Coil</td></tr>
 <tr style="background-color: #DA9694; color: #FFFFFF"><td style="width: 1.5in"></td><td colspan="8">All Out Attack</td></tr>
@@ -715,6 +718,7 @@ title: Persona 5 Royal PC Beginner-Intermediate Notes
 <tr style="background-color: #FABF8F; color: #FFFFFF"><td style="width: 1.5in">Menu</td><td>Equip</td><td>Joker</td><td colspan="6">Portable Battery</td></tr>
 <tr style="background-color: #FABF8F; color: #FFFFFF"><td style="width: 1.5in"></td><td>-</td><td>L1 L1 Yusuke</td><td colspan="6">Regent</td></tr>
 <tr style="background-color: #FABF8F; color: #FFFFFF"><td style="width: 1.5in"></td><td>Party</td><td colspan="7">Ryuji, Yusuke, Makoto [Ann/Morgana out] - X X X X -</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Kaneshiro OoB - Go Behind nearest shadow - 30fps - Smokescreen. If you fail just literally run away.</td></tr>
 <tr style="background-color: #DA9694; color: #FFFFFF"><td style="width: 1.5in">F: Orobos</td><td>Joker</td><td colspan="7">(Jack Frost) Mabufu</td></tr>
 <tr style="background-color: #DA9694; color: #FFFFFF"><td style="width: 1.5in"></td><td colspan="8">BP</td></tr>
 <tr style="background-color: #DA9694; color: #FFFFFF"><td style="width: 1.5in"></td><td>Yusuke</td><td>Vicious Strike</td><td colspan="6">If you didn&#x27;t Jazz Club Yusuke BP to Makoto</td></tr>
@@ -1999,7 +2003,6 @@ title: Persona 5 Royal PC Beginner-Intermediate Notes
 <tr><td style="width: 1.5in"></td><td colspan="8">Surt OoB</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">Nuke Break -&gt; Stun gun -&gt; Mafreila -&gt; Escape if you get caught</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8"><b>SET 120 FPS BACK</b></td></tr>
-<tr><td style="width: 1.5in"></td><td colspan="8">Colour puzzle help on right -&gt;</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">Take safe room</td></tr>
 <tr style="background-color: #DA9694; color: #FFFFFF"><td style="width: 1.5in">F: Surt</td><td>Makoto</td><td colspan="2">Nuke Break</td><td colspan="5">Surt&#x27;s attack pattern is Fire AOE &gt; Nuke ST &gt; Phys AOE &gt; Fire AOE</td></tr>
 <tr style="background-color: #DA9694; color: #FFFFFF"><td style="width: 1.5in"></td><td>Kasumi</td><td>Spotlight / Limelight</td><td>Joker</td><td colspan="5">Surt normally would attack after Makoto but can after Kasumi</td></tr>
