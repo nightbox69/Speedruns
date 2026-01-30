@@ -2,7 +2,7 @@
 
 Protagonist has Dad issues and joins pretty girl that calls forth entities of great power called Aeons on a journey to kill herself. Armed with the girl's cousin and a summon that enables you lot to deal a shit ton of damage to what are supposed to be difficult boss fights, the Protagonist and the gang sets forth to the wonderous realm of shit RNG called Spira. Also, the girl met his father 10 years and 3 months ago. 😐
 
-![Credits to EvilAsh25 for the image](./images/FFchase_coverPhoto.png)
+![Commissioned this image](./images/FFchase_coverPhoto.png)
 
 ## Runners to Watch
 
