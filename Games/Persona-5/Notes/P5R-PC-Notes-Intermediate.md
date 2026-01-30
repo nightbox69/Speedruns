@@ -9,6 +9,7 @@ title: Persona 5 Royal PC Beginner-Intermediate Notes
 - Anything condescending that are written in these notes are meant for the main user of these notes which is the owner. Having said that, the owner has no responsibility to apologize to anyone who has been offended reading these notes. You have been warned.
 - This version of Notes is designed for you the owner to have slept properly before the run. If you didn't **DON'T FUCKING RUN THE GAME**
 - While this is called "Beginner-Intermediate" notes, it is designed in a way that you still need adequate preparation before doing a full run. This is not a "read this and you'll be fine" type of notes.
+- In regards to OoB Skips, the notes require the user to learn Shido Out of Bounds, everything else is optional. 
 - Please DM me on discord or tag me on P5R channel for typos that you have found within the notes.
 
 ## Useful Bits
