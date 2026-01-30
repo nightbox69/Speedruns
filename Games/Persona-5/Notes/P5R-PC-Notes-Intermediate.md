@@ -863,8 +863,8 @@ title: Persona 5 Royal PC Beginner-Intermediate Notes
 <tr><td style="width: 1.5in">Night</td><td colspan="8">Clean</td></tr>
 <tr><td style="width: 1.5in">7/13</td><td colspan="8">Exams (getting answers wrong and avoiding prompts):</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8"><b>1, 2, 2, 1</b></td></tr>
-<tr><td style="width: 1.5in">7/14</td><td colspan="8"><b>2023-01-01 00:00:00</b></td></tr>
-<tr><td style="width: 1.5in">7/15</td><td colspan="8"><b>2023-01-01 00:00:00</b></td></tr>
+<tr><td style="width: 1.5in">7/14</td><td colspan="8"><b>1, 1</b></td></tr>
+<tr><td style="width: 1.5in">7/15</td><td colspan="8"><b>1, 1</b></td></tr>
 <tr><td style="width: 1.5in">7/16</td><td colspan="8">Sleep [1:00]</td></tr>
 <tr><td style="width: 1.5in">7/17</td><td colspan="8">Clean</td></tr>
 <tr><td style="width: 1.5in">7/18</td><td colspan="8">Skip FMV</td></tr>
