@@ -1793,7 +1793,7 @@ title: Persona 5 Royal PC Beginner-Intermediate Notes
 <tr style="background-color: #FABF8F; color: #FFFFFF"><td style="width: 1.5in"></td><td colspan="8">Equip Joker Gambler&#x27;s Shirt</td></tr>
 <tr style="background-color: #FABF8F; color: #FFFFFF"><td style="width: 1.5in"></td><td colspan="8">SP restore Joker</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">If you have 3 or more Hypno Mists: Hypno Mist here</td></tr>
-<tr><td style="width: 1.5in"></td><td colspan="8">If you have 3 or more Hypno: Grab Soma chest (on the left, Scarf of Mercy on the right and it&#x27;s fucking useless))</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">If you don't have any Somas: Grab Soma chest (on the left, Scarf of Mercy on the right and it&#x27;s fucking useless))</td></tr>
 <tr style="background-color: #DA9694; color: #FFFFFF"><td style="width: 1.5in">F: Michael</td><td colspan="8">Rush if you go first</td></tr>
 <tr style="background-color: #DA9694; color: #FFFFFF"><td style="width: 1.5in"></td><td colspan="8">(Kushinada) Rush</td></tr>
 <tr style="background-color: #DA9694; color: #FFFFFF"><td style="width: 1.5in"></td><td colspan="8">Guard</td></tr>
