@@ -18,7 +18,7 @@ title: Persona 5 Royal PC Beginner-Intermediate Notes
 
 [1]: ../README.md
 [2]: ./General-Knowledge.md
-[3]: ./Notes/Utility-Guides/P5R-Crafting.md
+[3]: ./Utility-Guides/P5R-Crafting.md
 
 # Persona 5 Royal
 
