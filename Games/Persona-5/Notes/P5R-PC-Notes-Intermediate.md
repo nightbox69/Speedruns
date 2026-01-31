@@ -31,10 +31,10 @@ title: Persona 5 Royal PC Beginner-Intermediate Notes
 <tr><td style="width: 1.5in"></td><td colspan="8">Examine everything &amp; Sleep</td></tr>
 <tr><td style="width: 1.5in">4/10</td><td colspan="8">Go downstairs, Phone, leave &amp; re-enter, sleep</td></tr>
 <tr><td style="width: 1.5in">4/11</td><td colspan="8">Take the train -&gt; Ginza line (Keep going up stairs)</td></tr>
-<tr style="background-color: #D99594; color: #FFFFFF;"><td style="width: 1.5in">F: Awakening</td><td colspan="8">Rush</td></tr>
-<tr style="background-color: #D99594; color: #FFFFFF;"><td style="width: 1.5in">F: Incubus &amp; Jack</td><td colspan="8">Eiha (Incubus), Eiha</td></tr>
+<tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in">F: Awakening</td><td colspan="8">Rush</td></tr>
+<tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in">F: Incubus &amp; Jack</td><td colspan="8">Eiha (Incubus), Eiha</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">Check for +1 Arsene str or magic</td></tr>
-<tr style="background-color: #D99594; color: #FFFFFF;"><td style="width: 1.5in">F: Pixies</td><td colspan="8">If Arsene got str/magic:</td></tr>
+<tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in">F: Pixies</td><td colspan="8">If Arsene got str/magic:</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">Eiha right, Eiha left, Rush</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">Else:</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">Eiha right, Eiha left, Eiha left, Rush</td></tr>
@@ -42,11 +42,11 @@ title: Persona 5 Royal PC Beginner-Intermediate Notes
 <tr><td style="width: 1.5in"></td><td colspan="8">Roof</td></tr>
 <tr><td style="width: 1.5in">Night</td><td colspan="8">Bed</td></tr>
 <tr><td style="width: 1.5in">4/12</td><td colspan="8">Question: 3 (Villains)</td></tr>
-<tr style="background-color: #D99594; color: #FFFFFF;"><td style="width: 1.5in">F: Gun Tutorial</td><td colspan="8">Gun turbo</td></tr>
-<tr style="background-color: #D99594; color: #FFFFFF;"><td style="width: 1.5in">F: Mandrake</td><td colspan="8">Gun turbo</td></tr>
-<tr style="background-color: #D99594; color: #FFFFFF;"><td style="width: 1.5in">F: AoA Tutorial</td><td colspan="8">Eiha, AoA</td></tr>
-<tr style="background-color: #D99594; color: #FFFFFF;"><td style="width: 1.5in">F: Awakening</td><td colspan="8">Part 1: Rush</td></tr>
-<tr style="background-color: #D99594; color: #FFFFFF;"><td style="width: 1.5in">F: Awakening</td><td>Ryuji</td><td>Zio</td><td colspan="6">Eligor</td></tr>
+<tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in">F: Gun Tutorial</td><td colspan="8">Gun turbo</td></tr>
+<tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in">F: Mandrake</td><td colspan="8">Gun turbo</td></tr>
+<tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in">F: AoA Tutorial</td><td colspan="8">Eiha, AoA</td></tr>
+<tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in">F: Awakening</td><td colspan="8">Part 1: Rush</td></tr>
+<tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in">F: Awakening</td><td>Ryuji</td><td>Zio</td><td colspan="6">Eligor</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Joker</td><td>Eiha</td><td colspan="6">Eligor</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Mona</td><td>Garu</td><td colspan="6">Eligor</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Ryuji</td><td>Zio</td><td colspan="6">Eligor</td></tr>
@@ -60,12 +60,12 @@ title: Persona 5 Royal PC Beginner-Intermediate Notes
 <tr><td style="width: 1.5in"></td><td colspan="8">Outside school: R1 Circle left left XX Backstreets -&gt; Chase Ann</td></tr>
 <tr><td style="width: 1.5in">4/15</td><td colspan="8">Downstairs, along corridor, across to the other side</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">Upstairs, down the corridor [You can now dash outside]</td></tr>
-<tr style="background-color: #D99594; color: #FFFFFF;"><td style="width: 1.5in">F: Pixie</td><td colspan="8">Get Pixie (gun), then win next fight with Pixie</td></tr>
-<tr style="background-color: #D99594; color: #FFFFFF;"><td style="width: 1.5in">F: Bicorns</td><td>Joker</td><td>Zio</td><td colspan="6">Bicorns</td></tr>
+<tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in">F: Pixie</td><td colspan="8">Get Pixie (gun), then win next fight with Pixie</td></tr>
+<tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in">F: Bicorns</td><td>Joker</td><td>Zio</td><td colspan="6">Bicorns</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">Demand money</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">Knife room: Go diagonally across, skip chest for now</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">On return trip, wait 1 second for shadow to turn, then go behind and get chest- equip immediately</td></tr>
-<tr style="background-color: #D99594; color: #FFFFFF;"><td style="width: 1.5in">F: Awakening</td><td>Ann</td><td colspan="7">Agi x2</td></tr>
+<tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in">F: Awakening</td><td>Ann</td><td colspan="7">Agi x2</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Gun</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Mona</td><td colspan="7">Gun</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Ryuji</td><td colspan="7">Guard</td></tr>
@@ -121,18 +121,18 @@ title: Persona 5 Royal PC Beginner-Intermediate Notes
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Ann</td><td colspan="3">Agi</td><td colspan="4">Mandrake</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">Recruit Mandrake (Option 1, Option 1)</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">Do cage puzzle for sooty armor chest</td></tr>
-<tr style="background-color: #D99594; color: #FFFFFF;"><td style="width: 1.5in">F: Jack</td><td colspan="8">Joker or Ann gun spam, guard guard guard</td></tr>
+<tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in">F: Jack</td><td colspan="8">Joker or Ann gun spam, guard guard guard</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">Recruit (Mash X)</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">Chest: Breeze Ring</td></tr>
 <tr style="background-color: #A0522D; color: #FFFFFF;"><td style="width: 1.5in">Menu</td><td colspan="8">Ann: Breeze Ring</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">Grapple tutorial, get chest at top</td></tr>
-<tr style="background-color: #D99594; color: #FFFFFF;"><td style="width: 1.5in">F: Bicorns</td><td>Joker</td><td>Gun</td><td colspan="6">Bicorn 1</td></tr>
+<tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in">F: Bicorns</td><td>Joker</td><td>Gun</td><td colspan="6">Bicorn 1</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Joker</td><td>Gun</td><td colspan="6">Bicorn 2</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Joker</td><td>Zio</td><td colspan="6">Disaster Bicorn</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">BP Ryuji</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Ryuji</td><td>Zio</td><td colspan="6">Disaster Bicorn</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">[Joker &amp; Ryuji @ Level 5]</td></tr>
-<tr style="background-color: #D99594; color: #FFFFFF;"><td style="width: 1.5in">F: Archangel</td><td>Joker</td><td>Tarunda</td><td colspan="6">[Bicorn]</td></tr>
+<tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in">F: Archangel</td><td>Joker</td><td>Tarunda</td><td colspan="6">[Bicorn]</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Mona</td><td colspan="7">Guard</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Ryuji</td><td colspan="7">Guard</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Guard</td></tr>
@@ -151,11 +151,11 @@ title: Persona 5 Royal PC Beginner-Intermediate Notes
 <tr><td style="width: 1.5in"></td><td colspan="8">Get chest after double-grapple hook outside (Curse magatama x3)</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">Get Sleep vials in large Eligor room</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">2nd option at bust - get treasures on return trip</td></tr>
-<tr style="background-color: #D99594; color: #FFFFFF;"><td style="width: 1.5in">F: Eligor</td><td colspan="8">Joker Zio -&gt; Rakunda</td></tr>
+<tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in">F: Eligor</td><td colspan="8">Joker Zio -&gt; Rakunda</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">Gun spam</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">Straight back to bust after Eligors</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">Get Breath Ring on Guillotine bridge</td></tr>
-<tr style="background-color: #D99594; color: #FFFFFF;"><td style="width: 1.5in">F: ArchAngel</td><td>Joker</td><td>Zio</td><td colspan="6">Archangel</td></tr>
+<tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in">F: ArchAngel</td><td>Joker</td><td>Zio</td><td colspan="6">Archangel</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">BP Ryuji</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Ryuji</td><td>Lunge</td><td colspan="6">Archangel</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Mona</td><td>Garu</td><td colspan="6">Archangel</td></tr>
@@ -163,7 +163,7 @@ title: Persona 5 Royal PC Beginner-Intermediate Notes
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>-</td><td>Gun</td><td colspan="6">Angel</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">Demand Money</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">Loot Revival Bead chest</td></tr>
-<tr style="background-color: #D99594; color: #FFFFFF;"><td style="width: 1.5in">F: ArchAngel2</td><td>Joker</td><td>Zio</td><td colspan="6">Archangel</td></tr>
+<tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in">F: ArchAngel2</td><td>Joker</td><td>Zio</td><td colspan="6">Archangel</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">BP Ryuji</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Ryuji</td><td>Lunge</td><td colspan="6">Archangel</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Ann</td><td>Garu</td><td colspan="6">Archangel</td></tr>
@@ -801,9 +801,9 @@ title: Persona 5 Royal PC Beginner-Intermediate Notes
 <tr><td style="width: 1.5in">Night</td><td colspan="8">Clean</td></tr>
 <tr><td style="width: 1.5in">7/2</td><td colspan="8">Go Home</td></tr>
 <tr><td style="width: 1.5in">Night</td><td colspan="8">Clean</td></tr>
-<tr><td style="width: 1.5in">7/3</td><td colspan="8">Work - Flower Shop (Cork Bark if needed for Air Cannons need 2)</td></tr>
+<tr><td style="width: 1.5in">7/3</td><td colspan="8">Work - Flower Shop (Cork Bark if needed for Air Cannon need 2)</td></tr>
 <tr><td style="width: 1.5in">Night</td><td colspan="8">Jazz Club Makoto - Matarukaja</td></tr>
-<tr><td style="width: 1.5in">7/4</td><td colspan="8">Work - Flower Shop (Cork Bark if needed for Air Cannons need 2)</td></tr>
+<tr><td style="width: 1.5in">7/4</td><td colspan="8">Work - Flower Shop (Cork Bark if needed for Air Cannon need 2)</td></tr>
 <tr><td style="width: 1.5in">Night</td><td colspan="8">Jazz Club Ann</td></tr>
 <tr><td style="width: 1.5in">7/5</td><td colspan="8">Reject meetup</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">Go Home</td></tr>
@@ -831,7 +831,7 @@ title: Persona 5 Royal PC Beginner-Intermediate Notes
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Matarukaja</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Yusuke</td><td colspan="7">Giant Slice</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Agi</td></tr>
-<tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">Refuse to send item</td></tr>
+<tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8"><b>Refuse to send item</b></td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Double Shot</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Matarukaja</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Yusuke</td><td colspan="7">Rush</td></tr>
@@ -840,7 +840,7 @@ title: Persona 5 Royal PC Beginner-Intermediate Notes
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Takemi-V</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Yusuke</td><td colspan="7">Rush</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Ann</td><td colspan="7">Takemi-V</td></tr>
-<tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">Ann Throw Item</td></tr>
+<tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8"><b>Ann Throw Item</b></td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Double Shot</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Guard</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Yusuke</td><td colspan="7">Guard</td></tr>
@@ -888,7 +888,7 @@ title: Persona 5 Royal PC Beginner-Intermediate Notes
 <tr><td style="width: 1.5in">7/26</td><td colspan="8">Sleep</td></tr>
 <tr><td style="width: 1.5in">Night</td><td colspan="8">Sleep</td></tr>
 <tr><td style="width: 1.5in">7/27</td><td colspan="8">Sleep (or craft missing Vanish Ball and Smokescreens)</td></tr>
-<tr><td style="width: 1.5in">Night</td><td colspan="8">Craft Stun Guns x2, Air Cannon x2</td></tr>
+<tr><td style="width: 1.5in">Night</td><td colspan="8">Craft Stun Guns x2, <b>Air Cannon x2</b></td></tr>
 <tr><td style="width: 1.5in">7/28</td><td colspan="8">Sleep</td></tr>
 <tr style="background-color: #36454F; color: #FFFFFF;"><td style="width: 1.5in">Night</td><td colspan="8">Station Square -&gt; Buy Lottery Ticket (Summer Lotto S)</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">Jazz Club (Makoto)</td></tr>
@@ -910,8 +910,7 @@ title: Persona 5 Royal PC Beginner-Intermediate Notes
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Yusuke</td><td colspan="7">Rising Slash</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Switch to Berith</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Rush</td></tr>
-<tr style="background-color: #A0522D; color: #FFFFFF;"><td style="width: 1.5in">Menu</td><td>Equip</td><td>Ann</td><td colspan="6">Breeze Ring</td></tr>
-<tr style="background-color: #A0522D; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">Party: Ryuji Yusuke Makoto (Ryuji in, Ann out) - X - X - -</td></tr>
+<tr style="background-color: #A0522D; color: #FFFFFF;"><td style="width: 1.5in">Menu</td><td colspan="8">Party: Ryuji Yusuke Makoto (Ryuji in, Ann out) - X - X - -</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">Pick up Sacramental Bread x3 chest</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in">F: Mot</td><td>Makoto</td><td colspan="7">Freeze Spray</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Yusuke</td><td colspan="7">Bufu</td></tr>
@@ -936,11 +935,11 @@ title: Persona 5 Royal PC Beginner-Intermediate Notes
 <tr><td style="width: 1.5in"></td><td colspan="8">Left X left X</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in">F: Mot #2</td><td>Makoto</td><td>Stun Gun</td><td colspan="6">Mot</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">[If Joker, Guard]</td></tr>
-<tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Yusuke</td><td>Bufu</td><td colspan="6">Lamia</td></tr>
+<tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Yusuke</td><td>Bufu</td><td colspan="6">Lamia (Female)</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">BP</td></tr>
-<tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Ryuji</td><td>Garu</td><td colspan="6">Naga</td></tr>
+<tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Ryuji</td><td>Air Cannon</td><td colspan="6">Naga (Male)</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">BP</td></tr>
-<tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Magaru</td></tr>
+<tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">Magaru (BP to Yusuke if Bufu Miss)</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">BP</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Showtime</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">Get Black Rock chest</td></tr>
@@ -1191,7 +1190,7 @@ title: Persona 5 Royal PC Beginner-Intermediate Notes
 <tr style="background-color: #A0522D; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="2">-</td><td colspan="6">Atom necklace</td></tr>
 <tr style="background-color: #A0522D; color: #FFFFFF;"><td style="width: 1.5in"></td><td>-</td><td>R1 x3 Joker</td><td colspan="3">Zen Outfit</td><td>Ann</td><td colspan="2">Breeze Ring</td></tr>
 <tr style="background-color: #A0522D; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Party</td><td colspan="7">Joker Ann Makoto Haru (Ann Haru in) - - - X - - X -</td></tr>
-<tr><td style="width: 1.5in"></td><td colspan="8">Leave - SAVE WHEN YOU GET HOME</td></tr>
+<tr><td style="width: 1.5in"></td><td colspan="8">Leave - <b>SAVE WHEN YOU GET HOME</b></td></tr>
 <tr><td style="width: 1.5in">Night</td><td colspan="8">Sleep</td></tr>
 <tr><td style="width: 1.5in">9/21</td><td colspan="8">Check phone - Maruki [2, 1, 1, 3, 1, 1, 1] - Councilor 6</td></tr>
 <tr><td style="width: 1.5in">Night</td><td colspan="8">Craft Stun Guns</td></tr>
@@ -1220,8 +1219,8 @@ title: Persona 5 Royal PC Beginner-Intermediate Notes
 <tr><td style="width: 1.5in">Night</td><td colspan="8">Study</td></tr>
 <tr><td style="width: 1.5in">10/1</td><td colspan="8">Go Home</td></tr>
 <tr><td style="width: 1.5in">Night</td><td colspan="8">Study</td></tr>
-<tr style="background-color: #36454F; color: #FFFFFF;"><td style="width: 1.5in">10/2</td><td colspan="8">Sleep <b>Relay: Save</b></td></tr>
-<tr style="background-color: #36454F; color: #FFFFFF;"><td style="width: 1.5in">Night</td><td colspan="8">TV Shop - Top option [Pumpkin Ghost]</td></tr>
+<tr style="background-color: #36454F; color: #FFFFFF;"><td style="width: 1.5in">10/2</td><td colspan="8">Sleep <b>Relay: Save or Buy Pumpkin Ghost Now then Sleep</b></td></tr>
+<tr style="background-color: #36454F; color: #FFFFFF;"><td style="width: 1.5in">Night</td><td colspan="8">TV Shop - Top option [Pumpkin Ghost] - <b>If forgotten, Kichijoji - 40k Fire Amp Necklace</b></td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">Warp to Darts</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">Trade with shady guy [Strawberry Daifuku]</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">Jazz Club (Ann)</td></tr>
@@ -1234,7 +1233,7 @@ title: Persona 5 Royal PC Beginner-Intermediate Notes
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">Repeat Kougas and Double shots, rush with Mona</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">Bloodbath repels</td></tr>
 <tr><td style="width: 1.5in">Night</td><td colspan="8">Sleep</td></tr>
-<tr><td style="width: 1.5in">10/4</td><td colspan="8">Agree to Hang - Calling Card</td></tr>
+<tr><td style="width: 1.5in">10/4</td><td colspan="8">Agree to Hang - Calling Card - <b>If you no Delivery yesterday this is where you buy the 40k Fire Amp Necklace then Hangout</b></td></tr>
 <tr><td style="width: 1.5in">Night</td><td colspan="8">Sleep</td></tr>
 <tr><td style="width: 1.5in">10/5</td><td colspan="8">Go up to where they argue, then run back. Get Arc Magatama and hookshot</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in">F: Okumura</td><td colspan="8">Wave 1:</td></tr>
@@ -1254,7 +1253,7 @@ title: Persona 5 Royal PC Beginner-Intermediate Notes
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Makoto</td><td colspan="7">Marakunda</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Haru</td><td colspan="7">Gun</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Joker</td><td>Rakunda</td><td colspan="6">Rakukaja&#x27;d bot</td></tr>
-<tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Ann</td><td>R1 Garu</td><td colspan="6">If no breeze ring Cyclone Magatama</td></tr>
+<tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Ann</td><td>Air Cannon</td><td colspan="6">If no Air Cannon, Cyclone Magatama (Craft Air Cannon Later)</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">BP</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Joker</td><td colspan="7">R1 Magarula x2</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">Wave 5:</td></tr>
