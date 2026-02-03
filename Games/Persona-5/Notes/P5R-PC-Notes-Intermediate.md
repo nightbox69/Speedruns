@@ -689,7 +689,7 @@ title: Persona 5 Royal PC Beginner-Intermediate Notes
 <tr><td style="width: 1.5in"></td><td colspan="8">R1 Darts Akechi</td></tr>
 <tr><td style="width: 1.5in">6/24</td><td colspan="8">Reject Hang out</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">Check phone -&gt; Maruki [1, 1, 3, 1, 2, 1] - Councillor 5</td></tr>
-<tr style="background-color: #36454F; color: #FFFFFF;"><td style="width: 1.5in">6/26</td>Night</td><td colspan="8">Clean (or Darts if you Bathhouse&#x27;d on 6/21) - <b>Relay: Save again for TV Shopping</b></td></tr>
+<tr style="background-color: #36454F; color: #FFFFFF;"><td style="width: 1.5in">Night</td><td colspan="8">Clean (or Darts if you Bathhouse&#x27;d on 6/21) - <b>Relay: Save again for TV Shopping</b></td></tr>
 <tr><td style="width: 1.5in">6/25</td><td colspan="8">Flower Shop - Right-up X, Right X, Right-down</td></tr>
 <tr><td style="width: 1.5in">Night</td><td colspan="8">Check Phone -&gt; Akechi [1, 3, 1, 1, 1, 1, 2] - Justice 4</td></tr>
 <tr style="background-color: #36454F; color: #FFFFFF;"><td style="width: 1.5in">6/26</td><td colspan="8">Sleep [Work Flower Shop] - <b>Relay: Save</b></td></tr>
