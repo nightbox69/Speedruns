@@ -9,7 +9,7 @@ title: Persona 5 Royal PC Beginner-Intermediate Notes
 - Anything condescending that are written in these notes are meant for the main user of these notes which is the owner. Having said that, the owner has no responsibility to apologize to anyone who has been offended reading these notes. You have been warned.
 - This version of Notes is designed for you the owner to have slept properly before the run. If you didn't **DON'T FUCKING RUN THE GAME**
 - While this is called "Beginner-Intermediate" notes, it is designed in a way that you still need adequate preparation before doing a full run. This is not a "read this and you'll be fine" type of notes.
-- In regards to OoB Skips, the notes require the user to learn Shido Out of Bounds, everything else is optional. 
+- In regards to OoB Skips, the notes require the user to learn Shido Out of Bounds, everything else is optional.
 - Please DM me on discord or tag me on P5R channel for typos that you have found within the notes.
 
 ## Useful Bits
@@ -1571,7 +1571,7 @@ title: Persona 5 Royal PC Beginner-Intermediate Notes
 <tr style="background-color: #4B5320; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">Default Accessory (Prolly Suspenders)</td></tr>
 <tr style="background-color: #4B5320; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">Breeze Ring</td></tr>
 <tr style="background-color: #4B5320; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">2x Soma (Need 214462 Yen)</td></tr>
-<tr style="background-color: #4B5320; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="10">Buy (60680 Yen): (You can buy Freeze Charms in 1/9 before talking to Akechi if lacking Money)</td></tr>
+<tr style="background-color: #4B5320; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">Buy (60680 Yen): (You can buy Freeze Charms in 1/9 before talking to Akechi if lacking Money)</td></tr>
 <tr style="background-color: #4B5320; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Accessory</td><td colspan="7">2x Fearless Cape (don&#x27;t equip)</td></tr>
 <tr style="background-color: #4B5320; color: #FFFFFF;"><td style="width: 1.5in"></td><td>-</td><td colspan="7">3x Freeze Charm (don&#x27;t equip)</td></tr>
 <tr style="background-color: #4B5320; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Melee</td><td colspan="7">Ryuji - Wicked Iron Pipe (Equip and sell old)</td></tr>
@@ -2121,28 +2121,28 @@ title: Persona 5 Royal PC Beginner-Intermediate Notes
 <tr><td style="width: 1.5in"></td><td colspan="8">Skip post-credits FMV (yes we maxed Akechi just to skip a cutscene)</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">End timer on NG+ save confirmation</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">GG</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"></td><td colspan="10"><center>Yume wo yume to kizuita yoru</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"></td><td colspan="10"><center>Kimi wo mitsume mabuta wo tojiru</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"></td><td colspan="10"><center>Nukumori mo kasaneta te mo koe mo</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"></td><td colspan="10"><center>Mezamereba madoromi e to kiete</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"></td><td colspan="10"><center>Bokura ga nidoto aenakute mo</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"></td><td colspan="10"><center>Sugita toki ga itami ni kawatte mo</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"></td><td colspan="10"><center>Sono itami de ne michibīte yo</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"></td><td colspan="10"><center>Boku wo terasu yozora no hoshi e to</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"></td><td colspan="10"><center>Amai amai otogi no kuni</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"></td><td colspan="10"><center>Kimi to aeta yuganda sekai</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"></td><td colspan="10"><center>Itsuwari no shiawase demo ī to tsugeru kuchi</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"></td><td colspan="10"><center>Kimi ga sotto fusagu</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"></td><td colspan="10"><center>Omoide no hajimaru hi ni naru</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"></td><td colspan="10"><center>Kimi ga kieta jibun de kimeta michi</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"></td><td colspan="10"><center>Aruku no sa zutto setsunakute mo</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"></td><td colspan="10"><center>Boku no mezasu ashita no hoshi e to</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"></td><td colspan="10"><center>Mezamete genjitsu ga kuru kinō to chigau kanashimi ga taisetsudakara asu wo ikiteiku</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"></td><td colspan="10"><center>Bokura ga nidoto aenakute mo sugita toki ga itami ni kawatte mo</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"></td><td colspan="10"><center>Sono itami sae koeteikuyo</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"></td><td colspan="10"><center>Nagasu namida nori koe yori takaku</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"></td><td colspan="10"><center>Soshite tsukamu yo</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"></td><td colspan="10"><center>Sumikitta sora</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"></td><td colspan="10"><center>Towa ni ukabu bokura no hikari wo</center></td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Yume wo yume to kizuita yoru</center></td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Kimi wo mitsume mabuta wo tojiru</center></td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Nukumori mo kasaneta te mo koe mo</center></td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Mezamereba madoromi e to kiete</center></td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Bokura ga nidoto aenakute mo</center></td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Sugita toki ga itami ni kawatte mo</center></td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Sono itami de ne michibīte yo</center></td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Boku wo terasu yozora no hoshi e to</center></td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Amai amai otogi no kuni</center></td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Kimi to aeta yuganda sekai</center></td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Itsuwari no shiawase demo ī to tsugeru kuchi</center></td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Kimi ga sotto fusagu</center></td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Omoide no hajimaru hi ni naru</center></td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Kimi ga kieta jibun de kimeta michi</center></td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Aruku no sa zutto setsunakute mo</center></td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Boku no mezasu ashita no hoshi e to</center></td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Mezamete genjitsu ga kuru kinō to chigau kanashimi ga taisetsudakara asu wo ikiteiku</center></td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Bokura ga nidoto aenakute mo sugita toki ga itami ni kawatte mo</center></td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Sono itami sae koeteikuyo</center></td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Nagasu namida nori koe yori takaku</center></td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Soshite tsukamu yo</center></td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Sumikitta sora</center></td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Towa ni ukabu bokura no hikari wo</center></td></tr>
 </tbody>
 </table>
