@@ -1,38 +1,40 @@
-# NB Speedrun Notes
+# NB Speedrun Notes 🏃‍♂️💨
 
-NiGhTBoX's Note Trashbin
+Modern note-taking hub for speedrun strategies, built with React, TypeScript, and Mantine.
 
-## About the Repository
+## 🚀 Features
 
-This repository is forked from [drush211][1] as the base repository and is used so that I have a place where I can place my notes and easily access and edit them. 
+- **SPA Performance**: Lightning-fast navigation between notes.
+- **Dark Mode**: Premium dark theme powered by Mantine.
+- **Vibrant Markdown**: Full support for inline HTML tables, maintaining original color-coded strategies (e.g., Persona 5 battle notes).
+- **Type Safety**: Fully typed with TypeScript.
+- **Automated Deployment**: Integrated with GitHub Actions for seamless updates.
 
-## Games
+## 📂 Structure
 
-### Chrono Cross
+- `public/content/`: All markdown notes and game-specific assets.
+- `src/`: React source code.
+- `index.html`: Entry point.
 
-* [Information][2]
+## 🛠️ Development
 
-### Final Fantasy X
+### Local Dev
 
-* [Information][3]
+```bash
+npm install
+npm run dev
+```
 
-### Persona 5
+### Build for Production
 
-* [Information][4]
+```bash
+npm run build
+```
 
-## Speedrun Personal Bests
+## 📝 Usage
 
-* [SRC Profile][5]
+To add new notes, simply place your `.md` files in `public/content/Games/[GameName]/Notes/` and link them in the corresponding game's `README.md`.
 
-## Where to Find Me
+## 📄 License
 
-* [Twitch Channel][6]
-* [Youtube Channel][7]
-
-[1]: https://github.com/drush211/Speedruns
-[2]: ./Games/Chrono-Cross/README.md
-[3]: ./Games/Final-Fantasy-X/README.md
-[4]: ./Games/Persona-5/README.md
-[5]: https://www.speedrun.com/users/nightbox69
-[6]: https://www.twitch.tv/nightbox69
-[7]: https://www.youtube.com/@nightbox69
+This repository is forked from [drush211](https://github.com/drush211/Speedruns).

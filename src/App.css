@@ -1,0 +1,85 @@
+/* App-level overrides for markdown content */
+
+/* Ensure inline HTML tables render properly and don't get reset */
+.mantine-TypographyStylesProvider-root table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 0.75rem 0;
+}
+
+.mantine-TypographyStylesProvider-root td,
+.mantine-TypographyStylesProvider-root th {
+  padding: 0.35rem 0.6rem;
+  border: 1px solid var(--mantine-color-dark-4);
+  font-size: 0.9rem;
+}
+
+.mantine-TypographyStylesProvider-root th {
+  background-color: var(--mantine-color-dark-5);
+  font-weight: 600;
+}
+
+/* Don't override rows that have inline background-color styles */
+.mantine-TypographyStylesProvider-root tr:not([style]) {
+  background-color: transparent;
+}
+
+/* Markdown GFM tables */
+.mantine-TypographyStylesProvider-root table thead th {
+  text-align: left;
+}
+
+/* Images should be responsive */
+.mantine-TypographyStylesProvider-root img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin: 1rem 0;
+}
+
+/* Lists */
+.mantine-TypographyStylesProvider-root ul,
+.mantine-TypographyStylesProvider-root ol {
+  padding-left: 1.5rem;
+}
+
+.mantine-TypographyStylesProvider-root li {
+  margin: 0.25rem 0;
+}
+
+/* Code blocks */
+.mantine-TypographyStylesProvider-root code {
+  background-color: var(--mantine-color-dark-6);
+  padding: 0.15rem 0.4rem;
+  border-radius: 4px;
+  font-size: 0.875rem;
+}
+
+/* Bold text should be visible */
+.mantine-TypographyStylesProvider-root b,
+.mantine-TypographyStylesProvider-root strong {
+  color: var(--mantine-color-white);
+}
+
+/* Links */
+.mantine-TypographyStylesProvider-root a {
+  color: var(--mantine-color-blue-4);
+  text-decoration: none;
+}
+
+.mantine-TypographyStylesProvider-root a:hover {
+  text-decoration: underline;
+}
+
+/* Horizontal rules */
+.mantine-TypographyStylesProvider-root hr {
+  border: none;
+  border-top: 1px solid var(--mantine-color-dark-4);
+  margin: 1.5rem 0;
+}
+
+/* Global body styling */
+body {
+  margin: 0;
+  padding: 0;
+}

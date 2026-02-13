@@ -1,8 +1,0 @@
-title: NB Speedrun Notes
-description: "NiGhTBoX's Note Trashbin for Funsies"
-repository: nightbox69/Speedruns
-theme: jekyll-theme-minimal
-markdown: kramdown
-kramdown:
-  input: GFM
-  hard_wrap: false

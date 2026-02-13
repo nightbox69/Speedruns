@@ -1,10 +1,21 @@
-_site
+# Vite/React
+node_modules
+dist
+dist-ssr
+*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+error.log
+err.txt
+
+# Editor/OS
+.vscode
+.DS_Store
+*.code-workspace
+
+# Project Specific
 Conversion-Files
 Tools
-Speedruns.code-workspace
-
-Gemfile
-Gemfile.lock
-
-err.txt
-error.log
