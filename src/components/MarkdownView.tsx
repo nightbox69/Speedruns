@@ -1,6 +1,6 @@
 import ReactMarkdown from 'react-markdown';
 import rehypeRaw from 'rehype-raw';
-import rehypeSanitize from 'rehype-sanitize';
+import rehypeSanitize, { defaultSchema } from 'rehype-sanitize';
 import remarkGfm from 'remark-gfm';
 import { TypographyStylesProvider, Title, Anchor } from '@mantine/core';
 import { Link, useLocation } from 'react-router-dom';
@@ -11,12 +11,24 @@ interface MarkdownViewProps {
   filePath: string;
 }
 
+const schema = {
+  ...defaultSchema,
+  attributes: {
+    ...defaultSchema.attributes,
+    tr: [...(defaultSchema.attributes?.tr || []), 'style'],
+    td: [...(defaultSchema.attributes?.td || []), 'style', 'width', 'colspan', 'rowspan'],
+    th: [...(defaultSchema.attributes?.th || []), 'style', 'width', 'colspan', 'rowspan'],
+    table: [...(defaultSchema.attributes?.table || []), 'style'],
+  },
+};
+
 function MarkdownView({ content, filePath }: MarkdownViewProps) {
   const location = useLocation();
 
   return (
     <TypographyStylesProvider
       styles={(theme) => ({
+        // ... styles
         root: {
           color: theme.colors.dark[0],
           lineHeight: 1.6,
@@ -56,7 +68,7 @@ function MarkdownView({ content, filePath }: MarkdownViewProps) {
     >
       <ReactMarkdown
         remarkPlugins={[remarkGfm]}
-        rehypePlugins={[rehypeRaw, rehypeSanitize]}
+        rehypePlugins={[rehypeRaw, [rehypeSanitize, schema]]}
         components={{
 
           // Override headers to add id/anchors if needed, or just style
