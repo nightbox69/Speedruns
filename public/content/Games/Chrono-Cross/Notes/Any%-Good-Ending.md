@@ -1,8 +1,4 @@
----
-title: Chrono Cross Any% Good Ending Notes
----
-
-# [Chrono Cross][5]
+# Chrono Cross
 
 ## Disclaimer
 
@@ -3102,4 +3098,3 @@ Drops:
 [2]: ./General-Knowledge.md
 [3]: https://docs.google.com/document/d/1FSWhUFGX0b25gaaQ2sAh03Xi0spBks0DEQWURUnACSg/edit
 [4]: https://drive.google.com/file/d/19JiMSFNKhORpN09KmyDKukTdW4vPMcZR/view?usp=sharing
-[5]: ../README.md

@@ -7,10 +7,53 @@ import App from './App';
 import './App.css';
 
 const theme = createTheme({
-  primaryColor: 'blue',
-  fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif',
+  primaryColor: 'gray',
+  white: '#f8f9fa',
+  black: '#101113',
+  fontFamily: 'Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif',
+  fontFamilyMonospace: 'ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace',
   headings: {
-    fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif',
+    fontFamily: 'Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif',
+    fontWeight: '600',
+  },
+  colors: {
+    // Custom slate-like gray scale for Obsidian feel
+    dark: [
+      '#C1C2C5',
+      '#A6A7AB',
+      '#909296',
+      '#5C5F66',
+      '#373A40',
+      '#2C2E33',
+      '#25262B',
+      '#1A1B1E',
+      '#141517',
+      '#101113',
+    ],
+  },
+  components: {
+    Container: {
+      defaultProps: {
+        size: 'md',
+      },
+    },
+    Title: {
+      styles: {
+        root: {
+          letterSpacing: '-0.02em',
+        },
+      },
+    },
+    Anchor: {
+      defaultProps: {
+        underline: 'hover',
+      },
+      styles: {
+        root: {
+          color: 'var(--mantine-color-blue-4)',
+        },
+      },
+    },
   },
 });
 

@@ -1,8 +1,4 @@
----
-title: Persona 5 Royal PC Beginner-Intermediate Notes
----
-
-# [Persona 5 Royal][1]
+# Persona 5 Royal
 
 ## Disclaimer and other stuff
 
@@ -14,14 +10,11 @@ title: Persona 5 Royal PC Beginner-Intermediate Notes
 
 ## Useful Bits
 
-- [General Knowledge][2]
-- [Crafting Guide][3]
+- [General Knowledge][1]
+- [Crafting Guide][2]
 
-[1]: ../README.md
-[2]: ./General-Knowledge.md
-[3]: ./Utility-Guides/P5R-Crafting.md
-
-# Persona 5 Royal
+[1]: ./General-Knowledge.md
+[2]: ./Utility-Guides/P5R-Crafting.md
 
 <table>
 <tbody>

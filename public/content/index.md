@@ -1,29 +1,14 @@
----
-title: NB Speedrun Notes
-layout: default
----
-
-# [NB Speedrun Notes][8]
-
-NiGhTBoX's Note Trashbin for Funsies
-
 ## About the Repository
 
 This repository is forked from [drush211][1] as the base repository and is used so that I have a place where I can place my notes and easily access and edit them.
 
 ## Games
 
-### Chrono Cross
+### [Chrono Cross][2]
 
-- [Information][2]
+### [Final Fantasy X][3]
 
-### Final Fantasy X
-
-- [Information][3]
-
-### Persona 5
-
-- [Information][4]
+### [Persona 5][4]
 
 ## Speedrun Personal Bests
 
@@ -41,4 +26,3 @@ This repository is forked from [drush211][1] as the base repository and is used 
 [5]: https://www.speedrun.com/users/nightbox69
 [6]: https://www.twitch.tv/nightbox69
 [7]: https://www.youtube.com/@nightbox69
-[8]: https://nightbox69.github.io/Speedruns/
