@@ -2114,28 +2114,28 @@
 <tr><td style="width: 1.5in"></td><td colspan="8">Skip post-credits FMV (yes we maxed Akechi just to skip a cutscene)</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">End timer on NG+ save confirmation</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">GG</td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Yume wo yume to kizuita yoru</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Kimi wo mitsume mabuta wo tojiru</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Nukumori mo kasaneta te mo koe mo</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Mezamereba madoromi e to kiete</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Bokura ga nidoto aenakute mo</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Sugita toki ga itami ni kawatte mo</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Sono itami de ne michibīte yo</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Boku wo terasu yozora no hoshi e to</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Amai amai otogi no kuni</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Kimi to aeta yuganda sekai</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Itsuwari no shiawase demo ī to tsugeru kuchi</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Kimi ga sotto fusagu</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Omoide no hajimaru hi ni naru</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Kimi ga kieta jibun de kimeta michi</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Aruku no sa zutto setsunakute mo</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Boku no mezasu ashita no hoshi e to</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Mezamete genjitsu ga kuru kinō to chigau kanashimi ga taisetsudakara asu wo ikiteiku</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Bokura ga nidoto aenakute mo sugita toki ga itami ni kawatte mo</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Sono itami sae koeteikuyo</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Nagasu namida nori koe yori takaku</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Soshite tsukamu yo</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Sumikitta sora</center></td></tr>
-<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10"><center>Towa ni ukabu bokura no hikari wo</center></td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10" style="text-align: center;">Yume wo yume to kizuita yoru</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10" style="text-align: center;">Kimi wo mitsume mabuta wo tojiru</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10" style="text-align: center;">Nukumori mo kasaneta te mo koe mo</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10" style="text-align: center;">Mezamereba madoromi e to kiete</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10" style="text-align: center;">Bokura ga nidoto aenakute mo</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10" style="text-align: center;">Sugita toki ga itami ni kawatte mo</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10" style="text-align: center;">Sono itami de ne michibīte yo</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10" style="text-align: center;">Boku wo terasu yozora no hoshi e to</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10" style="text-align: center;">Amai amai otogi no kuni</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10" style="text-align: center;">Kimi to aeta yuganda sekai</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10" style="text-align: center;">Itsuwari no shiawase demo ī to tsugeru kuchi</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10" style="text-align: center;">Kimi ga sotto fusagu</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10" style="text-align: center;">Omoide no hajimaru hi ni naru</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10" style="text-align: center;">Kimi ga kieta jibun de kimeta michi</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10" style="text-align: center;">Aruku no sa zutto setsunakute mo</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10" style="text-align: center;">Boku no mezasu ashita no hoshi e to</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10" style="text-align: center;">Mezamete genjitsu ga kuru kinō to chigau kanashimi ga taisetsudakara asu wo ikiteiku</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10" style="text-align: center;">Bokura ga nidoto aenakute mo sugita toki ga itami ni kawatte mo</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10" style="text-align: center;">Sono itami sae koeteikuyo</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10" style="text-align: center;">Nagasu namida nori koe yori takaku</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10" style="text-align: center;">Soshite tsukamu yo</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10" style="text-align: center;">Sumikitta sora</td></tr>
+<tr style="background-color: #20124D; color: #FFFFFF;"><td colspan="10" style="text-align: center;">Towa ni ukabu bokura no hikari wo</td></tr>
 </tbody>
 </table>

@@ -23,8 +23,6 @@ A sequel that begins by unceremoniously killing off the heroes of its beloved pr
 - [General Information][7]
 - [Any % Good Ending][8]
 
-[Return to home][13]
-
 [1]: https://www.twitch.tv/evilash25
 [2]: https://www.twitch.tv/spikevegeta
 [3]: https://goo.gl/ZtQWaW

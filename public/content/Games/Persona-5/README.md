@@ -2,7 +2,7 @@
 
 You play as a convicted juvenile delinquent on exile who decides that the legal system is too slow, so you rehabilitate society by breaking into adults' minds and psychologically tormenting them until they confess. You must juggle the stress of high school exams with the responsibility of managing a harem of women—including your teacher and doctor. Meanwhile, a talking cat dictates your sleep schedule. In the end, you fight a guidance counselor who essentially cures depression and brings the dead back to life, simply because you decide that a world without suffering is "fake" and you'd rather everyone be miserable but "free." Also, you're capable of glitching through floors and ignoring atleast 10% of the gameplay mechanics because of your good buddy Fernando, who didn't close his ears and heard confidential information.
 
-<img src="./images/FernandoSkip.jpg" alt="Commissioned this image" width="480"/>
+<img src="./images/FernandoSkip.jpg" alt="Commissioned this image" width="720"/>
 
 ## Runners to Watch
 
@@ -42,8 +42,6 @@ You play as a convicted juvenile delinquent on exile who decides that the legal 
 - [Persona 5 Royal Party Member Confidant Guide][15]
 - [Persona 5 Royal All Confidants Guide][16]
 
-[Return to home][21]
-
 [1]: https://www.twitch.tv/neviutz
 [2]: https://www.twitch.tv/cereth
 [3]: https://www.twitch.tv/asa1108
@@ -64,4 +62,3 @@ You play as a convicted juvenile delinquent on exile who decides that the legal 
 [18]: https://discord.gg/DArA2nN
 [19]: https://megatenspeedruns.com/persona/persona-5/p5/
 [20]: https://megatenspeedruns.com/persona/persona-5/p5r/
-[21]: ../../index.md

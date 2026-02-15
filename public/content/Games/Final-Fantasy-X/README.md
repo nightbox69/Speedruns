@@ -21,9 +21,9 @@ Protagonist has Dad issues and joins pretty girl that calls forth entities of gr
 
 - [FFX General Information Tidbits][10]
 - [FFX Info][3] by Grayfox96
-- [FFX Leaderboards][17]
-- [Blitzball Haters Club Headquarters][18]
-- [Blitzball Lovers Club Headquarters][19]
+- [FFX Leaderboards][16]
+- [Blitzball Haters Club Headquarters][17]
+- [Blitzball Lovers Club Headquarters][18]
 
 ### Current Notes
 
@@ -34,8 +34,6 @@ Protagonist has Dad issues and joins pretty girl that calls forth entities of gr
 
 - [Pre-MRR Skip Notes][13]
 - [Trio of 9999 Notes][14]
-
-[Return to home][16]
 
 [1]: https://speedrunning-notes.github.io/Final-Fantasy-Speedruns/Final%20Fantasy%20X/notes.html
 [2]: ./Current/FFX-Any-Single-Column-Blitz-Win.pdf
@@ -52,7 +50,6 @@ Protagonist has Dad issues and joins pretty girl that calls forth entities of gr
 [13]: ./Former/FFX-Any-Single-Column-Bahamut-Pre-MRR-Skip.pdf
 [14]: ./Former/FFX-Any-Single-Column-Trio-of-9999.pdf
 [15]: https://www.twitch.tv/hiroshigeno36
-[16]: ../../index.md
-[17]: https://www.speedrun.com/ffx
-[18]: https://discord.gg/X3qXHWG
-[19]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+[16]: https://www.speedrun.com/ffx
+[17]: https://discord.gg/X3qXHWG
+[18]: https://www.youtube.com/watch?v=dQw4w9WgXcQ

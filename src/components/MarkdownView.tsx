@@ -13,6 +13,7 @@ interface MarkdownViewProps {
 
 const schema = {
   ...defaultSchema,
+  tagNames: [...(defaultSchema.tagNames || [])],
   attributes: {
     ...defaultSchema.attributes,
     tr: [...(defaultSchema.attributes?.tr || []), 'style'],
