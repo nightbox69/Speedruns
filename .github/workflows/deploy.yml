@@ -3,6 +3,12 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [master]
+    paths-ignore:
+      - "README.md"
+      - "LICENSE"
+      - "Games/**"
+      - ".gitignore"
+      - "Tools/**"
   workflow_dispatch:
 
 permissions:

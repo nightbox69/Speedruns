@@ -1,12 +1,12 @@
 # DevReadMe
 
-## 📂 Structure
+## Structure
 
 - `public/content/`: All markdown notes and game-specific assets.
 - `src/`: React source code.
 - `index.html`: Entry point.
 
-## 🛠️ Development
+## Development
 
 ### Local Dev
 
@@ -21,6 +21,6 @@ npm run dev
 npm run build
 ```
 
-## 📝 Usage
+## Usage
 
 To add new notes, simply place your `.md` files in `public/content/Games/[GameName]/Notes/` and link them in the corresponding game's `README.md`.
