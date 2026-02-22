@@ -2,5 +2,6 @@
     "[scss]": {
         "editor.formatOnSave": false,
         "editor.defaultFormatter": null
-    }
+    },
+    "claudeCodeChat.permissions.yoloMode": true
 }

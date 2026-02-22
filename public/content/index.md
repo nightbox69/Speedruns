@@ -1,6 +1,6 @@
-## About the Repository
+## About this
 
-This repository is forked from [drush211][1] as the base repository and is used so that I have a place where I can place my notes and easily access and edit them.
+This repository is forked from [drush211][1] as the base repository initially. It has grown to the point that I can safely say that it is now my own trashbin of notes.
 
 ## Games
 

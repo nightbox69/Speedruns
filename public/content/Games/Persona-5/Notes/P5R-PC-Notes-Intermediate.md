@@ -1541,15 +1541,15 @@
 <tr style="background-color: #A0522D; color: #FFFFFF;"><td style="width: 1.5in"></td><td>Equip</td><td>Joker</td><td colspan="6">Gambler&#x27;s Shirt</td></tr>
 <tr style="background-color: #A0522D; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="2">-</td><td colspan="6">Breath Ring</td></tr>
 <tr style="background-color: #A0522D; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">Heal with Morgana [522 HP ish] Don&#x27;t heal if Full HP Previously</td></tr>
-<tr style="background-color: #A0522D; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">Persona: Ananta (MOVE OUT OF GIRIMEHKALA YOU DUMB FUCK)</td></tr>
+<tr style="background-color: #A0522D; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">Persona: Ananta <b>(MOVE OUT OF GIRIMEHKALA YOU DUMB FUCK)</b></td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in">F: Akechi</td><td colspan="8">Phase 1 (Justice 9)</td></tr>
-<tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">(Girimehkala) Makarakarn -&gt; Guard (if necessary)</td></tr>
+<tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">(Switch to Girimehkala) Makarakarn -&gt; Guard (if necessary)</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">Phase 2 (Shadows dead)</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">Marakunda -&gt; Guard -&gt; Rush -&gt; Rush</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">Phase 3 (Loki)</td></tr>
-<tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">(Girimehkala) Mayo Locust (If below 420hp Bead instead or Strawberry Daifuku)</td></tr>
-<tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">(Decarabia) Tetrakarn</td></tr>
-<tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">(Girimehkala) Marakunda</td></tr>
+<tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">(Switch to Girimehkala) Mayo Locust (If below 420hp Bead instead or Strawberry Daifuku)</td></tr>
+<tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">(Switch to Decarabia) Tetrakarn</td></tr>
+<tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">(Switch to Girimehkala) Marakunda</td></tr>
 <tr style="background-color: #B22222; color: #FFFFFF;"><td style="width: 1.5in"></td><td colspan="8">Rush (Justice 10) (Mayo Locust before Rushing if you had to Bead)</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">Megaton Raid &gt; Rampage (Ryuji)</td></tr>
 <tr><td style="width: 1.5in"></td><td colspan="8">Gun Boost &gt; Amrita Drop (Haru)</td></tr>
